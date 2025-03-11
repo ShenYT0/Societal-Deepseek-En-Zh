@@ -95,10 +95,11 @@ def load_file(filename: str) -> pl.DataFrame:
     Returns:
         pl.DataFrame: file content
     """
-    pl.read_csv(filename, separator=",")
+    df = pl.read_csv(filename, separator=",")
     # pl.read_csv(filename, separator="\t")
     # pl.read_json(filename)
     # pl.read_ndjson(filename)
+    return df
 
 def save_file(df: pl.DataFrame, filename: str) -> None:
     """to save a dataframe
@@ -127,6 +128,7 @@ def preprocess(config_file: str) -> ProcessedCorpus:
     nlp = spacy.load(conf.spacy_model, exclude=["tok2vec", "morphologizer", "parser", "senter", "ner"])
 
     corpus = load_file(conf.input_file) # possibility to add filters
+    
     docs = corpus.get_column("text").to_list() # HERE: change 'text' to the column with articles or captions or publications in it
     docs = [spacy_filter(doc, nlp, conf.more_stop) for doc in docs]
 
@@ -264,7 +266,7 @@ def write_annots(config_file: str, column_name: str, model: Optional[LdaModel] =
         model, corpus, _ = load_model(config_file)
 
     videos = load_file(conf.input_file)
-    filtered_videos = videos.filter(pl.col("captions").ne(""))
+    filtered_videos = videos.filter(pl.col("text").ne(""))
 
     # delete old annotations if they exist
     if column_name in videos.columns:
@@ -273,14 +275,14 @@ def write_annots(config_file: str, column_name: str, model: Optional[LdaModel] =
     videos = videos.join(
         pl.DataFrame(
             {
-                "video_id": filtered_videos["video_id"],
+                "title": filtered_videos["title"],
                 column_name: [
                     [str(topic+1) for topic, proba in element] for element in model.get_document_topics(corpus, minimum_probability=conf.minimum_probability)
                 ]
             }
         ),
         how="left", 
-        on="video_id",
+        on="title",
     ).with_columns(
         pl.col("gensim_topics").list.join("|").fill_null("0").str.replace_all("^$", "0")
     )
@@ -306,10 +308,10 @@ def write_infos(config_file: str, model: Optional[LdaModel] = None, corpus: Opti
         model, corpus, dictionary = load_model(config_file)
 
     # save docs
-    filtered_videos = load_file(conf.input_file).filter(pl.col("captions").ne(""))
+    filtered_videos = load_file(conf.input_file).filter(pl.col("text").ne(""))
     annotations = model.get_document_topics(corpus, minimum_probability=conf.minimum_probability)
     model_docs = pl.DataFrame({
-        "video_id": filtered_videos["video_id"].to_list(),
+        "title": filtered_videos["title"].to_list(),
         "gensim_topics": [
             "|".join([str(topic+1)+"-"+str(proba) for topic, proba in element]) for element in annotations
         ]
@@ -327,3 +329,15 @@ def write_infos(config_file: str, model: Optional[LdaModel] = None, corpus: Opti
     vis_data = gensimvis.prepare(model, corpus, dictionary)
     with open(conf.model_infos + "model_ldaviz.html", "w", encoding="UTF-8") as wf:
         pyLDAvis.save_html(vis_data, wf)
+        
+        
+def main():
+    config_file = "./gensim.json"
+    corpus, docs, id2word, dictionary = preprocess(config_file)
+    model = train_model(config_file, corpus, docs, id2word, dictionary)
+    save_model(config_file, model, corpus, dictionary)
+    write_annots(config_file, "gensim_topics", model, corpus)
+    write_infos(config_file, model, corpus, dictionary)
+    
+if __name__ == "__main__":
+    main()

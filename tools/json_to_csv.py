@@ -21,7 +21,7 @@ for file in os.listdir(folder_path):
 
             title = data['data']['submission_metadata']['title']
             
-            text = get_replies(data['data']['comments'])
+            text = get_replies(data['data']['comments']).lstrip().replace("\n", "").replace("\r", "")
             
             corpus.append({"title" : title, "text" : text})
 
