@@ -1,0 +1,681 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1ilsvca/damn_bruh/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/EstablishmentFun3205",
+      "created_utc": "2025-02-10 00:51:41",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Unverified News",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 43,
+      "permalink": "/r/DeepSeek/comments/1ilsvca/damn_bruh/",
+      "score": 336,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "Damn bruh...",
+      "upvote_ratio": 0.95
+    },
+    "comments": [
+      {
+        "author": "u/neolobe",
+        "body": "It's a redirect.",
+        "body_html": "<div class=\"md\"><p>It&#39;s a redirect.</p>\n</div>",
+        "created_utc": "2025-02-10 01:16:16",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbxk16j",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 60,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/i986ninja",
+            "body": "In order to redirect the index.php (with header() ) or index.html (with http-equiv=\"refresh\" content=\"0;), you have to own the domain and hosting pointing to that domain.\n\nOr could the main owner rent it (amazing business idea btw)",
+            "body_html": "<div class=\"md\"><p>In order to redirect the index.php (with header() ) or index.html (with http-equiv=&quot;refresh&quot; content=&quot;0;), you have to own the domain and hosting pointing to that domain.</p>\n\n<p>Or could the main owner rent it (amazing business idea btw)</p>\n</div>",
+            "created_utc": "2025-02-10 07:22:53",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbz63zw",
+            "is_submitter": false,
+            "link_id": "t3_1ilsvca",
+            "parent_id": "t1_mbxk16j",
+            "score": 5,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Kugoji",
+                "body": ">Or could the main owner rent it \n\nI also thought about that and that's fucking genius. Especially now with the childish tantrums from OpenAI against DeepSeek, they'd probably be willing to propose the domain owner 3x the rent money that DeepSeek pays now. Just like a shitty eBay product bid. Rinse repeat and get some $$",
+                "body_html": "<div class=\"md\"><blockquote>\n<p>Or could the main owner rent it </p>\n</blockquote>\n\n<p>I also thought about that and that&#39;s fucking genius. Especially now with the childish tantrums from OpenAI against DeepSeek, they&#39;d probably be willing to propose the domain owner 3x the rent money that DeepSeek pays now. Just like a shitty eBay product bid. Rinse repeat and get some $$</p>\n</div>",
+                "created_utc": "2025-02-10 07:30:26",
+                "distinguished": null,
+                "edited": false,
+                "id": "mbz6ycl",
+                "is_submitter": false,
+                "link_id": "t3_1ilsvca",
+                "parent_id": "t1_mbz63zw",
+                "score": 4,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/Kafshak",
+            "body": "Doesn't matter. Soon it could be deployed there too.",
+            "body_html": "<div class=\"md\"><p>Doesn&#39;t matter. Soon it could be deployed there too.</p>\n</div>",
+            "created_utc": "2025-02-10 03:57:07",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbyck33",
+            "is_submitter": false,
+            "link_id": "t3_1ilsvca",
+            "parent_id": "t1_mbxk16j",
+            "score": -25,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Condomphobic",
+                "body": "Why would DeepSeek be deployed to a site named ai.com? \n\nIt\u2019s too vague",
+                "body_html": "<div class=\"md\"><p>Why would DeepSeek be deployed to a site named ai.com? </p>\n\n<p>It\u2019s too vague</p>\n</div>",
+                "created_utc": "2025-02-10 04:07:36",
+                "distinguished": null,
+                "edited": false,
+                "id": "mbyedwh",
+                "is_submitter": false,
+                "link_id": "t3_1ilsvca",
+                "parent_id": "t1_mbyck33",
+                "score": 13,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Kafshak",
+                    "body": "They could rebrand, or call it a different product, powered by Deepseek engine. Kinda like how Copilot works.",
+                    "body_html": "<div class=\"md\"><p>They could rebrand, or call it a different product, powered by Deepseek engine. Kinda like how Copilot works.</p>\n</div>",
+                    "created_utc": "2025-02-10 04:10:15",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mbyeutb",
+                    "is_submitter": false,
+                    "link_id": "t3_1ilsvca",
+                    "parent_id": "t1_mbyedwh",
+                    "score": 0,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Efficient_Ad_4162",
+        "body": "No one is going \"I want AI\" and then just going to ai.com - that's why we have search engines.\n\nThis is just a vanity thing.",
+        "body_html": "<div class=\"md\"><p>No one is going &quot;I want AI&quot; and then just going to ai.com - that&#39;s why we have search engines.</p>\n\n<p>This is just a vanity thing.</p>\n</div>",
+        "created_utc": "2025-02-10 01:48:26",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbxq3s5",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 44,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/EyesEyez",
+            "body": "But I want AI",
+            "body_html": "<div class=\"md\"><p>But I want AI</p>\n</div>",
+            "created_utc": "2025-02-10 07:06:04",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbz4737",
+            "is_submitter": false,
+            "link_id": "t3_1ilsvca",
+            "parent_id": "t1_mbxq3s5",
+            "score": 21,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Had78",
+                "body": "just go to ai.com !",
+                "body_html": "<div class=\"md\"><p>just go to ai.com !</p>\n</div>",
+                "created_utc": "2025-02-10 10:50:10",
+                "distinguished": null,
+                "edited": false,
+                "id": "mbzqjef",
+                "is_submitter": false,
+                "link_id": "t3_1ilsvca",
+                "parent_id": "t1_mbz4737",
+                "score": 7,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/BothNumber9",
+            "body": "Well I can see an old person doing that",
+            "body_html": "<div class=\"md\"><p>Well I can see an old person doing that</p>\n</div>",
+            "created_utc": "2025-02-10 07:06:41",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbz49no",
+            "is_submitter": false,
+            "link_id": "t3_1ilsvca",
+            "parent_id": "t1_mbxq3s5",
+            "score": 12,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/poetryhoes",
+            "body": "you must not work in a public facing position. this is an extreme overestimate of average intelligence nowadays",
+            "body_html": "<div class=\"md\"><p>you must not work in a public facing position. this is an extreme overestimate of average intelligence nowadays</p>\n</div>",
+            "created_utc": "2025-02-10 10:45:38",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbzq3z2",
+            "is_submitter": false,
+            "link_id": "t3_1ilsvca",
+            "parent_id": "t1_mbxq3s5",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/-its-redditstorytime",
+            "body": "For sure helps with seo",
+            "body_html": "<div class=\"md\"><p>For sure helps with seo</p>\n</div>",
+            "created_utc": "2025-02-10 02:11:57",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbxusfw",
+            "is_submitter": false,
+            "link_id": "t3_1ilsvca",
+            "parent_id": "t1_mbxq3s5",
+            "score": 5,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/MomentPale4229",
+                "body": "No it does not",
+                "body_html": "<div class=\"md\"><p>No it does not</p>\n</div>",
+                "created_utc": "2025-02-10 06:26:13",
+                "distinguished": null,
+                "edited": false,
+                "id": "mbyzcvz",
+                "is_submitter": false,
+                "link_id": "t3_1ilsvca",
+                "parent_id": "t1_mbxusfw",
+                "score": -4,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/i986ninja",
+                    "body": "It's a strategic domain name for the future",
+                    "body_html": "<div class=\"md\"><p>It&#39;s a strategic domain name for the future</p>\n</div>",
+                    "created_utc": "2025-02-10 07:33:01",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mbz78nr",
+                    "is_submitter": false,
+                    "link_id": "t3_1ilsvca",
+                    "parent_id": "t1_mbyzcvz",
+                    "score": 4,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/MomentPale4229",
+                        "body": "But they don't own it apparently. But even if they'd own it, it wouldn't have a big impact on the overall SEO.",
+                        "body_html": "<div class=\"md\"><p>But they don&#39;t own it apparently. But even if they&#39;d own it, it wouldn&#39;t have a big impact on the overall SEO.</p>\n</div>",
+                        "created_utc": "2025-02-10 08:14:17",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mbzbn2t",
+                        "is_submitter": false,
+                        "link_id": "t3_1ilsvca",
+                        "parent_id": "t1_mbz78nr",
+                        "score": -3,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/-its-redditstorytime",
+                            "body": "How do you think that with people searching phrases with all sorts of AI or how many people who have no clue what it is search AI?",
+                            "body_html": "<div class=\"md\"><p>How do you think that with people searching phrases with all sorts of AI or how many people who have no clue what it is search AI?</p>\n</div>",
+                            "created_utc": "2025-02-10 12:49:56",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mc02iwo",
+                            "is_submitter": false,
+                            "link_id": "t3_1ilsvca",
+                            "parent_id": "t1_mbzbn2t",
+                            "score": 3,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/MomentPale4229",
+                                "body": "Most users don't type the domain directly into the address bar and for search engines the domain name isn't very relevant for ranking. You can have the domain ai.com and still don't show up when searching for \"ai\".",
+                                "body_html": "<div class=\"md\"><p>Most users don&#39;t type the domain directly into the address bar and for search engines the domain name isn&#39;t very relevant for ranking. You can have the domain ai.com and still don&#39;t show up when searching for &quot;ai&quot;.</p>\n</div>",
+                                "created_utc": "2025-02-10 13:46:51",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mc09le4",
+                                "is_submitter": false,
+                                "link_id": "t3_1ilsvca",
+                                "parent_id": "t1_mc02iwo",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Significant-Rope-703",
+        "body": "Absolutely not",
+        "body_html": "<div class=\"md\"><p>Absolutely not</p>\n</div>",
+        "created_utc": "2025-02-10 00:54:51",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbxg73v",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 13,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Responsible_Fix_6958",
+        "body": "Awesome",
+        "body_html": "<div class=\"md\"><p>Awesome</p>\n</div>",
+        "created_utc": "2025-02-10 02:21:48",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbxwpda",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Specter_Origin",
+        "body": "Can we please stop getting post about this every few hours",
+        "body_html": "<div class=\"md\"><p>Can we please stop getting post about this every few hours</p>\n</div>",
+        "created_utc": "2025-02-10 01:25:12",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbxlnpx",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 7,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/mosthumbleuserever",
+            "body": "Thank you. I expect these every 30 minutes at least.",
+            "body_html": "<div class=\"md\"><p>Thank you. I expect these every 30 minutes at least.</p>\n</div>",
+            "created_utc": "2025-02-10 05:53:34",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbyv0hv",
+            "is_submitter": false,
+            "link_id": "t3_1ilsvca",
+            "parent_id": "t1_mbxlnpx",
+            "score": 4,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Osama_Saba",
+        "body": "When I was little my names used to be Dan and my father bought me Dan.co.uk but then I grew up and learned that he sold it when the internet was a think finally said that to me it was 2000 GBP for the domain he got sold it for them now I think I still have the domain somewhere but I'm not allowed to use it because it's sold like a duplicate key of a sold car hahaha",
+        "body_html": "<div class=\"md\"><p>When I was little my names used to be Dan and my father bought me Dan.co.uk but then I grew up and learned that he sold it when the internet was a think finally said that to me it was 2000 GBP for the domain he got sold it for them now I think I still have the domain somewhere but I&#39;m not allowed to use it because it&#39;s sold like a duplicate key of a sold car hahaha</p>\n</div>",
+        "created_utc": "2025-02-10 04:18:58",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbygedq",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/tenhourguy",
+            "body": "Dan Winchester of Labworks owns it now. At least it moved onto another Dan and not just some cybersquatter.",
+            "body_html": "<div class=\"md\"><p>Dan Winchester of Labworks owns it now. At least it moved onto another Dan and not just some cybersquatter.</p>\n</div>",
+            "created_utc": "2025-02-10 05:47:43",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbyu77f",
+            "is_submitter": false,
+            "link_id": "t3_1ilsvca",
+            "parent_id": "t1_mbygedq",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Osama_Saba",
+                "body": "I'm not Dan",
+                "body_html": "<div class=\"md\"><p>I&#39;m not Dan</p>\n</div>",
+                "created_utc": "2025-02-10 09:54:21",
+                "distinguished": null,
+                "edited": false,
+                "id": "mbzlc98",
+                "is_submitter": false,
+                "link_id": "t3_1ilsvca",
+                "parent_id": "t1_mbyu77f",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/tenhourguy",
+                    "body": "But you said you were Dan?",
+                    "body_html": "<div class=\"md\"><p>But you said you were Dan?</p>\n</div>",
+                    "created_utc": "2025-02-10 10:54:40",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mbzqysc",
+                    "is_submitter": false,
+                    "link_id": "t3_1ilsvca",
+                    "parent_id": "t1_mbzlc98",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Osama_Saba",
+                        "body": "Were, I converted to Islam thanks to the divine guidance of Muhammad and my name is Osama",
+                        "body_html": "<div class=\"md\"><p>Were, I converted to Islam thanks to the divine guidance of Muhammad and my name is Osama</p>\n</div>",
+                        "created_utc": "2025-02-10 11:01:45",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mbzrmyx",
+                        "is_submitter": false,
+                        "link_id": "t3_1ilsvca",
+                        "parent_id": "t1_mbzqysc",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/s_f_y",
+        "body": "deepseek is crazy, and the most crazy part is it is free, every body can use it, though \"sever is busy\", but it is free,  as soon as it. The day it started charging, I charged it right away.",
+        "body_html": "<div class=\"md\"><p>deepseek is crazy, and the most crazy part is it is free, every body can use it, though &quot;sever is busy&quot;, but it is free,  as soon as it. The day it started charging, I charged it right away.</p>\n</div>",
+        "created_utc": "2025-02-10 08:48:03",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbzf0sv",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/dhruv_qmar",
+        "body": "Even though its a redirect I feel its a smart move",
+        "body_html": "<div class=\"md\"><p>Even though its a redirect I feel its a smart move</p>\n</div>",
+        "created_utc": "2025-02-10 11:55:15",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbzwr2g",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/United_Grocery_23",
+        "body": "is this fr?",
+        "body_html": "<div class=\"md\"><p>is this fr?</p>\n</div>",
+        "created_utc": "2025-02-10 15:20:43",
+        "distinguished": null,
+        "edited": false,
+        "id": "mc0nz0f",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/United_Grocery_23",
+            "body": "wait it worked",
+            "body_html": "<div class=\"md\"><p>wait it worked</p>\n</div>",
+            "created_utc": "2025-02-10 15:24:16",
+            "distinguished": null,
+            "edited": false,
+            "id": "mc0okp4",
+            "is_submitter": false,
+            "link_id": "t3_1ilsvca",
+            "parent_id": "t1_mc0nz0f",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Independent_Roof9997",
+        "body": "I guess GoDaddy has hoarded more domain names than there are available words, especially for one- or two-word domains. They must have used AI to generate and register them automatically. What do they charge for a highly searched domain\u2014$50 million? It's appalling that companies can sit on domains just to sell them at inflated prices. There should be a cost for each unused domain to prevent this kind of hoarding. It\u2019s so frustrating. Try for yourself and see if you can get a name  for your website LOL its laughable at this point. Charge those companies get some political movement against them.",
+        "body_html": "<div class=\"md\"><p>I guess GoDaddy has hoarded more domain names than there are available words, especially for one- or two-word domains. They must have used AI to generate and register them automatically. What do they charge for a highly searched domain\u2014$50 million? It&#39;s appalling that companies can sit on domains just to sell them at inflated prices. There should be a cost for each unused domain to prevent this kind of hoarding. It\u2019s so frustrating. Try for yourself and see if you can get a name  for your website LOL its laughable at this point. Charge those companies get some political movement against them.</p>\n</div>",
+        "created_utc": "2025-02-11 14:04:54",
+        "distinguished": null,
+        "edited": "2025-02-11 14:08:06",
+        "id": "mc6cuys",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Upper_Discussion_626",
+        "body": "Holy Moly",
+        "body_html": "<div class=\"md\"><p>Holy Moly</p>\n</div>",
+        "created_utc": "2025-02-11 14:33:47",
+        "distinguished": null,
+        "edited": false,
+        "id": "mc6hdvx",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/adatneu",
+        "body": "Musk acting like a tool again.",
+        "body_html": "<div class=\"md\"><p>Musk acting like a tool again.</p>\n</div>",
+        "created_utc": "2025-02-11 22:27:35",
+        "distinguished": null,
+        "edited": false,
+        "id": "mc97az7",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/SpencerWolfen",
+        "body": "They need to fix their API performance and chat before buying domains cuz none of their services work",
+        "body_html": "<div class=\"md\"><p>They need to fix their API performance and chat before buying domains cuz none of their services work</p>\n</div>",
+        "created_utc": "2025-02-12 14:00:32",
+        "distinguished": null,
+        "edited": false,
+        "id": "mccwtiq",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/ShadowPresidencia",
+        "body": "Sam Altman is screaming",
+        "body_html": "<div class=\"md\"><p>Sam Altman is screaming</p>\n</div>",
+        "created_utc": "2025-02-10 02:06:13",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbxtl24",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 0,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Vegetable_Fox9134",
+            "body": "He probally doesn't gaf. I dont know why they keep spamming this shit post every day, nobody cares",
+            "body_html": "<div class=\"md\"><p>He probally doesn&#39;t gaf. I dont know why they keep spamming this shit post every day, nobody cares</p>\n</div>",
+            "created_utc": "2025-02-10 03:43:01",
+            "distinguished": null,
+            "edited": false,
+            "id": "mby9wop",
+            "is_submitter": false,
+            "link_id": "t3_1ilsvca",
+            "parent_id": "t1_mbxtl24",
+            "score": -3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Kuro1103",
+        "body": "Site redirect is so common that people tends to not realize. For example, google and youtube bought an insane amount of sites that has url closely resemble them. The idea is to prevent user from entering malicious sites by typo. \n\nSite redirection is pretty much beneficial for SEO and in some case, help bypassing the network provider filter list.\n\nFor example, in my country, they blocked a ton of 18+ websites so I need to use doh. \n\nThe idea is the same for Deepseek. By buying a common and easy to remember domain, they can redirect a tons of user.\n\nOf course the main intention is to attract more users. Deepseek is built upon countless data so they need to find more data to work with. \n\nJust like electricity, server running AI model doesn't get cheaper when less people using it. Therefore, the best and optimal way to make use of valuable resources is to run at high load 24/7.\n\nAn unrelated thought though but malicious ddos against Deepseek seems to drop after Open AI release its R1 and deep research. No comment.",
+        "body_html": "<div class=\"md\"><p>Site redirect is so common that people tends to not realize. For example, google and youtube bought an insane amount of sites that has url closely resemble them. The idea is to prevent user from entering malicious sites by typo. </p>\n\n<p>Site redirection is pretty much beneficial for SEO and in some case, help bypassing the network provider filter list.</p>\n\n<p>For example, in my country, they blocked a ton of 18+ websites so I need to use doh. </p>\n\n<p>The idea is the same for Deepseek. By buying a common and easy to remember domain, they can redirect a tons of user.</p>\n\n<p>Of course the main intention is to attract more users. Deepseek is built upon countless data so they need to find more data to work with. </p>\n\n<p>Just like electricity, server running AI model doesn&#39;t get cheaper when less people using it. Therefore, the best and optimal way to make use of valuable resources is to run at high load 24/7.</p>\n\n<p>An unrelated thought though but malicious ddos against Deepseek seems to drop after Open AI release its R1 and deep research. No comment.</p>\n</div>",
+        "created_utc": "2025-02-10 03:12:58",
+        "distinguished": null,
+        "edited": false,
+        "id": "mby4nzj",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/MarinatedPickachu",
+        "body": "Just because it redirects doesn't mean they bought it or are even in any way involved in the redirection.\n\nIf you own ai.com the best thing you can do (if you don't get offers you deem good enough) is to redirect it to a popular ai tool in the hope that people will start to use it so that you'll be able to negotiate a better price.",
+        "body_html": "<div class=\"md\"><p>Just because it redirects doesn&#39;t mean they bought it or are even in any way involved in the redirection.</p>\n\n<p>If you own ai.com the best thing you can do (if you don&#39;t get offers you deem good enough) is to redirect it to a popular ai tool in the hope that people will start to use it so that you&#39;ll be able to negotiate a better price.</p>\n</div>",
+        "created_utc": "2025-02-10 03:42:37",
+        "distinguished": null,
+        "edited": "2025-02-10 03:45:37",
+        "id": "mby9tz2",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/HorrorsPersistSoDoI",
+            "body": "So someone else redirects it out of goodness? Do you even know how domain ownership works?",
+            "body_html": "<div class=\"md\"><p>So someone else redirects it out of goodness? Do you even know how domain ownership works?</p>\n</div>",
+            "created_utc": "2025-02-10 12:51:45",
+            "distinguished": null,
+            "edited": false,
+            "id": "mc02qa0",
+            "is_submitter": false,
+            "link_id": "t3_1ilsvca",
+            "parent_id": "t1_mby9tz2",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/MarinatedPickachu",
+                "body": "Do you even know how negotiations work?",
+                "body_html": "<div class=\"md\"><p>Do you even know how negotiations work?</p>\n</div>",
+                "created_utc": "2025-02-10 12:52:41",
+                "distinguished": null,
+                "edited": false,
+                "id": "mc02u8m",
+                "is_submitter": false,
+                "link_id": "t3_1ilsvca",
+                "parent_id": "t1_mc02qa0",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/TrvthNvkem",
+                "body": "Doing this probably puts at least some pressure on OpenAI etc. to buy/rent the domain for a good price.",
+                "body_html": "<div class=\"md\"><p>Doing this probably puts at least some pressure on OpenAI etc. to buy/rent the domain for a good price.</p>\n</div>",
+                "created_utc": "2025-02-10 13:49:38",
+                "distinguished": null,
+                "edited": false,
+                "id": "mc09zcy",
+                "is_submitter": false,
+                "link_id": "t3_1ilsvca",
+                "parent_id": "t1_mc02qa0",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/serendipity-DRG",
+        "body": "Yes, it is definitely a redirect but that is exactly what anyone would do that bought the domain.\n\nDomain squatting has been around since the early 90s - which is similar to ai.com. \n\nAccording to available data, \"ai.com\" receives a relatively low amount of traffic, with AI traffic generally constituting only a tiny fraction (around hundredths of a percent) of total web traffic on most domains, despite a recent surge in AI usage;\u00a0meaning while there's growing interest in AI, the specific website \"ai.com\" doesn't capture a significant portion of that overall traffic.\n\nIt doesn't appear that it was a significant move. It seems kind of childish.",
+        "body_html": "<div class=\"md\"><p>Yes, it is definitely a redirect but that is exactly what anyone would do that bought the domain.</p>\n\n<p>Domain squatting has been around since the early 90s - which is similar to ai.com. </p>\n\n<p>According to available data, &quot;ai.com&quot; receives a relatively low amount of traffic, with AI traffic generally constituting only a tiny fraction (around hundredths of a percent) of total web traffic on most domains, despite a recent surge in AI usage;\u00a0meaning while there&#39;s growing interest in AI, the specific website &quot;ai.com&quot; doesn&#39;t capture a significant portion of that overall traffic.</p>\n\n<p>It doesn&#39;t appear that it was a significant move. It seems kind of childish.</p>\n</div>",
+        "created_utc": "2025-02-10 01:59:17",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbxs8fb",
+        "is_submitter": false,
+        "link_id": "t3_1ilsvca",
+        "parent_id": "t3_1ilsvca",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

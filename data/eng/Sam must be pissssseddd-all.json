@@ -1,0 +1,749 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1idno0i/sam_must_be_pissssseddd/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/coloradical5280",
+      "created_utc": "2025-01-30 15:04:11",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "News",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 46,
+      "permalink": "/r/DeepSeek/comments/1idno0i/sam_must_be_pissssseddd/",
+      "score": 285,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "Sam must be pissssseddd",
+      "upvote_ratio": 0.98
+    },
+    "comments": [
+      {
+        "author": "u/turc1656",
+        "body": "There are also two free API providers on OpenRouter for R1, Azure being one of them.\n\nhttps://openrouter.ai/deepseek/deepseek-r1:free/providers",
+        "body_html": "<div class=\"md\"><p>There are also two free API providers on OpenRouter for R1, Azure being one of them.</p>\n\n<p><a href=\"https://openrouter.ai/deepseek/deepseek-r1:free/providers\">https://openrouter.ai/deepseek/deepseek-r1:free/providers</a></p>\n</div>",
+        "created_utc": "2025-01-30 15:18:34",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma0gpjo",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": 37,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/coloradical5280",
+            "body": "There literally hundreds hosted by Azure and AWS by proxy. \n\nIt\u2019s a LITTLE BIT different when it\u2019s hosted and integrated by Satya directly",
+            "body_html": "<div class=\"md\"><p>There literally hundreds hosted by Azure and AWS by proxy. </p>\n\n<p>It\u2019s a LITTLE BIT different when it\u2019s hosted and integrated by Satya directly</p>\n</div>",
+            "created_utc": "2025-01-30 15:22:16",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma0heea",
+            "is_submitter": true,
+            "link_id": "t3_1idno0i",
+            "parent_id": "t1_ma0gpjo",
+            "score": 8,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Optimal-Fly-fast",
+                "body": "AWS by proxy??.. where can I find one.. pls help me-> I really need it.",
+                "body_html": "<div class=\"md\"><p>AWS by proxy??.. where can I find one.. pls help me-&gt; I really need it.</p>\n</div>",
+                "created_utc": "2025-01-30 16:46:49",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma0xxer",
+                "is_submitter": false,
+                "link_id": "t3_1idno0i",
+                "parent_id": "t1_ma0heea",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/coloradical5280",
+                    "body": "Half of the internet is hosted by aws lol. I dunno have you tried huggingface spaces?",
+                    "body_html": "<div class=\"md\"><p>Half of the internet is hosted by aws lol. I dunno have you tried huggingface spaces?</p>\n</div>",
+                    "created_utc": "2025-01-30 16:48:47",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma0yc8o",
+                    "is_submitter": true,
+                    "link_id": "t3_1idno0i",
+                    "parent_id": "t1_ma0xxer",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Optimal-Fly-fast",
+                        "body": "Is hugging face one is totally free, and full context of model or is the context limited",
+                        "body_html": "<div class=\"md\"><p>Is hugging face one is totally free, and full context of model or is the context limited</p>\n</div>",
+                        "created_utc": "2025-01-30 16:54:17",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma0zhjg",
+                        "is_submitter": false,
+                        "link_id": "t3_1idno0i",
+                        "parent_id": "t1_ma0yc8o",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/coloradical5280",
+                            "body": "There are literally hundreds of models there. Well tens of thousands, but at least hundreds of R1. It\u2019s free you can spend a long time using huggingface servers but if you want it to be like, your primary only thing, that\u2019s a lot of compute and they need to stay financially solvable. \n\nSo, you can basically \u201crent\u201d cpus and GPUs. People mostly do this to train (I do, I rent their GPUs to train models) but inference too. You basically design your own plan for the compute you need and can change it on the fly any time. It\u2019s all based on per hour usage. \n\nInference can be less than a penny per hour to much more than that for a big GPU cluster (e.g., I tuned and distilled R1 for about $50 using $10/hr GPU cluster).",
+                            "body_html": "<div class=\"md\"><p>There are literally hundreds of models there. Well tens of thousands, but at least hundreds of R1. It\u2019s free you can spend a long time using huggingface servers but if you want it to be like, your primary only thing, that\u2019s a lot of compute and they need to stay financially solvable. </p>\n\n<p>So, you can basically \u201crent\u201d cpus and GPUs. People mostly do this to train (I do, I rent their GPUs to train models) but inference too. You basically design your own plan for the compute you need and can change it on the fly any time. It\u2019s all based on per hour usage. </p>\n\n<p>Inference can be less than a penny per hour to much more than that for a big GPU cluster (e.g., I tuned and distilled R1 for about $50 using $10/hr GPU cluster).</p>\n</div>",
+                            "created_utc": "2025-01-30 17:11:24",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma132vx",
+                            "is_submitter": true,
+                            "link_id": "t3_1idno0i",
+                            "parent_id": "t1_ma0zhjg",
+                            "score": 3,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/Incener",
+            "body": "The one on Azure Foundry apparently is self-hosted or something, not the usual censorship from DeepSeek's API. And it's free there too, not sure why tbh:  \nhttps://imgur.com/a/RsFklEW",
+            "body_html": "<div class=\"md\"><p>The one on Azure Foundry apparently is self-hosted or something, not the usual censorship from DeepSeek&#39;s API. And it&#39;s free there too, not sure why tbh:<br/>\n<a href=\"https://imgur.com/a/RsFklEW\">https://imgur.com/a/RsFklEW</a></p>\n</div>",
+            "created_utc": "2025-01-30 17:09:27",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma12ny9",
+            "is_submitter": false,
+            "link_id": "t3_1idno0i",
+            "parent_id": "t1_ma0gpjo",
+            "score": 5,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Buraizx",
+        "body": "Sam Altman must be -Fried",
+        "body_html": "<div class=\"md\"><p>Sam Altman must be -Fried</p>\n</div>",
+        "created_utc": "2025-01-30 16:36:25",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma0vrzd",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": 16,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/retiredbigbro",
+        "body": "But CHHYNAH???!! \ud83d\udc40\ud83e\udd14",
+        "body_html": "<div class=\"md\"><p>But CHHYNAH???!! \ud83d\udc40\ud83e\udd14</p>\n</div>",
+        "created_utc": "2025-01-30 15:43:28",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma0lc5c",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": 19,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/VastMaximum4282",
+            "body": "i'm assuming they used the biggest parameter model, it's basically americanized now unless there was terms to not fix the chinese history via fine tuning  it may take like a year to fine tune anyway.",
+            "body_html": "<div class=\"md\"><p>i&#39;m assuming they used the biggest parameter model, it&#39;s basically americanized now unless there was terms to not fix the chinese history via fine tuning  it may take like a year to fine tune anyway.</p>\n</div>",
+            "created_utc": "2025-01-30 17:32:09",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma17i36",
+            "is_submitter": false,
+            "link_id": "t3_1idno0i",
+            "parent_id": "t1_ma0lc5c",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/coloradical5280",
+                "body": "it's open source there are no \"terms\", and I've tuned two models in a week it does not take a year lol. There are hundreds of (full parameter)  tuned models hosted on huggingface among other places",
+                "body_html": "<div class=\"md\"><p>it&#39;s open source there are no &quot;terms&quot;, and I&#39;ve tuned two models in a week it does not take a year lol. There are hundreds of (full parameter)  tuned models hosted on huggingface among other places</p>\n</div>",
+                "created_utc": "2025-01-30 18:22:34",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma1ifdm",
+                "is_submitter": true,
+                "link_id": "t3_1idno0i",
+                "parent_id": "t1_ma17i36",
+                "score": 4,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/need-help-guys",
+            "body": "If they can't stop the distribution of DeepSeek, then they will adopt DeepSeek but host it themselves, so at least the data using it will go to them (OpenAI, Microsoft) instead of into China. By banning the website and Chinese hosted version, they can at least do some damage control.",
+            "body_html": "<div class=\"md\"><p>If they can&#39;t stop the distribution of DeepSeek, then they will adopt DeepSeek but host it themselves, so at least the data using it will go to them (OpenAI, Microsoft) instead of into China. By banning the website and Chinese hosted version, they can at least do some damage control.</p>\n</div>",
+            "created_utc": "2025-01-31 01:27:46",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma3zz06",
+            "is_submitter": false,
+            "link_id": "t3_1idno0i",
+            "parent_id": "t1_ma0lc5c",
+            "score": 0,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Ikki_The_Phoenix",
+        "body": "It's over for OpenAI. Unless they launch a superior model. Like AGI maybe. \nThe VC investors are going to start pulling their money out.... .I'm really hoping the AI bubble has burst. So, those annoying AI crypto bros on YouTube can stop with the nonsensical \"AGI  in 2 weeks, AGI is 1 month\" blablablabla",
+        "body_html": "<div class=\"md\"><p>It&#39;s over for OpenAI. Unless they launch a superior model. Like AGI maybe. \nThe VC investors are going to start pulling their money out.... .I&#39;m really hoping the AI bubble has burst. So, those annoying AI crypto bros on YouTube can stop with the nonsensical &quot;AGI  in 2 weeks, AGI is 1 month&quot; blablablabla</p>\n</div>",
+        "created_utc": "2025-01-30 18:14:29",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma1gnyl",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": 16,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/coloradical5280",
+            "body": "There are no VC investors in OpenAI aside from Peter Theil and Reid Hoffman who can't and won't \"pull they're money out\" that's not how it works lol. Also they have o3 coming out, so... we'll see. \n\nThey're the most recognized brand in AI, they're not going anywhere.  They might lose me and a bunch of more savvy people but boomers only know to get ChatGPT.  Also integrated into every new Apple device. Universities, tons of Enterprise services, etc.",
+            "body_html": "<div class=\"md\"><p>There are no VC investors in OpenAI aside from Peter Theil and Reid Hoffman who can&#39;t and won&#39;t &quot;pull they&#39;re money out&quot; that&#39;s not how it works lol. Also they have o3 coming out, so... we&#39;ll see. </p>\n\n<p>They&#39;re the most recognized brand in AI, they&#39;re not going anywhere.  They might lose me and a bunch of more savvy people but boomers only know to get ChatGPT.  Also integrated into every new Apple device. Universities, tons of Enterprise services, etc.</p>\n</div>",
+            "created_utc": "2025-01-30 18:19:32",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma1hri0",
+            "is_submitter": true,
+            "link_id": "t3_1idno0i",
+            "parent_id": "t1_ma1gnyl",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Ikki_The_Phoenix",
+                "body": "But to access o3 you need to pay $200 \ud83d\ude02",
+                "body_html": "<div class=\"md\"><p>But to access o3 you need to pay $200 \ud83d\ude02</p>\n</div>",
+                "created_utc": "2025-01-30 18:20:43",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma1i0m9",
+                "is_submitter": false,
+                "link_id": "t3_1idno0i",
+                "parent_id": "t1_ma1hri0",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/coloradical5280",
+                    "body": "mmmm we'll see about that...  I could see that changing. o3-mini came out today for Plus users, it's good.  Not sure it's better than R1, it's been out for like an hour (still rolling out, actually)",
+                    "body_html": "<div class=\"md\"><p>mmmm we&#39;ll see about that...  I could see that changing. o3-mini came out today for Plus users, it&#39;s good.  Not sure it&#39;s better than R1, it&#39;s been out for like an hour (still rolling out, actually)</p>\n</div>",
+                    "created_utc": "2025-01-30 18:24:54",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma1ixuy",
+                    "is_submitter": true,
+                    "link_id": "t3_1idno0i",
+                    "parent_id": "t1_ma1i0m9",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              },
+              {
+                "author": "u/Ikki_The_Phoenix",
+                "body": "They're just the most recognised brand because of the huge amount of marketing, man. I remember the voice thing. You can use it for 10 minutes, even plus users were facing limits. Mehhh..\n\nDisclaimer: I don't dislike OpenAI. \nThey're just mainstream and there are many influencers on YouTube spewing nonsense. I miss the old internet days for the nerds and geeks  \ud83d\ude2d",
+                "body_html": "<div class=\"md\"><p>They&#39;re just the most recognised brand because of the huge amount of marketing, man. I remember the voice thing. You can use it for 10 minutes, even plus users were facing limits. Mehhh..</p>\n\n<p>Disclaimer: I don&#39;t dislike OpenAI. \nThey&#39;re just mainstream and there are many influencers on YouTube spewing nonsense. I miss the old internet days for the nerds and geeks  \ud83d\ude2d</p>\n</div>",
+                "created_utc": "2025-01-30 18:25:07",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma1izkd",
+                "is_submitter": false,
+                "link_id": "t3_1idno0i",
+                "parent_id": "t1_ma1hri0",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/coloradical5280",
+                    "body": "No they're the most recognized because they were first (by like, a lot), and invented the Generative Pre-Training Transformer arch. \n\nI miss those days too though....",
+                    "body_html": "<div class=\"md\"><p>No they&#39;re the most recognized because they were first (by like, a lot), and invented the Generative Pre-Training Transformer arch. </p>\n\n<p>I miss those days too though....</p>\n</div>",
+                    "created_utc": "2025-01-30 18:27:45",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma1jkm8",
+                    "is_submitter": true,
+                    "link_id": "t3_1idno0i",
+                    "parent_id": "t1_ma1izkd",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Ikki_The_Phoenix",
+                        "body": "Yeah. It's going to be an interesting AI battle between OpenAI U.S company and Deepseek China company..\nDeepseek claims they use reinforcement learning to train their model....",
+                        "body_html": "<div class=\"md\"><p>Yeah. It&#39;s going to be an interesting AI battle between OpenAI U.S company and Deepseek China company..\nDeepseek claims they use reinforcement learning to train their model....</p>\n</div>",
+                        "created_utc": "2025-01-30 18:30:09",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma1k3i7",
+                        "is_submitter": false,
+                        "link_id": "t3_1idno0i",
+                        "parent_id": "t1_ma1jkm8",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/coloradical5280",
+                            "body": ">Deepseek claims they use reinforcement learning to train their model....\n\nnot to nitpick but this isn't a \"claim\" it's how their model architecture works, i've literally tuned two versions of it.  with their training template\n\ni think the only thing contentious is if they're lying about how much compute they used. \n\nyou should really read this: [https://arxiv.org/pdf/2501.12948](https://arxiv.org/pdf/2501.12948) everybody should, just linking it here cause it seems like you actually might.  it's a good read",
+                            "body_html": "<div class=\"md\"><blockquote>\n<p>Deepseek claims they use reinforcement learning to train their model....</p>\n</blockquote>\n\n<p>not to nitpick but this isn&#39;t a &quot;claim&quot; it&#39;s how their model architecture works, i&#39;ve literally tuned two versions of it.  with their training template</p>\n\n<p>i think the only thing contentious is if they&#39;re lying about how much compute they used. </p>\n\n<p>you should really read this: <a href=\"https://arxiv.org/pdf/2501.12948\">https://arxiv.org/pdf/2501.12948</a> everybody should, just linking it here cause it seems like you actually might.  it&#39;s a good read</p>\n</div>",
+                            "created_utc": "2025-01-30 18:41:25",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma1mjgn",
+                            "is_submitter": true,
+                            "link_id": "t3_1idno0i",
+                            "parent_id": "t1_ma1k3i7",
+                            "score": 3,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/Ikki_The_Phoenix",
+                                "body": "Interesting. I have a dumb question. Since deepseek is open-source. Can a rust programmer train it, so deepseek can become more knowledgeable in rust?",
+                                "body_html": "<div class=\"md\"><p>Interesting. I have a dumb question. Since deepseek is open-source. Can a rust programmer train it, so deepseek can become more knowledgeable in rust?</p>\n</div>",
+                                "created_utc": "2025-01-30 19:00:22",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "ma1qpvn",
+                                "is_submitter": false,
+                                "link_id": "t3_1idno0i",
+                                "parent_id": "t1_ma1mjgn",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/coloradical5280",
+                                    "body": "of course and I guaran-damn-tee you there is a rust training data set, probably of them.  so with all LM and so human reinforcement, you just have this way simpler and more effective process, where you give it a giant list of messages between users and assistants.  good messages, bad messages, theyre all scored and what not, super straight forward",
+                                    "body_html": "<div class=\"md\"><p>of course and I guaran-damn-tee you there is a rust training data set, probably of them.  so with all LM and so human reinforcement, you just have this way simpler and more effective process, where you give it a giant list of messages between users and assistants.  good messages, bad messages, theyre all scored and what not, super straight forward</p>\n</div>",
+                                    "created_utc": "2025-01-30 22:27:43",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "ma2zv8b",
+                                    "is_submitter": true,
+                                    "link_id": "t3_1idno0i",
+                                    "parent_id": "t1_ma1qpvn",
+                                    "score": 2,
+                                    "stickied": false,
+                                    "replies": []
+                                  },
+                                  {
+                                    "author": "u/coloradical5280",
+                                    "body": "oh my lord \ud83d\ude02. \ud83d\ude02  that is... excessive, that might be excessive: 1 million lines and 4GB of Rust issue resolutions, etc. [https://huggingface.co/datasets/ammarnasr/the-stack-rust-clean](https://huggingface.co/datasets/ammarnasr/the-stack-rust-clean)  \n  \nfor context: I ran a super simple simple ChatAssistants/assts1 dataset through R1, like 5000 likes, couple MB -- it cleaned all the CCP right out of R1 no problem.   \n  \nThere are over 60 rust training data sets but that one was just so hardcore i had to share",
+                                    "body_html": "<div class=\"md\"><p>oh my lord \ud83d\ude02. \ud83d\ude02  that is... excessive, that might be excessive: 1 million lines and 4GB of Rust issue resolutions, etc. <a href=\"https://huggingface.co/datasets/ammarnasr/the-stack-rust-clean\">https://huggingface.co/datasets/ammarnasr/the-stack-rust-clean</a>  </p>\n\n<p>for context: I ran a super simple simple ChatAssistants/assts1 dataset through R1, like 5000 likes, couple MB -- it cleaned all the CCP right out of R1 no problem.   </p>\n\n<p>There are over 60 rust training data sets but that one was just so hardcore i had to share</p>\n</div>",
+                                    "created_utc": "2025-01-30 22:33:58",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "ma3186i",
+                                    "is_submitter": true,
+                                    "link_id": "t3_1idno0i",
+                                    "parent_id": "t1_ma1qpvn",
+                                    "score": 2,
+                                    "stickied": false,
+                                    "replies": [
+                                      {
+                                        "author": "u/Ikki_The_Phoenix",
+                                        "body": "Wow. Thank you. Let me check it out...",
+                                        "body_html": "<div class=\"md\"><p>Wow. Thank you. Let me check it out...</p>\n</div>",
+                                        "created_utc": "2025-01-31 00:06:53",
+                                        "distinguished": null,
+                                        "edited": false,
+                                        "id": "ma3kkq2",
+                                        "is_submitter": false,
+                                        "link_id": "t3_1idno0i",
+                                        "parent_id": "t1_ma3186i",
+                                        "score": 1,
+                                        "stickied": false,
+                                        "replies": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/KusuoSaikiii",
+        "body": "They are always feeling threatened by china",
+        "body_html": "<div class=\"md\"><p>They are always feeling threatened by china</p>\n</div>",
+        "created_utc": "2025-01-30 15:55:20",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma0nl99",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": 7,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/VertigoOne1",
+        "body": "Available in azure China region too? This is like game changer because ai access (openai/gemini) in china zone was iffy last i remember",
+        "body_html": "<div class=\"md\"><p>Available in azure China region too? This is like game changer because ai access (openai/gemini) in china zone was iffy last i remember</p>\n</div>",
+        "created_utc": "2025-01-30 16:33:39",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma0v7gz",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/coloradical5280",
+            "body": "I have no idea lol this was announced hours ago, basically",
+            "body_html": "<div class=\"md\"><p>I have no idea lol this was announced hours ago, basically</p>\n</div>",
+            "created_utc": "2025-01-30 16:50:40",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma0yqjw",
+            "is_submitter": true,
+            "link_id": "t3_1idno0i",
+            "parent_id": "t1_ma0v7gz",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Civilanimal",
+        "body": "His tears are delicious!",
+        "body_html": "<div class=\"md\"><p>His tears are delicious!</p>\n</div>",
+        "created_utc": "2025-01-30 23:04:19",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma37rqx",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Expensive_Service631",
+        "body": "if they changed the renewal of the current subscription to quarterly or yearly they would attract more customers and there would be enough interested people to be able to maintain the whole infrastructure 20 bucks a month is much more than most mobile games with a paywall or pro mode don't let yourself be told that the subscription model offered by OpenAi is for them to survive because that's nonsense\u00a0",
+        "body_html": "<div class=\"md\"><p>if they changed the renewal of the current subscription to quarterly or yearly they would attract more customers and there would be enough interested people to be able to maintain the whole infrastructure 20 bucks a month is much more than most mobile games with a paywall or pro mode don&#39;t let yourself be told that the subscription model offered by OpenAi is for them to survive because that&#39;s nonsense\u00a0</p>\n</div>",
+        "created_utc": "2025-01-30 17:57:32",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma1czfh",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/coloradical5280",
+            "body": "that was a hell of sentence.  also openai was negative -$5B in net revenue last year just sayin.  not defending them but facts and context are important",
+            "body_html": "<div class=\"md\"><p>that was a hell of sentence.  also openai was negative -$5B in net revenue last year just sayin.  not defending them but facts and context are important</p>\n</div>",
+            "created_utc": "2025-01-30 18:02:19",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma1e1bi",
+            "is_submitter": true,
+            "link_id": "t3_1idno0i",
+            "parent_id": "t1_ma1czfh",
+            "score": 4,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Pitch_Moist",
+        "body": "He has acknowledged several times that APIs will become commodities and essentially cost nothing at one point similar to cloud computing. He and most of the major players have seen this coming for years.",
+        "body_html": "<div class=\"md\"><p>He has acknowledged several times that APIs will become commodities and essentially cost nothing at one point similar to cloud computing. He and most of the major players have seen this coming for years.</p>\n</div>",
+        "created_utc": "2025-01-31 00:13:16",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma3ltu1",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/coloradical5280",
+            "body": "Yeah we all know that, that's not the point at all.  I'm sorry I thought it was clear, at least in the sub, the point is that YESTERDAY satya was all over the news and talking about the IP theft and investigatoins, and launching further probes into the matter, blah blah blah, stupid shit. \n\nBut in 12 hours went from \"we're going to look into this further, I've got sam's back, this isn't cool\" to \"come here to foundry your new destination for deepseek\" \n\nI get like a 7 day turnaround but DAMN lol.",
+            "body_html": "<div class=\"md\"><p>Yeah we all know that, that&#39;s not the point at all.  I&#39;m sorry I thought it was clear, at least in the sub, the point is that YESTERDAY satya was all over the news and talking about the IP theft and investigatoins, and launching further probes into the matter, blah blah blah, stupid shit. </p>\n\n<p>But in 12 hours went from &quot;we&#39;re going to look into this further, I&#39;ve got sam&#39;s back, this isn&#39;t cool&quot; to &quot;come here to foundry your new destination for deepseek&quot; </p>\n\n<p>I get like a 7 day turnaround but DAMN lol.</p>\n</div>",
+            "created_utc": "2025-01-31 01:35:43",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma41gbh",
+            "is_submitter": true,
+            "link_id": "t3_1idno0i",
+            "parent_id": "t1_ma3ltu1",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Pitch_Moist",
+                "body": "Ah you\u2019re right I missed that point. I\u2019d have to imagine Sam still gets Satya\u2019s position from a business perspective though.",
+                "body_html": "<div class=\"md\"><p>Ah you\u2019re right I missed that point. I\u2019d have to imagine Sam still gets Satya\u2019s position from a business perspective though.</p>\n</div>",
+                "created_utc": "2025-01-31 01:38:21",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma41xnh",
+                "is_submitter": false,
+                "link_id": "t3_1idno0i",
+                "parent_id": "t1_ma41gbh",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/coloradical5280",
+                    "body": "you can say a lot of things about Sam, but you can't say he's:  irrational, emotional, or dumb",
+                    "body_html": "<div class=\"md\"><p>you can say a lot of things about Sam, but you can&#39;t say he&#39;s:  irrational, emotional, or dumb</p>\n</div>",
+                    "created_utc": "2025-01-31 01:41:24",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma42i55",
+                    "is_submitter": true,
+                    "link_id": "t3_1idno0i",
+                    "parent_id": "t1_ma41xnh",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Pitch_Moist",
+                        "body": "agreed",
+                        "body_html": "<div class=\"md\"><p>agreed</p>\n</div>",
+                        "created_utc": "2025-01-31 01:41:48",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma42kwt",
+                        "is_submitter": false,
+                        "link_id": "t3_1idno0i",
+                        "parent_id": "t1_ma42i55",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/BugChemical5471",
+        "body": "Dear lord \ud83d\ude02",
+        "body_html": "<div class=\"md\"><p>Dear lord \ud83d\ude02</p>\n</div>",
+        "created_utc": "2025-01-31 03:30:56",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma4mch8",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/TanguayX",
+        "body": "I\u2019m not sure he experiences human emotions like you or I know them. Maybe he could point to a flash card of faces for reference",
+        "body_html": "<div class=\"md\"><p>I\u2019m not sure he experiences human emotions like you or I know them. Maybe he could point to a flash card of faces for reference</p>\n</div>",
+        "created_utc": "2025-01-31 03:40:28",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma4o0vc",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/coloradical5280",
+            "body": "he in another comment i said , you can say a lot of things about sam, but you cannot say he's emotional.  or irrational or dumb.  his narcissism is really hurting though lol",
+            "body_html": "<div class=\"md\"><p>he in another comment i said , you can say a lot of things about sam, but you cannot say he&#39;s emotional.  or irrational or dumb.  his narcissism is really hurting though lol</p>\n</div>",
+            "created_utc": "2025-01-31 04:50:14",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma4zth8",
+            "is_submitter": true,
+            "link_id": "t3_1idno0i",
+            "parent_id": "t1_ma4o0vc",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/TanguayX",
+                "body": "Man, that\u2019s for damn sure.",
+                "body_html": "<div class=\"md\"><p>Man, that\u2019s for damn sure.</p>\n</div>",
+                "created_utc": "2025-01-31 15:59:32",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma7cj5c",
+                "is_submitter": false,
+                "link_id": "t3_1idno0i",
+                "parent_id": "t1_ma4zth8",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Terrible-Ring-6226",
+        "body": "I thought Microsoft had a partnership with OpenAI??",
+        "body_html": "<div class=\"md\"><p>I thought Microsoft had a partnership with OpenAI??</p>\n</div>",
+        "created_utc": "2025-01-31 16:27:59",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma7i4ie",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/coloradical5280",
+            "body": "Yeah that\u2019s the whole point lol",
+            "body_html": "<div class=\"md\"><p>Yeah that\u2019s the whole point lol</p>\n</div>",
+            "created_utc": "2025-01-31 16:29:00",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma7ibxo",
+            "is_submitter": true,
+            "link_id": "t3_1idno0i",
+            "parent_id": "t1_ma7i4ie",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Terrible-Ring-6226",
+                "body": "I guess they forgot \ud83e\udd37\u200d\u2642\ufe0f\ud83d\ude2d",
+                "body_html": "<div class=\"md\"><p>I guess they forgot \ud83e\udd37\u200d\u2642\ufe0f\ud83d\ude2d</p>\n</div>",
+                "created_utc": "2025-01-31 16:57:25",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma7o7lh",
+                "is_submitter": false,
+                "link_id": "t3_1idno0i",
+                "parent_id": "t1_ma7ibxo",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/coloradical5280",
+                    "body": "Nah they\u2019re just smart. And so is Sam, which is why he\u2019s not actually pissed, he doesn\u2019t have the emotional capacity to be that irrational, he understands why it\u2019s smart. \n\nBut they kicked him right in the narcissism , and his narcissism is probably really sore.",
+                    "body_html": "<div class=\"md\"><p>Nah they\u2019re just smart. And so is Sam, which is why he\u2019s not actually pissed, he doesn\u2019t have the emotional capacity to be that irrational, he understands why it\u2019s smart. </p>\n\n<p>But they kicked him right in the narcissism , and his narcissism is probably really sore.</p>\n</div>",
+                    "created_utc": "2025-01-31 17:02:24",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma7p9cf",
+                    "is_submitter": true,
+                    "link_id": "t3_1idno0i",
+                    "parent_id": "t1_ma7o7lh",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/ogapadoga",
+        "body": "I LOVE CHINESE COMMUNIST PARTY! I LOVE CHYYNAA!",
+        "body_html": "<div class=\"md\"><p>I LOVE CHINESE COMMUNIST PARTY! I LOVE CHYYNAA!</p>\n</div>",
+        "created_utc": "2025-01-30 17:07:48",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma12bp2",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": -3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Lucky_Yam_1581",
+        "body": "yeah or he may shrug that off saying its there investment they are burning by hosting deepseek",
+        "body_html": "<div class=\"md\"><p>yeah or he may shrug that off saying its there investment they are burning by hosting deepseek</p>\n</div>",
+        "created_utc": "2025-01-30 15:16:23",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma0gay9",
+        "is_submitter": false,
+        "link_id": "t3_1idno0i",
+        "parent_id": "t3_1idno0i",
+        "score": -6,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/coloradical5280",
+            "body": "Huh?",
+            "body_html": "<div class=\"md\"><p>Huh?</p>\n</div>",
+            "created_utc": "2025-01-30 16:08:23",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma0q4k1",
+            "is_submitter": true,
+            "link_id": "t3_1idno0i",
+            "parent_id": "t1_ma0gay9",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

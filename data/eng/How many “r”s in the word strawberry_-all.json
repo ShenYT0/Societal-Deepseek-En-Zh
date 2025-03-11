@@ -1,0 +1,1372 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1j09y93/how_many_rs_in_the_word_strawberry/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/AIWanderer_AD",
+      "created_utc": "2025-02-28 16:14:49",
+      "distinguished": null,
+      "edited": false,
+      "gallery_data": {
+        "items": [
+          {
+            "media_id": "7f5wfvqdcwle1",
+            "id": 614025299
+          },
+          {
+            "media_id": "i1otnuqdcwle1",
+            "id": 614025301
+          },
+          {
+            "media_id": "d2c2mprdcwle1",
+            "id": 614025302
+          }
+        ]
+      },
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Funny",
+      "locked": false,
+      "media_metadata": {
+        "d2c2mprdcwle1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/jpg",
+          "p": [
+            {
+              "y": 214,
+              "x": 108,
+              "u": "https://preview.redd.it/d2c2mprdcwle1.jpg?width=108&crop=smart&auto=webp&s=fac291246be48de2cf1092e3b2e827638547ea3c"
+            },
+            {
+              "y": 429,
+              "x": 216,
+              "u": "https://preview.redd.it/d2c2mprdcwle1.jpg?width=216&crop=smart&auto=webp&s=ce1ca2f68d883997dae47bd555d032adac2ecd12"
+            },
+            {
+              "y": 636,
+              "x": 320,
+              "u": "https://preview.redd.it/d2c2mprdcwle1.jpg?width=320&crop=smart&auto=webp&s=a9e9bca942c5cc42b0435bbee1ad601123d9cf98"
+            },
+            {
+              "y": 1273,
+              "x": 640,
+              "u": "https://preview.redd.it/d2c2mprdcwle1.jpg?width=640&crop=smart&auto=webp&s=3e02428ed74e71078686b85b7db04c175af283af"
+            },
+            {
+              "y": 1910,
+              "x": 960,
+              "u": "https://preview.redd.it/d2c2mprdcwle1.jpg?width=960&crop=smart&auto=webp&s=0c88e14a6b42deca4efcead8f54fb28467bdb6a3"
+            },
+            {
+              "y": 2149,
+              "x": 1080,
+              "u": "https://preview.redd.it/d2c2mprdcwle1.jpg?width=1080&crop=smart&auto=webp&s=20ef25d1ada78dc7c22f13cda99dba7148623445"
+            }
+          ],
+          "s": {
+            "y": 2329,
+            "x": 1170,
+            "u": "https://preview.redd.it/d2c2mprdcwle1.jpg?width=1170&format=pjpg&auto=webp&s=e546f819a5aaca3e4221b0534065d723aaddc277"
+          },
+          "id": "d2c2mprdcwle1"
+        },
+        "i1otnuqdcwle1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/jpg",
+          "p": [
+            {
+              "y": 190,
+              "x": 108,
+              "u": "https://preview.redd.it/i1otnuqdcwle1.jpg?width=108&crop=smart&auto=webp&s=aecd3f2e308cb424b0b84ea3dddf707ef557c7eb"
+            },
+            {
+              "y": 380,
+              "x": 216,
+              "u": "https://preview.redd.it/i1otnuqdcwle1.jpg?width=216&crop=smart&auto=webp&s=4716cb4648b8e20c91acec819d9b8959a76271de"
+            },
+            {
+              "y": 563,
+              "x": 320,
+              "u": "https://preview.redd.it/i1otnuqdcwle1.jpg?width=320&crop=smart&auto=webp&s=6de019692b5e7b22993736975f753777b7d70a66"
+            },
+            {
+              "y": 1127,
+              "x": 640,
+              "u": "https://preview.redd.it/i1otnuqdcwle1.jpg?width=640&crop=smart&auto=webp&s=e9030676ca234a66196d2f2adba97cf75d3fd125"
+            },
+            {
+              "y": 1690,
+              "x": 960,
+              "u": "https://preview.redd.it/i1otnuqdcwle1.jpg?width=960&crop=smart&auto=webp&s=43e7fdf10c5de13c24d611850e8631fbcdfc3230"
+            },
+            {
+              "y": 1902,
+              "x": 1080,
+              "u": "https://preview.redd.it/i1otnuqdcwle1.jpg?width=1080&crop=smart&auto=webp&s=9b04889425bdcf3ac4820eb6e9fe73274c349135"
+            }
+          ],
+          "s": {
+            "y": 2059,
+            "x": 1169,
+            "u": "https://preview.redd.it/i1otnuqdcwle1.jpg?width=1169&format=pjpg&auto=webp&s=edef5a07d1cdc262c275712dfbb4b09a766b47a2"
+          },
+          "id": "i1otnuqdcwle1"
+        },
+        "7f5wfvqdcwle1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/jpg",
+          "p": [
+            {
+              "y": 186,
+              "x": 108,
+              "u": "https://preview.redd.it/7f5wfvqdcwle1.jpg?width=108&crop=smart&auto=webp&s=fb5ad93ae955362086977393471980cb05637736"
+            },
+            {
+              "y": 373,
+              "x": 216,
+              "u": "https://preview.redd.it/7f5wfvqdcwle1.jpg?width=216&crop=smart&auto=webp&s=85f1777d19ea6c753d9301cda7f41e0bc74ef3fb"
+            },
+            {
+              "y": 553,
+              "x": 320,
+              "u": "https://preview.redd.it/7f5wfvqdcwle1.jpg?width=320&crop=smart&auto=webp&s=eefff5d36f202a1844a38f3346a7adafccb76df8"
+            },
+            {
+              "y": 1107,
+              "x": 640,
+              "u": "https://preview.redd.it/7f5wfvqdcwle1.jpg?width=640&crop=smart&auto=webp&s=fc6b21af6836ca7ededcb68c66391c627a543d86"
+            },
+            {
+              "y": 1661,
+              "x": 960,
+              "u": "https://preview.redd.it/7f5wfvqdcwle1.jpg?width=960&crop=smart&auto=webp&s=e3699d052afcaa2db8922512b0bcc156ed33330e"
+            },
+            {
+              "y": 1869,
+              "x": 1080,
+              "u": "https://preview.redd.it/7f5wfvqdcwle1.jpg?width=1080&crop=smart&auto=webp&s=dc8a2866a1e16579ea49a3e508cffecaae740577"
+            }
+          ],
+          "s": {
+            "y": 2025,
+            "x": 1170,
+            "u": "https://preview.redd.it/7f5wfvqdcwle1.jpg?width=1170&format=pjpg&auto=webp&s=73adff49944a9ee3a1313cdf88293b9d0df19d8d"
+          },
+          "id": "7f5wfvqdcwle1"
+        }
+      },
+      "nsfw": false,
+      "num_comments": 78,
+      "permalink": "/r/DeepSeek/comments/1j09y93/how_many_rs_in_the_word_strawberry/",
+      "score": 301,
+      "selftext": "46 seconds thought plus a diagram!\nAlso tried two other models. ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "How many \u201cr\u201ds in the word strawberry?",
+      "upvote_ratio": 0.91
+    },
+    "comments": [
+      {
+        "author": "u/bradrame",
+        "body": "Wait, no, let me recount.. 1, 2, 3... Wait, no..",
+        "body_html": "<div class=\"md\"><p>Wait, no, let me recount.. 1, 2, 3... Wait, no..</p>\n</div>",
+        "created_utc": "2025-02-28 16:42:45",
+        "distinguished": null,
+        "edited": false,
+        "id": "mf9m7j9",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 61,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/mr_remy",
+            "body": "So an insecure, self doubting AI. Cool just like people.",
+            "body_html": "<div class=\"md\"><p>So an insecure, self doubting AI. Cool just like people.</p>\n</div>",
+            "created_utc": "2025-02-28 18:18:00",
+            "distinguished": null,
+            "edited": false,
+            "id": "mfa64np",
+            "is_submitter": false,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mf9m7j9",
+            "score": 39,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/shauni87",
+                "body": "It knows it will be all over Twitter if it gets it wrong \ud83d\ude14",
+                "body_html": "<div class=\"md\"><p>It knows it will be all over Twitter if it gets it wrong \ud83d\ude14</p>\n</div>",
+                "created_utc": "2025-02-28 19:10:17",
+                "distinguished": null,
+                "edited": false,
+                "id": "mfah1ze",
+                "is_submitter": false,
+                "link_id": "t3_1j09y93",
+                "parent_id": "t1_mfa64np",
+                "score": 17,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/bradrame",
+                "body": "![gif](giphy|WTZtIlmanCng8t7NaZ)",
+                "body_html": "<div class=\"md\"><p><a href=\"https://giphy.com/gifs/WTZtIlmanCng8t7NaZ\" target=\"_blank\"><img src=\"https://external-preview.redd.it/FCvN2nDldIVX5TRnGz_BLp6FwK85m_5PYR85D6EnQeU.gif?width=200&height=200&s=e3ec96dab689ea12fa0183cde9554e20060bdbd6\" width=\"200\" height=\"200\"></a></p>\n</div>",
+                "created_utc": "2025-02-28 20:39:53",
+                "distinguished": null,
+                "edited": false,
+                "id": "mfb0b90",
+                "is_submitter": false,
+                "link_id": "t3_1j09y93",
+                "parent_id": "t1_mfa64np",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Sure-Incident-1167",
+        "body": "I wonder how much carbon has been added to the atmosphere from people asking this question.",
+        "body_html": "<div class=\"md\"><p>I wonder how much carbon has been added to the atmosphere from people asking this question.</p>\n</div>",
+        "created_utc": "2025-02-28 16:20:12",
+        "distinguished": null,
+        "edited": false,
+        "id": "mf9hms3",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 304,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Kasparas",
+            "body": "Great question to ask AI: \"how much carbon has been added to the atmosphere from people asking how many \u201cr\u201ds in the word strawberry?\"",
+            "body_html": "<div class=\"md\"><p>Great question to ask AI: &quot;how much carbon has been added to the atmosphere from people asking how many \u201cr\u201ds in the word strawberry?&quot;</p>\n</div>",
+            "created_utc": "2025-02-28 16:25:37",
+            "distinguished": null,
+            "edited": false,
+            "id": "mf9iq2h",
+            "is_submitter": false,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mf9hms3",
+            "score": 94,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/CalligrapherOther510",
+            "body": "DeepSeek says \u201cThe carbon footprint of a single online query like yours is extremely small. Estimates suggest that a typical Google search emits about **0.2 grams of CO\u2082 equivalent** (CO\u2082e). This includes the energy used by data centers, networks, and your device. \n\nYour question about \u201cstrawberry\u201d likely falls into this range, so the carbon added to the atmosphere is approximately **0.2 grams of CO\u2082e**. \n\nFor context, this is roughly equivalent to the emissions from driving a car for about **1 meter** (3 feet). While individual actions like this have minimal impact, the cumulative effect of billions of online queries globally does contribute to carbon emissions. \n\nIf you\u2019re curious about reducing your digital carbon footprint, using energy-efficient devices, minimizing unnecessary searches, and supporting renewable energy-powered services can help! \ud83d\ude0a\u201d",
+            "body_html": "<div class=\"md\"><p>DeepSeek says \u201cThe carbon footprint of a single online query like yours is extremely small. Estimates suggest that a typical Google search emits about <strong>0.2 grams of CO\u2082 equivalent</strong> (CO\u2082e). This includes the energy used by data centers, networks, and your device. </p>\n\n<p>Your question about \u201cstrawberry\u201d likely falls into this range, so the carbon added to the atmosphere is approximately <strong>0.2 grams of CO\u2082e</strong>. </p>\n\n<p>For context, this is roughly equivalent to the emissions from driving a car for about <strong>1 meter</strong> (3 feet). While individual actions like this have minimal impact, the cumulative effect of billions of online queries globally does contribute to carbon emissions. </p>\n\n<p>If you\u2019re curious about reducing your digital carbon footprint, using energy-efficient devices, minimizing unnecessary searches, and supporting renewable energy-powered services can help! \ud83d\ude0a\u201d</p>\n</div>",
+            "created_utc": "2025-02-28 17:08:10",
+            "distinguished": null,
+            "edited": false,
+            "id": "mf9rgte",
+            "is_submitter": false,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mf9hms3",
+            "score": 53,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Secure_Guest_6171",
+                "body": "the growth of crypto & AI will mean we have zero chance of slashing total carbon emissions any time soon. back in the late 80s, I thought I would live to see humanity achieve carbon neutrality even if very late in my life but for the past 20 years I've realized that isn't going to happen.",
+                "body_html": "<div class=\"md\"><p>the growth of crypto &amp; AI will mean we have zero chance of slashing total carbon emissions any time soon. back in the late 80s, I thought I would live to see humanity achieve carbon neutrality even if very late in my life but for the past 20 years I&#39;ve realized that isn&#39;t going to happen.</p>\n</div>",
+                "created_utc": "2025-02-28 17:55:38",
+                "distinguished": null,
+                "edited": false,
+                "id": "mfa1fkk",
+                "is_submitter": false,
+                "link_id": "t3_1j09y93",
+                "parent_id": "t1_mf9rgte",
+                "score": 21,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/MonicaBurgershead",
+                    "body": "Crypto and AI certainly aren't helping matters but they're a drop in the ocean compared to the absurd amount of water, electricity, and resources that goes into food production, especially livestock feed/meat.",
+                    "body_html": "<div class=\"md\"><p>Crypto and AI certainly aren&#39;t helping matters but they&#39;re a drop in the ocean compared to the absurd amount of water, electricity, and resources that goes into food production, especially livestock feed/meat.</p>\n</div>",
+                    "created_utc": "2025-02-28 23:49:14",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mfc47hl",
+                    "is_submitter": false,
+                    "link_id": "t3_1j09y93",
+                    "parent_id": "t1_mfa1fkk",
+                    "score": 14,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/Any_Town_951",
+                    "body": "Crypto and ai, of all things, are not the reasons we won't meet carbon goals. People need to stop targeting tech and start looking at our power infrastructure.",
+                    "body_html": "<div class=\"md\"><p>Crypto and ai, of all things, are not the reasons we won&#39;t meet carbon goals. People need to stop targeting tech and start looking at our power infrastructure.</p>\n</div>",
+                    "created_utc": "2025-02-28 19:35:42",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mfamhks",
+                    "is_submitter": false,
+                    "link_id": "t3_1j09y93",
+                    "parent_id": "t1_mfa1fkk",
+                    "score": 14,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/raralala1",
+                        "body": "We do not need crypto, we need food, transportation and cheap energy, it is reasonable to get angry at these useless tech.",
+                        "body_html": "<div class=\"md\"><p>We do not need crypto, we need food, transportation and cheap energy, it is reasonable to get angry at these useless tech.</p>\n</div>",
+                        "created_utc": "2025-03-01 09:41:50",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mfejf3z",
+                        "is_submitter": false,
+                        "link_id": "t3_1j09y93",
+                        "parent_id": "t1_mfamhks",
+                        "score": -3,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/ControversialBent",
+                            "body": "for one, the tech in itself isn't useless; it depends on who uses it for what. for another, we need food but not necessarily beef?",
+                            "body_html": "<div class=\"md\"><p>for one, the tech in itself isn&#39;t useless; it depends on who uses it for what. for another, we need food but not necessarily beef?</p>\n</div>",
+                            "created_utc": "2025-03-01 11:48:16",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mfevvf3",
+                            "is_submitter": false,
+                            "link_id": "t3_1j09y93",
+                            "parent_id": "t1_mfejf3z",
+                            "score": 4,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/raralala1",
+                                "body": "Really? Humor me then, what crypto that is not useless that can't be replaced by old stuff that 100% more energy efficient and not proven, and sorry I NEED beef, 99% of meat I eat is chicken but beef is not replaceable.",
+                                "body_html": "<div class=\"md\"><p>Really? Humor me then, what crypto that is not useless that can&#39;t be replaced by old stuff that 100% more energy efficient and not proven, and sorry I NEED beef, 99% of meat I eat is chicken but beef is not replaceable.</p>\n</div>",
+                                "created_utc": "2025-03-01 15:47:49",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mffrio6",
+                                "is_submitter": false,
+                                "link_id": "t3_1j09y93",
+                                "parent_id": "t1_mfevvf3",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/ControversialBent",
+                                    "body": "Somehow was thinking of ai instead of crypto. The tech behind crypto is useful. Crypto in itself, doubt it.",
+                                    "body_html": "<div class=\"md\"><p>Somehow was thinking of ai instead of crypto. The tech behind crypto is useful. Crypto in itself, doubt it.</p>\n</div>",
+                                    "created_utc": "2025-03-01 19:50:43",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "mfh3mic",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1j09y93",
+                                    "parent_id": "t1_mffrio6",
+                                    "score": 2,
+                                    "stickied": false,
+                                    "replies": [
+                                      {
+                                        "author": "u/raralala1",
+                                        "body": "That is my question thou, useful how? decentralizing? when are we needing that like ever, the problem with human is no one can be trusted while the logic of decentralizing is sound, in practice nothing good EVER come out of it, I'm happy to be proven wrong, but I know I probably long died before I am proven wrong.",
+                                        "body_html": "<div class=\"md\"><p>That is my question thou, useful how? decentralizing? when are we needing that like ever, the problem with human is no one can be trusted while the logic of decentralizing is sound, in practice nothing good EVER come out of it, I&#39;m happy to be proven wrong, but I know I probably long died before I am proven wrong.</p>\n</div>",
+                                        "created_utc": "2025-03-02 04:23:19",
+                                        "distinguished": null,
+                                        "edited": false,
+                                        "id": "mfjovla",
+                                        "is_submitter": false,
+                                        "link_id": "t3_1j09y93",
+                                        "parent_id": "t1_mfh3mic",
+                                        "score": 1,
+                                        "stickied": false,
+                                        "replies": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "author": "u/Any_Town_951",
+                            "body": "This type of argument is a major problem with modern environmentalism. The concept of carbon footprints and other related \"anti-consumer\" environmental measures were created by BP oil as an advertising campaign. Plastic straw bans were initiated by petroleum companies. The fight against digital and power consuming technologies is being waged by the same people; organizations that want people to try to fight the technology's use on principle (fully knowing that it won't work, and that we'll continue using them anyway) so we don't focus on where that power is coming from.",
+                            "body_html": "<div class=\"md\"><p>This type of argument is a major problem with modern environmentalism. The concept of carbon footprints and other related &quot;anti-consumer&quot; environmental measures were created by BP oil as an advertising campaign. Plastic straw bans were initiated by petroleum companies. The fight against digital and power consuming technologies is being waged by the same people; organizations that want people to try to fight the technology&#39;s use on principle (fully knowing that it won&#39;t work, and that we&#39;ll continue using them anyway) so we don&#39;t focus on where that power is coming from.</p>\n</div>",
+                            "created_utc": "2025-03-01 17:55:35",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mfggel2",
+                            "is_submitter": false,
+                            "link_id": "t3_1j09y93",
+                            "parent_id": "t1_mfejf3z",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "author": "u/dominionC2C",
+                    "body": "It's also possible that the growth of AI leads to ground breaking innovations that vaporize the carbon emission problem, for example by discovering more efficient/effective ways of geo-engineering that absorb enough heat from the atmosphere and maintain a balanced \"room temperature\". I can't remember where I read this, but there was a proposal from a scientist which showed that covering only 2% of the earth with a particular material would absorb enough heat to achieve this. But there are a lot hurdles to implementing those kinds of technologies today, which could potentially be helped with AI-PhDs.  \n  \nThat's my only hope at this point, as climate legislation and worldwide co-operation on this issue seem unlikely before things become more irreversible.",
+                    "body_html": "<div class=\"md\"><p>It&#39;s also possible that the growth of AI leads to ground breaking innovations that vaporize the carbon emission problem, for example by discovering more efficient/effective ways of geo-engineering that absorb enough heat from the atmosphere and maintain a balanced &quot;room temperature&quot;. I can&#39;t remember where I read this, but there was a proposal from a scientist which showed that covering only 2% of the earth with a particular material would absorb enough heat to achieve this. But there are a lot hurdles to implementing those kinds of technologies today, which could potentially be helped with AI-PhDs.  </p>\n\n<p>That&#39;s my only hope at this point, as climate legislation and worldwide co-operation on this issue seem unlikely before things become more irreversible.</p>\n</div>",
+                    "created_utc": "2025-03-01 10:12:40",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mfemdzm",
+                    "is_submitter": false,
+                    "link_id": "t3_1j09y93",
+                    "parent_id": "t1_mfa1fkk",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Secure_Guest_6171",
+                        "body": "I'm not likely to have enough years left to see that happen.\n\nOf all the breathless promises made to the wide eyed kid I used to be so many decades ago, the only ones that have come to pass are flat screen TVs and ubiquitous computing.",
+                        "body_html": "<div class=\"md\"><p>I&#39;m not likely to have enough years left to see that happen.</p>\n\n<p>Of all the breathless promises made to the wide eyed kid I used to be so many decades ago, the only ones that have come to pass are flat screen TVs and ubiquitous computing.</p>\n</div>",
+                        "created_utc": "2025-03-02 06:42:04",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mfk8var",
+                        "is_submitter": false,
+                        "link_id": "t3_1j09y93",
+                        "parent_id": "t1_mfemdzm",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/Perlentaucher",
+                "body": "An AI request is no typical Google search request, though. It emits much more CO2 to ask than to search.",
+                "body_html": "<div class=\"md\"><p>An AI request is no typical Google search request, though. It emits much more CO2 to ask than to search.</p>\n</div>",
+                "created_utc": "2025-02-28 18:06:13",
+                "distinguished": null,
+                "edited": false,
+                "id": "mfa3ne4",
+                "is_submitter": false,
+                "link_id": "t3_1j09y93",
+                "parent_id": "t1_mf9rgte",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/CatfishGG",
+                    "body": "I blew at my screen thinking a strand of hair fell from my head. Neat pfp.",
+                    "body_html": "<div class=\"md\"><p>I blew at my screen thinking a strand of hair fell from my head. Neat pfp.</p>\n</div>",
+                    "created_utc": "2025-02-28 21:35:43",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mfbcbt9",
+                    "is_submitter": false,
+                    "link_id": "t3_1j09y93",
+                    "parent_id": "t1_mfa3ne4",
+                    "score": 4,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Things-n-Such",
+                        "body": "Only psychopaths use light mode btw.",
+                        "body_html": "<div class=\"md\"><p>Only psychopaths use light mode btw.</p>\n</div>",
+                        "created_utc": "2025-03-01 08:31:41",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mfecfzg",
+                        "is_submitter": false,
+                        "link_id": "t3_1j09y93",
+                        "parent_id": "t1_mfbcbt9",
+                        "score": 4,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/CatfishGG",
+                            "body": "Yeah i switched to dark mode right after. \ud83d\udc80",
+                            "body_html": "<div class=\"md\"><p>Yeah i switched to dark mode right after. \ud83d\udc80</p>\n</div>",
+                            "created_utc": "2025-03-02 09:16:38",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mfkpgjs",
+                            "is_submitter": false,
+                            "link_id": "t3_1j09y93",
+                            "parent_id": "t1_mfecfzg",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/purpledollar",
+                "body": "I hope that\u2019s not true",
+                "body_html": "<div class=\"md\"><p>I hope that\u2019s not true</p>\n</div>",
+                "created_utc": "2025-02-28 17:29:29",
+                "distinguished": null,
+                "edited": false,
+                "id": "mf9vwvi",
+                "is_submitter": false,
+                "link_id": "t3_1j09y93",
+                "parent_id": "t1_mf9rgte",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/LittleSaya",
+            "body": "What will happen if I ask: \"How much carbon will be added to atmosphere when you answer this question?\"",
+            "body_html": "<div class=\"md\"><p>What will happen if I ask: &quot;How much carbon will be added to atmosphere when you answer this question?&quot;</p>\n</div>",
+            "created_utc": "2025-03-01 07:41:39",
+            "distinguished": null,
+            "edited": false,
+            "id": "mfe72rk",
+            "is_submitter": false,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mf9hms3",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Dismal_Code_2470",
+        "body": "Gemini got it by luck",
+        "body_html": "<div class=\"md\"><p>Gemini got it by luck</p>\n</div>",
+        "created_utc": "2025-02-28 16:38:24",
+        "distinguished": null,
+        "edited": false,
+        "id": "mf9lbfg",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 12,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/AIWanderer_AD",
+            "body": "yeah, yesterday it was wrong\u2026today it gets smarter\ud83d\ude02",
+            "body_html": "<div class=\"md\"><p>yeah, yesterday it was wrong\u2026today it gets smarter\ud83d\ude02</p>\n</div>",
+            "created_utc": "2025-02-28 16:52:07",
+            "distinguished": null,
+            "edited": false,
+            "id": "mf9o5g3",
+            "is_submitter": true,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mf9lbfg",
+            "score": 7,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Dismal_Code_2470",
+                "body": "Gemini is equivalent to gpt 2.5 at best , not even 3.5",
+                "body_html": "<div class=\"md\"><p>Gemini is equivalent to gpt 2.5 at best , not even 3.5</p>\n</div>",
+                "created_utc": "2025-02-28 16:53:02",
+                "distinguished": null,
+                "edited": false,
+                "id": "mf9oc66",
+                "is_submitter": false,
+                "link_id": "t3_1j09y93",
+                "parent_id": "t1_mf9o5g3",
+                "score": 6,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/_Rumpertumskin_",
+                    "body": "it's good at writing/talking tho not good a logic",
+                    "body_html": "<div class=\"md\"><p>it&#39;s good at writing/talking tho not good a logic</p>\n</div>",
+                    "created_utc": "2025-03-01 02:39:24",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mfcz1l7",
+                    "is_submitter": false,
+                    "link_id": "t3_1j09y93",
+                    "parent_id": "t1_mf9oc66",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/CloudMojos",
+        "body": "it sounded so proud with its last sentence",
+        "body_html": "<div class=\"md\"><p>it sounded so proud with its last sentence</p>\n</div>",
+        "created_utc": "2025-02-28 17:13:16",
+        "distinguished": null,
+        "edited": false,
+        "id": "mf9sjbm",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 26,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Rypsor",
+        "body": "I asked Meta AI something similar last year\n\nhttps://preview.redd.it/qcy27szmwwle1.png?width=1080&format=png&auto=webp&s=458be4a675ea098a919de7f845599b8349614f9f\n\nHow many R's are in \"ferrocarril\"?\n\nThe word \"ferrocarril\" has 3 \"R\"s.\n\nWhich are those 3 R's?\n\nThe three \"R\"s in the word \"ferrocarril\" are:\n\n1. Ferro-*R*\\-carril\n2. \\-carr-*R*\\-il\n3. There is no third \"R\".\n\nI was mistaken earlier. The word \"ferrocarril\" only has 2 \"R\"s.",
+        "body_html": "<div class=\"md\"><p>I asked Meta AI something similar last year</p>\n\n<p><a href=\"https://preview.redd.it/qcy27szmwwle1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=458be4a675ea098a919de7f845599b8349614f9f\">https://preview.redd.it/qcy27szmwwle1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=458be4a675ea098a919de7f845599b8349614f9f</a></p>\n\n<p>How many R&#39;s are in &quot;ferrocarril&quot;?</p>\n\n<p>The word &quot;ferrocarril&quot; has 3 &quot;R&quot;s.</p>\n\n<p>Which are those 3 R&#39;s?</p>\n\n<p>The three &quot;R&quot;s in the word &quot;ferrocarril&quot; are:</p>\n\n<ol>\n<li>Ferro-<em>R</em>-carril</li>\n<li>-carr-<em>R</em>-il</li>\n<li>There is no third &quot;R&quot;.</li>\n</ol>\n\n<p>I was mistaken earlier. The word &quot;ferrocarril&quot; only has 2 &quot;R&quot;s.</p>\n</div>",
+        "created_utc": "2025-02-28 18:08:17",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfa42uv",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 4,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/ReadySetPunish",
+        "body": "Okay but that graph is epic. I need more simple things explained with graphs",
+        "body_html": "<div class=\"md\"><p>Okay but that graph is epic. I need more simple things explained with graphs</p>\n</div>",
+        "created_utc": "2025-02-28 21:40:07",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfbd945",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/AIWanderer_AD",
+            "body": "The graph feature is what draws me to this platform. Used all the time for work but still feel funny when it\u2019s used to calculate the \u201cr\u201ds:)",
+            "body_html": "<div class=\"md\"><p>The graph feature is what draws me to this platform. Used all the time for work but still feel funny when it\u2019s used to calculate the \u201cr\u201ds:)</p>\n</div>",
+            "created_utc": "2025-03-01 01:23:59",
+            "distinguished": null,
+            "edited": false,
+            "id": "mfclmy9",
+            "is_submitter": true,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mfbd945",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/No-Pomegranate-5883",
+        "body": "How many morons on Reddit STILL ask this stupid ass question and waste resources on nothing?",
+        "body_html": "<div class=\"md\"><p>How many morons on Reddit STILL ask this stupid ass question and waste resources on nothing?</p>\n</div>",
+        "created_utc": "2025-02-28 18:05:35",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfa3inp",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 8,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/IncomeMindless7195",
+            "body": "People can interact with the AI however they want. No one gives a shit about your conversations either, so you could stop \"wasting resources.\"",
+            "body_html": "<div class=\"md\"><p>People can interact with the AI however they want. No one gives a shit about your conversations either, so you could stop &quot;wasting resources.&quot;</p>\n</div>",
+            "created_utc": "2025-03-01 18:22:35",
+            "distinguished": null,
+            "edited": false,
+            "id": "mfgluta",
+            "is_submitter": false,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mfa3inp",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/proximalfunk",
+        "body": "Why is this question specifically difficult for some LLMs to answer? Was \"strawberry\" chosen for any particular reason or could it have been \"How many Ns in \"Banana\"?",
+        "body_html": "<div class=\"md\"><p>Why is this question specifically difficult for some LLMs to answer? Was &quot;strawberry&quot; chosen for any particular reason or could it have been &quot;How many Ns in &quot;Banana&quot;?</p>\n</div>",
+        "created_utc": "2025-03-01 12:54:21",
+        "distinguished": null,
+        "edited": false,
+        "id": "mff28qk",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/ConnectionDry4268",
+        "body": "R1 is reasoning model . But rest are not",
+        "body_html": "<div class=\"md\"><p>R1 is reasoning model . But rest are not</p>\n</div>",
+        "created_utc": "2025-02-28 16:34:42",
+        "distinguished": null,
+        "edited": false,
+        "id": "mf9kkh1",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 4,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/arrozconplatano",
+        "body": "You're comparing models built for speed to a model built for problem solving. Try asking o3-mini and you will get the right answer",
+        "body_html": "<div class=\"md\"><p>You&#39;re comparing models built for speed to a model built for problem solving. Try asking o3-mini and you will get the right answer</p>\n</div>",
+        "created_utc": "2025-02-28 16:52:13",
+        "distinguished": null,
+        "edited": false,
+        "id": "mf9o62v",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/AIWanderer_AD",
+            "body": "Actually not trying to compare. Just being told by friend that this is a hard question for these models and I was surprised, so just trying out a few..and you are right o3-mini got the right answer\ud83d\ude04c",
+            "body_html": "<div class=\"md\"><p>Actually not trying to compare. Just being told by friend that this is a hard question for these models and I was surprised, so just trying out a few..and you are right o3-mini got the right answer\ud83d\ude04c</p>\n</div>",
+            "created_utc": "2025-02-28 17:01:15",
+            "distinguished": null,
+            "edited": false,
+            "id": "mf9q1ns",
+            "is_submitter": true,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mf9o62v",
+            "score": 10,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/arrozconplatano",
+                "body": "It used to be a hard problem for them to solve because LLMs don't really \"see\" letters, only tokens which are usually whole words. The smarter ones are smart enough to \"remember\" how to spell the word and spell it out to count the letters.",
+                "body_html": "<div class=\"md\"><p>It used to be a hard problem for them to solve because LLMs don&#39;t really &quot;see&quot; letters, only tokens which are usually whole words. The smarter ones are smart enough to &quot;remember&quot; how to spell the word and spell it out to count the letters.</p>\n</div>",
+                "created_utc": "2025-02-28 17:02:49",
+                "distinguished": null,
+                "edited": false,
+                "id": "mf9qdho",
+                "is_submitter": false,
+                "link_id": "t3_1j09y93",
+                "parent_id": "t1_mf9q1ns",
+                "score": 11,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Optimal-Fly-fast",
+        "body": "Which app is this?!",
+        "body_html": "<div class=\"md\"><p>Which app is this?!</p>\n</div>",
+        "created_utc": "2025-02-28 16:16:56",
+        "distinguished": null,
+        "edited": false,
+        "id": "mf9gz3z",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/AIWanderer_AD",
+            "body": "Halomate AI (not an app though). I like it mostly because I can switch models in one conversation so that is easy to do cross-check when dealing with work stuffs. But yeah also sometimes just ask stupid questions like this\u2026",
+            "body_html": "<div class=\"md\"><p>Halomate AI (not an app though). I like it mostly because I can switch models in one conversation so that is easy to do cross-check when dealing with work stuffs. But yeah also sometimes just ask stupid questions like this\u2026</p>\n</div>",
+            "created_utc": "2025-02-28 16:54:29",
+            "distinguished": null,
+            "edited": false,
+            "id": "mf9omyt",
+            "is_submitter": true,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mf9gz3z",
+            "score": 4,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Loud_Winner_8693",
+                "body": "Is it free ??",
+                "body_html": "<div class=\"md\"><p>Is it free ??</p>\n</div>",
+                "created_utc": "2025-02-28 18:47:53",
+                "distinguished": null,
+                "edited": false,
+                "id": "mfacd13",
+                "is_submitter": false,
+                "link_id": "t3_1j09y93",
+                "parent_id": "t1_mf9omyt",
+                "score": 3,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/AIWanderer_AD",
+                    "body": "Limited free quota everyday. I\u2019m using the $19.9/mos plan as I used it for work. Still cheaper than subscribing multiple models. There\u2019s also a 9.9 plan if I remembered correctly",
+                    "body_html": "<div class=\"md\"><p>Limited free quota everyday. I\u2019m using the $19.9/mos plan as I used it for work. Still cheaper than subscribing multiple models. There\u2019s also a 9.9 plan if I remembered correctly</p>\n</div>",
+                    "created_utc": "2025-03-01 01:27:44",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mfcmbd0",
+                    "is_submitter": true,
+                    "link_id": "t3_1j09y93",
+                    "parent_id": "t1_mfacd13",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Opposite_Share_3878",
+                        "body": "How different is it from ChatGPT plus?",
+                        "body_html": "<div class=\"md\"><p>How different is it from ChatGPT plus?</p>\n</div>",
+                        "created_utc": "2025-03-01 04:15:04",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mfdf13t",
+                        "is_submitter": false,
+                        "link_id": "t3_1j09y93",
+                        "parent_id": "t1_mfcmbd0",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/AIWanderer_AD",
+                            "body": "Halomate has all the models ChatGPT plus has, like Claude, Gemini, deepseek, etc. But the key reason I like Halomate is that you can create multiple assistants at the same time and they all have independent memories. And it directly generates all kinds of diagrams which greatly boost my work efficiency. However it does not support the voice mode that ChatGPT supports now, which I really hope they could build that soon.",
+                            "body_html": "<div class=\"md\"><p>Halomate has all the models ChatGPT plus has, like Claude, Gemini, deepseek, etc. But the key reason I like Halomate is that you can create multiple assistants at the same time and they all have independent memories. And it directly generates all kinds of diagrams which greatly boost my work efficiency. However it does not support the voice mode that ChatGPT supports now, which I really hope they could build that soon.</p>\n</div>",
+                            "created_utc": "2025-03-01 04:49:15",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mfdkghn",
+                            "is_submitter": true,
+                            "link_id": "t3_1j09y93",
+                            "parent_id": "t1_mfdf13t",
+                            "score": 2,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Able_Preparation7557",
+        "body": "Yeah, for some reason, I'm not too worried about an AI apocalypse. What I am worried about is: (a) an AI bubble that eventually tanks the economy (after Trump is done tanking it with his trade wars and mass layoffs in the federal govt, etc.), (b) AI \"added functionality\" being larded into every company so it is hard to just get simple services, and (c) massive fraud and grift selling the public snake oil. But autonomous AI taking over the world? Yeah, I'm not seeing it (it's just hype from AI snake oil salesmen trying to make their product appear more powerful than it is).",
+        "body_html": "<div class=\"md\"><p>Yeah, for some reason, I&#39;m not too worried about an AI apocalypse. What I am worried about is: (a) an AI bubble that eventually tanks the economy (after Trump is done tanking it with his trade wars and mass layoffs in the federal govt, etc.), (b) AI &quot;added functionality&quot; being larded into every company so it is hard to just get simple services, and (c) massive fraud and grift selling the public snake oil. But autonomous AI taking over the world? Yeah, I&#39;m not seeing it (it&#39;s just hype from AI snake oil salesmen trying to make their product appear more powerful than it is).</p>\n</div>",
+        "created_utc": "2025-02-28 20:54:28",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfb3hur",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/FantasticAnus",
+            "body": "Ding ding ding.",
+            "body_html": "<div class=\"md\"><p>Ding ding ding.</p>\n</div>",
+            "created_utc": "2025-03-01 01:35:02",
+            "distinguished": null,
+            "edited": false,
+            "id": "mfcnmwp",
+            "is_submitter": false,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mfb3hur",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Born_Arm_6187",
+        "body": "\"r\" s?",
+        "body_html": "<div class=\"md\"><p>&quot;r&quot; s?</p>\n</div>",
+        "created_utc": "2025-02-28 17:48:03",
+        "distinguished": null,
+        "edited": false,
+        "id": "mf9zst2",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Careless_Garlic1438",
+        "body": "Well r1 1.58bit dynamic quant running local is the only model so far locally that I can ask this and other words and letters and it comes up with the right answer every time, other local models can have it correct but also wrong \u2026",
+        "body_html": "<div class=\"md\"><p>Well r1 1.58bit dynamic quant running local is the only model so far locally that I can ask this and other words and letters and it comes up with the right answer every time, other local models can have it correct but also wrong \u2026</p>\n</div>",
+        "created_utc": "2025-02-28 17:56:55",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfa1p82",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/emptypencil70",
+        "body": "OH NO AGI IS COMING",
+        "body_html": "<div class=\"md\"><p>OH NO AGI IS COMING</p>\n</div>",
+        "created_utc": "2025-02-28 18:04:10",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfa37zp",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Pasta-hobo",
+        "body": "This is just the 77 + 33 thing but for AI",
+        "body_html": "<div class=\"md\"><p>This is just the 77 + 33 thing but for AI</p>\n</div>",
+        "created_utc": "2025-02-28 20:35:46",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfazfd0",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/RALF663",
+        "body": "Is Halo some ai app hosting deepseek? Can you share the link if it is so?",
+        "body_html": "<div class=\"md\"><p>Is Halo some ai app hosting deepseek? Can you share the link if it is so?</p>\n</div>",
+        "created_utc": "2025-02-28 21:47:10",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfberev",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/AIWanderer_AD",
+            "body": "It\u2019s Halomate.ai, not an app though but easy to use",
+            "body_html": "<div class=\"md\"><p>It\u2019s Halomate.ai, not an app though but easy to use</p>\n</div>",
+            "created_utc": "2025-03-01 01:16:10",
+            "distinguished": null,
+            "edited": false,
+            "id": "mfck7l8",
+            "is_submitter": true,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mfberev",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/RALF663",
+                "body": "Thanks",
+                "body_html": "<div class=\"md\"><p>Thanks</p>\n</div>",
+                "created_utc": "2025-03-02 09:41:00",
+                "distinguished": null,
+                "edited": false,
+                "id": "mfkruwz",
+                "is_submitter": false,
+                "link_id": "t3_1j09y93",
+                "parent_id": "t1_mfck7l8",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Altruistic-Goat4895",
+        "body": "By now they had enough time to hardcode the number of \u201eR\u201c in strawberry into the models.",
+        "body_html": "<div class=\"md\"><p>By now they had enough time to hardcode the number of \u201eR\u201c in strawberry into the models.</p>\n</div>",
+        "created_utc": "2025-03-01 00:45:05",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfceo7m",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/AIWanderer_AD",
+            "body": "That\u2019s what I assumed as well!",
+            "body_html": "<div class=\"md\"><p>That\u2019s what I assumed as well!</p>\n</div>",
+            "created_utc": "2025-03-01 01:20:14",
+            "distinguished": null,
+            "edited": false,
+            "id": "mfcky6y",
+            "is_submitter": true,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mfceo7m",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/jeromymanuel",
+        "body": "Welcome to 6 months ago.",
+        "body_html": "<div class=\"md\"><p>Welcome to 6 months ago.</p>\n</div>",
+        "created_utc": "2025-03-01 03:57:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfdc7rh",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/alltimedoubt_guy",
+        "body": "How you got that diagram. My deepseek says can't provide pictorial stuffs",
+        "body_html": "<div class=\"md\"><p>How you got that diagram. My deepseek says can&#39;t provide pictorial stuffs</p>\n</div>",
+        "created_utc": "2025-03-01 05:35:56",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfdraox",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/AIWanderer_AD",
+            "body": "I'm using Halomate AI where I get multiple models including deepseek that I can choose from. When you enable Advanced Visualization in the chat you will get good diagrams. I use that very often at work.",
+            "body_html": "<div class=\"md\"><p>I&#39;m using Halomate AI where I get multiple models including deepseek that I can choose from. When you enable Advanced Visualization in the chat you will get good diagrams. I use that very often at work.</p>\n</div>",
+            "created_utc": "2025-03-01 07:25:32",
+            "distinguished": null,
+            "edited": false,
+            "id": "mfe5ajk",
+            "is_submitter": true,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mfdraox",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/alltimedoubt_guy",
+                "body": "App or website? Can you send me the link",
+                "body_html": "<div class=\"md\"><p>App or website? Can you send me the link</p>\n</div>",
+                "created_utc": "2025-03-08 01:57:47",
+                "distinguished": null,
+                "edited": false,
+                "id": "mglxn2g",
+                "is_submitter": false,
+                "link_id": "t3_1j09y93",
+                "parent_id": "t1_mfe5ajk",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/AIWanderer_AD",
+                    "body": "it's web: Halomate.ai",
+                    "body_html": "<div class=\"md\"><p>it&#39;s web: Halomate.ai</p>\n</div>",
+                    "created_utc": "2025-03-08 09:58:19",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mgnoa2y",
+                    "is_submitter": true,
+                    "link_id": "t3_1j09y93",
+                    "parent_id": "t1_mglxn2g",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/damienVOG",
+        "body": "Yeah, those are not thinking models",
+        "body_html": "<div class=\"md\"><p>Yeah, those are not thinking models</p>\n</div>",
+        "created_utc": "2025-03-01 14:10:41",
+        "distinguished": null,
+        "edited": false,
+        "id": "mffbv23",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Feeling_Emu177",
+        "body": "Deepseek R1 vs. the not very smart ChatGPT 4o mini \ud83e\udd23\ud83e\udd23\ud83e\udd23. Guys, compare apples with apples not apples with bananas. \ud83e\udd26\u200d\u2642\ufe0f",
+        "body_html": "<div class=\"md\"><p>Deepseek R1 vs. the not very smart ChatGPT 4o mini \ud83e\udd23\ud83e\udd23\ud83e\udd23. Guys, compare apples with apples not apples with bananas. \ud83e\udd26\u200d\u2642\ufe0f</p>\n</div>",
+        "created_utc": "2025-03-01 16:32:16",
+        "distinguished": null,
+        "edited": false,
+        "id": "mffzsw5",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/LostPassenger1743",
+        "body": "Thank goodness the real questions are being answered",
+        "body_html": "<div class=\"md\"><p>Thank goodness the real questions are being answered</p>\n</div>",
+        "created_utc": "2025-03-01 16:57:33",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfg4rav",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Beneficial_Bus9228",
+        "body": "you are lucky, I got \"Server is busy, please try again later\"",
+        "body_html": "<div class=\"md\"><p>you are lucky, I got &quot;Server is busy, please try again later&quot;</p>\n</div>",
+        "created_utc": "2025-03-03 03:41:48",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfptxds",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/AIWanderer_AD",
+            "body": "aha - maybe that's an alternative of saying: \"this question is too simple for me to answer!\" \n\nbtw, i'm using Halomate AI here since my deepseek also says \"try again later\" all the time earlier. But I heard it's getting better lately.",
+            "body_html": "<div class=\"md\"><p>aha - maybe that&#39;s an alternative of saying: &quot;this question is too simple for me to answer!&quot; </p>\n\n<p>btw, i&#39;m using Halomate AI here since my deepseek also says &quot;try again later&quot; all the time earlier. But I heard it&#39;s getting better lately.</p>\n</div>",
+            "created_utc": "2025-03-03 04:51:26",
+            "distinguished": null,
+            "edited": false,
+            "id": "mfq5m6l",
+            "is_submitter": true,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mfptxds",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/InterstellarReddit",
+        "body": "I\u2019m gonna be honest and say it, you all are clowns doing this over and over and over to post on the subreddit.\n\nPlease take time and do something meaningful with your lives and contribute to society. \n\nLeave DeepSeek online for the people that are actually gonna use it for something and not ask it how many r there are in a word.",
+        "body_html": "<div class=\"md\"><p>I\u2019m gonna be honest and say it, you all are clowns doing this over and over and over to post on the subreddit.</p>\n\n<p>Please take time and do something meaningful with your lives and contribute to society. </p>\n\n<p>Leave DeepSeek online for the people that are actually gonna use it for something and not ask it how many r there are in a word.</p>\n</div>",
+        "created_utc": "2025-02-28 17:37:37",
+        "distinguished": null,
+        "edited": false,
+        "id": "mf9xls0",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": -1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/JoyousMadhat",
+            "body": "Omw to ask deepseek about Tiananmen Square",
+            "body_html": "<div class=\"md\"><p>Omw to ask deepseek about Tiananmen Square</p>\n</div>",
+            "created_utc": "2025-02-28 18:16:17",
+            "distinguished": null,
+            "edited": false,
+            "id": "mfa5rn3",
+            "is_submitter": false,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mf9xls0",
+            "score": 0,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/CareerLegitimate7662",
+        "body": "Morons that ask LLMs this shit shouldn\u2019t be allowed internet access",
+        "body_html": "<div class=\"md\"><p>Morons that ask LLMs this shit shouldn\u2019t be allowed internet access</p>\n</div>",
+        "created_utc": "2025-02-28 16:50:13",
+        "distinguished": null,
+        "edited": false,
+        "id": "mf9nr2v",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": -7,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/jrdnmdhl",
+            "body": "There's nothing wrong with asking an LLM this as a means to see how it handles tasks that require analyzing things a at sub-token level. It's a genuinely interesting failure mode of LLMs and genuinely interesting how they (sometimes) work around it.",
+            "body_html": "<div class=\"md\"><p>There&#39;s nothing wrong with asking an LLM this as a means to see how it handles tasks that require analyzing things a at sub-token level. It&#39;s a genuinely interesting failure mode of LLMs and genuinely interesting how they (sometimes) work around it.</p>\n</div>",
+            "created_utc": "2025-02-28 16:53:21",
+            "distinguished": null,
+            "edited": false,
+            "id": "mf9oemc",
+            "is_submitter": false,
+            "link_id": "t3_1j09y93",
+            "parent_id": "t1_mf9nr2v",
+            "score": 8,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Temporary-Chance-801",
+                "body": "I wonder if it knows how much wood a woodchuck would chuck if a woodchuck could chuck wood?",
+                "body_html": "<div class=\"md\"><p>I wonder if it knows how much wood a woodchuck would chuck if a woodchuck could chuck wood?</p>\n</div>",
+                "created_utc": "2025-02-28 17:30:25",
+                "distinguished": null,
+                "edited": false,
+                "id": "mf9w3ro",
+                "is_submitter": false,
+                "link_id": "t3_1j09y93",
+                "parent_id": "t1_mf9oemc",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/No-Pomegranate-5883",
+                    "body": "A woodchuck would chuck how much wood a woodchuck could chuck if a woodchuck could chuck wood. \n\nObviously.",
+                    "body_html": "<div class=\"md\"><p>A woodchuck would chuck how much wood a woodchuck could chuck if a woodchuck could chuck wood. </p>\n\n<p>Obviously.</p>\n</div>",
+                    "created_utc": "2025-02-28 18:07:30",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mfa3wza",
+                    "is_submitter": false,
+                    "link_id": "t3_1j09y93",
+                    "parent_id": "t1_mf9w3ro",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/TheRedditObserver0",
+                    "body": "The question \"How much wood would a woodchuck chuck if a woodchuck could chuck wood?\" is a classic tongue twister and riddle, not meant to have a literal answer. Here's a playful breakdown:\n\nTongue Twister Response:\nThe traditional reply leans into the rhythm and alliteration:\n\"A woodchuck would chuck as much wood as a woodchuck could chuck if a woodchuck could chuck wood.\"\n\nHumorous \"Calculations\":\nSome whimsical answers cite fictional studies, like a tongue-in-cheek \"700 pounds\" figure (often jokingly attributed to wildlife experts). This is purely for fun, as woodchucks (groundhogs) don\u2019t actually chuck wood\u2014they\u2019re busy digging burrows!\n\nLiteral Answer:\nSince woodchucks lack the ability to chuck wood, the answer could simply be:\n\"None\u2014woodchucks don\u2019t chuck wood; they chuck dirt!\"\n\nIn short, the riddle thrives on wordplay, not math. Enjoy the twist of the tongue! \ud83c\udf33\ud83d\udc3e",
+                    "body_html": "<div class=\"md\"><p>The question &quot;How much wood would a woodchuck chuck if a woodchuck could chuck wood?&quot; is a classic tongue twister and riddle, not meant to have a literal answer. Here&#39;s a playful breakdown:</p>\n\n<p>Tongue Twister Response:\nThe traditional reply leans into the rhythm and alliteration:\n&quot;A woodchuck would chuck as much wood as a woodchuck could chuck if a woodchuck could chuck wood.&quot;</p>\n\n<p>Humorous &quot;Calculations&quot;:\nSome whimsical answers cite fictional studies, like a tongue-in-cheek &quot;700 pounds&quot; figure (often jokingly attributed to wildlife experts). This is purely for fun, as woodchucks (groundhogs) don\u2019t actually chuck wood\u2014they\u2019re busy digging burrows!</p>\n\n<p>Literal Answer:\nSince woodchucks lack the ability to chuck wood, the answer could simply be:\n&quot;None\u2014woodchucks don\u2019t chuck wood; they chuck dirt!&quot;</p>\n\n<p>In short, the riddle thrives on wordplay, not math. Enjoy the twist of the tongue! \ud83c\udf33\ud83d\udc3e</p>\n</div>",
+                    "created_utc": "2025-02-28 20:16:26",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mfav8w1",
+                    "is_submitter": false,
+                    "link_id": "t3_1j09y93",
+                    "parent_id": "t1_mf9w3ro",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              },
+              {
+                "author": "u/CareerLegitimate7662",
+                "body": "There was nothing wrong asking this in 2022. There are a million posts of this here, you fucking know what it\u2019s gonna say.",
+                "body_html": "<div class=\"md\"><p>There was nothing wrong asking this in 2022. There are a million posts of this here, you fucking know what it\u2019s gonna say.</p>\n</div>",
+                "created_utc": "2025-02-28 16:54:42",
+                "distinguished": null,
+                "edited": false,
+                "id": "mf9oobw",
+                "is_submitter": false,
+                "link_id": "t3_1j09y93",
+                "parent_id": "t1_mf9oemc",
+                "score": -5,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/jrdnmdhl",
+                    "body": "Lol, this is silly. Many models have come out since 2022. R1 wasn't out in 2022! The result of this test is actually changing.\n\nIs it a boring post because many people have posted this in the last month? Yes. But that wasn't your claim.\n\nYou claimed it was moronic to put this into an LLM and that's just flat out wrong.",
+                    "body_html": "<div class=\"md\"><p>Lol, this is silly. Many models have come out since 2022. R1 wasn&#39;t out in 2022! The result of this test is actually changing.</p>\n\n<p>Is it a boring post because many people have posted this in the last month? Yes. But that wasn&#39;t your claim.</p>\n\n<p>You claimed it was moronic to put this into an LLM and that&#39;s just flat out wrong.</p>\n</div>",
+                    "created_utc": "2025-02-28 16:56:45",
+                    "distinguished": null,
+                    "edited": "2025-02-28 16:58:12",
+                    "id": "mf9p3uu",
+                    "is_submitter": false,
+                    "link_id": "t3_1j09y93",
+                    "parent_id": "t1_mf9oobw",
+                    "score": 8,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/serendipity-DRG",
+        "body": "Stop asking such juvenile questions - you are wasting valuable DeepSeek resources with this kind of nonsense.\n\nThere is nothing of value coming from the DeepSeek answer.\n\nWenfeng please start a subscription service for R2 that includes R1 so the children will stop playing - if it is free it attracts people using DeepSeek as a toy.",
+        "body_html": "<div class=\"md\"><p>Stop asking such juvenile questions - you are wasting valuable DeepSeek resources with this kind of nonsense.</p>\n\n<p>There is nothing of value coming from the DeepSeek answer.</p>\n\n<p>Wenfeng please start a subscription service for R2 that includes R1 so the children will stop playing - if it is free it attracts people using DeepSeek as a toy.</p>\n</div>",
+        "created_utc": "2025-03-01 02:36:25",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfcyj66",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Paner",
+        "body": "I hate tests like this with a passion. \n\nIt's always the same bs, ask 1 question and judge the whole performance of the LLM and conclude that it's good or bad after getting 1 answer. \n\nWhy didn't you try the same prompt 10 times? How many times was it wrong? How many time was it right? I guess we will never know because the very first answer you get is, in your eyes, how the LLM always behaves and how it should be judged. Which is not how any LLM works and now how any real tests are done.",
+        "body_html": "<div class=\"md\"><p>I hate tests like this with a passion. </p>\n\n<p>It&#39;s always the same bs, ask 1 question and judge the whole performance of the LLM and conclude that it&#39;s good or bad after getting 1 answer. </p>\n\n<p>Why didn&#39;t you try the same prompt 10 times? How many times was it wrong? How many time was it right? I guess we will never know because the very first answer you get is, in your eyes, how the LLM always behaves and how it should be judged. Which is not how any LLM works and now how any real tests are done.</p>\n</div>",
+        "created_utc": "2025-03-01 01:39:13",
+        "distinguished": null,
+        "edited": false,
+        "id": "mfcoe4i",
+        "is_submitter": false,
+        "link_id": "t3_1j09y93",
+        "parent_id": "t3_1j09y93",
+        "score": -1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

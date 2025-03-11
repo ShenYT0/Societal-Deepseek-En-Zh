@@ -1,0 +1,91 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1ia6ev7/zuck_right_now/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/BillRevolutionary990",
+      "created_utc": "2025-01-26 06:01:29",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": null,
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 4,
+      "permalink": "/r/DeepSeek/comments/1ia6ev7/zuck_right_now/",
+      "score": 313,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "Zuck right now",
+      "upvote_ratio": 0.99
+    },
+    "comments": [
+      {
+        "author": "u/ogapadoga",
+        "body": "Side project only and for hobby purposes.",
+        "body_html": "<div class=\"md\"><p>Side project only and for hobby purposes.</p>\n</div>",
+        "created_utc": "2025-01-26 12:31:50",
+        "distinguished": null,
+        "edited": false,
+        "id": "m991uv8",
+        "is_submitter": false,
+        "link_id": "t3_1ia6ev7",
+        "parent_id": "t3_1ia6ev7",
+        "score": 9,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Koldcutter",
+        "body": "Necessity is the mother of invention as a real world example",
+        "body_html": "<div class=\"md\"><p>Necessity is the mother of invention as a real world example</p>\n</div>",
+        "created_utc": "2025-01-26 13:49:11",
+        "distinguished": null,
+        "edited": false,
+        "id": "m99an31",
+        "is_submitter": false,
+        "link_id": "t3_1ia6ev7",
+        "parent_id": "t3_1ia6ev7",
+        "score": 6,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Fred-XT",
+        "body": "what he actually says is damn, cant buy that sh\\*\\* and double my stock price anymore",
+        "body_html": "<div class=\"md\"><p>what he actually says is damn, cant buy that sh** and double my stock price anymore</p>\n</div>",
+        "created_utc": "2025-01-26 18:24:56",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9aoi8o",
+        "is_submitter": false,
+        "link_id": "t3_1ia6ev7",
+        "parent_id": "t3_1ia6ev7",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Lht9791",
+        "body": "I wasn\u2019t familiar with that meme so I asked DeepSeek. Deepseek is humble. \ud83e\udd13\n\nhttps://preview.redd.it/tvi4xuo59ffe1.jpeg?width=1920&format=pjpg&auto=webp&s=085aff1bd0590cca8dc6368ead071080e76b97f8",
+        "body_html": "<div class=\"md\"><p>I wasn\u2019t familiar with that meme so I asked DeepSeek. Deepseek is humble. \ud83e\udd13</p>\n\n<p><a href=\"https://preview.redd.it/tvi4xuo59ffe1.jpeg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=085aff1bd0590cca8dc6368ead071080e76b97f8\">https://preview.redd.it/tvi4xuo59ffe1.jpeg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=085aff1bd0590cca8dc6368ead071080e76b97f8</a></p>\n</div>",
+        "created_utc": "2025-01-27 00:24:11",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9ctvad",
+        "is_submitter": false,
+        "link_id": "t3_1ia6ev7",
+        "parent_id": "t3_1ia6ev7",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

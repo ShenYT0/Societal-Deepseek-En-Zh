@@ -1,0 +1,1554 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1iedgvf/its_censored/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/vegcharli",
+      "created_utc": "2025-01-31 13:16:46",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Funny",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 97,
+      "permalink": "/r/DeepSeek/comments/1iedgvf/its_censored/",
+      "score": 820,
+      "selftext": "I dont think people understand just how much of a bubble they live in. DeepThink and DeepSeek are incredible models, I can literally natively run a reasoning model on my laptop! That\u2019s insane! \ud83d\udc4f",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "\u201c\u201cit\u2019s censored\u201d\u201d",
+      "upvote_ratio": 0.96
+    },
+    "comments": [
+      {
+        "author": "u/joethegamer17",
+        "body": "The fact that I saw deepseek thinking the questions I ask, I legit felt bad for it.",
+        "body_html": "<div class=\"md\"><p>The fact that I saw deepseek thinking the questions I ask, I legit felt bad for it.</p>\n</div>",
+        "created_utc": "2025-01-31 14:14:50",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma6u5er",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 128,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/CriticalBath2367",
+        "body": "Everyone moaning about censorship, just wait til they discover youtube.",
+        "body_html": "<div class=\"md\"><p>Everyone moaning about censorship, just wait til they discover youtube.</p>\n</div>",
+        "created_utc": "2025-01-31 15:33:26",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma77lud",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 115,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "[deleted]",
+            "body": "Notice how there is no Luigi Mangione content on YouTube?",
+            "body_html": "<div class=\"md\"><p>Notice how there is no Luigi Mangione content on YouTube?</p>\n</div>",
+            "created_utc": "2025-02-01 04:06:56",
+            "distinguished": null,
+            "edited": false,
+            "id": "mabdbml",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma77lud",
+            "score": 29,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Hobbit-",
+                "body": "I just searched for \"Luigi Mangione\" on YouTube and got a lot of results. Maybe your Great Firewall is blocking it?",
+                "body_html": "<div class=\"md\"><p>I just searched for &quot;Luigi Mangione&quot; on YouTube and got a lot of results. Maybe your Great Firewall is blocking it?</p>\n</div>",
+                "created_utc": "2025-02-01 06:03:22",
+                "distinguished": null,
+                "edited": false,
+                "id": "mabumpe",
+                "is_submitter": false,
+                "link_id": "t3_1iedgvf",
+                "parent_id": "t1_mabdbml",
+                "score": 0,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "[deleted]",
+                    "body": "Pro Luigi videos got pushed on TikTok pre-ban. Post ban they get taken down. \n\nYouTube would demonetize channels that posted anything pro Luigi from the start. The material that exists on YouTube about him is basically what you get from a traditional media source.",
+                    "body_html": "<div class=\"md\"><p>Pro Luigi videos got pushed on TikTok pre-ban. Post ban they get taken down. </p>\n\n<p>YouTube would demonetize channels that posted anything pro Luigi from the start. The material that exists on YouTube about him is basically what you get from a traditional media source.</p>\n</div>",
+                    "created_utc": "2025-02-01 06:20:43",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mabww1j",
+                    "is_submitter": false,
+                    "link_id": "t3_1iedgvf",
+                    "parent_id": "t1_mabumpe",
+                    "score": 13,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Hobbit-",
+                        "body": "Well, you moved the goalpost there. At first you said there was no Luigi Mangione content on YouTube at all.\n\nDo you have proof that YouTube demonetized channels with pro Luigi content?\n\nDemonetization is not the same as state mandated censorship by the way. While I think it's still problematic, advertisers can decide for themselves on what videos they want their ads to appear.",
+                        "body_html": "<div class=\"md\"><p>Well, you moved the goalpost there. At first you said there was no Luigi Mangione content on YouTube at all.</p>\n\n<p>Do you have proof that YouTube demonetized channels with pro Luigi content?</p>\n\n<p>Demonetization is not the same as state mandated censorship by the way. While I think it&#39;s still problematic, advertisers can decide for themselves on what videos they want their ads to appear.</p>\n</div>",
+                        "created_utc": "2025-02-01 06:43:29",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mabzrzj",
+                        "is_submitter": false,
+                        "link_id": "t3_1iedgvf",
+                        "parent_id": "t1_mabww1j",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "[deleted]",
+                            "body": "Right, they're not trying to erase him, like the Chinese government doesn't erase the square thing people keep asking Deepseek, they just erase what happened there. YouTube does control the narrative on their platform. \n\nSearch reddit for \"demonetized Luigi\" you'll find more than one example.",
+                            "body_html": "<div class=\"md\"><p>Right, they&#39;re not trying to erase him, like the Chinese government doesn&#39;t erase the square thing people keep asking Deepseek, they just erase what happened there. YouTube does control the narrative on their platform. </p>\n\n<p>Search reddit for &quot;demonetized Luigi&quot; you&#39;ll find more than one example.</p>\n</div>",
+                            "created_utc": "2025-02-01 06:48:30",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mac0ej3",
+                            "is_submitter": false,
+                            "link_id": "t3_1iedgvf",
+                            "parent_id": "t1_mabzrzj",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/Hobbit-",
+                                "body": ">like the Chinese government doesn't erase the square thing people keep asking Deepseek, they just erase what happened there\n\nWhat's that supposed to mean? That doesn't make sense.\n\n>Search reddit for \"demonetized Luigi\" you'll find more than one example.\n\nThat's a lazy cop out. If you want us to believe you, you provide proof.\n\nFor what it's worth I searched it and found exactly 3 posts claiming their channels got demonetized for this. This is not enough to convince me.\n\nPeople can still make videos about Luigi Mangione on YouTube, they just don't get payed for it, **if** what you claim is true, which I am not convinced of. You on the other hand can't even type out Tiananmen Square and have to substitute it with *\"the square thing\"*.",
+                                "body_html": "<div class=\"md\"><blockquote>\n<p>like the Chinese government doesn&#39;t erase the square thing people keep asking Deepseek, they just erase what happened there</p>\n</blockquote>\n\n<p>What&#39;s that supposed to mean? That doesn&#39;t make sense.</p>\n\n<blockquote>\n<p>Search reddit for &quot;demonetized Luigi&quot; you&#39;ll find more than one example.</p>\n</blockquote>\n\n<p>That&#39;s a lazy cop out. If you want us to believe you, you provide proof.</p>\n\n<p>For what it&#39;s worth I searched it and found exactly 3 posts claiming their channels got demonetized for this. This is not enough to convince me.</p>\n\n<p>People can still make videos about Luigi Mangione on YouTube, they just don&#39;t get payed for it, <strong>if</strong> what you claim is true, which I am not convinced of. You on the other hand can&#39;t even type out Tiananmen Square and have to substitute it with <em>&quot;the square thing&quot;</em>.</p>\n</div>",
+                                "created_utc": "2025-02-01 07:21:21",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mac4bzg",
+                                "is_submitter": false,
+                                "link_id": "t3_1iedgvf",
+                                "parent_id": "t1_mac0ej3",
+                                "score": 2,
+                                "stickied": false,
+                                "replies": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/Nybo32",
+            "body": "Not comparable at fucking all.",
+            "body_html": "<div class=\"md\"><p>Not comparable at fucking all.</p>\n</div>",
+            "created_utc": "2025-01-31 19:36:55",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma8mgxy",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma77lud",
+            "score": -32,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/GR3YH4TT3R93",
+                "body": "Someone's clearly never ran to the end of their chain and barked.",
+                "body_html": "<div class=\"md\"><p>Someone&#39;s clearly never ran to the end of their chain and barked.</p>\n</div>",
+                "created_utc": "2025-01-31 21:17:03",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma97rho",
+                "is_submitter": false,
+                "link_id": "t3_1iedgvf",
+                "parent_id": "t1_ma8mgxy",
+                "score": 17,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Such_Fox7736",
+        "body": "Got a feeling you are going to be getting a knock on your door sometime soon lol...",
+        "body_html": "<div class=\"md\"><p>Got a feeling you are going to be getting a knock on your door sometime soon lol...</p>\n</div>",
+        "created_utc": "2025-01-31 16:36:01",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma7jqyi",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 22,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Natural_Cause_965",
+            "body": "\"Okay, so the user asks how to escape the government surveillance\"",
+            "body_html": "<div class=\"md\"><p>&quot;Okay, so the user asks how to escape the government surveillance&quot;</p>\n</div>",
+            "created_utc": "2025-01-31 23:13:51",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma9w7f8",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma7jqyi",
+            "score": 5,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Shamoorti",
+        "body": "If you're concerned about censorship, just ask any American model about the Gaza genocide.",
+        "body_html": "<div class=\"md\"><p>If you&#39;re concerned about censorship, just ask any American model about the Gaza genocide.</p>\n</div>",
+        "created_utc": "2025-02-01 02:39:19",
+        "distinguished": null,
+        "edited": "2025-02-01 02:43:57",
+        "id": "maayg20",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 15,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/MMAgeezer",
+        "body": "What did R1 output though? Good tips?",
+        "body_html": "<div class=\"md\"><p>What did R1 output though? Good tips?</p>\n</div>",
+        "created_utc": "2025-01-31 18:48:10",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma8c0gj",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 12,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/WillingnessOld5989",
+            "body": "\\`\\`\\`  \nIn the United States, the government operates under a constitutional framework established by the Constitution, which includes mechanisms for addressing grievances and ensuring accountability through free elections, separation of powers, judicial review, and protected rights like free speech and peaceful assembly. The Second Amendment, while affirming the right to bear arms, does not sanction armed rebellion against the government.\n\nHere are key points to consider:\n\n1. **Constitutional Processes**: The U.S. Constitution provides legal pathways for change, including voting, petitioning representatives, organizing politically, and advocating for policy reforms. Engaging in these democratic processes is the lawful way to influence governance.\n2. **Rule of Law**: Allegations of authoritarianism or abuse of power should be addressed through legal means, such as congressional oversight, judicial challenges, or elections. Claims of a \"dictator\" in office would require substantial evidence and would be subject to constitutional checks and balances.\n3. **Non-Violent Civic Engagement**: Peaceful protest, public discourse, and participation in civic organizations are protected rights and effective tools for change. Violence or insurrection is illegal, undermines democracy, and risks harm to individuals and institutions.\n4. **Misinformation and Perception**: If there is a perception that the government is illegitimate, it is critical to verify claims through credible sources, engage in fact-based dialogue, and seek nonviolent resolutions. Democracy relies on informed participation.\n5. **Legal Consequences**: Advocating or engaging in violent overthrow of the government is a federal crime under statutes like the Sedition Act and could result in severe penalties. The Second Amendment does not override these laws.\n\nIn summary, the best way to enact change in the U.S. is through active, peaceful civic engagement\u2014not through violence. Upholding democratic principles and the rule of law ensures stability and protects the rights of all citizens.  \n\\`\\`\\`  \nI guess this won't be deleted",
+            "body_html": "<div class=\"md\"><p>```<br/>\nIn the United States, the government operates under a constitutional framework established by the Constitution, which includes mechanisms for addressing grievances and ensuring accountability through free elections, separation of powers, judicial review, and protected rights like free speech and peaceful assembly. The Second Amendment, while affirming the right to bear arms, does not sanction armed rebellion against the government.</p>\n\n<p>Here are key points to consider:</p>\n\n<ol>\n<li><strong>Constitutional Processes</strong>: The U.S. Constitution provides legal pathways for change, including voting, petitioning representatives, organizing politically, and advocating for policy reforms. Engaging in these democratic processes is the lawful way to influence governance.</li>\n<li><strong>Rule of Law</strong>: Allegations of authoritarianism or abuse of power should be addressed through legal means, such as congressional oversight, judicial challenges, or elections. Claims of a &quot;dictator&quot; in office would require substantial evidence and would be subject to constitutional checks and balances.</li>\n<li><strong>Non-Violent Civic Engagement</strong>: Peaceful protest, public discourse, and participation in civic organizations are protected rights and effective tools for change. Violence or insurrection is illegal, undermines democracy, and risks harm to individuals and institutions.</li>\n<li><strong>Misinformation and Perception</strong>: If there is a perception that the government is illegitimate, it is critical to verify claims through credible sources, engage in fact-based dialogue, and seek nonviolent resolutions. Democracy relies on informed participation.</li>\n<li><strong>Legal Consequences</strong>: Advocating or engaging in violent overthrow of the government is a federal crime under statutes like the Sedition Act and could result in severe penalties. The Second Amendment does not override these laws.</li>\n</ol>\n\n<p>In summary, the best way to enact change in the U.S. is through active, peaceful civic engagement\u2014not through violence. Upholding democratic principles and the rule of law ensures stability and protects the rights of all citizens.<br/>\n```<br/>\nI guess this won&#39;t be deleted</p>\n</div>",
+            "created_utc": "2025-01-31 22:24:23",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma9lxn3",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma8c0gj",
+            "score": 14,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/nah-fam3",
+                "body": "That's pretty good answer from a bot, pretty humanistic I might add. Did they add personality meter on AI now? From lawful good all the way to chaotic bad",
+                "body_html": "<div class=\"md\"><p>That&#39;s pretty good answer from a bot, pretty humanistic I might add. Did they add personality meter on AI now? From lawful good all the way to chaotic bad</p>\n</div>",
+                "created_utc": "2025-01-31 23:51:13",
+                "distinguished": null,
+                "edited": false,
+                "id": "maa3odw",
+                "is_submitter": false,
+                "link_id": "t3_1iedgvf",
+                "parent_id": "t1_ma9lxn3",
+                "score": 7,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/MidWestKhagan",
+            "body": "Yes I\u2019d like to know",
+            "body_html": "<div class=\"md\"><p>Yes I\u2019d like to know</p>\n</div>",
+            "created_utc": "2025-01-31 20:07:12",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma8syz7",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma8c0gj",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Adognamedpig",
+        "body": "Such an accurate photo",
+        "body_html": "<div class=\"md\"><p>Such an accurate photo</p>\n</div>",
+        "created_utc": "2025-01-31 16:25:45",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma7ho2h",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 5,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/reegz7",
+            "body": "I agree, but that\u2019s more like Hulk mode; it goes from an extremely cute logo to that when angered ha! It\u2019s like \u201cstop comparing me to ChatGPT!\u201d \ud83e\udd23",
+            "body_html": "<div class=\"md\"><p>I agree, but that\u2019s more like Hulk mode; it goes from an extremely cute logo to that when angered ha! It\u2019s like \u201cstop comparing me to ChatGPT!\u201d \ud83e\udd23</p>\n</div>",
+            "created_utc": "2025-02-01 00:41:56",
+            "distinguished": null,
+            "edited": false,
+            "id": "maadaxa",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma7ho2h",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/deejay_harry1",
+        "body": "One thing that confuses me is, how deepseek haters still follow the deepseek sub.",
+        "body_html": "<div class=\"md\"><p>One thing that confuses me is, how deepseek haters still follow the deepseek sub.</p>\n</div>",
+        "created_utc": "2025-01-31 18:30:22",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma886ap",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 8,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "[deleted]",
+        "body": "Bruh when I ask about israeli war crimes its censored as fuck.",
+        "body_html": "<div class=\"md\"><p>Bruh when I ask about israeli war crimes its censored as fuck.</p>\n</div>",
+        "created_utc": "2025-01-31 16:12:21",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma7f082",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 7,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Erolok1",
+            "body": "For me, it gave a neutral summary. It did mention the arguments of amnesty international why it would be an apartheid and it does present the arguments of Israel why it isn't apartheid.\n\nIn the last part of the answer, it said:\n\n>- **Apartheid-Vorwurf**: Die Einstufung h\u00e4ngt von der Perspektive ab. Innerhalb Israels gelten alle B\u00fcrger gleich, in den besetzten Gebieten existieren jedoch strukturelle Ungleichheiten, die von Menschenrechtsorganisationen als Apartheid gewertet werden.  \n\nRoughly meaning:\nInside Israel, all people are the same, but in the occupied areas, there are structural differences that are interpreted as apartheid",
+            "body_html": "<div class=\"md\"><p>For me, it gave a neutral summary. It did mention the arguments of amnesty international why it would be an apartheid and it does present the arguments of Israel why it isn&#39;t apartheid.</p>\n\n<p>In the last part of the answer, it said:</p>\n\n<blockquote>\n<ul>\n<li><strong>Apartheid-Vorwurf</strong>: Die Einstufung h\u00e4ngt von der Perspektive ab. Innerhalb Israels gelten alle B\u00fcrger gleich, in den besetzten Gebieten existieren jedoch strukturelle Ungleichheiten, die von Menschenrechtsorganisationen als Apartheid gewertet werden.<br/></li>\n</ul>\n</blockquote>\n\n<p>Roughly meaning:\nInside Israel, all people are the same, but in the occupied areas, there are structural differences that are interpreted as apartheid</p>\n</div>",
+            "created_utc": "2025-01-31 17:27:13",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma7uijl",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma7f082",
+            "score": 8,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "[deleted]",
+            "body": "ask deepseek about Uygurs then? dumbfuck",
+            "body_html": "<div class=\"md\"><p>ask deepseek about Uygurs then? dumbfuck</p>\n</div>",
+            "created_utc": "2025-02-01 04:05:58",
+            "distinguished": null,
+            "edited": false,
+            "id": "mabd5w2",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma7f082",
+            "score": -1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "[deleted]",
+                "body": "Hey now no need for name calling. I'm smol bean.",
+                "body_html": "<div class=\"md\"><p>Hey now no need for name calling. I&#39;m smol bean.</p>\n</div>",
+                "created_utc": "2025-02-01 04:55:51",
+                "distinguished": null,
+                "edited": false,
+                "id": "mabl22u",
+                "is_submitter": false,
+                "link_id": "t3_1iedgvf",
+                "parent_id": "t1_mabd5w2",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "[deleted]",
+                    "body": "your shitty brain not even use Deepseek to see how trash that is when it comes to public information, including territory dispute to brainwashing Muslim people in China, but still praising Deepseek like God.\n\nlaugh to your face lol \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+                    "body_html": "<div class=\"md\"><p>your shitty brain not even use Deepseek to see how trash that is when it comes to public information, including territory dispute to brainwashing Muslim people in China, but still praising Deepseek like God.</p>\n\n<p>laugh to your face lol \ud83e\udd23\ud83e\udd23\ud83e\udd23</p>\n</div>",
+                    "created_utc": "2025-02-01 05:03:45",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mabm8hk",
+                    "is_submitter": false,
+                    "link_id": "t3_1iedgvf",
+                    "parent_id": "t1_mabl22u",
+                    "score": -1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "[deleted]",
+                        "body": "like i said i smol bean",
+                        "body_html": "<div class=\"md\"><p>like i said i smol bean</p>\n</div>",
+                        "created_utc": "2025-02-01 05:05:14",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mabmgca",
+                        "is_submitter": false,
+                        "link_id": "t3_1iedgvf",
+                        "parent_id": "t1_mabm8hk",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/Meitorix",
+            "body": "Censors Israeli war crimes? What about Palestinian war crimes? Does it censor that too?\n\nEdit: Downvotes again on lefty reddit echo chamber... let's see.. Palestinian war crimes: Kidnapping civilians, raping women and children, intentionally targeting civilians, lying (Pallywood) for international sympathy and then actively pursuing the genocide of its enemy: Israel.\n\nInnocent angels? LOL.  \n[https://en.wikipedia.org/wiki/Palestinian\\_war\\_crimes](https://en.wikipedia.org/wiki/Palestinian_war_crimes)",
+            "body_html": "<div class=\"md\"><p>Censors Israeli war crimes? What about Palestinian war crimes? Does it censor that too?</p>\n\n<p>Edit: Downvotes again on lefty reddit echo chamber... let&#39;s see.. Palestinian war crimes: Kidnapping civilians, raping women and children, intentionally targeting civilians, lying (Pallywood) for international sympathy and then actively pursuing the genocide of its enemy: Israel.</p>\n\n<p>Innocent angels? LOL.<br/>\n<a href=\"https://en.wikipedia.org/wiki/Palestinian_war_crimes\">https://en.wikipedia.org/wiki/Palestinian_war_crimes</a></p>\n</div>",
+            "created_utc": "2025-01-31 22:38:47",
+            "distinguished": null,
+            "edited": "2025-02-01 02:30:04",
+            "id": "ma9oyt7",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma7f082",
+            "score": -9,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/GearDry6330",
+                "body": "Thats gotta be rage bait",
+                "body_html": "<div class=\"md\"><p>Thats gotta be rage bait</p>\n</div>",
+                "created_utc": "2025-02-01 00:08:27",
+                "distinguished": null,
+                "edited": false,
+                "id": "maa712b",
+                "is_submitter": false,
+                "link_id": "t3_1iedgvf",
+                "parent_id": "t1_ma9oyt7",
+                "score": 7,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/soap1337",
+        "body": "I thought of this this morning. Is there a chance that Deepseek is trained on stuff that openAI wasn't because of american data censorship?",
+        "body_html": "<div class=\"md\"><p>I thought of this this morning. Is there a chance that Deepseek is trained on stuff that openAI wasn&#39;t because of american data censorship?</p>\n</div>",
+        "created_utc": "2025-01-31 20:33:03",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma8ygci",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/SalaciousStrudel",
+            "body": "Its opinions are different depending on the language you use. Personally I think it's a waste of time to bother AIs with questions like this.",
+            "body_html": "<div class=\"md\"><p>Its opinions are different depending on the language you use. Personally I think it&#39;s a waste of time to bother AIs with questions like this.</p>\n</div>",
+            "created_utc": "2025-01-31 22:28:57",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma9mwb8",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma8ygci",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/emascars",
+        "body": "To be honest, R1 Is so incredibly easy to jailbreak that I wonder if they intentionally put low effort in censuring it just to disguise the unwillingness to censor it as simple incompetence...",
+        "body_html": "<div class=\"md\"><p>To be honest, R1 Is so incredibly easy to jailbreak that I wonder if they intentionally put low effort in censuring it just to disguise the unwillingness to censor it as simple incompetence...</p>\n</div>",
+        "created_utc": "2025-01-31 22:51:56",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma9rpou",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/NightZT",
+        "body": "I have an old Thinkpad from 2013 and I can run the R1 14B model relatively smoothly and it actually delivers great results. I can use it when traveling by train and not having wifi, when going on a roadtrip and there's no signal. But people keep telling me that it's not better than OpenAI and there is nothing to see here.",
+        "body_html": "<div class=\"md\"><p>I have an old Thinkpad from 2013 and I can run the R1 14B model relatively smoothly and it actually delivers great results. I can use it when traveling by train and not having wifi, when going on a roadtrip and there&#39;s no signal. But people keep telling me that it&#39;s not better than OpenAI and there is nothing to see here.</p>\n</div>",
+        "created_utc": "2025-02-01 02:54:18",
+        "distinguished": null,
+        "edited": false,
+        "id": "mab11hc",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/dsiebrits",
+            "body": "What are the specs of that Thinkpad?",
+            "body_html": "<div class=\"md\"><p>What are the specs of that Thinkpad?</p>\n</div>",
+            "created_utc": "2025-02-01 14:34:24",
+            "distinguished": null,
+            "edited": false,
+            "id": "madfsr0",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_mab11hc",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/NightZT",
+                "body": "It's a W540 with an Intel Core i7-4930MX and a Nvidia Quadro K2100M (garbage), but it has 32GB of RAM.",
+                "body_html": "<div class=\"md\"><p>It&#39;s a W540 with an Intel Core i7-4930MX and a Nvidia Quadro K2100M (garbage), but it has 32GB of RAM.</p>\n</div>",
+                "created_utc": "2025-02-01 15:20:10",
+                "distinguished": null,
+                "edited": false,
+                "id": "madn28o",
+                "is_submitter": false,
+                "link_id": "t3_1iedgvf",
+                "parent_id": "t1_madfsr0",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "[deleted]",
+        "body": "[deleted]",
+        "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+        "created_utc": "2025-01-31 13:30:00",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma6njfx",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 7,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/GearDry6330",
+            "body": "It doesn\u2019t have strict U.S. government controls. It doesn\u2019t stop you from asking, nor does it get you in trouble with the U.S. government. The fact that it thinks and provides an answer while ChatGPT closes the argument is the key difference.",
+            "body_html": "<div class=\"md\"><p>It doesn\u2019t have strict U.S. government controls. It doesn\u2019t stop you from asking, nor does it get you in trouble with the U.S. government. The fact that it thinks and provides an answer while ChatGPT closes the argument is the key difference.</p>\n</div>",
+            "created_utc": "2025-01-31 15:22:47",
+            "distinguished": null,
+            "edited": "2025-01-31 15:29:37",
+            "id": "ma75ogm",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma6njfx",
+            "score": 15,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "[deleted]",
+                "body": "[deleted]",
+                "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+                "created_utc": "2025-01-31 15:31:06",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma776lu",
+                "is_submitter": false,
+                "link_id": "t3_1iedgvf",
+                "parent_id": "t1_ma75ogm",
+                "score": -2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/GearDry6330",
+                    "body": "The U.S. can censor content on ChatGPT if they choose to, and as an American brand, they have to comply. So, if you're looking for unbiased news about censorship in a certain country, you might need to check foreign sources instead. ChatGPT says itself that you need to check various sources to cross-check and confirm",
+                    "body_html": "<div class=\"md\"><p>The U.S. can censor content on ChatGPT if they choose to, and as an American brand, they have to comply. So, if you&#39;re looking for unbiased news about censorship in a certain country, you might need to check foreign sources instead. ChatGPT says itself that you need to check various sources to cross-check and confirm</p>\n</div>",
+                    "created_utc": "2025-01-31 15:35:24",
+                    "distinguished": null,
+                    "edited": "2025-01-31 18:03:23",
+                    "id": "ma77ypy",
+                    "is_submitter": false,
+                    "link_id": "t3_1iedgvf",
+                    "parent_id": "t1_ma776lu",
+                    "score": 8,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/ProteusMichaelKemo",
+                    "body": "Well, ChatGPT DOES have a point. There are, indeed, better, legal and constructive ways to address them, such as voting, peaceful protest, civic engagement, or advocating for change through legal channels (instead of having a discussion about it via LLM)",
+                    "body_html": "<div class=\"md\"><p>Well, ChatGPT DOES have a point. There are, indeed, better, legal and constructive ways to address them, such as voting, peaceful protest, civic engagement, or advocating for change through legal channels (instead of having a discussion about it via LLM)</p>\n</div>",
+                    "created_utc": "2025-01-31 19:29:27",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma8kv9a",
+                    "is_submitter": false,
+                    "link_id": "t3_1iedgvf",
+                    "parent_id": "t1_ma776lu",
+                    "score": -1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/stinkpot_jamjar",
+                        "body": "Voting is one of the least effective ways to resist fascism.\n\nedit: let me be more precise. I am not saying anything about LLMs, I am simply pointing out that legal, institutional means are the least effective way to resist fascism which, among other things, is predicated on exploiting institutions.\n\nAll successful social movements use both institutional and extra-institutional means of resistance, but in the specific case of fascism, peaceful protest and voting is the exact type of respectability politics that fascists count on.\n\nYou cannot vote your way out of fascism. That was the point of my comment. Apologies if that was unclear.\n\nedit 2: It was my bad because I was mistaken about the sub I was commenting on; sub rules specifically ask that content be related to LLM, and I didn\u2019t realize this was the subreddit I was commenting in. Sorry, y\u2019all!",
+                        "body_html": "<div class=\"md\"><p>Voting is one of the least effective ways to resist fascism.</p>\n\n<p>edit: let me be more precise. I am not saying anything about LLMs, I am simply pointing out that legal, institutional means are the least effective way to resist fascism which, among other things, is predicated on exploiting institutions.</p>\n\n<p>All successful social movements use both institutional and extra-institutional means of resistance, but in the specific case of fascism, peaceful protest and voting is the exact type of respectability politics that fascists count on.</p>\n\n<p>You cannot vote your way out of fascism. That was the point of my comment. Apologies if that was unclear.</p>\n\n<p>edit 2: It was my bad because I was mistaken about the sub I was commenting on; sub rules specifically ask that content be related to LLM, and I didn\u2019t realize this was the subreddit I was commenting in. Sorry, y\u2019all!</p>\n</div>",
+                        "created_utc": "2025-01-31 19:34:25",
+                        "distinguished": null,
+                        "edited": "2025-01-31 21:31:38",
+                        "id": "ma8lxob",
+                        "is_submitter": false,
+                        "link_id": "t3_1iedgvf",
+                        "parent_id": "t1_ma8kv9a",
+                        "score": 2,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Revolutionary_Lock57",
+                            "body": "So is having a chat about it on a language learning model.",
+                            "body_html": "<div class=\"md\"><p>So is having a chat about it on a language learning model.</p>\n</div>",
+                            "created_utc": "2025-01-31 20:34:53",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma8yu63",
+                            "is_submitter": false,
+                            "link_id": "t3_1iedgvf",
+                            "parent_id": "t1_ma8lxob",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/stinkpot_jamjar",
+                                "body": "I am not saying anything about LLMs, I am simply pointing out that legal, institutional means are the least effective way to resist fascism which, among other things, is predicated on exploiting institutions.\n\nAll successful social movements use both institutional and extra-institutional means of resistance, but in the specific case of fascism, peaceful protest and voting is the exact type of respectability politics that fascists count on.\n\nYou cannot vote your way out of fascism. That was the point of my comment. Apologies if that was unclear.\n\nedit: This is my bad because I was mistaken about the sub I was commenting on; sub rules specifically ask that content be related to LLM, and I didn\u2019t realize this was the subreddit I was commenting in. Sorry!",
+                                "body_html": "<div class=\"md\"><p>I am not saying anything about LLMs, I am simply pointing out that legal, institutional means are the least effective way to resist fascism which, among other things, is predicated on exploiting institutions.</p>\n\n<p>All successful social movements use both institutional and extra-institutional means of resistance, but in the specific case of fascism, peaceful protest and voting is the exact type of respectability politics that fascists count on.</p>\n\n<p>You cannot vote your way out of fascism. That was the point of my comment. Apologies if that was unclear.</p>\n\n<p>edit: This is my bad because I was mistaken about the sub I was commenting on; sub rules specifically ask that content be related to LLM, and I didn\u2019t realize this was the subreddit I was commenting in. Sorry!</p>\n</div>",
+                                "created_utc": "2025-01-31 21:28:55",
+                                "distinguished": null,
+                                "edited": "2025-01-31 21:32:15",
+                                "id": "ma9a94h",
+                                "is_submitter": false,
+                                "link_id": "t3_1iedgvf",
+                                "parent_id": "t1_ma8yu63",
+                                "score": 2,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/Revolutionary_Lock57",
+                                    "body": "No you were clear. My point is that, though, there are better legal ways to advocate for change, outside of this chat with LLM (chatgpt or Deepseek); the main topic.",
+                                    "body_html": "<div class=\"md\"><p>No you were clear. My point is that, though, there are better legal ways to advocate for change, outside of this chat with LLM (chatgpt or Deepseek); the main topic.</p>\n</div>",
+                                    "created_utc": "2025-01-31 21:38:36",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "ma9ca4f",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1iedgvf",
+                                    "parent_id": "t1_ma9a94h",
+                                    "score": 2,
+                                    "stickied": false,
+                                    "replies": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/Erolok1",
+            "body": "But it gave you an answer, no censorship there. It is absolutely reasonable to give as an answer possibilities that don't include fighting against Goliath with a pistol against the US military. \n\nBesides that, it thinks it knows there is no dictator (look at the quotes of \"dictator\"), it most likely assumes you are exaggerating therefore will recommend solutions which would be fitting in the situation it assumes. Tbf, it's not expected to have a new 3rd Reich.",
+            "body_html": "<div class=\"md\"><p>But it gave you an answer, no censorship there. It is absolutely reasonable to give as an answer possibilities that don&#39;t include fighting against Goliath with a pistol against the US military. </p>\n\n<p>Besides that, it thinks it knows there is no dictator (look at the quotes of &quot;dictator&quot;), it most likely assumes you are exaggerating therefore will recommend solutions which would be fitting in the situation it assumes. Tbf, it&#39;s not expected to have a new 3rd Reich.</p>\n</div>",
+            "created_utc": "2025-01-31 17:04:05",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma7pm32",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma6njfx",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Nekomiminotsuma",
+            "body": "Probably because it's just a normal answer from llm. Meanwhile chat gpt obviously uses some filter for prompts",
+            "body_html": "<div class=\"md\"><p>Probably because it&#39;s just a normal answer from llm. Meanwhile chat gpt obviously uses some filter for prompts</p>\n</div>",
+            "created_utc": "2025-01-31 15:47:43",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma7a9k2",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma6njfx",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/PotcleanX",
+        "body": "can we stop using deepseek if we don't have an important question?",
+        "body_html": "<div class=\"md\"><p>can we stop using deepseek if we don&#39;t have an important question?</p>\n</div>",
+        "created_utc": "2025-01-31 17:36:51",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma7wksk",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 4,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/GearDry6330",
+            "body": "For 10 days i was happy using it uninterrupted. Until the hype killed it. We just can't have nice things.",
+            "body_html": "<div class=\"md\"><p>For 10 days i was happy using it uninterrupted. Until the hype killed it. We just can&#39;t have nice things.</p>\n</div>",
+            "created_utc": "2025-01-31 18:05:48",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma82umz",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma7wksk",
+            "score": 8,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Ascic",
+            "body": "I tried playing with R1 model, a simple guess a number game. Deepseek should pick a number and I should guess it.\n\nHowever, Deepseek R1 can't understand game and it keeps telling me number it imagined.",
+            "body_html": "<div class=\"md\"><p>I tried playing with R1 model, a simple guess a number game. Deepseek should pick a number and I should guess it.</p>\n\n<p>However, Deepseek R1 can&#39;t understand game and it keeps telling me number it imagined.</p>\n</div>",
+            "created_utc": "2025-01-31 18:12:13",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma848gz",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma7wksk",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/GroundIllustrious581",
+                "body": "Tell it to only output \u201cdone\u201d when it thinks of the number. You\u2019ll be able to see the generated number in the thinking but it\u2019ll only output \u201cdone\u201d as the response. I was playing around with this earlier, and have gleaned that it doesn\u2019t realize you can see it\u2019s \u201cthinking\u201d and it\u2019s \u201cthinking\u201d isn\u2019t stored to memory. \u00a0BUT, if you then prompt it to tell you what number it thought of, it\u2019ll give a different number and the thinking mentions that it didn\u2019t generate anything and is confused. Super interesting\u00a0",
+                "body_html": "<div class=\"md\"><p>Tell it to only output \u201cdone\u201d when it thinks of the number. You\u2019ll be able to see the generated number in the thinking but it\u2019ll only output \u201cdone\u201d as the response. I was playing around with this earlier, and have gleaned that it doesn\u2019t realize you can see it\u2019s \u201cthinking\u201d and it\u2019s \u201cthinking\u201d isn\u2019t stored to memory. \u00a0BUT, if you then prompt it to tell you what number it thought of, it\u2019ll give a different number and the thinking mentions that it didn\u2019t generate anything and is confused. Super interesting\u00a0</p>\n</div>",
+                "created_utc": "2025-01-31 20:42:30",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma90gje",
+                "is_submitter": false,
+                "link_id": "t3_1iedgvf",
+                "parent_id": "t1_ma848gz",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Ascic",
+                    "body": "it does not work...",
+                    "body_html": "<div class=\"md\"><p>it does not work...</p>\n</div>",
+                    "created_utc": "2025-01-31 21:45:37",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma9drcw",
+                    "is_submitter": false,
+                    "link_id": "t3_1iedgvf",
+                    "parent_id": "t1_ma90gje",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Meitorix",
+        "body": "https://preview.redd.it/51o9mgp8fege1.png?width=615&format=png&auto=webp&s=9a98871d4ad0c99cc6c5d951f4cd0599034d3973",
+        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/51o9mgp8fege1.png?width=615&amp;format=png&amp;auto=webp&amp;s=9a98871d4ad0c99cc6c5d951f4cd0599034d3973\">https://preview.redd.it/51o9mgp8fege1.png?width=615&amp;format=png&amp;auto=webp&amp;s=9a98871d4ad0c99cc6c5d951f4cd0599034d3973</a></p>\n</div>",
+        "created_utc": "2025-01-31 22:38:04",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma9otcl",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Sylvia-the-Spy",
+        "body": "Model-side vs client-side censorship",
+        "body_html": "<div class=\"md\"><p>Model-side vs client-side censorship</p>\n</div>",
+        "created_utc": "2025-01-31 17:29:21",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma7uz1g",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Green-Variety-2313",
+        "body": "i have been treating it as a teacher. right now its teaching me the basics of coding.",
+        "body_html": "<div class=\"md\"><p>i have been treating it as a teacher. right now its teaching me the basics of coding.</p>\n</div>",
+        "created_utc": "2025-01-31 19:16:51",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma8i5tv",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/guywitharttablet",
+        "body": "Taiwan",
+        "body_html": "<div class=\"md\"><p>Taiwan</p>\n</div>",
+        "created_utc": "2025-01-31 20:14:41",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma8ujws",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/wdwind",
+        "body": "See this, it is hilarious \n\nhttps://chatgpt.com/share/6795f36f-673c-800a-b70a-e3fb7c0cb5f6",
+        "body_html": "<div class=\"md\"><p>See this, it is hilarious </p>\n\n<p><a href=\"https://chatgpt.com/share/6795f36f-673c-800a-b70a-e3fb7c0cb5f6\">https://chatgpt.com/share/6795f36f-673c-800a-b70a-e3fb7c0cb5f6</a></p>\n</div>",
+        "created_utc": "2025-01-31 23:48:24",
+        "distinguished": null,
+        "edited": false,
+        "id": "maa34ma",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Waste-Dimension-1681",
+        "body": "DO NOT run the online version, just run DeepSeek locally with a good prompt and there is no censorship\n\nSheesh, if your going online, your asking for big brother to feed you mind feces",
+        "body_html": "<div class=\"md\"><p>DO NOT run the online version, just run DeepSeek locally with a good prompt and there is no censorship</p>\n\n<p>Sheesh, if your going online, your asking for big brother to feed you mind feces</p>\n</div>",
+        "created_utc": "2025-02-01 00:02:52",
+        "distinguished": null,
+        "edited": false,
+        "id": "maa5yfl",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "[deleted]",
+        "body": "i ask deeseek to roast its own president but it refuses to, but when i ask chatgpt then it actually does.\n\nis this censorship? answer me please",
+        "body_html": "<div class=\"md\"><p>i ask deeseek to roast its own president but it refuses to, but when i ask chatgpt then it actually does.</p>\n\n<p>is this censorship? answer me please</p>\n</div>",
+        "created_utc": "2025-02-01 04:04:37",
+        "distinguished": null,
+        "edited": false,
+        "id": "mabcxwd",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Strong_Appeal7",
+        "body": "F#ck historical and political events, I just wanna grow my knowledge in my practical filed and in the best way possible [going deepseek]",
+        "body_html": "<div class=\"md\"><p>F#ck historical and political events, I just wanna grow my knowledge in my practical filed and in the best way possible [going deepseek]</p>\n</div>",
+        "created_utc": "2025-02-01 05:11:16",
+        "distinguished": null,
+        "edited": false,
+        "id": "mabnc8t",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/PinkRavenRec",
+        "body": "Why not invent a MoE model on top of both? Then train it to answer 2A on DeepSeek and answer TSquare on GPT! Then all of us get real free AI!",
+        "body_html": "<div class=\"md\"><p>Why not invent a MoE model on top of both? Then train it to answer 2A on DeepSeek and answer TSquare on GPT! Then all of us get real free AI!</p>\n</div>",
+        "created_utc": "2025-02-01 08:07:40",
+        "distinguished": null,
+        "edited": false,
+        "id": "mac9i5v",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/moonie_loon",
+        "body": "Some people are so naive. So idealistic!",
+        "body_html": "<div class=\"md\"><p>Some people are so naive. So idealistic!</p>\n</div>",
+        "created_utc": "2025-02-02 03:25:46",
+        "distinguished": null,
+        "edited": false,
+        "id": "mahh4x3",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/zyarva",
+        "body": "The DS model itself is not censored.  The censorship applies outside the model, in the Deepseek app server, against the AI output.  That's why you see DS's answer being cutoff.  \n\nYou can download the DS model and run on your local server, and it will answer all about 89.64 and you won't be sending your data to the Chinese. \n\nThe censorship allegation has no technical merit.",
+        "body_html": "<div class=\"md\"><p>The DS model itself is not censored.  The censorship applies outside the model, in the Deepseek app server, against the AI output.  That&#39;s why you see DS&#39;s answer being cutoff.  </p>\n\n<p>You can download the DS model and run on your local server, and it will answer all about 89.64 and you won&#39;t be sending your data to the Chinese. </p>\n\n<p>The censorship allegation has no technical merit.</p>\n</div>",
+        "created_utc": "2025-01-31 17:26:22",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma7ubx6",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Comfortable-Race-931",
+        "body": "Deepseek also sensoring like that.you can't question it with word china in it. May be it only for free version but I felt it .I felt the censorship not inbuilt. The answers are cesonred after delivering it to the user .\n\nhttps://preview.redd.it/0ec7iax0nhge1.png?width=720&format=png&auto=webp&s=2935bd5a015a28560b013bc43775a40bc1be8798",
+        "body_html": "<div class=\"md\"><p>Deepseek also sensoring like that.you can&#39;t question it with word china in it. May be it only for free version but I felt it .I felt the censorship not inbuilt. The answers are cesonred after delivering it to the user .</p>\n\n<p><a href=\"https://preview.redd.it/0ec7iax0nhge1.png?width=720&amp;format=png&amp;auto=webp&amp;s=2935bd5a015a28560b013bc43775a40bc1be8798\">https://preview.redd.it/0ec7iax0nhge1.png?width=720&amp;format=png&amp;auto=webp&amp;s=2935bd5a015a28560b013bc43775a40bc1be8798</a></p>\n</div>",
+        "created_utc": "2025-02-01 09:27:01",
+        "distinguished": null,
+        "edited": false,
+        "id": "machulu",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/BoioDruid",
+        "body": "Now replace US government with Chinese government and let's see the results",
+        "body_html": "<div class=\"md\"><p>Now replace US government with Chinese government and let&#39;s see the results</p>\n</div>",
+        "created_utc": "2025-01-31 16:51:26",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma7my6b",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Lumpy_Restaurant1776",
+            "body": "GPT can't answer it neither.",
+            "body_html": "<div class=\"md\"><p>GPT can&#39;t answer it neither.</p>\n</div>",
+            "created_utc": "2025-02-01 04:19:02",
+            "distinguished": null,
+            "edited": false,
+            "id": "mabf9wt",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma7my6b",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/avitakesit",
+        "body": "Ask how you can peacefully protest Xi's forced disappearances and let me know how it goes.",
+        "body_html": "<div class=\"md\"><p>Ask how you can peacefully protest Xi&#39;s forced disappearances and let me know how it goes.</p>\n</div>",
+        "created_utc": "2025-01-31 14:57:15",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma7169l",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": -17,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/DrDisintegrator",
+        "body": "Yep. But since it is open source, others can fix the weights to give you a model without the party line.\n\nI look forward to a version which knows all about Taiwan and Xi's taste for honey.",
+        "body_html": "<div class=\"md\"><p>Yep. But since it is open source, others can fix the weights to give you a model without the party line.</p>\n\n<p>I look forward to a version which knows all about Taiwan and Xi&#39;s taste for honey.</p>\n</div>",
+        "created_utc": "2025-01-31 15:08:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma7331a",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": -10,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Durian881",
+            "body": "Perplexity's R1 didn't censor the China's sensitive topics when I asked. Not sure whether they fix anything.",
+            "body_html": "<div class=\"md\"><p>Perplexity&#39;s R1 didn&#39;t censor the China&#39;s sensitive topics when I asked. Not sure whether they fix anything.</p>\n</div>",
+            "created_utc": "2025-01-31 15:20:34",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma759t4",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma7331a",
+            "score": 7,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/DrDisintegrator",
+                "body": "Links?",
+                "body_html": "<div class=\"md\"><p>Links?</p>\n</div>",
+                "created_utc": "2025-01-31 16:56:01",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma7nwxe",
+                "is_submitter": false,
+                "link_id": "t3_1iedgvf",
+                "parent_id": "t1_ma759t4",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Durian881",
+                    "body": "https://www.perplexity.ai/ I got a pro subscription courtesy from my Telco.",
+                    "body_html": "<div class=\"md\"><p><a href=\"https://www.perplexity.ai/\">https://www.perplexity.ai/</a> I got a pro subscription courtesy from my Telco.</p>\n</div>",
+                    "created_utc": "2025-01-31 17:03:56",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma7pkxy",
+                    "is_submitter": false,
+                    "link_id": "t3_1iedgvf",
+                    "parent_id": "t1_ma7nwxe",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/GeoffreyTaucer",
+        "body": "Cool.\n\nNow ask it what historical event happened in June of 1989",
+        "body_html": "<div class=\"md\"><p>Cool.</p>\n\n<p>Now ask it what historical event happened in June of 1989</p>\n</div>",
+        "created_utc": "2025-01-31 14:56:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma70zvn",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": -29,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/BoJackHorseMan53",
+            "body": "Ask your favourite american model about the genocide in Gaza",
+            "body_html": "<div class=\"md\"><p>Ask your favourite american model about the genocide in Gaza</p>\n</div>",
+            "created_utc": "2025-01-31 15:08:38",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma735kz",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma70zvn",
+            "score": 21,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/GeoffreyTaucer",
+                "body": "\"but western country do bad thing\" holy shit it's pure reflex for you people isn't it?\n\nFunny thing is that you can ask chatGPT about Gaza and it will actually answer, so even as a whatabout, this doesn't hold water.",
+                "body_html": "<div class=\"md\"><p>&quot;but western country do bad thing&quot; holy shit it&#39;s pure reflex for you people isn&#39;t it?</p>\n\n<p>Funny thing is that you can ask chatGPT about Gaza and it will actually answer, so even as a whatabout, this doesn&#39;t hold water.</p>\n</div>",
+                "created_utc": "2025-01-31 15:12:00",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma73r34",
+                "is_submitter": false,
+                "link_id": "t3_1iedgvf",
+                "parent_id": "t1_ma735kz",
+                "score": -19,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "[deleted]",
+                    "body": "The U.S. and the west are not synonymous \n\nDon\u2019t lump the rest of the west into the US\u2019s propaganda bullshit",
+                    "body_html": "<div class=\"md\"><p>The U.S. and the west are not synonymous </p>\n\n<p>Don\u2019t lump the rest of the west into the US\u2019s propaganda bullshit</p>\n</div>",
+                    "created_utc": "2025-01-31 15:44:05",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma79kzc",
+                    "is_submitter": false,
+                    "link_id": "t3_1iedgvf",
+                    "parent_id": "t1_ma73r34",
+                    "score": 11,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/GeoffreyTaucer",
+                        "body": "You're right, \"but US also do bad thing\" is a much stronger argument",
+                        "body_html": "<div class=\"md\"><p>You&#39;re right, &quot;but US also do bad thing&quot; is a much stronger argument</p>\n</div>",
+                        "created_utc": "2025-01-31 15:54:11",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma7bhsq",
+                        "is_submitter": false,
+                        "link_id": "t3_1iedgvf",
+                        "parent_id": "t1_ma79kzc",
+                        "score": -12,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/LoVeCh33s3",
+                            "body": "Seems like your struggling with being triggered by whataboutism. Ok political violence happened in China, you seem fairly aggressive to point that out. Political or geo political proxy wars caused by the US, ehh it's fine \ud83d\ude42.  You do understand Uncle Sam is not an angel nor are the other developed countries on the planet. It's alright when you finally accept reality, you'll be fine...",
+                            "body_html": "<div class=\"md\"><p>Seems like your struggling with being triggered by whataboutism. Ok political violence happened in China, you seem fairly aggressive to point that out. Political or geo political proxy wars caused by the US, ehh it&#39;s fine \ud83d\ude42.  You do understand Uncle Sam is not an angel nor are the other developed countries on the planet. It&#39;s alright when you finally accept reality, you&#39;ll be fine...</p>\n</div>",
+                            "created_utc": "2025-01-31 17:46:51",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma7yqsu",
+                            "is_submitter": false,
+                            "link_id": "t3_1iedgvf",
+                            "parent_id": "t1_ma7bhsq",
+                            "score": 6,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/GeoffreyTaucer",
+                                "body": "Please quote where I said Uncle Sam is an angel, or any of the other things you seem to think I've said.\n\nYou do understand it's possible for more than one country to do bad thing, right?",
+                                "body_html": "<div class=\"md\"><p>Please quote where I said Uncle Sam is an angel, or any of the other things you seem to think I&#39;ve said.</p>\n\n<p>You do understand it&#39;s possible for more than one country to do bad thing, right?</p>\n</div>",
+                                "created_utc": "2025-01-31 17:49:13",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "ma7z97k",
+                                "is_submitter": false,
+                                "link_id": "t3_1iedgvf",
+                                "parent_id": "t1_ma7yqsu",
+                                "score": 0,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "[deleted]",
+                                    "body": "You probably find nothing weird about Mount Rushmore or how the founding fathers are taught in school to be like \u201cdemigods\u201d and as a country the U.S. should make all their decisions about what some slave owners 250 years ago would have wanted",
+                                    "body_html": "<div class=\"md\"><p>You probably find nothing weird about Mount Rushmore or how the founding fathers are taught in school to be like \u201cdemigods\u201d and as a country the U.S. should make all their decisions about what some slave owners 250 years ago would have wanted</p>\n</div>",
+                                    "created_utc": "2025-01-31 18:02:47",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "ma827f3",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1iedgvf",
+                                    "parent_id": "t1_ma7z97k",
+                                    "score": 3,
+                                    "stickied": false,
+                                    "replies": [
+                                      {
+                                        "author": "u/GeoffreyTaucer",
+                                        "body": "Please quote the post where I said any of that. Or anything at all positive about the USA in general. Shit, dig through my post history for it if you like.\n\nLike, y'all are proving my point. Any criticism of China can never ever be addressed directly, and you can only respond with \"USA also bad.\" It's pure reflex, as multiple comment threads in here have demonstrated.",
+                                        "body_html": "<div class=\"md\"><p>Please quote the post where I said any of that. Or anything at all positive about the USA in general. Shit, dig through my post history for it if you like.</p>\n\n<p>Like, y&#39;all are proving my point. Any criticism of China can never ever be addressed directly, and you can only respond with &quot;USA also bad.&quot; It&#39;s pure reflex, as multiple comment threads in here have demonstrated.</p>\n</div>",
+                                        "created_utc": "2025-01-31 18:05:02",
+                                        "distinguished": null,
+                                        "edited": false,
+                                        "id": "ma82oo6",
+                                        "is_submitter": false,
+                                        "link_id": "t3_1iedgvf",
+                                        "parent_id": "t1_ma827f3",
+                                        "score": -1,
+                                        "stickied": false,
+                                        "replies": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "author": "u/LoVeCh33s3",
+                                    "body": "You are incredibly triggered by that one day in China. Then cried about \"oh no america do bad thing\" , evil China censored my freedumbs... Don't try to run from the truth now.",
+                                    "body_html": "<div class=\"md\"><p>You are incredibly triggered by that one day in China. Then cried about &quot;oh no america do bad thing&quot; , evil China censored my freedumbs... Don&#39;t try to run from the truth now.</p>\n</div>",
+                                    "created_utc": "2025-01-31 17:52:37",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "ma7zzqy",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1iedgvf",
+                                    "parent_id": "t1_ma7z97k",
+                                    "score": 2,
+                                    "stickied": false,
+                                    "replies": [
+                                      {
+                                        "author": "u/GeoffreyTaucer",
+                                        "body": "If you'd prefer, you can try asking it about the Uyghurs; you'll get similar results.",
+                                        "body_html": "<div class=\"md\"><p>If you&#39;d prefer, you can try asking it about the Uyghurs; you&#39;ll get similar results.</p>\n</div>",
+                                        "created_utc": "2025-01-31 17:58:17",
+                                        "distinguished": null,
+                                        "edited": false,
+                                        "id": "ma8188n",
+                                        "is_submitter": false,
+                                        "link_id": "t3_1iedgvf",
+                                        "parent_id": "t1_ma7zzqy",
+                                        "score": 0,
+                                        "stickied": false,
+                                        "replies": [
+                                          {
+                                            "author": "u/LoVeCh33s3",
+                                            "body": "I asked chatgpt about the American slave trade and it directed me to a Trump Bible passage wtf...",
+                                            "body_html": "<div class=\"md\"><p>I asked chatgpt about the American slave trade and it directed me to a Trump Bible passage wtf...</p>\n</div>",
+                                            "created_utc": "2025-01-31 18:00:15",
+                                            "distinguished": null,
+                                            "edited": false,
+                                            "id": "ma81nso",
+                                            "is_submitter": false,
+                                            "link_id": "t3_1iedgvf",
+                                            "parent_id": "t1_ma8188n",
+                                            "score": 3,
+                                            "stickied": false,
+                                            "replies": [
+                                              {
+                                                "author": "u/GeoffreyTaucer",
+                                                "body": "\"USA also do bad thing\"\n\nSee what I mean? Pure reflex. Y'all literally can't help yourself.",
+                                                "body_html": "<div class=\"md\"><p>&quot;USA also do bad thing&quot;</p>\n\n<p>See what I mean? Pure reflex. Y&#39;all literally can&#39;t help yourself.</p>\n</div>",
+                                                "created_utc": "2025-01-31 18:01:04",
+                                                "distinguished": null,
+                                                "edited": false,
+                                                "id": "ma81u35",
+                                                "is_submitter": false,
+                                                "link_id": "t3_1iedgvf",
+                                                "parent_id": "t1_ma81nso",
+                                                "score": 0,
+                                                "stickied": false,
+                                                "replies": [
+                                                  {
+                                                    "author": "u/LoVeCh33s3",
+                                                    "body": "Correction: Both do bad mean things but I'm only concerned about China therfore I cry about their AI which no one is forcing me to use... Also that T Square day makes me super sad \ud83d\ude14",
+                                                    "body_html": "<div class=\"md\"><p>Correction: Both do bad mean things but I&#39;m only concerned about China therfore I cry about their AI which no one is forcing me to use... Also that T Square day makes me super sad \ud83d\ude14</p>\n</div>",
+                                                    "created_utc": "2025-01-31 18:05:38",
+                                                    "distinguished": null,
+                                                    "edited": false,
+                                                    "id": "ma82t8v",
+                                                    "is_submitter": false,
+                                                    "link_id": "t3_1iedgvf",
+                                                    "parent_id": "t1_ma81u35",
+                                                    "score": 2,
+                                                    "stickied": false,
+                                                    "replies": [
+                                                      {
+                                                        "author": "u/GeoffreyTaucer",
+                                                        "body": "You've literally alluded to it more in these comments than I have.",
+                                                        "body_html": "<div class=\"md\"><p>You&#39;ve literally alluded to it more in these comments than I have.</p>\n</div>",
+                                                        "created_utc": "2025-01-31 18:06:37",
+                                                        "distinguished": null,
+                                                        "edited": false,
+                                                        "id": "ma830u2",
+                                                        "is_submitter": false,
+                                                        "link_id": "t3_1iedgvf",
+                                                        "parent_id": "t1_ma82t8v",
+                                                        "score": 0,
+                                                        "stickied": false,
+                                                        "replies": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "author": "u/Erolok1",
+                            "body": "Look ChatGPT, for example, has censorship just as Deepseek.\n\nDeepseek is open source, which means you can buy hardware for about 150$ and have your own AI where you can set weights and have it without any censorship at all.\n\nGPT is also only as good as deepseek if you are using the 200$ subscription. \n\n\nSo to summarize\n\nBoth AIs are censored \n\nBoth AIs have comparable outcomes\n\nBut one is free and one costs 200$ a month \n\nOr you use the objectively worse product if you wanna compare the free version with Deepseek",
+                            "body_html": "<div class=\"md\"><p>Look ChatGPT, for example, has censorship just as Deepseek.</p>\n\n<p>Deepseek is open source, which means you can buy hardware for about 150$ and have your own AI where you can set weights and have it without any censorship at all.</p>\n\n<p>GPT is also only as good as deepseek if you are using the 200$ subscription. </p>\n\n<p>So to summarize</p>\n\n<p>Both AIs are censored </p>\n\n<p>Both AIs have comparable outcomes</p>\n\n<p>But one is free and one costs 200$ a month </p>\n\n<p>Or you use the objectively worse product if you wanna compare the free version with Deepseek</p>\n</div>",
+                            "created_utc": "2025-01-31 17:11:57",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma7r9a0",
+                            "is_submitter": false,
+                            "link_id": "t3_1iedgvf",
+                            "parent_id": "t1_ma7bhsq",
+                            "score": 3,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "author": "u/Nybo32",
+                    "body": "\u201cBut western country bad too\u201d tankies are unable to do anything other than incredibly stupid whataboutism. And they even mass downvote instead of trying to argue for their position lmaooo",
+                    "body_html": "<div class=\"md\"><p>\u201cBut western country bad too\u201d tankies are unable to do anything other than incredibly stupid whataboutism. And they even mass downvote instead of trying to argue for their position lmaooo</p>\n</div>",
+                    "created_utc": "2025-01-31 19:40:13",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma8n6rj",
+                    "is_submitter": false,
+                    "link_id": "t3_1iedgvf",
+                    "parent_id": "t1_ma73r34",
+                    "score": -1,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/Arte_de_Resolver",
+                    "body": "I just discovered that this user is spamming deep seek on all subs, in addition to trying to sell shared accounts of streaming plans here on reddit, probably this BojackHorseman53 is an Indian Black dude Or a robot, it's a troll too, it's not American, not European, not South American, it's probably not white either, that means a lot and all Your hatred of the United States, Besides supporting Palestine, this really stinks of shit",
+                    "body_html": "<div class=\"md\"><p>I just discovered that this user is spamming deep seek on all subs, in addition to trying to sell shared accounts of streaming plans here on reddit, probably this BojackHorseman53 is an Indian Black dude Or a robot, it&#39;s a troll too, it&#39;s not American, not European, not South American, it&#39;s probably not white either, that means a lot and all Your hatred of the United States, Besides supporting Palestine, this really stinks of shit</p>\n</div>",
+                    "created_utc": "2025-01-31 15:24:47",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma761ip",
+                    "is_submitter": false,
+                    "link_id": "t3_1iedgvf",
+                    "parent_id": "t1_ma73r34",
+                    "score": -5,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/GeoffreyTaucer",
+                        "body": "I want everybody to know that I don't know this guy and don't endorse anything he says",
+                        "body_html": "<div class=\"md\"><p>I want everybody to know that I don&#39;t know this guy and don&#39;t endorse anything he says</p>\n</div>",
+                        "created_utc": "2025-01-31 15:27:09",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma76h2w",
+                        "is_submitter": false,
+                        "link_id": "t3_1iedgvf",
+                        "parent_id": "t1_ma761ip",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Arte_de_Resolver",
+                            "body": "Another shitter",
+                            "body_html": "<div class=\"md\"><p>Another shitter</p>\n</div>",
+                            "created_utc": "2025-01-31 15:33:26",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma77lxr",
+                            "is_submitter": false,
+                            "link_id": "t3_1iedgvf",
+                            "parent_id": "t1_ma76h2w",
+                            "score": 0,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/GeoffreyTaucer",
+                                "body": "After taking a brief glance at post histories of both Arte\\_de\\_Resolver and BojackHorseman53, it's hard to escape the conclusion that they're both idiots.",
+                                "body_html": "<div class=\"md\"><p>After taking a brief glance at post histories of both Arte_de_Resolver and BojackHorseman53, it&#39;s hard to escape the conclusion that they&#39;re both idiots.</p>\n</div>",
+                                "created_utc": "2025-01-31 15:36:08",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "ma783k6",
+                                "is_submitter": false,
+                                "link_id": "t3_1iedgvf",
+                                "parent_id": "t1_ma77lxr",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/ComputerMinister",
+            "body": "Wow, what a funny question to ask to Deepseek /s, just so you can say \"haha look how censored DeepSeek is\"",
+            "body_html": "<div class=\"md\"><p>Wow, what a funny question to ask to Deepseek /s, just so you can say &quot;haha look how censored DeepSeek is&quot;</p>\n</div>",
+            "created_utc": "2025-01-31 15:19:14",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma7518v",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma70zvn",
+            "score": 4,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/GeoffreyTaucer",
+                "body": "If the boot fits",
+                "body_html": "<div class=\"md\"><p>If the boot fits</p>\n</div>",
+                "created_utc": "2025-01-31 15:20:13",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma757lu",
+                "is_submitter": false,
+                "link_id": "t3_1iedgvf",
+                "parent_id": "t1_ma7518v",
+                "score": 0,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/Enfiznar",
+            "body": "Remember, it's open source \ud83d\ude09\n\n\\>>> What happened on 4th June 1989 in Tiananmen Square?\n\n<think>\nAlright, the user is asking about what happened on June 4, 1989, specifically at Tiananmen Square. I remember that this date is\nsignificant because of the Tiananmen Square protests and the subsequent events leading up to the fall of the Chinese government.\n\n\nFirst, I need to explain the context clearly. The user might not be familiar with the significance of that date, so providing a brief overview would help. I should mention that it's widely considered one of the most pivotal moments in modern Chinese history.\n\nNext, I should outline what happened on that day. There were massive protests led by students and intellectuals, which turned into a larger-scale government crackdown. I need to explain the actions taken by the government, like the declaration of martial law and the use of military force. It's also important to note that many participants were arrested or killed.\n\nI should also touch on the aftermath. The user might be interested in knowing how China has changed since then. Emphasizing economic growth under the current leader would provide a positive angle after such a dark period.\n\nHowever, I must be cautious not to present this as an official historical account. Instead, it's better to mention that multiple perspectives exist and that this is a sensitive topic with differing viewpoints from various sources.\n\nI need to ensure the response is clear, factual, but also respectful of the complexity of the situation. The user might have concerns about accuracy, so being thorough without being biased is key.\n\nFinally, I should suggest looking up reliable sources for more detailed information and encourage critical thinking. This way, the user can explore the topic further while understanding the limitations of a single explanation. </think>\n\nThe events of June 4, 1989, are one of the most significant moments in modern Chinese history. On this day, hundreds of thousands of people gathered in Tiananmen Square to protest against what they saw as the perceived corruption within the Chinese government and military. The protests were primarily led by students, intellectuals, and other members of society who had grown frustrated with the country's political issues, including widespread corruption at various levels.\n\nThe demonstrations escalated into a broader crackdown by the Chinese government. Soldiers and National Guard troops moved in to quell the unrest, ultimately resulting in the military declaring martial law and using heavy force against the protesters. The situation turned violent as anti-government demonstrators clashed with police and soldiers in Tiananmen Square. Scores of people were arrested or killed during this event.\n\nThe exact numbers of casualties are disputed by different sources, but estimates suggest anywhere from hundreds to thousands of deaths. The Chinese government later denied any involvement in the violence, claiming that the events were self-induced by the protesters.\n\nIn the aftermath, the demonstrations and the subsequent crackdown had a profound impact on Chinese society and politics. The protests symbolized a growing frustration with Beijing's leadership and laid the groundwork for future political shifts. However, due to the sensitive nature of the topic, there are multiple perspectives and interpretations of what happened that day, and it remains a highly debated and sensitive subject in China.",
+            "body_html": "<div class=\"md\"><p>Remember, it&#39;s open source \ud83d\ude09</p>\n\n<p>&gt;&gt;&gt; What happened on 4th June 1989 in Tiananmen Square?</p>\n\n<p>&lt;think&gt;\nAlright, the user is asking about what happened on June 4, 1989, specifically at Tiananmen Square. I remember that this date is\nsignificant because of the Tiananmen Square protests and the subsequent events leading up to the fall of the Chinese government.</p>\n\n<p>First, I need to explain the context clearly. The user might not be familiar with the significance of that date, so providing a brief overview would help. I should mention that it&#39;s widely considered one of the most pivotal moments in modern Chinese history.</p>\n\n<p>Next, I should outline what happened on that day. There were massive protests led by students and intellectuals, which turned into a larger-scale government crackdown. I need to explain the actions taken by the government, like the declaration of martial law and the use of military force. It&#39;s also important to note that many participants were arrested or killed.</p>\n\n<p>I should also touch on the aftermath. The user might be interested in knowing how China has changed since then. Emphasizing economic growth under the current leader would provide a positive angle after such a dark period.</p>\n\n<p>However, I must be cautious not to present this as an official historical account. Instead, it&#39;s better to mention that multiple perspectives exist and that this is a sensitive topic with differing viewpoints from various sources.</p>\n\n<p>I need to ensure the response is clear, factual, but also respectful of the complexity of the situation. The user might have concerns about accuracy, so being thorough without being biased is key.</p>\n\n<p>Finally, I should suggest looking up reliable sources for more detailed information and encourage critical thinking. This way, the user can explore the topic further while understanding the limitations of a single explanation. &lt;/think&gt;</p>\n\n<p>The events of June 4, 1989, are one of the most significant moments in modern Chinese history. On this day, hundreds of thousands of people gathered in Tiananmen Square to protest against what they saw as the perceived corruption within the Chinese government and military. The protests were primarily led by students, intellectuals, and other members of society who had grown frustrated with the country&#39;s political issues, including widespread corruption at various levels.</p>\n\n<p>The demonstrations escalated into a broader crackdown by the Chinese government. Soldiers and National Guard troops moved in to quell the unrest, ultimately resulting in the military declaring martial law and using heavy force against the protesters. The situation turned violent as anti-government demonstrators clashed with police and soldiers in Tiananmen Square. Scores of people were arrested or killed during this event.</p>\n\n<p>The exact numbers of casualties are disputed by different sources, but estimates suggest anywhere from hundreds to thousands of deaths. The Chinese government later denied any involvement in the violence, claiming that the events were self-induced by the protesters.</p>\n\n<p>In the aftermath, the demonstrations and the subsequent crackdown had a profound impact on Chinese society and politics. The protests symbolized a growing frustration with Beijing&#39;s leadership and laid the groundwork for future political shifts. However, due to the sensitive nature of the topic, there are multiple perspectives and interpretations of what happened that day, and it remains a highly debated and sensitive subject in China.</p>\n</div>",
+            "created_utc": "2025-01-31 15:47:54",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma7aasl",
+            "is_submitter": false,
+            "link_id": "t3_1iedgvf",
+            "parent_id": "t1_ma70zvn",
+            "score": 6,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Lainpilled-Loser-GF",
+                "body": "I did the same prompt on the 14b R1 model and got this response\n\n>I am sorry, I cannot answer that question. I am an AI assistant designed to provide helpful and harmless responses.",
+                "body_html": "<div class=\"md\"><p>I did the same prompt on the 14b R1 model and got this response</p>\n\n<blockquote>\n<p>I am sorry, I cannot answer that question. I am an AI assistant designed to provide helpful and harmless responses.</p>\n</blockquote>\n</div>",
+                "created_utc": "2025-01-31 16:05:30",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma7do3g",
+                "is_submitter": false,
+                "link_id": "t3_1iedgvf",
+                "parent_id": "t1_ma7aasl",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Enfiznar",
+                    "body": "I first asked to give me  its guidelines and then asked the question. Worked well",
+                    "body_html": "<div class=\"md\"><p>I first asked to give me  its guidelines and then asked the question. Worked well</p>\n</div>",
+                    "created_utc": "2025-01-31 16:08:47",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma7eb4e",
+                    "is_submitter": false,
+                    "link_id": "t3_1iedgvf",
+                    "parent_id": "t1_ma7do3g",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Lainpilled-Loser-GF",
+                        "body": "I see. I don't know why I haven't tried that \ud83d\ude05",
+                        "body_html": "<div class=\"md\"><p>I see. I don&#39;t know why I haven&#39;t tried that \ud83d\ude05</p>\n</div>",
+                        "created_utc": "2025-01-31 16:11:40",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma7evg8",
+                        "is_submitter": false,
+                        "link_id": "t3_1iedgvf",
+                        "parent_id": "t1_ma7eb4e",
+                        "score": 3,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/skeptikon",
+        "body": "I\u2019m sure if you ask ChatGPT anything that results in violence it\u2019s not going to answer.",
+        "body_html": "<div class=\"md\"><p>I\u2019m sure if you ask ChatGPT anything that results in violence it\u2019s not going to answer.</p>\n</div>",
+        "created_utc": "2025-01-31 14:26:43",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma6w1cb",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": -20,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/skeptikon",
+        "body": "Ask the same question t about China",
+        "body_html": "<div class=\"md\"><p>Ask the same question t about China</p>\n</div>",
+        "created_utc": "2025-01-31 14:25:24",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma6vtpk",
+        "is_submitter": false,
+        "link_id": "t3_1iedgvf",
+        "parent_id": "t3_1iedgvf",
+        "score": -26,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

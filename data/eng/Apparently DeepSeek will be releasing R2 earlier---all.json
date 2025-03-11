@@ -1,0 +1,510 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1ixtitj/apparently_deepseek_will_be_releasing_r2_earlier/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/ConnectionDry4268",
+      "created_utc": "2025-02-25 13:11:02",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "News",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 32,
+      "permalink": "/r/DeepSeek/comments/1ixtitj/apparently_deepseek_will_be_releasing_r2_earlier/",
+      "score": 268,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "Apparently DeepSeek will be releasing R2 earlier than previously planned",
+      "upvote_ratio": 1.0
+    },
+    "comments": [
+      {
+        "author": "u/Dismal_Code_2470",
+        "body": "This is how comp\u00e9tition should be , i hope it's better or equivalent to claude 3.7",
+        "body_html": "<div class=\"md\"><p>This is how comp\u00e9tition should be , i hope it&#39;s better or equivalent to claude 3.7</p>\n</div>",
+        "created_utc": "2025-02-25 14:25:35",
+        "distinguished": null,
+        "edited": false,
+        "id": "mep43av",
+        "is_submitter": false,
+        "link_id": "t3_1ixtitj",
+        "parent_id": "t3_1ixtitj",
+        "score": 54,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/retiredbigbro",
+            "body": "Even R1 is better than Claude 3.7 in most coding tasks, from my experience.",
+            "body_html": "<div class=\"md\"><p>Even R1 is better than Claude 3.7 in most coding tasks, from my experience.</p>\n</div>",
+            "created_utc": "2025-02-25 16:08:42",
+            "distinguished": null,
+            "edited": false,
+            "id": "mepmlfa",
+            "is_submitter": false,
+            "link_id": "t3_1ixtitj",
+            "parent_id": "t1_mep43av",
+            "score": 40,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Dismal_Code_2470",
+                "body": "I'm not sure if api deepseek can be expanded to handle 1m tokens, if not i hope they make it able to do , also i want them to make their base model more accurate and creative like claude",
+                "body_html": "<div class=\"md\"><p>I&#39;m not sure if api deepseek can be expanded to handle 1m tokens, if not i hope they make it able to do , also i want them to make their base model more accurate and creative like claude</p>\n</div>",
+                "created_utc": "2025-02-25 16:10:35",
+                "distinguished": null,
+                "edited": false,
+                "id": "mepmykg",
+                "is_submitter": false,
+                "link_id": "t3_1ixtitj",
+                "parent_id": "t1_mepmlfa",
+                "score": 5,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/atzx",
+                "body": "I guess it would depend on \"Seed\" created on each \"Prompt Session\".  \nIn my case some times I got a worse seed on R1 and the same case on Claude 3.7.\n\nIt would be great to be able to know \"Seed\" and set it on each desire session we like to follow up in this case on coding area.\n\nI guess it would be possible with a \"Jail break\" procedure.",
+                "body_html": "<div class=\"md\"><p>I guess it would depend on &quot;Seed&quot; created on each &quot;Prompt Session&quot;.<br/>\nIn my case some times I got a worse seed on R1 and the same case on Claude 3.7.</p>\n\n<p>It would be great to be able to know &quot;Seed&quot; and set it on each desire session we like to follow up in this case on coding area.</p>\n\n<p>I guess it would be possible with a &quot;Jail break&quot; procedure.</p>\n</div>",
+                "created_utc": "2025-02-26 08:14:57",
+                "distinguished": null,
+                "edited": false,
+                "id": "meukskd",
+                "is_submitter": false,
+                "link_id": "t3_1ixtitj",
+                "parent_id": "t1_mepmlfa",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "[deleted]",
+                "body": "[deleted]",
+                "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+                "created_utc": "2025-02-25 16:30:30",
+                "distinguished": null,
+                "edited": "2025-02-25 16:39:57",
+                "id": "mepqwxm",
+                "is_submitter": false,
+                "link_id": "t3_1ixtitj",
+                "parent_id": "t1_mepmlfa",
+                "score": 0,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/TDEyeehaw",
+                    "body": "Sorry, i do, but it might just be that i have had bad luck with claude.",
+                    "body_html": "<div class=\"md\"><p>Sorry, i do, but it might just be that i have had bad luck with claude.</p>\n</div>",
+                    "created_utc": "2025-02-25 16:38:45",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mepsky1",
+                    "is_submitter": false,
+                    "link_id": "t3_1ixtitj",
+                    "parent_id": "t1_mepqwxm",
+                    "score": 5,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/retiredbigbro",
+                    "body": "I am just talking about my own experience. You might have had different experience, but I am not sure how you'd know \"literally no one else agrees with this\" lol.",
+                    "body_html": "<div class=\"md\"><p>I am just talking about my own experience. You might have had different experience, but I am not sure how you&#39;d know &quot;literally no one else agrees with this&quot; lol.</p>\n</div>",
+                    "created_utc": "2025-02-25 16:48:15",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mepuius",
+                    "is_submitter": false,
+                    "link_id": "t3_1ixtitj",
+                    "parent_id": "t1_mepqwxm",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/OttoKretschmer",
+            "body": "If R2 scores less than 76 on Livebench, I'll be disappointed.",
+            "body_html": "<div class=\"md\"><p>If R2 scores less than 76 on Livebench, I&#39;ll be disappointed.</p>\n</div>",
+            "created_utc": "2025-02-25 16:06:38",
+            "distinguished": null,
+            "edited": false,
+            "id": "mepm771",
+            "is_submitter": false,
+            "link_id": "t3_1ixtitj",
+            "parent_id": "t1_mep43av",
+            "score": 0,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Komd23",
+        "body": "Now I can see why the servers are down again, they have redirected their processing power to R2",
+        "body_html": "<div class=\"md\"><p>Now I can see why the servers are down again, they have redirected their processing power to R2</p>\n</div>",
+        "created_utc": "2025-02-25 13:44:40",
+        "distinguished": null,
+        "edited": false,
+        "id": "meoxqya",
+        "is_submitter": false,
+        "link_id": "t3_1ixtitj",
+        "parent_id": "t3_1ixtitj",
+        "score": 18,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/oVerde",
+        "body": "I don't like the wording in speed up, makes me worry about the quality of the deliverance. \n\nAs in music, the first album is always better than the second.",
+        "body_html": "<div class=\"md\"><p>I don&#39;t like the wording in speed up, makes me worry about the quality of the deliverance. </p>\n\n<p>As in music, the first album is always better than the second.</p>\n</div>",
+        "created_utc": "2025-02-25 16:16:19",
+        "distinguished": null,
+        "edited": false,
+        "id": "mepo2tn",
+        "is_submitter": false,
+        "link_id": "t3_1ixtitj",
+        "parent_id": "t3_1ixtitj",
+        "score": 14,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/ConnectionDry4268",
+            "body": "They released R1 less than 3 months after V3",
+            "body_html": "<div class=\"md\"><p>They released R1 less than 3 months after V3</p>\n</div>",
+            "created_utc": "2025-02-25 16:19:12",
+            "distinguished": null,
+            "edited": false,
+            "id": "mepon2q",
+            "is_submitter": true,
+            "link_id": "t3_1ixtitj",
+            "parent_id": "t1_mepo2tn",
+            "score": 14,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/oVerde",
+                "body": "I think this would be more alike on how much time they took from V2 to V3, we have seen from other LLMs that adding Chain of Thought to it don't take that long.",
+                "body_html": "<div class=\"md\"><p>I think this would be more alike on how much time they took from V2 to V3, we have seen from other LLMs that adding Chain of Thought to it don&#39;t take that long.</p>\n</div>",
+                "created_utc": "2025-02-25 21:48:56",
+                "distinguished": null,
+                "edited": false,
+                "id": "merma57",
+                "is_submitter": false,
+                "link_id": "t3_1ixtitj",
+                "parent_id": "t1_mepon2q",
+                "score": 3,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/ConnectionDry4268",
+                    "body": "What new can we expect from R2 only improvement in benchmarks right? What new innovation can come from them",
+                    "body_html": "<div class=\"md\"><p>What new can we expect from R2 only improvement in benchmarks right? What new innovation can come from them</p>\n</div>",
+                    "created_utc": "2025-02-25 22:09:44",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "merqsas",
+                    "is_submitter": true,
+                    "link_id": "t3_1ixtitj",
+                    "parent_id": "t1_merma57",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/oVerde",
+                        "body": "AFAIK one of the triumphs of DeepSeek is at its synthetic data and RL, this can\u2019t magically happens just because the manager wants it sooner \ud83d\ude04",
+                        "body_html": "<div class=\"md\"><p>AFAIK one of the triumphs of DeepSeek is at its synthetic data and RL, this can\u2019t magically happens just because the manager wants it sooner \ud83d\ude04</p>\n</div>",
+                        "created_utc": "2025-02-25 23:49:23",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mesbm22",
+                        "is_submitter": false,
+                        "link_id": "t3_1ixtitj",
+                        "parent_id": "t1_merqsas",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/Cergorach",
+            "body": "You must never have heard of AC/DC, Madonna, or Metallica... Al of which the second album outperformed the first, often by a long shot.",
+            "body_html": "<div class=\"md\"><p>You must never have heard of AC/DC, Madonna, or Metallica... Al of which the second album outperformed the first, often by a long shot.</p>\n</div>",
+            "created_utc": "2025-02-25 19:46:50",
+            "distinguished": null,
+            "edited": false,
+            "id": "meqw6jr",
+            "is_submitter": false,
+            "link_id": "t3_1ixtitj",
+            "parent_id": "t1_mepo2tn",
+            "score": 4,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/oVerde",
+                "body": "Then, let me correct that, the first season is always better then the second.",
+                "body_html": "<div class=\"md\"><p>Then, let me correct that, the first season is always better then the second.</p>\n</div>",
+                "created_utc": "2025-02-25 21:47:25",
+                "distinguished": null,
+                "edited": false,
+                "id": "merlyfq",
+                "is_submitter": false,
+                "link_id": "t3_1ixtitj",
+                "parent_id": "t1_meqw6jr",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Cergorach",
+                    "body": "Buffy the Vampire Slayer, The Office, Star Trek: The Next Generation.\n\nFor every 'rule' there are (often famous) exceptions. The question here will be, will this also be the exception to the 'rule'. And the only way we will find out is to wait, see, and test.",
+                    "body_html": "<div class=\"md\"><p>Buffy the Vampire Slayer, The Office, Star Trek: The Next Generation.</p>\n\n<p>For every &#39;rule&#39; there are (often famous) exceptions. The question here will be, will this also be the exception to the &#39;rule&#39;. And the only way we will find out is to wait, see, and test.</p>\n</div>",
+                    "created_utc": "2025-02-25 22:07:48",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "merqdgd",
+                    "is_submitter": false,
+                    "link_id": "t3_1ixtitj",
+                    "parent_id": "t1_merlyfq",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/ninhaomah",
+        "body": "Another round of how many 'r's in strawberry , the square , taiwan questions ?",
+        "body_html": "<div class=\"md\"><p>Another round of how many &#39;r&#39;s in strawberry , the square , taiwan questions ?</p>\n</div>",
+        "created_utc": "2025-02-25 15:09:02",
+        "distinguished": null,
+        "edited": false,
+        "id": "mepbmem",
+        "is_submitter": false,
+        "link_id": "t3_1ixtitj",
+        "parent_id": "t3_1ixtitj",
+        "score": 15,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/King_takes_queen",
+            "body": "oh god, not again.",
+            "body_html": "<div class=\"md\"><p>oh god, not again.</p>\n</div>",
+            "created_utc": "2025-02-25 23:07:40",
+            "distinguished": null,
+            "edited": false,
+            "id": "mes34jo",
+            "is_submitter": false,
+            "link_id": "t3_1ixtitj",
+            "parent_id": "t1_mepbmem",
+            "score": 4,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/McSendo",
+            "body": "Another round of \"Run Deepseek R2 on locally with 7gb vram!\"",
+            "body_html": "<div class=\"md\"><p>Another round of &quot;Run Deepseek R2 on locally with 7gb vram!&quot;</p>\n</div>",
+            "created_utc": "2025-02-25 23:41:35",
+            "distinguished": null,
+            "edited": false,
+            "id": "mesa24o",
+            "is_submitter": false,
+            "link_id": "t3_1ixtitj",
+            "parent_id": "t1_mepbmem",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/MRV3N",
+            "body": "\u201cThere are two R\u2019s in Strawberry. No, wait-\u201d",
+            "body_html": "<div class=\"md\"><p>\u201cThere are two R\u2019s in Strawberry. No, wait-\u201d</p>\n</div>",
+            "created_utc": "2025-02-26 03:13:03",
+            "distinguished": null,
+            "edited": false,
+            "id": "metd7hb",
+            "is_submitter": false,
+            "link_id": "t3_1ixtitj",
+            "parent_id": "t1_mepbmem",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Initial_Shopping_138",
+        "body": "Hope they resolve this issue \"Servers are busy please try later\"",
+        "body_html": "<div class=\"md\"><p>Hope they resolve this issue &quot;Servers are busy please try later&quot;</p>\n</div>",
+        "created_utc": "2025-02-25 18:40:38",
+        "distinguished": null,
+        "edited": false,
+        "id": "meqi1ge",
+        "is_submitter": false,
+        "link_id": "t3_1ixtitj",
+        "parent_id": "t3_1ixtitj",
+        "score": 6,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/ConnectionDry4268",
+            "body": "It is mostly resolved now...",
+            "body_html": "<div class=\"md\"><p>It is mostly resolved now...</p>\n</div>",
+            "created_utc": "2025-02-25 18:42:04",
+            "distinguished": null,
+            "edited": false,
+            "id": "meqicd6",
+            "is_submitter": true,
+            "link_id": "t3_1ixtitj",
+            "parent_id": "t1_meqi1ge",
+            "score": 5,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Karasu-Otoha",
+        "body": "Hopefully they won't dumb down the free version and introduce paywalled normal version that we were using up until, like other AI companies do when announcing \"New improved version of their AI\".",
+        "body_html": "<div class=\"md\"><p>Hopefully they won&#39;t dumb down the free version and introduce paywalled normal version that we were using up until, like other AI companies do when announcing &quot;New improved version of their AI&quot;.</p>\n</div>",
+        "created_utc": "2025-02-25 16:48:43",
+        "distinguished": null,
+        "edited": false,
+        "id": "mepum8l",
+        "is_submitter": false,
+        "link_id": "t3_1ixtitj",
+        "parent_id": "t3_1ixtitj",
+        "score": 8,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Tim_Buckrue",
+            "body": "The beauty of it being open source is that once the hardware becomes cheap and accessible enough, we can run it for ourselves with no limits.",
+            "body_html": "<div class=\"md\"><p>The beauty of it being open source is that once the hardware becomes cheap and accessible enough, we can run it for ourselves with no limits.</p>\n</div>",
+            "created_utc": "2025-02-25 16:57:28",
+            "distinguished": null,
+            "edited": false,
+            "id": "mepwf6a",
+            "is_submitter": false,
+            "link_id": "t3_1ixtitj",
+            "parent_id": "t1_mepum8l",
+            "score": 13,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Karasu-Otoha",
+                "body": "true, but currently it requires powerful PC to run, and the absolute majority of people use the phone app or the web version anyway.",
+                "body_html": "<div class=\"md\"><p>true, but currently it requires powerful PC to run, and the absolute majority of people use the phone app or the web version anyway.</p>\n</div>",
+                "created_utc": "2025-02-25 19:28:56",
+                "distinguished": null,
+                "edited": false,
+                "id": "meqsc5g",
+                "is_submitter": false,
+                "link_id": "t3_1ixtitj",
+                "parent_id": "t1_mepwf6a",
+                "score": 4,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/MaTrIx4057",
+                "body": "> once the hardware becomes cheap\n\nwhen does that happen?",
+                "body_html": "<div class=\"md\"><blockquote>\n<p>once the hardware becomes cheap</p>\n</blockquote>\n\n<p>when does that happen?</p>\n</div>",
+                "created_utc": "2025-02-26 07:19:38",
+                "distinguished": null,
+                "edited": false,
+                "id": "meuen08",
+                "is_submitter": false,
+                "link_id": "t3_1ixtitj",
+                "parent_id": "t1_mepwf6a",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Tim_Buckrue",
+                    "body": "When DDR8 is the new hotness and I can get 1TB of used server DDR4 for $300 (pure speculation)",
+                    "body_html": "<div class=\"md\"><p>When DDR8 is the new hotness and I can get 1TB of used server DDR4 for $300 (pure speculation)</p>\n</div>",
+                    "created_utc": "2025-02-26 08:33:20",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "meumqfe",
+                    "is_submitter": false,
+                    "link_id": "t3_1ixtitj",
+                    "parent_id": "t1_meuen08",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              },
+              {
+                "author": "u/Fit-Billy8386",
+                "body": "The sad thing is that when the equipment becomes cheap, it will also be obsolete for the new models, unless you use a small model, so it always remains the same thing..",
+                "body_html": "<div class=\"md\"><p>The sad thing is that when the equipment becomes cheap, it will also be obsolete for the new models, unless you use a small model, so it always remains the same thing..</p>\n</div>",
+                "created_utc": "2025-02-27 10:24:47",
+                "distinguished": null,
+                "edited": false,
+                "id": "mf1l008",
+                "is_submitter": false,
+                "link_id": "t3_1ixtitj",
+                "parent_id": "t1_mepwf6a",
+                "score": 0,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/ConnectionDry4268",
+        "body": "https://preview.redd.it/lk8rzj8eable1.jpeg?width=1033&format=pjpg&auto=webp&s=f6e4e7f7ea4bd76c9b0647e7b424fdf2c1707d3f\n\n[https://www.reuters.com/technology/artificial-intelligence/deepseek-rushes-launch-new-ai-model-china-goes-all-2025-02-25/](https://www.reuters.com/technology/artificial-intelligence/deepseek-rushes-launch-new-ai-model-china-goes-all-2025-02-25/)",
+        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/lk8rzj8eable1.jpeg?width=1033&amp;format=pjpg&amp;auto=webp&amp;s=f6e4e7f7ea4bd76c9b0647e7b424fdf2c1707d3f\">https://preview.redd.it/lk8rzj8eable1.jpeg?width=1033&amp;format=pjpg&amp;auto=webp&amp;s=f6e4e7f7ea4bd76c9b0647e7b424fdf2c1707d3f</a></p>\n\n<p><a href=\"https://www.reuters.com/technology/artificial-intelligence/deepseek-rushes-launch-new-ai-model-china-goes-all-2025-02-25/\">https://www.reuters.com/technology/artificial-intelligence/deepseek-rushes-launch-new-ai-model-china-goes-all-2025-02-25/</a></p>\n</div>",
+        "created_utc": "2025-02-25 17:26:12",
+        "distinguished": null,
+        "edited": false,
+        "id": "meq2c8l",
+        "is_submitter": true,
+        "link_id": "t3_1ixtitj",
+        "parent_id": "t3_1ixtitj",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Electronic_Ad5462",
+        "body": "Why? What\u2019s the rush? Make sure it\u2019s completely ready.",
+        "body_html": "<div class=\"md\"><p>Why? What\u2019s the rush? Make sure it\u2019s completely ready.</p>\n</div>",
+        "created_utc": "2025-02-26 01:19:32",
+        "distinguished": null,
+        "edited": false,
+        "id": "messgez",
+        "is_submitter": false,
+        "link_id": "t3_1ixtitj",
+        "parent_id": "t3_1ixtitj",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,1266 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1icvf4y/no_more_words_needed/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/vtimevlessv",
+      "created_utc": "2025-01-29 15:48:28",
+      "distinguished": null,
+      "edited": false,
+      "gallery_data": {
+        "items": [
+          {
+            "media_id": "275na3jc4yfe1",
+            "id": 595201212
+          },
+          {
+            "media_id": "642x13ic4yfe1",
+            "id": 595201213
+          }
+        ]
+      },
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Other",
+      "locked": false,
+      "media_metadata": {
+        "275na3jc4yfe1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/jpg",
+          "p": [
+            {
+              "y": 180,
+              "x": 108,
+              "u": "https://preview.redd.it/275na3jc4yfe1.jpg?width=108&crop=smart&auto=webp&s=1c343d1d484c4564c698abae66dd406835a938fc"
+            },
+            {
+              "y": 360,
+              "x": 216,
+              "u": "https://preview.redd.it/275na3jc4yfe1.jpg?width=216&crop=smart&auto=webp&s=e404adfc17645001e8f24b4acbfefbaacaaf82c8"
+            },
+            {
+              "y": 534,
+              "x": 320,
+              "u": "https://preview.redd.it/275na3jc4yfe1.jpg?width=320&crop=smart&auto=webp&s=c4174d981fda08107a0a5b17db699216b41f1ca9"
+            },
+            {
+              "y": 1069,
+              "x": 640,
+              "u": "https://preview.redd.it/275na3jc4yfe1.jpg?width=640&crop=smart&auto=webp&s=4ae020ad392257899fa679883c96cdcea0de8e47"
+            },
+            {
+              "y": 1604,
+              "x": 960,
+              "u": "https://preview.redd.it/275na3jc4yfe1.jpg?width=960&crop=smart&auto=webp&s=0a1ed9683d08c6e8122aaa0f94e396f9be074388"
+            },
+            {
+              "y": 1804,
+              "x": 1080,
+              "u": "https://preview.redd.it/275na3jc4yfe1.jpg?width=1080&crop=smart&auto=webp&s=f19c107ed66fa3924ae92b35c050cbc506b116c6"
+            }
+          ],
+          "s": {
+            "y": 1970,
+            "x": 1179,
+            "u": "https://preview.redd.it/275na3jc4yfe1.jpg?width=1179&format=pjpg&auto=webp&s=c17ef6c99799c669edf1b1a11a4ba13122795565"
+          },
+          "id": "275na3jc4yfe1"
+        },
+        "642x13ic4yfe1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/jpg",
+          "p": [
+            {
+              "y": 82,
+              "x": 108,
+              "u": "https://preview.redd.it/642x13ic4yfe1.jpg?width=108&crop=smart&auto=webp&s=aff77ead58757f874b67f79450a125a36f671f5d"
+            },
+            {
+              "y": 165,
+              "x": 216,
+              "u": "https://preview.redd.it/642x13ic4yfe1.jpg?width=216&crop=smart&auto=webp&s=119e80de07e997e44db9c573f264d21a80036b17"
+            },
+            {
+              "y": 245,
+              "x": 320,
+              "u": "https://preview.redd.it/642x13ic4yfe1.jpg?width=320&crop=smart&auto=webp&s=6c20f2b36fafb14c825cebd05d984a39a371942f"
+            },
+            {
+              "y": 490,
+              "x": 640,
+              "u": "https://preview.redd.it/642x13ic4yfe1.jpg?width=640&crop=smart&auto=webp&s=4043fb7af95b96e3c24a60eaf5d5d1622636cd85"
+            },
+            {
+              "y": 736,
+              "x": 960,
+              "u": "https://preview.redd.it/642x13ic4yfe1.jpg?width=960&crop=smart&auto=webp&s=e4f98429a5e6f36ed6b2d6d922863e3ad2aa6afb"
+            },
+            {
+              "y": 828,
+              "x": 1080,
+              "u": "https://preview.redd.it/642x13ic4yfe1.jpg?width=1080&crop=smart&auto=webp&s=e552df0d99a3e0655ded1444eefb1f5b2e147c93"
+            }
+          ],
+          "s": {
+            "y": 904,
+            "x": 1179,
+            "u": "https://preview.redd.it/642x13ic4yfe1.jpg?width=1179&format=pjpg&auto=webp&s=65f311bd43cdcdb66baa390771f54252026dbb20"
+          },
+          "id": "642x13ic4yfe1"
+        }
+      },
+      "nsfw": false,
+      "num_comments": 73,
+      "permalink": "/r/DeepSeek/comments/1icvf4y/no_more_words_needed/",
+      "score": 554,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "No More Words Needed",
+      "upvote_ratio": 0.98
+    },
+    "comments": [
+      {
+        "author": "u/Lazermissile",
+        "body": "https://preview.redd.it/jrk9gek4xyfe1.png?width=1231&format=png&auto=webp&s=e70098f2402973406add102cbc0da2b40b47ae45\n\nI tried 22 times with ChatGPT 4o and this was the closest response I got, but it was still incorrect.",
+        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/jrk9gek4xyfe1.png?width=1231&amp;format=png&amp;auto=webp&amp;s=e70098f2402973406add102cbc0da2b40b47ae45\">https://preview.redd.it/jrk9gek4xyfe1.png?width=1231&amp;format=png&amp;auto=webp&amp;s=e70098f2402973406add102cbc0da2b40b47ae45</a></p>\n\n<p>I tried 22 times with ChatGPT 4o and this was the closest response I got, but it was still incorrect.</p>\n</div>",
+        "created_utc": "2025-01-29 18:29:51",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9usxwj",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 100,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/vtimevlessv",
+            "body": "Kudos for trying that often \ud83d\ude04",
+            "body_html": "<div class=\"md\"><p>Kudos for trying that often \ud83d\ude04</p>\n</div>",
+            "created_utc": "2025-01-29 19:00:51",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9uzuy3",
+            "is_submitter": true,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9usxwj",
+            "score": 33,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/mosthumbleuserever",
+            "body": "To be fair, 4o is a MoE model. o1 and R1 are CoT so kind of an unfair comparison.",
+            "body_html": "<div class=\"md\"><p>To be fair, 4o is a MoE model. o1 and R1 are CoT so kind of an unfair comparison.</p>\n</div>",
+            "created_utc": "2025-01-29 23:57:26",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9wsyag",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9usxwj",
+            "score": 8,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Lazermissile",
+                "body": "https://preview.redd.it/gmu79qgyz0ge1.png?width=1739&format=png&auto=webp&s=c00e4624b9a647eafab64a89d56f6e8309e3a3cb\n\nThanks, I learned about what MoE and CoT are. Here is using o1",
+                "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/gmu79qgyz0ge1.png?width=1739&amp;format=png&amp;auto=webp&amp;s=c00e4624b9a647eafab64a89d56f6e8309e3a3cb\">https://preview.redd.it/gmu79qgyz0ge1.png?width=1739&amp;format=png&amp;auto=webp&amp;s=c00e4624b9a647eafab64a89d56f6e8309e3a3cb</a></p>\n\n<p>Thanks, I learned about what MoE and CoT are. Here is using o1</p>\n</div>",
+                "created_utc": "2025-01-30 01:29:37",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9xar6x",
+                "is_submitter": false,
+                "link_id": "t3_1icvf4y",
+                "parent_id": "t1_m9wsyag",
+                "score": 13,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/OverdueOptimization",
+                    "body": "Figured it out in a fraction of R1\u2019s time too though\u2026",
+                    "body_html": "<div class=\"md\"><p>Figured it out in a fraction of R1\u2019s time too though\u2026</p>\n</div>",
+                    "created_utc": "2025-01-30 01:42:17",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9xd5hc",
+                    "is_submitter": false,
+                    "link_id": "t3_1icvf4y",
+                    "parent_id": "t1_m9xar6x",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/wad11656",
+                        "body": "https://preview.redd.it/8u77o15p32ge1.jpeg?width=1170&format=pjpg&auto=webp&s=3d9fe3a8e9f073edde6ef426eba6132ac51ed6ba",
+                        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/8u77o15p32ge1.jpeg?width=1170&amp;format=pjpg&amp;auto=webp&amp;s=3d9fe3a8e9f073edde6ef426eba6132ac51ed6ba\">https://preview.redd.it/8u77o15p32ge1.jpeg?width=1170&amp;format=pjpg&amp;auto=webp&amp;s=3d9fe3a8e9f073edde6ef426eba6132ac51ed6ba</a></p>\n</div>",
+                        "created_utc": "2025-01-30 05:11:59",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m9yeqqx",
+                        "is_submitter": false,
+                        "link_id": "t3_1icvf4y",
+                        "parent_id": "t1_m9xd5hc",
+                        "score": 7,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/Un4giv3n-madmonk",
+                "body": "https://preview.redd.it/scswqcwux0ge1.png?width=863&format=png&auto=webp&s=5f94c1c32b63bd4e4f6f3a9fff13ddbc6caa5490",
+                "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/scswqcwux0ge1.png?width=863&amp;format=png&amp;auto=webp&amp;s=5f94c1c32b63bd4e4f6f3a9fff13ddbc6caa5490\">https://preview.redd.it/scswqcwux0ge1.png?width=863&amp;format=png&amp;auto=webp&amp;s=5f94c1c32b63bd4e4f6f3a9fff13ddbc6caa5490</a></p>\n</div>",
+                "created_utc": "2025-01-30 01:17:29",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9x8g0v",
+                "is_submitter": false,
+                "link_id": "t3_1icvf4y",
+                "parent_id": "t1_m9wsyag",
+                "score": 8,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/wad11656",
+            "body": "4o??? That is a completely unfair comparison. That's the normie model. Lol.",
+            "body_html": "<div class=\"md\"><p>4o??? That is a completely unfair comparison. That&#39;s the normie model. Lol.</p>\n</div>",
+            "created_utc": "2025-01-30 04:52:43",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9ybocj",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9usxwj",
+            "score": 4,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/ThatSciencephile",
+            "body": "https://chatgpt.com/share/679ad25d-32e0-8012-bfb8-fb52462be81c\n\nlol",
+            "body_html": "<div class=\"md\"><p><a href=\"https://chatgpt.com/share/679ad25d-32e0-8012-bfb8-fb52462be81c\">https://chatgpt.com/share/679ad25d-32e0-8012-bfb8-fb52462be81c</a></p>\n\n<p>lol</p>\n</div>",
+            "created_utc": "2025-01-30 02:15:25",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9xje1o",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9usxwj",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Own_Construction_965",
+            "body": "You gotta give it for the humor though",
+            "body_html": "<div class=\"md\"><p>You gotta give it for the humor though</p>\n</div>",
+            "created_utc": "2025-01-29 21:09:16",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9vs3zf",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9usxwj",
+            "score": 5,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/anzu68",
+        "body": "DeepSeek is eerily smart. I have it write stories for me sometimes, or roleplay prompts, and it really seems to understand the characters, as well as what I like after a few hints. Contrast that to ChatGPT, which always needs to be handheld and frequently goes on tangents, when it comes to roleplaying or writing characters consistently.\n\nCredit to the Chinese; DeepSeek is wonderful",
+        "body_html": "<div class=\"md\"><p>DeepSeek is eerily smart. I have it write stories for me sometimes, or roleplay prompts, and it really seems to understand the characters, as well as what I like after a few hints. Contrast that to ChatGPT, which always needs to be handheld and frequently goes on tangents, when it comes to roleplaying or writing characters consistently.</p>\n\n<p>Credit to the Chinese; DeepSeek is wonderful</p>\n</div>",
+        "created_utc": "2025-01-29 21:50:59",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9w1d38",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 51,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/josefjson",
+            "body": "Did you use V3, R1 or a local model?",
+            "body_html": "<div class=\"md\"><p>Did you use V3, R1 or a local model?</p>\n</div>",
+            "created_utc": "2025-01-30 01:03:58",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9x5vmk",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9w1d38",
+            "score": 3,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/anzu68",
+                "body": "V3, I think. I tried using a local model, but my computer didn't have enough gigabytes to run the 20gb version, so I gave up after that. I want to try R1, but I was having difficulties getting it to run properly with [openrouter.ai](http://openrouter.ai) (I'm really not that great with tech, tbh). \n\nSo I've been running V3 for now. It's still quite good, though, so I'm more than satisfied. :)",
+                "body_html": "<div class=\"md\"><p>V3, I think. I tried using a local model, but my computer didn&#39;t have enough gigabytes to run the 20gb version, so I gave up after that. I want to try R1, but I was having difficulties getting it to run properly with <a href=\"http://openrouter.ai\">openrouter.ai</a> (I&#39;m really not that great with tech, tbh). </p>\n\n<p>So I&#39;ve been running V3 for now. It&#39;s still quite good, though, so I&#39;m more than satisfied. :)</p>\n</div>",
+                "created_utc": "2025-01-30 06:58:52",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9ytqv0",
+                "is_submitter": false,
+                "link_id": "t3_1icvf4y",
+                "parent_id": "t1_m9x5vmk",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/RateGlass",
+            "body": "I have an addiction for Chinese slop novels, telling it to make an \"esque\" version of actually GOOD Chinese novels makes me ai slop novels that is actually way better than webnovel qidan slop, isekai light novels better watch themselves.. their shitty plotlines might be taken over by mid ai plotlines instead",
+            "body_html": "<div class=\"md\"><p>I have an addiction for Chinese slop novels, telling it to make an &quot;esque&quot; version of actually GOOD Chinese novels makes me ai slop novels that is actually way better than webnovel qidan slop, isekai light novels better watch themselves.. their shitty plotlines might be taken over by mid ai plotlines instead</p>\n</div>",
+            "created_utc": "2025-01-30 16:28:24",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma0u4lm",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9w1d38",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/BigRonG49",
+            "body": "You\u2019re role playing fuckin weirdo",
+            "body_html": "<div class=\"md\"><p>You\u2019re role playing fuckin weirdo</p>\n</div>",
+            "created_utc": "2025-01-30 19:43:50",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma207sr",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9w1d38",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/anzu68",
+                "body": "I admit that I'm weird, but it's also very therapeutic and just fun to do in general. No lie. I hope you have a good weekend <3",
+                "body_html": "<div class=\"md\"><p>I admit that I&#39;m weird, but it&#39;s also very therapeutic and just fun to do in general. No lie. I hope you have a good weekend &lt;3</p>\n</div>",
+                "created_utc": "2025-01-30 20:16:06",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma279kf",
+                "is_submitter": false,
+                "link_id": "t3_1icvf4y",
+                "parent_id": "t1_ma207sr",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/BigRonG49",
+                    "body": "How dare you reply to ridicule with genuine kindness. I\u2019m appalled.\n\nYou have are good weekend as well. \ud83d\ude24",
+                    "body_html": "<div class=\"md\"><p>How dare you reply to ridicule with genuine kindness. I\u2019m appalled.</p>\n\n<p>You have are good weekend as well. \ud83d\ude24</p>\n</div>",
+                    "created_utc": "2025-01-30 22:43:25",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma339a5",
+                    "is_submitter": false,
+                    "link_id": "t3_1icvf4y",
+                    "parent_id": "t1_ma279kf",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/GearDry6330",
+        "body": "This is a clear indication of the difference between a passion project and a moneydriven business.",
+        "body_html": "<div class=\"md\"><p>This is a clear indication of the difference between a passion project and a moneydriven business.</p>\n</div>",
+        "created_utc": "2025-01-29 19:06:56",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9v16tb",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 70,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Cultural_Narwhal_299",
+            "body": "they also seem to have actual belief's that helps",
+            "body_html": "<div class=\"md\"><p>they also seem to have actual belief&#39;s that helps</p>\n</div>",
+            "created_utc": "2025-01-29 22:02:34",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9w3yzm",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9v16tb",
+            "score": 8,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/BigRonG49",
+            "body": "Go read the thread above dude.",
+            "body_html": "<div class=\"md\"><p>Go read the thread above dude.</p>\n</div>",
+            "created_utc": "2025-01-30 19:43:13",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma202wr",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9v16tb",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Tadao608",
+        "body": "Nice\u2600\ufe0f",
+        "body_html": "<div class=\"md\"><p>Nice\u2600\ufe0f</p>\n</div>",
+        "created_utc": "2025-01-29 17:45:48",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9uja48",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 11,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/PinkRavenRec",
+        "body": "Deepseek does the real \u201copen\u201dAI.",
+        "body_html": "<div class=\"md\"><p>Deepseek does the real \u201copen\u201dAI.</p>\n</div>",
+        "created_utc": "2025-01-29 22:11:11",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9w5wab",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 17,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/freekyrationale",
+        "body": "I think this is because 6 seconds vs 194 seconds so it is less about model capabilities but more about running o1 is more expensive than Deepseek's MoE model so OpenAI cuts it early and wants you to pay 200$ for running it longer. I hope o3 is better in this terms.",
+        "body_html": "<div class=\"md\"><p>I think this is because 6 seconds vs 194 seconds so it is less about model capabilities but more about running o1 is more expensive than Deepseek&#39;s MoE model so OpenAI cuts it early and wants you to pay 200$ for running it longer. I hope o3 is better in this terms.</p>\n</div>",
+        "created_utc": "2025-01-29 17:51:34",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9ukjd6",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 21,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "[deleted]",
+            "body": "[deleted]",
+            "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+            "created_utc": "2025-01-29 23:21:27",
+            "distinguished": null,
+            "edited": "2025-02-06 00:53:20",
+            "id": "m9wlguw",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9ukjd6",
+            "score": 9,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/godsknowledge",
+                "body": "Why do you pay 200 $ for the pro version?",
+                "body_html": "<div class=\"md\"><p>Why do you pay 200 $ for the pro version?</p>\n</div>",
+                "created_utc": "2025-01-30 00:43:04",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9x1w3l",
+                "is_submitter": false,
+                "link_id": "t3_1icvf4y",
+                "parent_id": "t1_m9wlguw",
+                "score": 9,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Lumpy_Restaurant1776",
+                    "body": "\\> says the one with a literal OpenAI profile picture on Reddit...",
+                    "body_html": "<div class=\"md\"><p>&gt; says the one with a literal OpenAI profile picture on Reddit...</p>\n</div>",
+                    "created_utc": "2025-01-30 03:46:07",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9y052j",
+                    "is_submitter": false,
+                    "link_id": "t3_1icvf4y",
+                    "parent_id": "t1_m9x1w3l",
+                    "score": 6,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/godsknowledge",
+                        "body": "I have that pic since 2 years XD",
+                        "body_html": "<div class=\"md\"><p>I have that pic since 2 years XD</p>\n</div>",
+                        "created_utc": "2025-01-30 12:01:15",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m9zops1",
+                        "is_submitter": false,
+                        "link_id": "t3_1icvf4y",
+                        "parent_id": "t1_m9y052j",
+                        "score": 2,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/freekyrationale",
+                "body": "Thank you for this information and proving my point.",
+                "body_html": "<div class=\"md\"><p>Thank you for this information and proving my point.</p>\n</div>",
+                "created_utc": "2025-01-30 00:23:12",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9wy1yi",
+                "is_submitter": false,
+                "link_id": "t3_1icvf4y",
+                "parent_id": "t1_m9wlguw",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/CartographerMost3690",
+            "body": "Whatever the reason, it's not getting there",
+            "body_html": "<div class=\"md\"><p>Whatever the reason, it&#39;s not getting there</p>\n</div>",
+            "created_utc": "2025-01-29 19:54:52",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9vbsr3",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9ukjd6",
+            "score": 17,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Latter_Panic_1712",
+                "body": "Yea if I greet new people I wouldn't care about their sad backstory (yet), I expect an equally warm greetings that instant.",
+                "body_html": "<div class=\"md\"><p>Yea if I greet new people I wouldn&#39;t care about their sad backstory (yet), I expect an equally warm greetings that instant.</p>\n</div>",
+                "created_utc": "2025-01-30 00:50:09",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9x392i",
+                "is_submitter": false,
+                "link_id": "t3_1icvf4y",
+                "parent_id": "t1_m9vbsr3",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/mikerao10",
+            "body": "O3 will be only for the pro version.",
+            "body_html": "<div class=\"md\"><p>O3 will be only for the pro version.</p>\n</div>",
+            "created_utc": "2025-01-29 23:57:59",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9wt26a",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9ukjd6",
+            "score": 0,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Cultural_Narwhal_299",
+        "body": "The damn thing is so much smarter i'm getting freaked out now lol",
+        "body_html": "<div class=\"md\"><p>The damn thing is so much smarter i&#39;m getting freaked out now lol</p>\n</div>",
+        "created_utc": "2025-01-29 22:02:10",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9w3vpf",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 5,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Dull-Issue-5736",
+        "body": "I like creating little \"encrypted\" phrases like this one. I coded a sentence and asked GPT4o to decrypt it.\n\nAfter more than 20 messages, giving it bigger and bigger hints then even completely OBVIOUS ones, it still couldn't figure it out.  \nIt pissed me off because it was so simple, so I finally gave up and explained the coded sentence.  \n\n\nSo now, this post really makes me want to try this DeepSeek AI !",
+        "body_html": "<div class=\"md\"><p>I like creating little &quot;encrypted&quot; phrases like this one. I coded a sentence and asked GPT4o to decrypt it.</p>\n\n<p>After more than 20 messages, giving it bigger and bigger hints then even completely OBVIOUS ones, it still couldn&#39;t figure it out.<br/>\nIt pissed me off because it was so simple, so I finally gave up and explained the coded sentence.  </p>\n\n<p>So now, this post really makes me want to try this DeepSeek AI !</p>\n</div>",
+        "created_utc": "2025-01-29 22:29:42",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9wa2u9",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 4,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/vtimevlessv",
+            "body": "Just try it out \ud83d\ude01",
+            "body_html": "<div class=\"md\"><p>Just try it out \ud83d\ude01</p>\n</div>",
+            "created_utc": "2025-01-30 06:06:38",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9ymup7",
+            "is_submitter": true,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9wa2u9",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Ikki_The_Phoenix",
+            "body": "And YouTube AI bros claim that AGI is around the corner \ud83d\ude02",
+            "body_html": "<div class=\"md\"><p>And YouTube AI bros claim that AGI is around the corner \ud83d\ude02</p>\n</div>",
+            "created_utc": "2025-01-29 23:24:50",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9wm6oy",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9wa2u9",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/wad11656",
+            "body": "4o is a lot better for general information. You want to use o1/o1 mini/o1 pro for little riddle puzzles like that",
+            "body_html": "<div class=\"md\"><p>4o is a lot better for general information. You want to use o1/o1 mini/o1 pro for little riddle puzzles like that</p>\n</div>",
+            "created_utc": "2025-01-30 04:55:56",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9yc73z",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9wa2u9",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/humanofficial",
+        "body": "https://preview.redd.it/pxi0vtuyg0ge1.png?width=976&format=png&auto=webp&s=e18bdc82c550d0ded9aef8f9665a43e2c3876569\n\no1",
+        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/pxi0vtuyg0ge1.png?width=976&amp;format=png&amp;auto=webp&amp;s=e18bdc82c550d0ded9aef8f9665a43e2c3876569\">https://preview.redd.it/pxi0vtuyg0ge1.png?width=976&amp;format=png&amp;auto=webp&amp;s=e18bdc82c550d0ded9aef8f9665a43e2c3876569</a></p>\n\n<p>o1</p>\n</div>",
+        "created_utc": "2025-01-29 23:43:32",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9wq2yk",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Reasonable-Climate66",
+        "body": "gemini 2.0 solved this while r1 still hallucinating \n\nLet's try to crack \"Jo jpe str upi.\"  Since it's likely a keyboard transposition cipher, we need to consider how the letters might have been shifted.  The most common method is shifting letters left or right on a QWERTY keyboard.\n\n \\* Consider the starting letters: \"Jo\" is a common start to a name, or could be part of a word.\n\n \\* Look for patterns:  \"str\" is a common letter combination.\n\n \\* Think about common phrases: What kind of short message might be encoded?\n\nLet's try shifting the letters.  It's difficult to do this without a visual keyboard, but let's experiment. If we assume a leftward shift, we need to try shifting by different amounts.  Shifting by one position isn't likely to work, as it doesn't create recognizable words.\n\nA likely solution involves shifting the letters to the left on a QWERTY keyboard.  After trying a few shifts, a shift of two positions to the left reveals the answer:\n\n\"Jo jpe str upi\" shifted left two positions becomes:\n\n\"Hi how are you\"\n\nSo, the decoded message is \"Hi how are you\".",
+        "body_html": "<div class=\"md\"><p>gemini 2.0 solved this while r1 still hallucinating </p>\n\n<p>Let&#39;s try to crack &quot;Jo jpe str upi.&quot;  Since it&#39;s likely a keyboard transposition cipher, we need to consider how the letters might have been shifted.  The most common method is shifting letters left or right on a QWERTY keyboard.</p>\n\n<p>* Consider the starting letters: &quot;Jo&quot; is a common start to a name, or could be part of a word.</p>\n\n<p>* Look for patterns:  &quot;str&quot; is a common letter combination.</p>\n\n<p>* Think about common phrases: What kind of short message might be encoded?</p>\n\n<p>Let&#39;s try shifting the letters.  It&#39;s difficult to do this without a visual keyboard, but let&#39;s experiment. If we assume a leftward shift, we need to try shifting by different amounts.  Shifting by one position isn&#39;t likely to work, as it doesn&#39;t create recognizable words.</p>\n\n<p>A likely solution involves shifting the letters to the left on a QWERTY keyboard.  After trying a few shifts, a shift of two positions to the left reveals the answer:</p>\n\n<p>&quot;Jo jpe str upi&quot; shifted left two positions becomes:</p>\n\n<p>&quot;Hi how are you&quot;</p>\n\n<p>So, the decoded message is &quot;Hi how are you&quot;.</p>\n</div>",
+        "created_utc": "2025-01-29 19:59:48",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9vcwod",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 7,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/moathex",
+        "body": "https://preview.redd.it/bo6niqeho0ge1.png?width=846&format=png&auto=webp&s=9d6cf3a0df14e7c733bb634794f18a34d4ed775d\n\nwell",
+        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/bo6niqeho0ge1.png?width=846&amp;format=png&amp;auto=webp&amp;s=9d6cf3a0df14e7c733bb634794f18a34d4ed775d\">https://preview.redd.it/bo6niqeho0ge1.png?width=846&amp;format=png&amp;auto=webp&amp;s=9d6cf3a0df14e7c733bb634794f18a34d4ed775d</a></p>\n\n<p>well</p>\n</div>",
+        "created_utc": "2025-01-30 00:24:57",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9wye88",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/moonlightdiner",
+            "body": "Toggle deepthink r1 below",
+            "body_html": "<div class=\"md\"><p>Toggle deepthink r1 below</p>\n</div>",
+            "created_utc": "2025-01-30 03:56:40",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9y224z",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9wye88",
+            "score": 0,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Any-Light-6374",
+                "body": "this was chatgpt",
+                "body_html": "<div class=\"md\"><p>this was chatgpt</p>\n</div>",
+                "created_utc": "2025-01-30 05:00:46",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9ycz0g",
+                "is_submitter": false,
+                "link_id": "t3_1icvf4y",
+                "parent_id": "t1_m9y224z",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/moonlightdiner",
+                    "body": "Oh! My bad. Didn't notice.",
+                    "body_html": "<div class=\"md\"><p>Oh! My bad. Didn&#39;t notice.</p>\n</div>",
+                    "created_utc": "2025-02-01 04:01:24",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mabceqr",
+                    "is_submitter": false,
+                    "link_id": "t3_1icvf4y",
+                    "parent_id": "t1_m9ycz0g",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/AnonimNetwork",
+        "body": "I came with an Idea what if deep seek team would implement an app for WINDOWS or Mac OS that will alow to run some deep seek task locally on the PC for example Microsoft Copilot does that using 20 % of my CPU intel core I5 10210U for simple responses or 30% of my Intel UHD gpu while generating a image. But this move can impact significantly the performance of Deep Seek also they can use the web search on my computer why to go on a server ?\n\nAlso there are newier pc wich come with integrated NPU I seen this on my friends laptop with Ryzen 5.\n\nPlease adress this message on deep seeks bussines email: \u201e[business@deepseek.com](mailto:business@deepseek.com)\u201d\n\nAlso you can add more of your wishes in this email thank you\n\n\n\n\n\nDear DeepSeek Team,I am writing to suggest a potential solution to address server overload challenges while improving user experience:\u00a0**a hybrid processing model that leverages users\u2019 local CPU/GPU resources alongside your cloud infrastructure**.**Why This Matters**\n\n1. **Server Load Reduction**: By offloading part of the processing to users\u2019 devices (e.g., 30\u201350% CPU/GPU usage), DeepSeek could significantly reduce latency during peak times.\n2. **Faster Responses**: Users with powerful hardware (e.g., modern GPUs) could get near-instant answers for simple queries.\n3. **Privacy-Centric Option**: Local processing would appeal to users who prioritize data security.\n\n**How It Could Work**\n\n* **Hybrid Mode**:\n   * **Lightweight Local Model**: A quantized/optimized version of DeepSeek for basic tasks (e.g., short Q&A, text parsing).\n   * **Cloud Fallback**: Complex requests (code generation, long analyses) are routed to your servers.\n* **Resource Customization**: Allow users to allocate a percentage of their CPU/GPU (e.g., 30%, 50%, or \u201cAuto\u201d).\n* **Hardware Detection**: The app could auto-detect device capabilities and recommend optimal settings.\n\n**Inspiration & Feasibility**\n\n* **Microsoft Copilot**: Already uses local resources (visible in Task Manager) for lightweight tasks or image generation.\n* **LM Studio/GPT4All**: Prove that local LLM execution is possible on consumer hardware.\n* **Stable Diffusion**: Community-driven tools like Automatic1111 show demand for hybrid solutions.",
+        "body_html": "<div class=\"md\"><p>I came with an Idea what if deep seek team would implement an app for WINDOWS or Mac OS that will alow to run some deep seek task locally on the PC for example Microsoft Copilot does that using 20 % of my CPU intel core I5 10210U for simple responses or 30% of my Intel UHD gpu while generating a image. But this move can impact significantly the performance of Deep Seek also they can use the web search on my computer why to go on a server ?</p>\n\n<p>Also there are newier pc wich come with integrated NPU I seen this on my friends laptop with Ryzen 5.</p>\n\n<p>Please adress this message on deep seeks bussines email: \u201e[<a href=\"mailto:business@deepseek.com\">business@deepseek.com</a>](mailto:<a href=\"mailto:business@deepseek.com\">business@deepseek.com</a>)\u201d</p>\n\n<p>Also you can add more of your wishes in this email thank you</p>\n\n<p>Dear DeepSeek Team,I am writing to suggest a potential solution to address server overload challenges while improving user experience:\u00a0<strong>a hybrid processing model that leverages users\u2019 local CPU/GPU resources alongside your cloud infrastructure</strong>.<strong>Why This Matters</strong></p>\n\n<ol>\n<li><strong>Server Load Reduction</strong>: By offloading part of the processing to users\u2019 devices (e.g., 30\u201350% CPU/GPU usage), DeepSeek could significantly reduce latency during peak times.</li>\n<li><strong>Faster Responses</strong>: Users with powerful hardware (e.g., modern GPUs) could get near-instant answers for simple queries.</li>\n<li><strong>Privacy-Centric Option</strong>: Local processing would appeal to users who prioritize data security.</li>\n</ol>\n\n<p><strong>How It Could Work</strong></p>\n\n<ul>\n<li><strong>Hybrid Mode</strong>:\n\n<ul>\n<li><strong>Lightweight Local Model</strong>: A quantized/optimized version of DeepSeek for basic tasks (e.g., short Q&amp;A, text parsing).</li>\n<li><strong>Cloud Fallback</strong>: Complex requests (code generation, long analyses) are routed to your servers.</li>\n</ul></li>\n<li><strong>Resource Customization</strong>: Allow users to allocate a percentage of their CPU/GPU (e.g., 30%, 50%, or \u201cAuto\u201d).</li>\n<li><strong>Hardware Detection</strong>: The app could auto-detect device capabilities and recommend optimal settings.</li>\n</ul>\n\n<p><strong>Inspiration &amp; Feasibility</strong></p>\n\n<ul>\n<li><strong>Microsoft Copilot</strong>: Already uses local resources (visible in Task Manager) for lightweight tasks or image generation.</li>\n<li><strong>LM Studio/GPT4All</strong>: Prove that local LLM execution is possible on consumer hardware.</li>\n<li><strong>Stable Diffusion</strong>: Community-driven tools like Automatic1111 show demand for hybrid solutions.</li>\n</ul>\n</div>",
+        "created_utc": "2025-01-29 18:41:44",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9uvkj3",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/kDaejungg",
+        "body": "Und mit dem Ged\u00e4chtnis f\u00fcr 194 Sekunden\ud83d\ude01",
+        "body_html": "<div class=\"md\"><p>Und mit dem Ged\u00e4chtnis f\u00fcr 194 Sekunden\ud83d\ude01</p>\n</div>",
+        "created_utc": "2025-01-29 19:10:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9v2256",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/HippoNut",
+        "body": "Geil",
+        "body_html": "<div class=\"md\"><p>Geil</p>\n</div>",
+        "created_utc": "2025-01-29 19:57:41",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9vcfne",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Eisegetical",
+        "body": "deepseek-qwen-32b tries but failed - I had to specify \"consider the physical method of input from the user.\" to help it eventually nail it... but of course that cheating.\n\nits fun to watch the thinking process though.",
+        "body_html": "<div class=\"md\"><p>deepseek-qwen-32b tries but failed - I had to specify &quot;consider the physical method of input from the user.&quot; to help it eventually nail it... but of course that cheating.</p>\n\n<p>its fun to watch the thinking process though.</p>\n</div>",
+        "created_utc": "2025-01-29 20:17:10",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9vgozb",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Judgment_Night",
+        "body": "Are you using the mobile version of Deep seek? Is it on search mode?",
+        "body_html": "<div class=\"md\"><p>Are you using the mobile version of Deep seek? Is it on search mode?</p>\n</div>",
+        "created_utc": "2025-01-29 20:17:46",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9vgtn2",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/vtimevlessv",
+            "body": "I did it on the mobile version and had R1 activated. Search was deactivated.",
+            "body_html": "<div class=\"md\"><p>I did it on the mobile version and had R1 activated. Search was deactivated.</p>\n</div>",
+            "created_utc": "2025-01-29 20:22:29",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9vhupc",
+            "is_submitter": true,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9vgtn2",
+            "score": 5,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/codestormer",
+        "body": "Ordnung muss sein",
+        "body_html": "<div class=\"md\"><p>Ordnung muss sein</p>\n</div>",
+        "created_utc": "2025-01-29 22:14:44",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9w6oxf",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Y_mc",
+        "body": "exact, they want to milk the people with their $200",
+        "body_html": "<div class=\"md\"><p>exact, they want to milk the people with their $200</p>\n</div>",
+        "created_utc": "2025-01-29 23:12:19",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9wjijm",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/0xC4FF3",
+        "body": "I see it failing where using letters on the edges and rotating, but very impressive nonetheless",
+        "body_html": "<div class=\"md\"><p>I see it failing where using letters on the edges and rotating, but very impressive nonetheless</p>\n</div>",
+        "created_utc": "2025-01-29 23:34:22",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9wo6in",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Past_Cat_1999",
+        "body": "Not working for me?",
+        "body_html": "<div class=\"md\"><p>Not working for me?</p>\n</div>",
+        "created_utc": "2025-01-29 23:53:23",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9ws4ba",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Past_Cat_1999",
+        "body": "I tried to search this on deepseek and routed me to UPI payments instead. I had to give a clue to get this done",
+        "body_html": "<div class=\"md\"><p>I tried to search this on deepseek and routed me to UPI payments instead. I had to give a clue to get this done</p>\n</div>",
+        "created_utc": "2025-01-30 00:28:18",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9wz1f8",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/KookyDig4769",
+        "body": "Nice one.",
+        "body_html": "<div class=\"md\"><p>Nice one.</p>\n</div>",
+        "created_utc": "2025-01-30 00:41:10",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9x1j06",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/sofaking-cool",
+        "body": "I tested this and intentionally misspelled a word and it still got it right!\n\nhttps://preview.redd.it/9he0gryen1ge1.png?width=1302&format=png&auto=webp&s=39abf4c3455bffa7cd4fe31c10f2d9f728aa11b4",
+        "body_html": "<div class=\"md\"><p>I tested this and intentionally misspelled a word and it still got it right!</p>\n\n<p><a href=\"https://preview.redd.it/9he0gryen1ge1.png?width=1302&amp;format=png&amp;auto=webp&amp;s=39abf4c3455bffa7cd4fe31c10f2d9f728aa11b4\">https://preview.redd.it/9he0gryen1ge1.png?width=1302&amp;format=png&amp;auto=webp&amp;s=39abf4c3455bffa7cd4fe31c10f2d9f728aa11b4</a></p>\n</div>",
+        "created_utc": "2025-01-30 03:40:57",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9xz76h",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/SkillGuilty355",
+        "body": "People are so in denial. It\u2019s clearly better.",
+        "body_html": "<div class=\"md\"><p>People are so in denial. It\u2019s clearly better.</p>\n</div>",
+        "created_utc": "2025-01-30 05:28:41",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9yhbi1",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/thebudman_420",
+        "body": "Funny a human can see this typed long ways and encrypted nothing. Easily seeable in the table.\n\nH\n\ni\n\n\nh\n\no\n\nw\n\na\n\nr\n\ne\n\ny\n\no\n\nu",
+        "body_html": "<div class=\"md\"><p>Funny a human can see this typed long ways and encrypted nothing. Easily seeable in the table.</p>\n\n<p>H</p>\n\n<p>i</p>\n\n<p>h</p>\n\n<p>o</p>\n\n<p>w</p>\n\n<p>a</p>\n\n<p>r</p>\n\n<p>e</p>\n\n<p>y</p>\n\n<p>o</p>\n\n<p>u</p>\n</div>",
+        "created_utc": "2025-01-30 08:38:58",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9z4yzb",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/ra2705",
+        "body": "Now ask it about the man who stood with grocery bags in front of a tank, OP",
+        "body_html": "<div class=\"md\"><p>Now ask it about the man who stood with grocery bags in front of a tank, OP</p>\n</div>",
+        "created_utc": "2025-01-30 10:47:05",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9zhbfh",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Mountain_Ad6328",
+        "body": "Hey guys alibaba also released qwen ai chatbot today.",
+        "body_html": "<div class=\"md\"><p>Hey guys alibaba also released qwen ai chatbot today.</p>\n</div>",
+        "created_utc": "2025-01-29 21:33:57",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9vxizf",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Fine-Degree431",
+        "body": "the local 14b model didnt figure it without the instruction that ithe key to the riddle is shift left. But it tried for a long time before giving the instruction, Once I gave the how to, it solved it quickly",
+        "body_html": "<div class=\"md\"><p>the local 14b model didnt figure it without the instruction that ithe key to the riddle is shift left. But it tried for a long time before giving the instruction, Once I gave the how to, it solved it quickly</p>\n</div>",
+        "created_utc": "2025-01-29 21:00:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9vqb7n",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Lumpy_Restaurant1776",
+            "body": "it couldnt answer this one lmao: \\_?\\_s\\_y\\_a\\_s\\_ \\_t\\_x\\_e\\_t\\_ \\_f\\_o\\_ \\_e\\_c\\_e\\_i\\_p\\_ \\_s\\_i\\_h\\_t\\_ \\_t\\_ah\\_w\\_ w\\_o\\_n\\_k\\_ \\_u\\_o\\_y\\_ \\_o\\_d\\_",
+            "body_html": "<div class=\"md\"><p>it couldnt answer this one lmao: _?_s_y_a_s_ _t_x_e_t_ _f_o_ _e_c_e_i_p_ _s_i_h_t_ _t_ah_w_ w_o_n_k_ _u_o_y_ _o_d_</p>\n</div>",
+            "created_utc": "2025-01-30 03:52:03",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9y18ah",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9vqb7n",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/fitnesspapi88",
+        "body": "Someone conspiratorial would suggest OpenAI is using all that juicy money to train top secret models that the public won\u2019t ever get to use and offer the public garbage models for $200.",
+        "body_html": "<div class=\"md\"><p>Someone conspiratorial would suggest OpenAI is using all that juicy money to train top secret models that the public won\u2019t ever get to use and offer the public garbage models for $200.</p>\n</div>",
+        "created_utc": "2025-01-29 22:35:55",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9wbgwd",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Umbra_175",
+        "body": "DeepSeek is simply better.",
+        "body_html": "<div class=\"md\"><p>DeepSeek is simply better.</p>\n</div>",
+        "created_utc": "2025-01-30 02:08:31",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9xi3ey",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Pasta-hobo",
+        "body": "Man, reinforcement learning slaps.",
+        "body_html": "<div class=\"md\"><p>Man, reinforcement learning slaps.</p>\n</div>",
+        "created_utc": "2025-01-29 22:17:28",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9w7atc",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Chicagosox133",
+        "body": "This thing is trash.  I tried my own message and had to feed it clues, which is fine since my code was random.  I eventually gave it enough clues that it had every letter it needed already deciphered.  It still couldn\u2019t get it right.  The message?  \u201cI think deepseek is great!\u201d  Even with every coded letter fed to it, the closest it came was \u201cI think deep sea is great.\u201d",
+        "body_html": "<div class=\"md\"><p>This thing is trash.  I tried my own message and had to feed it clues, which is fine since my code was random.  I eventually gave it enough clues that it had every letter it needed already deciphered.  It still couldn\u2019t get it right.  The message?  \u201cI think deepseek is great!\u201d  Even with every coded letter fed to it, the closest it came was \u201cI think deep sea is great.\u201d</p>\n</div>",
+        "created_utc": "2025-01-30 00:50:38",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9x3cgj",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/avitakesit",
+        "body": "Another AI illiterate making an apples to oranges comparison on the deepseek sub, who woulda guessed. Deepseek, the AI for the \"every day\" person.",
+        "body_html": "<div class=\"md\"><p>Another AI illiterate making an apples to oranges comparison on the deepseek sub, who woulda guessed. Deepseek, the AI for the &quot;every day&quot; person.</p>\n</div>",
+        "created_utc": "2025-01-30 06:12:05",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9ynlyl",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": -1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Kreivo",
+        "body": "Fake.\n\nhttps://preview.redd.it/yitayvujo0ge1.jpeg?width=1179&format=pjpg&auto=webp&s=6cbd84e34cbd082d6a76899735b9734385316d26",
+        "body_html": "<div class=\"md\"><p>Fake.</p>\n\n<p><a href=\"https://preview.redd.it/yitayvujo0ge1.jpeg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=6cbd84e34cbd082d6a76899735b9734385316d26\">https://preview.redd.it/yitayvujo0ge1.jpeg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=6cbd84e34cbd082d6a76899735b9734385316d26</a></p>\n</div>",
+        "created_utc": "2025-01-30 00:25:18",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9wygq0",
+        "is_submitter": false,
+        "link_id": "t3_1icvf4y",
+        "parent_id": "t3_1icvf4y",
+        "score": -4,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Glittering-Active-50",
+            "body": "you need to toggle the deep think option to use the R1 model",
+            "body_html": "<div class=\"md\"><p>you need to toggle the deep think option to use the R1 model</p>\n</div>",
+            "created_utc": "2025-01-30 02:20:15",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9xkatl",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9wygq0",
+            "score": 5,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Kreivo",
+                "body": "Still fake with R1\n\nhttps://preview.redd.it/0erhokatd3ge1.jpeg?width=1179&format=pjpg&auto=webp&s=a27644f675bb5d2cad6978444c09b6dbbff91f11",
+                "body_html": "<div class=\"md\"><p>Still fake with R1</p>\n\n<p><a href=\"https://preview.redd.it/0erhokatd3ge1.jpeg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=a27644f675bb5d2cad6978444c09b6dbbff91f11\">https://preview.redd.it/0erhokatd3ge1.jpeg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=a27644f675bb5d2cad6978444c09b6dbbff91f11</a></p>\n</div>",
+                "created_utc": "2025-01-30 09:30:28",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9za2if",
+                "is_submitter": false,
+                "link_id": "t3_1icvf4y",
+                "parent_id": "t1_m9xkatl",
+                "score": -1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Kreivo",
+                    "body": "https://preview.redd.it/03hofhm2e3ge1.jpeg?width=1179&format=pjpg&auto=webp&s=6f148cda0c3e01ae5e140bff1d115dee004c9910\n\nStill fake with R1",
+                    "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/03hofhm2e3ge1.jpeg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=6f148cda0c3e01ae5e140bff1d115dee004c9910\">https://preview.redd.it/03hofhm2e3ge1.jpeg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=6f148cda0c3e01ae5e140bff1d115dee004c9910</a></p>\n\n<p>Still fake with R1</p>\n</div>",
+                    "created_utc": "2025-01-30 09:32:03",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9za7yc",
+                    "is_submitter": false,
+                    "link_id": "t3_1icvf4y",
+                    "parent_id": "t1_m9za2if",
+                    "score": -1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Glittering-Active-50",
+                        "body": "https://preview.redd.it/1pk1s37ol6ge1.jpeg?width=1170&format=pjpg&auto=webp&s=dc51ccdfb7f97e45a028874f6940c906a279a4ed\n\nskill issues",
+                        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/1pk1s37ol6ge1.jpeg?width=1170&amp;format=pjpg&amp;auto=webp&amp;s=dc51ccdfb7f97e45a028874f6940c906a279a4ed\">https://preview.redd.it/1pk1s37ol6ge1.jpeg?width=1170&amp;format=pjpg&amp;auto=webp&amp;s=dc51ccdfb7f97e45a028874f6940c906a279a4ed</a></p>\n\n<p>skill issues</p>\n</div>",
+                        "created_utc": "2025-01-30 20:19:52",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma2834z",
+                        "is_submitter": false,
+                        "link_id": "t3_1icvf4y",
+                        "parent_id": "t1_m9za7yc",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Kreivo",
+                            "body": "Yeh, skill of the user, to make it understand with previous chats.  In one way or other, its fake.",
+                            "body_html": "<div class=\"md\"><p>Yeh, skill of the user, to make it understand with previous chats.  In one way or other, its fake.</p>\n</div>",
+                            "created_utc": "2025-01-30 22:58:10",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma36gdg",
+                            "is_submitter": false,
+                            "link_id": "t3_1icvf4y",
+                            "parent_id": "t1_ma2834z",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": []
+                          },
+                          {
+                            "author": "u/Kreivo",
+                            "body": "https://preview.redd.it/htgu1slwlbge1.jpeg?width=797&format=pjpg&auto=webp&s=6243917a78c1afa32a851fc722844302bea59cd9\n\nYeh, skill of the user, to make it understand what it is. The post proves that People are really dumb to be fooled by fake screenshots.",
+                            "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/htgu1slwlbge1.jpeg?width=797&amp;format=pjpg&amp;auto=webp&amp;s=6243917a78c1afa32a851fc722844302bea59cd9\">https://preview.redd.it/htgu1slwlbge1.jpeg?width=797&amp;format=pjpg&amp;auto=webp&amp;s=6243917a78c1afa32a851fc722844302bea59cd9</a></p>\n\n<p>Yeh, skill of the user, to make it understand what it is. The post proves that People are really dumb to be fooled by fake screenshots.</p>\n</div>",
+                            "created_utc": "2025-01-31 13:11:39",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma6l2k0",
+                            "is_submitter": false,
+                            "link_id": "t3_1icvf4y",
+                            "parent_id": "t1_ma2834z",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/menforlivet",
+            "body": "looks like you didn\u2019t have R1 selected",
+            "body_html": "<div class=\"md\"><p>looks like you didn\u2019t have R1 selected</p>\n</div>",
+            "created_utc": "2025-01-30 02:28:38",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9xluu3",
+            "is_submitter": false,
+            "link_id": "t3_1icvf4y",
+            "parent_id": "t1_m9wygq0",
+            "score": 4,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

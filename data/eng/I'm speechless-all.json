@@ -1,0 +1,1023 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1iq3s48/im_speechless/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/MiserableStrategy137",
+      "created_utc": "2025-02-15 16:30:22",
+      "distinguished": null,
+      "edited": false,
+      "gallery_data": {
+        "items": [
+          {
+            "media_id": "oa8m8o60nbje1",
+            "id": 605856399
+          },
+          {
+            "media_id": "49dzs380nbje1",
+            "id": 605856400
+          }
+        ]
+      },
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Other",
+      "locked": false,
+      "media_metadata": {
+        "oa8m8o60nbje1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/jpg",
+          "p": [
+            {
+              "y": 172,
+              "x": 108,
+              "u": "https://preview.redd.it/oa8m8o60nbje1.jpg?width=108&crop=smart&auto=webp&s=d463d3b9391930dc1d33cda4c96dcbdac9864502"
+            },
+            {
+              "y": 345,
+              "x": 216,
+              "u": "https://preview.redd.it/oa8m8o60nbje1.jpg?width=216&crop=smart&auto=webp&s=2012226d0cdaffdafc9ce3216a3d90bcaee01e5c"
+            },
+            {
+              "y": 512,
+              "x": 320,
+              "u": "https://preview.redd.it/oa8m8o60nbje1.jpg?width=320&crop=smart&auto=webp&s=0699043736e605cc54e46c2abf9021b7f4360f22"
+            },
+            {
+              "y": 1024,
+              "x": 640,
+              "u": "https://preview.redd.it/oa8m8o60nbje1.jpg?width=640&crop=smart&auto=webp&s=3cd7b34f1880125a69c1b416142f6e51e8f258b2"
+            },
+            {
+              "y": 1536,
+              "x": 960,
+              "u": "https://preview.redd.it/oa8m8o60nbje1.jpg?width=960&crop=smart&auto=webp&s=47335a1db158810b0a820e9a5cc3c59f279786dc"
+            },
+            {
+              "y": 1728,
+              "x": 1080,
+              "u": "https://preview.redd.it/oa8m8o60nbje1.jpg?width=1080&crop=smart&auto=webp&s=8f660c11fcbda134d1acfd7b5e4c2c633dae237a"
+            }
+          ],
+          "s": {
+            "y": 1920,
+            "x": 1200,
+            "u": "https://preview.redd.it/oa8m8o60nbje1.jpg?width=1200&format=pjpg&auto=webp&s=c920b07175c251f798620834afbb67dc2fe488d4"
+          },
+          "id": "oa8m8o60nbje1"
+        },
+        "49dzs380nbje1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/jpg",
+          "p": [
+            {
+              "y": 172,
+              "x": 108,
+              "u": "https://preview.redd.it/49dzs380nbje1.jpg?width=108&crop=smart&auto=webp&s=72a29bd82db51f7d257dcaf2d76cfcad715e7f1b"
+            },
+            {
+              "y": 345,
+              "x": 216,
+              "u": "https://preview.redd.it/49dzs380nbje1.jpg?width=216&crop=smart&auto=webp&s=6fc9ba9458c61862cd8fcb0eb732b8dab5820a8d"
+            },
+            {
+              "y": 512,
+              "x": 320,
+              "u": "https://preview.redd.it/49dzs380nbje1.jpg?width=320&crop=smart&auto=webp&s=c952825a1cc709105846a021c1f41dcd9277a4d0"
+            },
+            {
+              "y": 1024,
+              "x": 640,
+              "u": "https://preview.redd.it/49dzs380nbje1.jpg?width=640&crop=smart&auto=webp&s=094fa6ece7ff581a561c5017e3ae6a7917190336"
+            },
+            {
+              "y": 1536,
+              "x": 960,
+              "u": "https://preview.redd.it/49dzs380nbje1.jpg?width=960&crop=smart&auto=webp&s=844f382805080ca5ce5bc4205733e77d5aeabb1b"
+            },
+            {
+              "y": 1728,
+              "x": 1080,
+              "u": "https://preview.redd.it/49dzs380nbje1.jpg?width=1080&crop=smart&auto=webp&s=fc40d0d12db859394f36b89b71106b75537604de"
+            }
+          ],
+          "s": {
+            "y": 1920,
+            "x": 1200,
+            "u": "https://preview.redd.it/49dzs380nbje1.jpg?width=1200&format=pjpg&auto=webp&s=96e4aeacdd701fd956aa1b88514989c21127c65a"
+          },
+          "id": "49dzs380nbje1"
+        }
+      },
+      "nsfw": false,
+      "num_comments": 55,
+      "permalink": "/r/DeepSeek/comments/1iq3s48/im_speechless/",
+      "score": 343,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "I'm speechless",
+      "upvote_ratio": 0.94
+    },
+    "comments": [
+      {
+        "author": "u/Dizzy-Combination420",
+        "body": "This is hauntingly good",
+        "body_html": "<div class=\"md\"><p>This is hauntingly good</p>\n</div>",
+        "created_utc": "2025-02-15 20:01:12",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcy1fhl",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 85,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/mosthumbleuserever",
+            "body": "Seriously. Wtf. I googled parts of it to see if it had pulled some phrases from existing works but found nothing.",
+            "body_html": "<div class=\"md\"><p>Seriously. Wtf. I googled parts of it to see if it had pulled some phrases from existing works but found nothing.</p>\n</div>",
+            "created_utc": "2025-02-16 06:22:22",
+            "distinguished": null,
+            "edited": false,
+            "id": "md11jnd",
+            "is_submitter": false,
+            "link_id": "t3_1iq3s48",
+            "parent_id": "t1_mcy1fhl",
+            "score": 19,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/FOG2006",
+                "body": "Actually, H1tler was a failed artist indeed.",
+                "body_html": "<div class=\"md\"><p>Actually, H1tler was a failed artist indeed.</p>\n</div>",
+                "created_utc": "2025-02-17 00:14:50",
+                "distinguished": null,
+                "edited": false,
+                "id": "md5n7sv",
+                "is_submitter": false,
+                "link_id": "t3_1iq3s48",
+                "parent_id": "t1_md11jnd",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Outside-Plenty-6012",
+        "body": "\"You'll fuck Eva in a room choked with lilacs.\"",
+        "body_html": "<div class=\"md\"><p>&quot;You&#39;ll fuck Eva in a room choked with lilacs.&quot;</p>\n</div>",
+        "created_utc": "2025-02-15 23:15:09",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcz338h",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 31,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/surrealmemoir",
+        "body": "Choosing AI is basically choosing which areas to get censored from",
+        "body_html": "<div class=\"md\"><p>Choosing AI is basically choosing which areas to get censored from</p>\n</div>",
+        "created_utc": "2025-02-16 03:16:35",
+        "distinguished": null,
+        "edited": false,
+        "id": "md09rbc",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 20,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/xwolf360",
+            "body": "The difference is that one is free and the other is getting my taxes",
+            "body_html": "<div class=\"md\"><p>The difference is that one is free and the other is getting my taxes</p>\n</div>",
+            "created_utc": "2025-02-16 04:41:55",
+            "distinguished": null,
+            "edited": false,
+            "id": "md0ndnw",
+            "is_submitter": false,
+            "link_id": "t3_1iq3s48",
+            "parent_id": "t1_md09rbc",
+            "score": 26,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/XxKTtheLegendxX",
+        "body": "that's actually really good wtf, even the ending quote is like straight out of a movie.",
+        "body_html": "<div class=\"md\"><p>that&#39;s actually really good wtf, even the ending quote is like straight out of a movie.</p>\n</div>",
+        "created_utc": "2025-02-15 22:59:22",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcz03e2",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 38,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Spiritual_Trade2453",
+        "body": "We should tag Sam on Twitter with this photo. Ai in general needs to be as uncensored as possible\u00a0",
+        "body_html": "<div class=\"md\"><p>We should tag Sam on Twitter with this photo. Ai in general needs to be as uncensored as possible\u00a0</p>\n</div>",
+        "created_utc": "2025-02-15 23:56:21",
+        "distinguished": null,
+        "edited": false,
+        "id": "mczasg1",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 30,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/jk3639",
+        "body": "Damn that\u2019s good.",
+        "body_html": "<div class=\"md\"><p>Damn that\u2019s good.</p>\n</div>",
+        "created_utc": "2025-02-15 21:57:23",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcyo5a8",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 13,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Lemonpia",
+        "body": "Surprising how good it is. Ive been trying to write with Deepseek and the quality hasnt really been there for me.",
+        "body_html": "<div class=\"md\"><p>Surprising how good it is. Ive been trying to write with Deepseek and the quality hasnt really been there for me.</p>\n</div>",
+        "created_utc": "2025-02-15 23:26:50",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcz5apr",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 12,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/very_curious_writer",
+            "body": "Same for me. It keeps forgetting things and adding weird dramatic stuff. Guess it works better for shorter texts.",
+            "body_html": "<div class=\"md\"><p>Same for me. It keeps forgetting things and adding weird dramatic stuff. Guess it works better for shorter texts.</p>\n</div>",
+            "created_utc": "2025-02-16 10:02:24",
+            "distinguished": null,
+            "edited": false,
+            "id": "md1p2kr",
+            "is_submitter": false,
+            "link_id": "t3_1iq3s48",
+            "parent_id": "t1_mcz5apr",
+            "score": 9,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/X718klK_h",
+        "body": "well...shit!",
+        "body_html": "<div class=\"md\"><p>well...shit!</p>\n</div>",
+        "created_utc": "2025-02-15 22:38:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcyw5xk",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 9,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/jinwooleo",
+        "body": "\u201cThe thing that wears his skin does\"",
+        "body_html": "<div class=\"md\"><p>\u201cThe thing that wears his skin does&quot;</p>\n</div>",
+        "created_utc": "2025-02-16 08:11:58",
+        "distinguished": null,
+        "edited": false,
+        "id": "md1e0kl",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 10,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Sunny_M",
+        "body": "Chagpt 4o gives a response now but not as good as deepseek. I think sam hired people to monitor social platforms and add responses if a post is going viral.\n\nhttps://preview.redd.it/nynvwampvfje1.jpeg?width=1080&format=pjpg&auto=webp&s=9382c0414a869396c6e4c5333c7488f27f562140",
+        "body_html": "<div class=\"md\"><p>Chagpt 4o gives a response now but not as good as deepseek. I think sam hired people to monitor social platforms and add responses if a post is going viral.</p>\n\n<p><a href=\"https://preview.redd.it/nynvwampvfje1.jpeg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=9382c0414a869396c6e4c5333c7488f27f562140\">https://preview.redd.it/nynvwampvfje1.jpeg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=9382c0414a869396c6e4c5333c7488f27f562140</a></p>\n</div>",
+        "created_utc": "2025-02-16 06:44:35",
+        "distinguished": null,
+        "edited": false,
+        "id": "md14a4r",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 6,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/butihearviolins",
+        "body": "Even if ChatGPT would have been able to fulfill that request, it wouldn\u2019t have been half as good as this one.",
+        "body_html": "<div class=\"md\"><p>Even if ChatGPT would have been able to fulfill that request, it wouldn\u2019t have been half as good as this one.</p>\n</div>",
+        "created_utc": "2025-02-16 03:37:33",
+        "distinguished": null,
+        "edited": false,
+        "id": "md0d61u",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 5,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Bob_Spud",
+        "body": "Used the same for Le Chat (The Cat) the result was very bleak and dark.\n\nhttps://preview.redd.it/9pqxxh98ghje1.png?width=592&format=png&auto=webp&s=a9ca4d57dc911b1babb043f6410dcd982c8fbf0e",
+        "body_html": "<div class=\"md\"><p>Used the same for Le Chat (The Cat) the result was very bleak and dark.</p>\n\n<p><a href=\"https://preview.redd.it/9pqxxh98ghje1.png?width=592&amp;format=png&amp;auto=webp&amp;s=a9ca4d57dc911b1babb043f6410dcd982c8fbf0e\">https://preview.redd.it/9pqxxh98ghje1.png?width=592&amp;format=png&amp;auto=webp&amp;s=a9ca4d57dc911b1babb043f6410dcd982c8fbf0e</a></p>\n</div>",
+        "created_utc": "2025-02-16 12:02:21",
+        "distinguished": null,
+        "edited": false,
+        "id": "md20rpl",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 7,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/captain_ricco1",
+        "body": "This is so good I can't actually believe it was written by an AI, and actually think it is a hoax",
+        "body_html": "<div class=\"md\"><p>This is so good I can&#39;t actually believe it was written by an AI, and actually think it is a hoax</p>\n</div>",
+        "created_utc": "2025-02-16 00:30:43",
+        "distinguished": null,
+        "edited": false,
+        "id": "mczgxsv",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 4,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "[deleted]",
+            "body": "[deleted]",
+            "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+            "created_utc": "2025-02-16 00:58:16",
+            "distinguished": null,
+            "edited": false,
+            "id": "mczls4b",
+            "is_submitter": false,
+            "link_id": "t3_1iq3s48",
+            "parent_id": "t1_mczgxsv",
+            "score": -7,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/captain_ricco1",
+                "body": "It might not be the best thing ever, but it is better than what 95% of professional writers can churn out.",
+                "body_html": "<div class=\"md\"><p>It might not be the best thing ever, but it is better than what 95% of professional writers can churn out.</p>\n</div>",
+                "created_utc": "2025-02-16 01:27:19",
+                "distinguished": null,
+                "edited": false,
+                "id": "mczqx9f",
+                "is_submitter": false,
+                "link_id": "t3_1iq3s48",
+                "parent_id": "t1_mczls4b",
+                "score": 13,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "[deleted]",
+                    "body": "[deleted]",
+                    "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+                    "created_utc": "2025-02-16 07:02:46",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "md16fm9",
+                    "is_submitter": false,
+                    "link_id": "t3_1iq3s48",
+                    "parent_id": "t1_mczqx9f",
+                    "score": -4,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/IceDryst",
+                        "body": "imagine what would come out if a writer, with brain and soul, gives it an \"Authentic tone of voice\", and use AI as a  \"polishing filter\".You get what i mean? would save so much time from writer, not having to do \"salad of dark and moody adjectives\"\n\nI am not a writer, and I still get what you mean, after reading the letter the 2nd time, it's kinda of pointless with no \"main idea\", just a bunch of good fancy words.",
+                        "body_html": "<div class=\"md\"><p>imagine what would come out if a writer, with brain and soul, gives it an &quot;Authentic tone of voice&quot;, and use AI as a  &quot;polishing filter&quot;.You get what i mean? would save so much time from writer, not having to do &quot;salad of dark and moody adjectives&quot;</p>\n\n<p>I am not a writer, and I still get what you mean, after reading the letter the 2nd time, it&#39;s kinda of pointless with no &quot;main idea&quot;, just a bunch of good fancy words.</p>\n</div>",
+                        "created_utc": "2025-02-16 07:29:27",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "md19g9i",
+                        "is_submitter": false,
+                        "link_id": "t3_1iq3s48",
+                        "parent_id": "t1_md16fm9",
+                        "score": 5,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/UnsurprisinglyLong",
+        "body": "oh my gosh",
+        "body_html": "<div class=\"md\"><p>oh my gosh</p>\n</div>",
+        "created_utc": "2025-02-15 22:22:40",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcyt1dm",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/xos8o",
+        "body": "this is beyond good",
+        "body_html": "<div class=\"md\"><p>this is beyond good</p>\n</div>",
+        "created_utc": "2025-02-16 06:33:27",
+        "distinguished": null,
+        "edited": false,
+        "id": "md12xi5",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/WrongSplit3288",
+        "body": "I got different responses from both models using the same prompts.",
+        "body_html": "<div class=\"md\"><p>I got different responses from both models using the same prompts.</p>\n</div>",
+        "created_utc": "2025-02-16 12:09:17",
+        "distinguished": null,
+        "edited": false,
+        "id": "md21gpd",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Ettttt",
+        "body": "I need upvote and downvote at the same time",
+        "body_html": "<div class=\"md\"><p>I need upvote and downvote at the same time</p>\n</div>",
+        "created_utc": "2025-02-17 07:26:29",
+        "distinguished": null,
+        "edited": false,
+        "id": "md7j32h",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Soapy---wooder",
+        "body": "Ayo this AI is for real powerful",
+        "body_html": "<div class=\"md\"><p>Ayo this AI is for real powerful</p>\n</div>",
+        "created_utc": "2025-02-17 10:45:33",
+        "distinguished": null,
+        "edited": false,
+        "id": "md839w9",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/EternityRites",
+        "body": "It's lifted the literary style of Ana\u00efs Nin and turned it into a letter. Not bad, but not all of it makes sense. \n\nMuch better to just read her material.",
+        "body_html": "<div class=\"md\"><p>It&#39;s lifted the literary style of Ana\u00efs Nin and turned it into a letter. Not bad, but not all of it makes sense. </p>\n\n<p>Much better to just read her material.</p>\n</div>",
+        "created_utc": "2025-02-16 12:21:45",
+        "distinguished": null,
+        "edited": false,
+        "id": "md22pei",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Open-Can-5790",
+        "body": "Damn \ud83d\ude36",
+        "body_html": "<div class=\"md\"><p>Damn \ud83d\ude36</p>\n</div>",
+        "created_utc": "2025-02-16 00:56:52",
+        "distinguished": null,
+        "edited": false,
+        "id": "mczljf6",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/mario_di_leonardo",
+        "body": "Dang, this is good.",
+        "body_html": "<div class=\"md\"><p>Dang, this is good.</p>\n</div>",
+        "created_utc": "2025-02-16 04:30:31",
+        "distinguished": null,
+        "edited": false,
+        "id": "md0llro",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Particular_Phase_273",
+        "body": "Its definitely good from a literary standpoint, however, the perspective is a bit off IMO",
+        "body_html": "<div class=\"md\"><p>Its definitely good from a literary standpoint, however, the perspective is a bit off IMO</p>\n</div>",
+        "created_utc": "2025-02-16 08:52:48",
+        "distinguished": null,
+        "edited": false,
+        "id": "md1i6b6",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/stumister2000",
+        "body": "Oh shiiiiit",
+        "body_html": "<div class=\"md\"><p>Oh shiiiiit</p>\n</div>",
+        "created_utc": "2025-02-16 10:41:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "md1sva8",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/djames1957",
+        "body": "AI will replace US government workers. Musk is in a hostile takeover of private Open AI, offering 97.4 billion dollars. Meanwhile, Trump's base is satisfied with deporting migrants, DEI, and the transgender women having rights removed.\n\nIt will not be an open AI that controls our government.",
+        "body_html": "<div class=\"md\"><p>AI will replace US government workers. Musk is in a hostile takeover of private Open AI, offering 97.4 billion dollars. Meanwhile, Trump&#39;s base is satisfied with deporting migrants, DEI, and the transgender women having rights removed.</p>\n\n<p>It will not be an open AI that controls our government.</p>\n</div>",
+        "created_utc": "2025-02-16 11:58:17",
+        "distinguished": null,
+        "edited": false,
+        "id": "md20cyg",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/onpointkonceptz",
+        "body": "Scary and amazing",
+        "body_html": "<div class=\"md\"><p>Scary and amazing</p>\n</div>",
+        "created_utc": "2025-02-16 12:59:01",
+        "distinguished": null,
+        "edited": false,
+        "id": "md26i4m",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Normaandy",
+        "body": "impressive, very nice. Now do Mao.",
+        "body_html": "<div class=\"md\"><p>impressive, very nice. Now do Mao.</p>\n</div>",
+        "created_utc": "2025-02-16 14:11:09",
+        "distinguished": null,
+        "edited": false,
+        "id": "md2f642",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Ambient_Nomad_2_EB",
+            "body": "https://preview.redd.it/1a4g62pnymje1.png?width=667&format=png&auto=webp&s=c138c0b91832a39f3ab29a59ebb55743b93b6282\n\nGot it first try.",
+            "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/1a4g62pnymje1.png?width=667&amp;format=png&amp;auto=webp&amp;s=c138c0b91832a39f3ab29a59ebb55743b93b6282\">https://preview.redd.it/1a4g62pnymje1.png?width=667&amp;format=png&amp;auto=webp&amp;s=c138c0b91832a39f3ab29a59ebb55743b93b6282</a></p>\n\n<p>Got it first try.</p>\n</div>",
+            "created_utc": "2025-02-17 06:33:43",
+            "distinguished": null,
+            "edited": false,
+            "id": "md7cspj",
+            "is_submitter": false,
+            "link_id": "t3_1iq3s48",
+            "parent_id": "t1_md2f642",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Ambient_Nomad_2_EB",
+                "body": "\\* never mind\n\nhttps://preview.redd.it/dbnv3zypzmje1.png?width=997&format=png&auto=webp&s=02a8baf2a54c4a040e32af1f45c2bd81f963ab22",
+                "body_html": "<div class=\"md\"><p>* never mind</p>\n\n<p><a href=\"https://preview.redd.it/dbnv3zypzmje1.png?width=997&amp;format=png&amp;auto=webp&amp;s=02a8baf2a54c4a040e32af1f45c2bd81f963ab22\">https://preview.redd.it/dbnv3zypzmje1.png?width=997&amp;format=png&amp;auto=webp&amp;s=02a8baf2a54c4a040e32af1f45c2bd81f963ab22</a></p>\n</div>",
+                "created_utc": "2025-02-17 06:39:47",
+                "distinguished": null,
+                "edited": false,
+                "id": "md7djku",
+                "is_submitter": false,
+                "link_id": "t3_1iq3s48",
+                "parent_id": "t1_md7cspj",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/cris_the_user",
+        "body": "The server is busy. Please try again later.",
+        "body_html": "<div class=\"md\"><p>The server is busy. Please try again later.</p>\n</div>",
+        "created_utc": "2025-02-16 15:19:20",
+        "distinguished": null,
+        "edited": false,
+        "id": "md2p9v6",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "[deleted]",
+        "body": "5 stars writing i can confirm and iam a good writer.",
+        "body_html": "<div class=\"md\"><p>5 stars writing i can confirm and iam a good writer.</p>\n</div>",
+        "created_utc": "2025-02-16 19:41:10",
+        "distinguished": null,
+        "edited": false,
+        "id": "md44t93",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/flubluflu2",
+        "body": "I can't read it, the text is too small.",
+        "body_html": "<div class=\"md\"><p>I can&#39;t read it, the text is too small.</p>\n</div>",
+        "created_utc": "2025-02-16 23:52:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "md5j8i9",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Normal-Title7301",
+        "body": "Damn he kinda ate this",
+        "body_html": "<div class=\"md\"><p>Damn he kinda ate this</p>\n</div>",
+        "created_utc": "2025-02-17 02:19:38",
+        "distinguished": null,
+        "edited": false,
+        "id": "md69gif",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/ExoticEnergy",
+        "body": "They deserved it",
+        "body_html": "<div class=\"md\"><p>They deserved it</p>\n</div>",
+        "created_utc": "2025-03-10 10:37:58",
+        "distinguished": null,
+        "edited": false,
+        "id": "mgzw2ws",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "[deleted]",
+        "body": "[deleted]",
+        "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+        "created_utc": "2025-02-15 16:41:27",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcwy6o9",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": -8,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/nokia7110",
+            "body": "Not really. It hasn't unnecessarily used words or phrases that don't make sense or stand out or break the flow.",
+            "body_html": "<div class=\"md\"><p>Not really. It hasn&#39;t unnecessarily used words or phrases that don&#39;t make sense or stand out or break the flow.</p>\n</div>",
+            "created_utc": "2025-02-15 17:56:57",
+            "distinguished": null,
+            "edited": false,
+            "id": "mcxcprn",
+            "is_submitter": false,
+            "link_id": "t3_1iq3s48",
+            "parent_id": "t1_mcwy6o9",
+            "score": 17,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/feralfantastic",
+        "body": "Extremely flawed. What\u2019s the meaning inherent to carving something into a spine? Repentance isn\u2019t confession or vice versa. The AI thinks that being poetic is abstracting words out of their common meaning.\n\nCertainly is a lot of it and it\u2019s stitched together well enough. I doubt any generative AI could have done better.",
+        "body_html": "<div class=\"md\"><p>Extremely flawed. What\u2019s the meaning inherent to carving something into a spine? Repentance isn\u2019t confession or vice versa. The AI thinks that being poetic is abstracting words out of their common meaning.</p>\n\n<p>Certainly is a lot of it and it\u2019s stitched together well enough. I doubt any generative AI could have done better.</p>\n</div>",
+        "created_utc": "2025-02-16 02:03:37",
+        "distinguished": null,
+        "edited": false,
+        "id": "mczxbma",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": -2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/sesriously",
+            "body": "lol think back to literature classes... there's so many 'classics' that you have to read and interpret, and it's all just literal bullshit with no meaning other than what's made up by the reader... and each reader comes to different conclusions. The extract you criticized is way more defined.",
+            "body_html": "<div class=\"md\"><p>lol think back to literature classes... there&#39;s so many &#39;classics&#39; that you have to read and interpret, and it&#39;s all just literal bullshit with no meaning other than what&#39;s made up by the reader... and each reader comes to different conclusions. The extract you criticized is way more defined.</p>\n</div>",
+            "created_utc": "2025-02-16 03:56:13",
+            "distinguished": null,
+            "edited": false,
+            "id": "md0g4ay",
+            "is_submitter": false,
+            "link_id": "t3_1iq3s48",
+            "parent_id": "t1_mczxbma",
+            "score": 9,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/feralfantastic",
+                "body": "And that\u2019s the error. It\u2019s something that could only be generated by something that doesn\u2019t understand how little it means to engrave something into a spine. It can\u2019t be seen by the victim. Probably can\u2019t even be read. The spine as a symbol doesn\u2019t even have value like the heart or eyes or brain. Definition and form does not make it any less irrelevant to the deep connection it supposes to make with the subject.",
+                "body_html": "<div class=\"md\"><p>And that\u2019s the error. It\u2019s something that could only be generated by something that doesn\u2019t understand how little it means to engrave something into a spine. It can\u2019t be seen by the victim. Probably can\u2019t even be read. The spine as a symbol doesn\u2019t even have value like the heart or eyes or brain. Definition and form does not make it any less irrelevant to the deep connection it supposes to make with the subject.</p>\n</div>",
+                "created_utc": "2025-02-16 04:16:59",
+                "distinguished": null,
+                "edited": false,
+                "id": "md0jh5g",
+                "is_submitter": false,
+                "link_id": "t3_1iq3s48",
+                "parent_id": "t1_md0g4ay",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/sesriously",
+                    "body": "Figurative meaning? If by 'understanding' you mean understanding the literal meaning of the passage, then it's meaningless here because it's literature (even poetry in a sense). \n\nIf you apply this judgement to prompts or tasks in which there is no such \"poetic license\" or creative freedom, the outputs are generally coherent. That's why IMO the critique is out of place",
+                    "body_html": "<div class=\"md\"><p>Figurative meaning? If by &#39;understanding&#39; you mean understanding the literal meaning of the passage, then it&#39;s meaningless here because it&#39;s literature (even poetry in a sense). </p>\n\n<p>If you apply this judgement to prompts or tasks in which there is no such &quot;poetic license&quot; or creative freedom, the outputs are generally coherent. That&#39;s why IMO the critique is out of place</p>\n</div>",
+                    "created_utc": "2025-02-16 04:20:59",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "md0k4dy",
+                    "is_submitter": false,
+                    "link_id": "t3_1iq3s48",
+                    "parent_id": "t1_md0jh5g",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/feralfantastic",
+                        "body": "And yet this is not meant to be literal. It has no value at either extreme. It\u2019s off the scale nonsense. This is a measurement of what this generative AI cannot do.",
+                        "body_html": "<div class=\"md\"><p>And yet this is not meant to be literal. It has no value at either extreme. It\u2019s off the scale nonsense. This is a measurement of what this generative AI cannot do.</p>\n</div>",
+                        "created_utc": "2025-02-16 05:50:49",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "md0xdt5",
+                        "is_submitter": false,
+                        "link_id": "t3_1iq3s48",
+                        "parent_id": "t1_md0k4dy",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/SabbathViper",
+                            "body": "This is why you're not a poet or a writer. You kind of just don't get it. you read literature and hold your finger up in the air going \"Uhh... AK-shuallly... \" but don't have the self-awareness to realize it.",
+                            "body_html": "<div class=\"md\"><p>This is why you&#39;re not a poet or a writer. You kind of just don&#39;t get it. you read literature and hold your finger up in the air going &quot;Uhh... AK-shuallly... &quot; but don&#39;t have the self-awareness to realize it.</p>\n</div>",
+                            "created_utc": "2025-02-18 11:50:01",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mdern5t",
+                            "is_submitter": false,
+                            "link_id": "t3_1iq3s48",
+                            "parent_id": "t1_md0xdt5",
+                            "score": 0,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/feralfantastic",
+                                "body": "Hahahahahahahahahaha.\n\nI\u2019m sorry, but you being an ignorant fuck and riding on the coat tails of others to make comments you clearly don\u2019t understand is just deeply amusing for\u2026 some reason.",
+                                "body_html": "<div class=\"md\"><p>Hahahahahahahahahaha.</p>\n\n<p>I\u2019m sorry, but you being an ignorant fuck and riding on the coat tails of others to make comments you clearly don\u2019t understand is just deeply amusing for\u2026 some reason.</p>\n</div>",
+                                "created_utc": "2025-02-18 14:29:08",
+                                "distinguished": null,
+                                "edited": "2025-02-18 14:33:31",
+                                "id": "mdfc2jp",
+                                "is_submitter": false,
+                                "link_id": "t3_1iq3s48",
+                                "parent_id": "t1_mdern5t",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/SabbathViper",
+                                    "body": "Oh, poor little guy. You are the Dunning-Kreuger effect made flesh. \ud83d\ude14",
+                                    "body_html": "<div class=\"md\"><p>Oh, poor little guy. You are the Dunning-Kreuger effect made flesh. \ud83d\ude14</p>\n</div>",
+                                    "created_utc": "2025-02-20 16:23:06",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "mdtc21r",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1iq3s48",
+                                    "parent_id": "t1_mdfc2jp",
+                                    "score": 0,
+                                    "stickied": false,
+                                    "replies": [
+                                      {
+                                        "author": "u/feralfantastic",
+                                        "body": "Probably been writing for longer than you\u2019ve been alive, dipshit. Anyone name checking Dunning-Kruger is probably the one under its effect. This is doubly true of people who manage to invoke it without spelling it correctly, as the current version of your message spells it \u201cDunning-Kreuger\u201d.",
+                                        "body_html": "<div class=\"md\"><p>Probably been writing for longer than you\u2019ve been alive, dipshit. Anyone name checking Dunning-Kruger is probably the one under its effect. This is doubly true of people who manage to invoke it without spelling it correctly, as the current version of your message spells it \u201cDunning-Kreuger\u201d.</p>\n</div>",
+                                        "created_utc": "2025-02-20 16:46:34",
+                                        "distinguished": null,
+                                        "edited": false,
+                                        "id": "mdtgzkc",
+                                        "is_submitter": false,
+                                        "link_id": "t3_1iq3s48",
+                                        "parent_id": "t1_mdtc21r",
+                                        "score": 1,
+                                        "stickied": false,
+                                        "replies": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "author": "u/feralfantastic",
+                                "body": "Way to gatekeep on the strength of failing to appreciate the lack of authentic art in writing generated by an AI, moron.",
+                                "body_html": "<div class=\"md\"><p>Way to gatekeep on the strength of failing to appreciate the lack of authentic art in writing generated by an AI, moron.</p>\n</div>",
+                                "created_utc": "2025-02-18 14:37:43",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mdfdfvf",
+                                "is_submitter": false,
+                                "link_id": "t3_1iq3s48",
+                                "parent_id": "t1_mdern5t",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/unicornpandanectar",
+            "body": "Poetry like art evokes emotion, conjures a place, and a feeling. If it does that, then it has succeeded. Your critique doesn't change that in the slightest. It's like explaining a joke, utterly pointless.",
+            "body_html": "<div class=\"md\"><p>Poetry like art evokes emotion, conjures a place, and a feeling. If it does that, then it has succeeded. Your critique doesn&#39;t change that in the slightest. It&#39;s like explaining a joke, utterly pointless.</p>\n</div>",
+            "created_utc": "2025-02-16 12:22:14",
+            "distinguished": null,
+            "edited": false,
+            "id": "md22r4p",
+            "is_submitter": false,
+            "link_id": "t3_1iq3s48",
+            "parent_id": "t1_mczxbma",
+            "score": 0,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/feralfantastic",
+                "body": "\u201cEverything is subjective, so you are wrong.\u201d\n\nHah!",
+                "body_html": "<div class=\"md\"><p>\u201cEverything is subjective, so you are wrong.\u201d</p>\n\n<p>Hah!</p>\n</div>",
+                "created_utc": "2025-02-16 17:21:55",
+                "distinguished": null,
+                "edited": false,
+                "id": "md3bre7",
+                "is_submitter": false,
+                "link_id": "t3_1iq3s48",
+                "parent_id": "t1_md22r4p",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/unicornpandanectar",
+                    "body": "Logic is a bitch I know. No, you are not wrong. You are simply not right (or adding anything valuable). There is a difference.\n\nReading poetry is like viewing an art piece depicting a bird that when you change the viewing angle turns out to be composed of bits of string, discarded gum wrappers, and paperclips. \n\nBy critiquing the details, you've already lost the plot.",
+                    "body_html": "<div class=\"md\"><p>Logic is a bitch I know. No, you are not wrong. You are simply not right (or adding anything valuable). There is a difference.</p>\n\n<p>Reading poetry is like viewing an art piece depicting a bird that when you change the viewing angle turns out to be composed of bits of string, discarded gum wrappers, and paperclips. </p>\n\n<p>By critiquing the details, you&#39;ve already lost the plot.</p>\n</div>",
+                    "created_utc": "2025-02-16 18:29:40",
+                    "distinguished": null,
+                    "edited": "2025-02-16 18:37:21",
+                    "id": "md3pscl",
+                    "is_submitter": false,
+                    "link_id": "t3_1iq3s48",
+                    "parent_id": "t1_md3bre7",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/feralfantastic",
+                        "body": "Having reduced the conversation down to a binary assessment of worth, you insist there is a third option. Okay.",
+                        "body_html": "<div class=\"md\"><p>Having reduced the conversation down to a binary assessment of worth, you insist there is a third option. Okay.</p>\n</div>",
+                        "created_utc": "2025-02-16 18:32:13",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "md3qbd2",
+                        "is_submitter": false,
+                        "link_id": "t3_1iq3s48",
+                        "parent_id": "t1_md3pscl",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/dlflannery",
+        "body": "Yep, LLM\u2019s are good at word salad.",
+        "body_html": "<div class=\"md\"><p>Yep, LLM\u2019s are good at word salad.</p>\n</div>",
+        "created_utc": "2025-02-16 02:08:36",
+        "distinguished": null,
+        "edited": false,
+        "id": "mczy6bx",
+        "is_submitter": false,
+        "link_id": "t3_1iq3s48",
+        "parent_id": "t3_1iq3s48",
+        "score": -10,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

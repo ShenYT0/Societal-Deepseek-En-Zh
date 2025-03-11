@@ -1,0 +1,759 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1idunoi/deepseek_vs_open_ai_team/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Glittering-Active-50",
+      "created_utc": "2025-01-30 20:05:53",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Funny",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 44,
+      "permalink": "/r/DeepSeek/comments/1idunoi/deepseek_vs_open_ai_team/",
+      "score": 423,
+      "selftext": "just for fun , it's math competition I know ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "Deepseek Vs Open ai team \ud83d\ude0f",
+      "upvote_ratio": 0.98
+    },
+    "comments": [
+      {
+        "author": "[deleted]",
+        "body": "Lols i noticed that really,  the engineers at open ai are mostly Asians",
+        "body_html": "<div class=\"md\"><p>Lols i noticed that really,  the engineers at open ai are mostly Asians</p>\n</div>",
+        "created_utc": "2025-01-30 20:44:52",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma2djjj",
+        "is_submitter": false,
+        "link_id": "t3_1idunoi",
+        "parent_id": "t3_1idunoi",
+        "score": 25,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Glittering-Active-50",
+            "body": "mostly Chinese \ud83d\ude02",
+            "body_html": "<div class=\"md\"><p>mostly Chinese \ud83d\ude02</p>\n</div>",
+            "created_utc": "2025-01-30 20:48:50",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma2eell",
+            "is_submitter": true,
+            "link_id": "t3_1idunoi",
+            "parent_id": "t1_ma2djjj",
+            "score": 50,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "[deleted]",
+                "body": "[deleted]",
+                "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+                "created_utc": "2025-01-31 01:53:31",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma44rpl",
+                "is_submitter": false,
+                "link_id": "t3_1idunoi",
+                "parent_id": "t1_ma2eell",
+                "score": 0,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/MaxHubert",
+                    "body": "They put back the \"Open\" in \"Open\"AI.",
+                    "body_html": "<div class=\"md\"><p>They put back the &quot;Open&quot; in &quot;Open&quot;AI.</p>\n</div>",
+                    "created_utc": "2025-01-31 02:51:57",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma4fdya",
+                    "is_submitter": false,
+                    "link_id": "t3_1idunoi",
+                    "parent_id": "t1_ma44rpl",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/mortenlu",
+            "body": "Are they not all asian?",
+            "body_html": "<div class=\"md\"><p>Are they not all asian?</p>\n</div>",
+            "created_utc": "2025-01-31 00:42:31",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma3rhtc",
+            "is_submitter": false,
+            "link_id": "t3_1idunoi",
+            "parent_id": "t1_ma2djjj",
+            "score": 5,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Sensitive-Check-8105",
+                "body": "East asian*",
+                "body_html": "<div class=\"md\"><p>East asian*</p>\n</div>",
+                "created_utc": "2025-01-31 07:19:43",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma5kiv9",
+                "is_submitter": false,
+                "link_id": "t3_1idunoi",
+                "parent_id": "t1_ma3rhtc",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Waste-Dimension-1681",
+        "body": "Winning, H1B visa is the path\n\nTake away the Chinese & Indians in the USA, and the entire country would go back to horse & buggy overnight",
+        "body_html": "<div class=\"md\"><p>Winning, H1B visa is the path</p>\n\n<p>Take away the Chinese &amp; Indians in the USA, and the entire country would go back to horse &amp; buggy overnight</p>\n</div>",
+        "created_utc": "2025-01-31 02:20:42",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma49qj4",
+        "is_submitter": false,
+        "link_id": "t3_1idunoi",
+        "parent_id": "t3_1idunoi",
+        "score": 48,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Freed4ever",
+        "body": "Well, at least the US team scores better on DEI /s",
+        "body_html": "<div class=\"md\"><p>Well, at least the US team scores better on DEI /s</p>\n</div>",
+        "created_utc": "2025-01-31 07:05:56",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma5iwe3",
+        "is_submitter": false,
+        "link_id": "t3_1idunoi",
+        "parent_id": "t3_1idunoi",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Mundane_Cow_4663",
+        "body": "Trump: \"I don't trust china\"   \nTrump: \"I buy chinese only\"",
+        "body_html": "<div class=\"md\"><p>Trump: &quot;I don&#39;t trust china&quot;<br/>\nTrump: &quot;I buy chinese only&quot;</p>\n</div>",
+        "created_utc": "2025-01-31 12:49:00",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma6i9cg",
+        "is_submitter": false,
+        "link_id": "t3_1idunoi",
+        "parent_id": "t3_1idunoi",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Meoww_Dawg",
+        "body": "Corporate needs you to find the differences between this picture & this picture.",
+        "body_html": "<div class=\"md\"><p>Corporate needs you to find the differences between this picture &amp; this picture.</p>\n</div>",
+        "created_utc": "2025-01-31 15:00:51",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma71sti",
+        "is_submitter": false,
+        "link_id": "t3_1idunoi",
+        "parent_id": "t3_1idunoi",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Traxendre",
+        "body": "This is the Sa... no CANCEL this sentence",
+        "body_html": "<div class=\"md\"><p>This is the Sa... no CANCEL this sentence</p>\n</div>",
+        "created_utc": "2025-01-31 16:18:04",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma7g4ye",
+        "is_submitter": false,
+        "link_id": "t3_1idunoi",
+        "parent_id": "t3_1idunoi",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "[deleted]",
+        "body": "[removed]",
+        "body_html": "<div class=\"md\"><p>[removed]</p>\n</div>",
+        "created_utc": "2025-01-30 22:18:46",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma2xwxa",
+        "is_submitter": false,
+        "link_id": "t3_1idunoi",
+        "parent_id": "t3_1idunoi",
+        "score": -7,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/rockshen",
+            "body": "because China\u2019s society is too competitive\uff0cmuch more competitive than the US. Many Chinese people were losers in their country. They run out to other countries to seek opportunities and make a living.",
+            "body_html": "<div class=\"md\"><p>because China\u2019s society is too competitive\uff0cmuch more competitive than the US. Many Chinese people were losers in their country. They run out to other countries to seek opportunities and make a living.</p>\n</div>",
+            "created_utc": "2025-01-31 01:13:33",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma3xc6z",
+            "is_submitter": false,
+            "link_id": "t3_1idunoi",
+            "parent_id": "t1_ma2xwxa",
+            "score": 18,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "[deleted]",
+                "body": "[removed]",
+                "body_html": "<div class=\"md\"><p>[removed]</p>\n</div>",
+                "created_utc": "2025-01-31 01:20:06",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma3yjz5",
+                "is_submitter": false,
+                "link_id": "t3_1idunoi",
+                "parent_id": "t1_ma3xc6z",
+                "score": -6,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/ConclusionDue8419",
+                    "body": "No, if you checked on some news, you would find there are plenty of European and American scientists moved to China already simply because good salary and nice cost of living, most people doesn't care that shit, they just want more money.",
+                    "body_html": "<div class=\"md\"><p>No, if you checked on some news, you would find there are plenty of European and American scientists moved to China already simply because good salary and nice cost of living, most people doesn&#39;t care that shit, they just want more money.</p>\n</div>",
+                    "created_utc": "2025-01-31 02:59:59",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma4gtre",
+                    "is_submitter": false,
+                    "link_id": "t3_1idunoi",
+                    "parent_id": "t1_ma3yjz5",
+                    "score": 12,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/Apprehensive_Arm5315",
+                    "body": "You sound like a European... Not everyone has good memories and opinions about their country. And when they leave it, they only care about their family there.",
+                    "body_html": "<div class=\"md\"><p>You sound like a European... Not everyone has good memories and opinions about their country. And when they leave it, they only care about their family there.</p>\n</div>",
+                    "created_utc": "2025-01-31 09:17:30",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma5x0kv",
+                    "is_submitter": false,
+                    "link_id": "t3_1idunoi",
+                    "parent_id": "t1_ma3yjz5",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/rockshen",
+                    "body": "I am Chinese and I think it is very hard to explain. Maybe CCP's dictatorship? Maybe Western's color revolution? I am studying in the US now, and I found Indians are very different from a lot of Chinese. India's development is far behind China, but Indian immigrants are still proud of their ethnicity, their culture, and their motherland. Many Chinese are like Iranians. They hate their mother country or the current government. I guess it's the so called **zeal of the convert**, because their mother countries are competitor or even enemies of the west, they have to prove their loyalty to their new bosses?",
+                    "body_html": "<div class=\"md\"><p>I am Chinese and I think it is very hard to explain. Maybe CCP&#39;s dictatorship? Maybe Western&#39;s color revolution? I am studying in the US now, and I found Indians are very different from a lot of Chinese. India&#39;s development is far behind China, but Indian immigrants are still proud of their ethnicity, their culture, and their motherland. Many Chinese are like Iranians. They hate their mother country or the current government. I guess it&#39;s the so called <strong>zeal of the convert</strong>, because their mother countries are competitor or even enemies of the west, they have to prove their loyalty to their new bosses?</p>\n</div>",
+                    "created_utc": "2025-01-31 01:44:38",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma433xw",
+                    "is_submitter": false,
+                    "link_id": "t3_1idunoi",
+                    "parent_id": "t1_ma3yjz5",
+                    "score": 4,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "[deleted]",
+                        "body": "[removed]",
+                        "body_html": "<div class=\"md\"><p>[removed]</p>\n</div>",
+                        "created_utc": "2025-01-31 02:05:10",
+                        "distinguished": null,
+                        "edited": "2025-01-31 02:10:04",
+                        "id": "ma46wiv",
+                        "is_submitter": false,
+                        "link_id": "t3_1idunoi",
+                        "parent_id": "t1_ma433xw",
+                        "score": 0,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/rockshen",
+                            "body": "I still remembered in Aug 2022 how Pelosi humiliated Chinese gov by visiting Taiwan and the gov did almost nothing. They are not tough enough. With Deepseek  and 6th gen fighter jet coming out, hope they can be more confident about themselves.",
+                            "body_html": "<div class=\"md\"><p>I still remembered in Aug 2022 how Pelosi humiliated Chinese gov by visiting Taiwan and the gov did almost nothing. They are not tough enough. With Deepseek  and 6th gen fighter jet coming out, hope they can be more confident about themselves.</p>\n</div>",
+                            "created_utc": "2025-01-31 02:22:22",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma4a1j1",
+                            "is_submitter": false,
+                            "link_id": "t3_1idunoi",
+                            "parent_id": "t1_ma46wiv",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      },
+                      {
+                        "author": "[deleted]",
+                        "body": "that's generally sad but i believe it's something like this. im not from the US but many Chinese students in the UK voiced something similar except the last line. they can feel choked by the culture, parenting and society and they can just breathe in the UK.\n\nout of curiosity, do u think the deepseek team is something in the middle? im generally curious. I've read about some of the team and i find their minds fascinating",
+                        "body_html": "<div class=\"md\"><p>that&#39;s generally sad but i believe it&#39;s something like this. im not from the US but many Chinese students in the UK voiced something similar except the last line. they can feel choked by the culture, parenting and society and they can just breathe in the UK.</p>\n\n<p>out of curiosity, do u think the deepseek team is something in the middle? im generally curious. I&#39;ve read about some of the team and i find their minds fascinating</p>\n</div>",
+                        "created_utc": "2025-01-31 02:07:07",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma479a7",
+                        "is_submitter": false,
+                        "link_id": "t3_1idunoi",
+                        "parent_id": "t1_ma433xw",
+                        "score": 0,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/rockshen",
+                            "body": "They have not received any policy subsidies from the CCP (Like Huawei, BYD,DJI); the entire project was developed by a small, privately run team. Their parent company is a privately owned quantitative startup. But now their achievements have caught the CCP\u2019s attention. In the future, the CCP will definitely get involved in their R&D, using it to build a tool for shaping public opinion and propaganda. But why not? If DeepSeek were created in Silicon Valley, wouldn\u2019t the U.S. government do the same thing?",
+                            "body_html": "<div class=\"md\"><p>They have not received any policy subsidies from the CCP (Like Huawei, BYD,DJI); the entire project was developed by a small, privately run team. Their parent company is a privately owned quantitative startup. But now their achievements have caught the CCP\u2019s attention. In the future, the CCP will definitely get involved in their R&amp;D, using it to build a tool for shaping public opinion and propaganda. But why not? If DeepSeek were created in Silicon Valley, wouldn\u2019t the U.S. government do the same thing?</p>\n</div>",
+                            "created_utc": "2025-01-31 05:23:33",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma54z68",
+                            "is_submitter": false,
+                            "link_id": "t3_1idunoi",
+                            "parent_id": "t1_ma479a7",
+                            "score": 2,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "[deleted]",
+                                "body": "its already happening in the usa. isk how its done in china but i believe what even reasonable people would be afraid of is that the life u ran from would become enforced on everyone. i have never lived in china so idk if all people there are oppressed or for the most part they're happy but for westerns, this sounds Orwellian. i dont like fear mongering tho and thats why i posed these questions \n\ndo u think CCP's interaction with deepseek will affect how deepseek works? their trajectory, support of foss et al",
+                                "body_html": "<div class=\"md\"><p>its already happening in the usa. isk how its done in china but i believe what even reasonable people would be afraid of is that the life u ran from would become enforced on everyone. i have never lived in china so idk if all people there are oppressed or for the most part they&#39;re happy but for westerns, this sounds Orwellian. i dont like fear mongering tho and thats why i posed these questions </p>\n\n<p>do u think CCP&#39;s interaction with deepseek will affect how deepseek works? their trajectory, support of foss et al</p>\n</div>",
+                                "created_utc": "2025-01-31 11:23:51",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "ma695gd",
+                                "is_submitter": false,
+                                "link_id": "t3_1idunoi",
+                                "parent_id": "t1_ma54z68",
+                                "score": 0,
+                                "stickied": false,
+                                "replies": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/yqry",
+            "body": "Because unlike what you\u2019ve been told by the media they don\u2019t see the US as \u201cthe enemy.\u201d They view it as they would any other job opportunity.",
+            "body_html": "<div class=\"md\"><p>Because unlike what you\u2019ve been told by the media they don\u2019t see the US as \u201cthe enemy.\u201d They view it as they would any other job opportunity.</p>\n</div>",
+            "created_utc": "2025-01-31 03:08:39",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma4idcj",
+            "is_submitter": false,
+            "link_id": "t3_1idunoi",
+            "parent_id": "t1_ma2xwxa",
+            "score": 5,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/ConclusionDue8419",
+            "body": "Because most of the people like earning money like if China offers the same salary, there is going to be 0 Chinese staying in US..",
+            "body_html": "<div class=\"md\"><p>Because most of the people like earning money like if China offers the same salary, there is going to be 0 Chinese staying in US..</p>\n</div>",
+            "created_utc": "2025-01-31 02:57:44",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma4gfcz",
+            "is_submitter": false,
+            "link_id": "t3_1idunoi",
+            "parent_id": "t1_ma2xwxa",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/zyarva",
+            "body": "What problem, their spies are in US's top tech center.  /s",
+            "body_html": "<div class=\"md\"><p>What problem, their spies are in US&#39;s top tech center.  /s</p>\n</div>",
+            "created_utc": "2025-01-30 22:54:29",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma35nea",
+            "is_submitter": false,
+            "link_id": "t3_1idunoi",
+            "parent_id": "t1_ma2xwxa",
+            "score": 5,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/mortenlu",
+            "body": "Considered that these people of asian descent may be american born and raised?  \nAlso, there is tons of western money being invested in china (and vise versa) without it being an issue. I don't think most people think about the countries in terms of enemies. Nor should we In my opinion (in most cases).",
+            "body_html": "<div class=\"md\"><p>Considered that these people of asian descent may be american born and raised?<br/>\nAlso, there is tons of western money being invested in china (and vise versa) without it being an issue. I don&#39;t think most people think about the countries in terms of enemies. Nor should we In my opinion (in most cases).</p>\n</div>",
+            "created_utc": "2025-01-31 00:43:59",
+            "distinguished": null,
+            "edited": "2025-01-31 00:47:04",
+            "id": "ma3rs1y",
+            "is_submitter": false,
+            "link_id": "t3_1idunoi",
+            "parent_id": "t1_ma2xwxa",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "[deleted]",
+                "body": "[removed]",
+                "body_html": "<div class=\"md\"><p>[removed]</p>\n</div>",
+                "created_utc": "2025-01-31 00:56:22",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma3u5fr",
+                "is_submitter": false,
+                "link_id": "t3_1idunoi",
+                "parent_id": "t1_ma3rs1y",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/mortenlu",
+                    "body": "I know and understand that the governments are, but if you emigrate to a country and live and work with that people, most would not consider them or the country as a whole as enemies. In my mind anyway.",
+                    "body_html": "<div class=\"md\"><p>I know and understand that the governments are, but if you emigrate to a country and live and work with that people, most would not consider them or the country as a whole as enemies. In my mind anyway.</p>\n</div>",
+                    "created_utc": "2025-01-31 01:09:34",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma3wlln",
+                    "is_submitter": false,
+                    "link_id": "t3_1idunoi",
+                    "parent_id": "t1_ma3u5fr",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/Tar_Von",
+                    "body": "You're mainly confusing the actions and rhetoric of government with the general population. There are indeed \"patriot-minded\" citizens in the US but even that exists on a spectrum. Compared to the average person, they make up a relatively small percentage. \n\n*Most* people just want to live out their lives/ dreams and care and provide for their families and or loved ones. That isn't exclusive to any nation and it's highly likely that the vast majority of humans feel this way, regardless of their nation of origin.",
+                    "body_html": "<div class=\"md\"><p>You&#39;re mainly confusing the actions and rhetoric of government with the general population. There are indeed &quot;patriot-minded&quot; citizens in the US but even that exists on a spectrum. Compared to the average person, they make up a relatively small percentage. </p>\n\n<p><em>Most</em> people just want to live out their lives/ dreams and care and provide for their families and or loved ones. That isn&#39;t exclusive to any nation and it&#39;s highly likely that the vast majority of humans feel this way, regardless of their nation of origin.</p>\n</div>",
+                    "created_utc": "2025-01-31 22:09:56",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma9iw9e",
+                    "is_submitter": false,
+                    "link_id": "t3_1idunoi",
+                    "parent_id": "t1_ma3u5fr",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/BoJackHorseMan53",
+            "body": "Because China isn't insecure in their military power.",
+            "body_html": "<div class=\"md\"><p>Because China isn&#39;t insecure in their military power.</p>\n</div>",
+            "created_utc": "2025-01-31 06:37:58",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma5fg66",
+            "is_submitter": false,
+            "link_id": "t3_1idunoi",
+            "parent_id": "t1_ma2xwxa",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/smno1",
+            "body": "Because Chinese government doesn\u2019t represent the interests for each individual people. They can sacrifice any people with so called \u2018great good\u2019 when needed. That is how they are able to do things in most efficient way. When you are not those people that get sacrificed , you don\u2019t feel anything. But if you are those get sacrificed, you will find yourself so powerless and even worse that you probably cannot even make your voice to be heard. The government power is unlimited. The whole society is running top-down manner. If you accept it and you are lucky to not to be those people to be sacrificed it is a good place for you. But for a lot of us, we prefer to live in a society that care every individual",
+            "body_html": "<div class=\"md\"><p>Because Chinese government doesn\u2019t represent the interests for each individual people. They can sacrifice any people with so called \u2018great good\u2019 when needed. That is how they are able to do things in most efficient way. When you are not those people that get sacrificed , you don\u2019t feel anything. But if you are those get sacrificed, you will find yourself so powerless and even worse that you probably cannot even make your voice to be heard. The government power is unlimited. The whole society is running top-down manner. If you accept it and you are lucky to not to be those people to be sacrificed it is a good place for you. But for a lot of us, we prefer to live in a society that care every individual</p>\n</div>",
+            "created_utc": "2025-01-31 06:09:57",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma5bphw",
+            "is_submitter": false,
+            "link_id": "t3_1idunoi",
+            "parent_id": "t1_ma2xwxa",
+            "score": 0,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "[deleted]",
+        "body": "[deleted]",
+        "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+        "created_utc": "2025-01-31 01:15:16",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma3xnpv",
+        "is_submitter": false,
+        "link_id": "t3_1idunoi",
+        "parent_id": "t3_1idunoi",
+        "score": -5,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Waste-Dimension-1681",
+            "body": "Note also fairly common that many are singapore, and lots of the People around India with white skin towards myanmar  are also 'chinese looking', almost all of SE-ASIA is/was influenced by chinese immigrants, I don't care where you go in SE-ASIA, the shop or biz is most like owned by a CHINESE immigrant, same  everywhere, these are the elite and they send their sons to university to be doctors&engineers\n\nYes, this USA team could very well have no CCP connection, but they all have CHINESE blood lines",
+            "body_html": "<div class=\"md\"><p>Note also fairly common that many are singapore, and lots of the People around India with white skin towards myanmar  are also &#39;chinese looking&#39;, almost all of SE-ASIA is/was influenced by chinese immigrants, I don&#39;t care where you go in SE-ASIA, the shop or biz is most like owned by a CHINESE immigrant, same  everywhere, these are the elite and they send their sons to university to be doctors&amp;engineers</p>\n\n<p>Yes, this USA team could very well have no CCP connection, but they all have CHINESE blood lines</p>\n</div>",
+            "created_utc": "2025-01-31 02:24:20",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma4aecn",
+            "is_submitter": false,
+            "link_id": "t3_1idunoi",
+            "parent_id": "t1_ma3xnpv",
+            "score": 6,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Waste-Dimension-1681",
+            "body": "Seems that INDIANS are better at math than Chinese and Russians even better at theoretical math; Really depends on the problem,\n\nRussians & Indians love the theory for its own sake, Chinese are best at turning math into a profitable endeavor, as at the core all chinese are entreipreneurs, and in say India the caste system is a glass ceiling for biz, and in Russia the best rot in place, common for the best math people on earth to live in russia in their mothers apartment and never venture out",
+            "body_html": "<div class=\"md\"><p>Seems that INDIANS are better at math than Chinese and Russians even better at theoretical math; Really depends on the problem,</p>\n\n<p>Russians &amp; Indians love the theory for its own sake, Chinese are best at turning math into a profitable endeavor, as at the core all chinese are entreipreneurs, and in say India the caste system is a glass ceiling for biz, and in Russia the best rot in place, common for the best math people on earth to live in russia in their mothers apartment and never venture out</p>\n</div>",
+            "created_utc": "2025-01-31 02:27:01",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma4aw0l",
+            "is_submitter": false,
+            "link_id": "t3_1idunoi",
+            "parent_id": "t1_ma3xnpv",
+            "score": -1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Glittering-Active-50",
+                "body": "lol india is just shit hole comparing it to china is crime",
+                "body_html": "<div class=\"md\"><p>lol india is just shit hole comparing it to china is crime</p>\n</div>",
+                "created_utc": "2025-01-31 05:24:55",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma556jg",
+                "is_submitter": true,
+                "link_id": "t3_1idunoi",
+                "parent_id": "t1_ma4aw0l",
+                "score": 3,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Waste-Dimension-1681",
+                    "body": "LEARN to read dumb-bot, we are comparing human beings not their countrys or their governments\n\nHell yes USA & INDIA are open cesspools of shit ( Slum Dog Millionaire )  and CHINA today is \"Disneylands Tomorrowland\" today :)",
+                    "body_html": "<div class=\"md\"><p>LEARN to read dumb-bot, we are comparing human beings not their countrys or their governments</p>\n\n<p>Hell yes USA &amp; INDIA are open cesspools of shit ( Slum Dog Millionaire )  and CHINA today is &quot;Disneylands Tomorrowland&quot; today :)</p>\n</div>",
+                    "created_utc": "2025-01-31 05:37:04",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma56z3c",
+                    "is_submitter": false,
+                    "link_id": "t3_1idunoi",
+                    "parent_id": "t1_ma556jg",
+                    "score": 0,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Glittering-Active-50",
+                        "body": "lol ok bot \nyou are using Logical fallacy to put India on the same level as the United States of America\nindia is simply shit hole you can't compare it with usa or china",
+                        "body_html": "<div class=\"md\"><p>lol ok bot \nyou are using Logical fallacy to put India on the same level as the United States of America\nindia is simply shit hole you can&#39;t compare it with usa or china</p>\n</div>",
+                        "created_utc": "2025-01-31 05:43:38",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma57xx8",
+                        "is_submitter": true,
+                        "link_id": "t3_1idunoi",
+                        "parent_id": "t1_ma56z3c",
+                        "score": 4,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Waste-Dimension-1681",
+                            "body": "Let's see INDIAN's on average are 2x higher IQ's that most feral USSA people\n\nThe shit is the same, probably more people sleeping on the street in shit in USSA than in India;\n\nThe only 'bad' about INDIA is their caste system IMHO;\n\nI love the projection a bot, calling a human a bot, I see that a lot on REDDIT;\n\n...\n\nThere you go again, you have zero comprehension skills, we started with comparing the PEOPLE, and we end with comparing the Countrys & their feces on the ground; Nobody ever started comparing the shit on the ground before you arrived;",
+                            "body_html": "<div class=\"md\"><p>Let&#39;s see INDIAN&#39;s on average are 2x higher IQ&#39;s that most feral USSA people</p>\n\n<p>The shit is the same, probably more people sleeping on the street in shit in USSA than in India;</p>\n\n<p>The only &#39;bad&#39; about INDIA is their caste system IMHO;</p>\n\n<p>I love the projection a bot, calling a human a bot, I see that a lot on REDDIT;</p>\n\n<p>...</p>\n\n<p>There you go again, you have zero comprehension skills, we started with comparing the PEOPLE, and we end with comparing the Countrys &amp; their feces on the ground; Nobody ever started comparing the shit on the ground before you arrived;</p>\n</div>",
+                            "created_utc": "2025-01-31 05:47:42",
+                            "distinguished": null,
+                            "edited": "2025-01-31 06:31:31",
+                            "id": "ma58jfu",
+                            "is_submitter": false,
+                            "link_id": "t3_1idunoi",
+                            "parent_id": "t1_ma57xx8",
+                            "score": 0,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/Glittering-Active-50",
+                                "body": "oh yeah indians are 2x high iq but fail to make functional society without raping anything alive or shiting in the street or millions of another  horrible things that are happening in india",
+                                "body_html": "<div class=\"md\"><p>oh yeah indians are 2x high iq but fail to make functional society without raping anything alive or shiting in the street or millions of another  horrible things that are happening in india</p>\n</div>",
+                                "created_utc": "2025-01-31 05:53:42",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "ma59ek9",
+                                "is_submitter": true,
+                                "link_id": "t3_1idunoi",
+                                "parent_id": "t1_ma58jfu",
+                                "score": 6,
+                                "stickied": false,
+                                "replies": []
+                              },
+                              {
+                                "author": "u/Glittering-Active-50",
+                                "body": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 The only 'bad' about INDIA is their caste system IMHO;\nthat's the only bad thing india have \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\n\nbro wth you talking about Maybe you are talking about India in another universe.",
+                                "body_html": "<div class=\"md\"><p>\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 The only &#39;bad&#39; about INDIA is their caste system IMHO;\nthat&#39;s the only bad thing india have \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02</p>\n\n<p>bro wth you talking about Maybe you are talking about India in another universe.</p>\n</div>",
+                                "created_utc": "2025-01-31 05:51:21",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "ma592g1",
+                                "is_submitter": true,
+                                "link_id": "t3_1idunoi",
+                                "parent_id": "t1_ma58jfu",
+                                "score": 2,
+                                "stickied": false,
+                                "replies": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/RedDragonForever",
+                "body": "Chinese people are way smarter than Indians. It's not even a comparison. LMAO. Just compare the math olympiad winners. pick any year and chinese is top1. India is all the way down at number 27. And not only in Math. Also look at the physics, chemistry, statistics, etc. The US's, UK's, Australia's, are basically Chinese Team B, C, and D. I'm not even including ROC, Singapore, Malaysia whose competitors are ethnically Chinese.\nhttps://en.wikipedia.org/wiki/List_of_countries_by_medal_count_at_International_Mathematical_Olympiad\nhttps://en.wikipedia.org/wiki/International_Physics_Olympiad#Distribution_of_medals\nhttps://en.wikipedia.org/wiki/International_Chemistry_Olympiad#Distribution_of_medals\nhttps://en.wikipedia.org/wiki/International_Olympiad_in_Informatics#All-time_medal_table",
+                "body_html": "<div class=\"md\"><p>Chinese people are way smarter than Indians. It&#39;s not even a comparison. LMAO. Just compare the math olympiad winners. pick any year and chinese is top1. India is all the way down at number 27. And not only in Math. Also look at the physics, chemistry, statistics, etc. The US&#39;s, UK&#39;s, Australia&#39;s, are basically Chinese Team B, C, and D. I&#39;m not even including ROC, Singapore, Malaysia whose competitors are ethnically Chinese.\n<a href=\"https://en.wikipedia.org/wiki/List_of_countries_by_medal_count_at_International_Mathematical_Olympiad\">https://en.wikipedia.org/wiki/List_of_countries_by_medal_count_at_International_Mathematical_Olympiad</a>\n<a href=\"https://en.wikipedia.org/wiki/International_Physics_Olympiad#Distribution_of_medals\">https://en.wikipedia.org/wiki/International_Physics_Olympiad#Distribution_of_medals</a>\n<a href=\"https://en.wikipedia.org/wiki/International_Chemistry_Olympiad#Distribution_of_medals\">https://en.wikipedia.org/wiki/International_Chemistry_Olympiad#Distribution_of_medals</a>\n<a href=\"https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics#All-time_medal_table\">https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics#All-time_medal_table</a></p>\n</div>",
+                "created_utc": "2025-01-31 19:59:42",
+                "distinguished": null,
+                "edited": "2025-01-31 20:18:16",
+                "id": "ma8rdx0",
+                "is_submitter": false,
+                "link_id": "t3_1idunoi",
+                "parent_id": "t1_ma4aw0l",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Waste-Dimension-1681",
+                    "body": "Russians are the best in math & physics\n\nIndians are some of of the most famous math people\n\nI have known lots of really dumb chinese people, have lived there +40 years on & off all over the place\n\nLike I said already chinese are motivated by wealth, Indians by passion, and Russians are the best at doing something with nothing\n\nI am a math physics person myself, and I have the highest respect for the Russians\n\nWhy the Chinese come out on top of your list is the simple reason that there are 1.5 Billion, which means that in any category, they will come out on top in numbers; \n\nJust like AI, in China with 1.5B people, you can't help but have 15k AI experts, while in USSA real AI experts are in the 100's if that,",
+                    "body_html": "<div class=\"md\"><p>Russians are the best in math &amp; physics</p>\n\n<p>Indians are some of of the most famous math people</p>\n\n<p>I have known lots of really dumb chinese people, have lived there +40 years on &amp; off all over the place</p>\n\n<p>Like I said already chinese are motivated by wealth, Indians by passion, and Russians are the best at doing something with nothing</p>\n\n<p>I am a math physics person myself, and I have the highest respect for the Russians</p>\n\n<p>Why the Chinese come out on top of your list is the simple reason that there are 1.5 Billion, which means that in any category, they will come out on top in numbers; </p>\n\n<p>Just like AI, in China with 1.5B people, you can&#39;t help but have 15k AI experts, while in USSA real AI experts are in the 100&#39;s if that,</p>\n</div>",
+                    "created_utc": "2025-01-31 23:40:41",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "maa1le3",
+                    "is_submitter": false,
+                    "link_id": "t3_1idunoi",
+                    "parent_id": "t1_ma8rdx0",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/RedDragonForever",
+                        "body": "India's population is comparable to China's. Why is it #27 on the list then? China surpasses India on every worthwhile metric. India has a lot of dumb people too. I've dealt with contractors. China is leagues above Russia and India.",
+                        "body_html": "<div class=\"md\"><p>India&#39;s population is comparable to China&#39;s. Why is it #27 on the list then? China surpasses India on every worthwhile metric. India has a lot of dumb people too. I&#39;ve dealt with contractors. China is leagues above Russia and India.</p>\n</div>",
+                        "created_utc": "2025-01-31 23:46:31",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "maa2r7p",
+                        "is_submitter": false,
+                        "link_id": "t3_1idunoi",
+                        "parent_id": "t1_maa1le3",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Waste-Dimension-1681",
+                            "body": "My god, can I ask a question? DO you live in China? Do you speak chinese? Do you have any idea of the difference today between India & China?\n\nI find the big problem and especially given that reddit comments are 90% bot, but whats worse is most humans have not lived in either country and dont' know the facts on the ground\n\nWhats the point of debating you? Seriously??",
+                            "body_html": "<div class=\"md\"><p>My god, can I ask a question? DO you live in China? Do you speak chinese? Do you have any idea of the difference today between India &amp; China?</p>\n\n<p>I find the big problem and especially given that reddit comments are 90% bot, but whats worse is most humans have not lived in either country and dont&#39; know the facts on the ground</p>\n\n<p>Whats the point of debating you? Seriously??</p>\n</div>",
+                            "created_utc": "2025-02-01 00:05:53",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "maa6j84",
+                            "is_submitter": false,
+                            "link_id": "t3_1idunoi",
+                            "parent_id": "t1_maa2r7p",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "[deleted]",
+        "body": "[deleted]",
+        "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+        "created_utc": "2025-01-31 01:11:44",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma3x00z",
+        "is_submitter": false,
+        "link_id": "t3_1idunoi",
+        "parent_id": "t3_1idunoi",
+        "score": -12,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/OlliWTD",
+            "body": "wtf?",
+            "body_html": "<div class=\"md\"><p>wtf?</p>\n</div>",
+            "created_utc": "2025-01-31 01:24:04",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma3zalc",
+            "is_submitter": false,
+            "link_id": "t3_1idunoi",
+            "parent_id": "t1_ma3x00z",
+            "score": 11,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Glittering-Active-50",
+            "body": "oh yeah that's why they have the [one of the highest iq in the world](https://worldpopulationreview.com/country-rankings/average-iq-by-country)",
+            "body_html": "<div class=\"md\"><p>oh yeah that&#39;s why they have the <a href=\"https://worldpopulationreview.com/country-rankings/average-iq-by-country\">one of the highest iq in the world</a></p>\n</div>",
+            "created_utc": "2025-01-31 05:27:16",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma55j4m",
+            "is_submitter": true,
+            "link_id": "t3_1idunoi",
+            "parent_id": "t1_ma3x00z",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1632 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1igjqpq/i_find_myself_extra_drawn_to_deepseek_because/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/nkj00b",
+      "created_utc": "2025-02-03 08:28:51",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Other",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 107,
+      "permalink": "/r/DeepSeek/comments/1igjqpq/i_find_myself_extra_drawn_to_deepseek_because/",
+      "score": 305,
+      "selftext": "I feel less and less interested to have any sense of loyalty to the US given how things are going politically in that country. So using deepseek over chatGPT makes me feel sort of good as in my own little way it feels like giving the finger to the US with their wacky leader and silicon valley greedy boys.  \nI wonder how subscriptions are going with chatGPT. I can only imagine they are going south ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "I find myself extra drawn to deepseek because annoyed at US for electing an idiot.",
+      "upvote_ratio": 0.84
+    },
+    "comments": [
+      {
+        "author": "u/Legitimate_Sun224",
+        "body": "Choose a product wisely, not because they belong to your country or a person you like. Open source is what an evolving community thrives on and where innovations takes roots to flourish further ; unlike proprietary closed source softwares pushed down as innovations by greedy tech bros and their fanboys.",
+        "body_html": "<div class=\"md\"><p>Choose a product wisely, not because they belong to your country or a person you like. Open source is what an evolving community thrives on and where innovations takes roots to flourish further ; unlike proprietary closed source softwares pushed down as innovations by greedy tech bros and their fanboys.</p>\n</div>",
+        "created_utc": "2025-02-03 09:57:36",
+        "distinguished": null,
+        "edited": false,
+        "id": "mapj5hq",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 25,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/AndrewFrozzen",
+            "body": "I find it quite amusing that Americans always go on about Open-source apps and what not, but as soon as that open-source product comes from somewhere outside of USA, they call it a Spyware.\n\nMeanwhile Switzerland is literally a open-source country with government apps being open-source.\n\nI never thought it will come a day, where I support China more than USA. But here we go.\n\nChina is still a shit country. No doubt about that. I don't agree with many of political choices. But it's funny how much they've been pushed back, because USA is crying loudly about it.\n\nI wonder what would they have to say about DeepSeek if it came from Germany or Netherlands or any European country.",
+            "body_html": "<div class=\"md\"><p>I find it quite amusing that Americans always go on about Open-source apps and what not, but as soon as that open-source product comes from somewhere outside of USA, they call it a Spyware.</p>\n\n<p>Meanwhile Switzerland is literally a open-source country with government apps being open-source.</p>\n\n<p>I never thought it will come a day, where I support China more than USA. But here we go.</p>\n\n<p>China is still a shit country. No doubt about that. I don&#39;t agree with many of political choices. But it&#39;s funny how much they&#39;ve been pushed back, because USA is crying loudly about it.</p>\n\n<p>I wonder what would they have to say about DeepSeek if it came from Germany or Netherlands or any European country.</p>\n</div>",
+            "created_utc": "2025-02-04 06:32:50",
+            "distinguished": null,
+            "edited": false,
+            "id": "mavkysg",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapj5hq",
+            "score": 4,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Fingercult",
+        "body": "I canceled my gpt sub but will need it again soon, only until deep seek gets itself back in working order (I use it for work a lot)",
+        "body_html": "<div class=\"md\"><p>I canceled my gpt sub but will need it again soon, only until deep seek gets itself back in working order (I use it for work a lot)</p>\n</div>",
+        "created_utc": "2025-02-03 08:57:36",
+        "distinguished": null,
+        "edited": false,
+        "id": "mapdbla",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 29,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "[deleted]",
+            "body": "You can try openrouter, they have deep seek",
+            "body_html": "<div class=\"md\"><p>You can try openrouter, they have deep seek</p>\n</div>",
+            "created_utc": "2025-02-03 09:43:00",
+            "distinguished": null,
+            "edited": false,
+            "id": "maphrqm",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapdbla",
+            "score": 10,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/fcoberrios14",
+            "body": "Try Claude instead",
+            "body_html": "<div class=\"md\"><p>Try Claude instead</p>\n</div>",
+            "created_utc": "2025-02-03 14:18:27",
+            "distinguished": null,
+            "edited": false,
+            "id": "maqchg7",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapdbla",
+            "score": -12,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Bitter-Metal494",
+        "body": "Idk why you would be loyal to the country that has killed more people in history",
+        "body_html": "<div class=\"md\"><p>Idk why you would be loyal to the country that has killed more people in history</p>\n</div>",
+        "created_utc": "2025-02-03 08:42:22",
+        "distinguished": null,
+        "edited": false,
+        "id": "mapbrr9",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 38,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Nervous_Actuator_380",
+            "body": "When people start to react with politics, I know DeepSeek must be really good.",
+            "body_html": "<div class=\"md\"><p>When people start to react with politics, I know DeepSeek must be really good.</p>\n</div>",
+            "created_utc": "2025-02-03 14:57:07",
+            "distinguished": null,
+            "edited": false,
+            "id": "maqiqtz",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapbrr9",
+            "score": 10,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/BoJackHorseMan53",
+            "body": "Pretty sure US has killed more people in Afghanistan, Iraq, Syria and Gaza over the decades.",
+            "body_html": "<div class=\"md\"><p>Pretty sure US has killed more people in Afghanistan, Iraq, Syria and Gaza over the decades.</p>\n</div>",
+            "created_utc": "2025-02-03 09:03:30",
+            "distinguished": null,
+            "edited": false,
+            "id": "mapdx4o",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapbrr9",
+            "score": 44,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Bitter-Metal494",
+                "body": "Yeah I was talking about the United States being the country with more murders on his hands",
+                "body_html": "<div class=\"md\"><p>Yeah I was talking about the United States being the country with more murders on his hands</p>\n</div>",
+                "created_utc": "2025-02-03 09:07:09",
+                "distinguished": null,
+                "edited": false,
+                "id": "mapea95",
+                "is_submitter": false,
+                "link_id": "t3_1igjqpq",
+                "parent_id": "t1_mapdx4o",
+                "score": 53,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/Ev6765",
+                "body": "So you know nothing about reality, China has always had a huge population and everything that happens there is on a large scale, as well as the huge murders that happened there are equivalent to more than the entire population of the countries you mentioned together, and that knowing that you are a left-wing conspiracy theorist.",
+                "body_html": "<div class=\"md\"><p>So you know nothing about reality, China has always had a huge population and everything that happens there is on a large scale, as well as the huge murders that happened there are equivalent to more than the entire population of the countries you mentioned together, and that knowing that you are a left-wing conspiracy theorist.</p>\n</div>",
+                "created_utc": "2025-02-03 10:28:20",
+                "distinguished": null,
+                "edited": false,
+                "id": "mapm2rz",
+                "is_submitter": false,
+                "link_id": "t3_1igjqpq",
+                "parent_id": "t1_mapdx4o",
+                "score": -27,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/AmargiVeMoo",
+                    "body": "the thing about left-wing conspiracy theories, is that they almost always turn out to be true.\n\n\"Big Oil knew climate change was real but hid it?\"  \n\"Yep\u2014Exxon\u2019s own 70s research proved it. They funded denial instead.\"  \n\n\"Gov spying on everyone\u2019s texts?\"  \n\"Snowden\u2019s 2013 leaks exposed the NSA. Not a theory\u2014*fact*.\"  \n\n\"Tobacco companies lied about cancer?\"  \n\"Paid scientists to downplay it for *decades*. Got caught in the 90s.\"  \n\n\"FBI sabotaged civil rights activists?\"  \n\"COINTELPRO files show they targeted MLK, Panthers. Straight-up harassment.\"  \n\n\"Iraq War was based on fake WMD intel?\"  \n\"Totally. Zero evidence. They just made it sound scary.\"  \n\n\"Corporations legally bribe politicians?\"  \n\"*Citizens United* let dark money flood elections. Now it\u2019s just\u2026 normal.\"  \n\n\"Amazon treats workers like robots?\"  \n\"Investigations proved it\u2014brutal hours, pee-in-bottles stuff. Not even subtle.\"",
+                    "body_html": "<div class=\"md\"><p>the thing about left-wing conspiracy theories, is that they almost always turn out to be true.</p>\n\n<p>&quot;Big Oil knew climate change was real but hid it?&quot;<br/>\n&quot;Yep\u2014Exxon\u2019s own 70s research proved it. They funded denial instead.&quot;  </p>\n\n<p>&quot;Gov spying on everyone\u2019s texts?&quot;<br/>\n&quot;Snowden\u2019s 2013 leaks exposed the NSA. Not a theory\u2014<em>fact</em>.&quot;  </p>\n\n<p>&quot;Tobacco companies lied about cancer?&quot;<br/>\n&quot;Paid scientists to downplay it for <em>decades</em>. Got caught in the 90s.&quot;  </p>\n\n<p>&quot;FBI sabotaged civil rights activists?&quot;<br/>\n&quot;COINTELPRO files show they targeted MLK, Panthers. Straight-up harassment.&quot;  </p>\n\n<p>&quot;Iraq War was based on fake WMD intel?&quot;<br/>\n&quot;Totally. Zero evidence. They just made it sound scary.&quot;  </p>\n\n<p>&quot;Corporations legally bribe politicians?&quot;<br/>\n&quot;<em>Citizens United</em> let dark money flood elections. Now it\u2019s just\u2026 normal.&quot;  </p>\n\n<p>&quot;Amazon treats workers like robots?&quot;<br/>\n&quot;Investigations proved it\u2014brutal hours, pee-in-bottles stuff. Not even subtle.&quot;</p>\n</div>",
+                    "created_utc": "2025-02-03 12:33:37",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mapyq2f",
+                    "is_submitter": false,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_mapm2rz",
+                    "score": 14,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/ReddBroccoli",
+                    "body": "I guess you're forgetting about the Native Americans and 100+ years of slavery. Also, are we counting the civil war?",
+                    "body_html": "<div class=\"md\"><p>I guess you&#39;re forgetting about the Native Americans and 100+ years of slavery. Also, are we counting the civil war?</p>\n</div>",
+                    "created_utc": "2025-02-03 10:59:44",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mapp3ie",
+                    "is_submitter": false,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_mapm2rz",
+                    "score": 12,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/BoJackHorseMan53",
+                    "body": "We should have a leaderboard \ud83d\udcaa\n\nUK should be #3 for all the atrocities they did in India and other nations they colonised",
+                    "body_html": "<div class=\"md\"><p>We should have a leaderboard \ud83d\udcaa</p>\n\n<p>UK should be #3 for all the atrocities they did in India and other nations they colonised</p>\n</div>",
+                    "created_utc": "2025-02-03 10:59:23",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mapp26l",
+                    "is_submitter": false,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_mapm2rz",
+                    "score": 9,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/Tr_Issei2",
+                    "body": "Okay show us the numbers",
+                    "body_html": "<div class=\"md\"><p>Okay show us the numbers</p>\n</div>",
+                    "created_utc": "2025-02-03 12:56:05",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "maq1b2l",
+                    "is_submitter": false,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_mapm2rz",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              },
+              {
+                "author": "u/NessaMagick",
+                "body": "The US has a lot of blood on her hands but its still a very young nation. It barely registers I'd say.",
+                "body_html": "<div class=\"md\"><p>The US has a lot of blood on her hands but its still a very young nation. It barely registers I&#39;d say.</p>\n</div>",
+                "created_utc": "2025-02-03 14:29:00",
+                "distinguished": null,
+                "edited": false,
+                "id": "maqe48k",
+                "is_submitter": false,
+                "link_id": "t3_1igjqpq",
+                "parent_id": "t1_mapdx4o",
+                "score": -15,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/BoJackHorseMan53",
+                    "body": "So much blood at such a young age, starting from her foundation with murder of the natives and slavery of the blacks. Must make older murderous nations proud \ud83d\udcaf",
+                    "body_html": "<div class=\"md\"><p>So much blood at such a young age, starting from her foundation with murder of the natives and slavery of the blacks. Must make older murderous nations proud \ud83d\udcaf</p>\n</div>",
+                    "created_utc": "2025-02-03 14:33:53",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "maqew8p",
+                    "is_submitter": false,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_maqe48k",
+                    "score": 18,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/NessaMagick",
+                        "body": "You can take the rebels out of Britain but you can't take the Brit out of the rebels I guess.",
+                        "body_html": "<div class=\"md\"><p>You can take the rebels out of Britain but you can&#39;t take the Brit out of the rebels I guess.</p>\n</div>",
+                        "created_utc": "2025-02-03 14:43:49",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "maqgirw",
+                        "is_submitter": false,
+                        "link_id": "t3_1igjqpq",
+                        "parent_id": "t1_maqew8p",
+                        "score": 6,
+                        "stickied": false,
+                        "replies": []
+                      },
+                      {
+                        "author": "[deleted]",
+                        "body": "Waaaaaa! Yet you do nothing about it. You complain on your keyboard. Wow what effort. Now go put your covid mask back on be a good little tool.",
+                        "body_html": "<div class=\"md\"><p>Waaaaaa! Yet you do nothing about it. You complain on your keyboard. Wow what effort. Now go put your covid mask back on be a good little tool.</p>\n</div>",
+                        "created_utc": "2025-02-04 06:51:16",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mavnbra",
+                        "is_submitter": false,
+                        "link_id": "t3_1igjqpq",
+                        "parent_id": "t1_maqew8p",
+                        "score": 0,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  },
+                  {
+                    "author": "u/AndrewFrozzen",
+                    "body": "And that's why it's bad.\n\nUSA is barely a speck of dust in the whole history of the world, yet, they did more damage to the world and it's getting worse (with stuff like pollution and indirect death from whatever the fuck they put in their food.)",
+                    "body_html": "<div class=\"md\"><p>And that&#39;s why it&#39;s bad.</p>\n\n<p>USA is barely a speck of dust in the whole history of the world, yet, they did more damage to the world and it&#39;s getting worse (with stuff like pollution and indirect death from whatever the fuck they put in their food.)</p>\n</div>",
+                    "created_utc": "2025-02-04 06:35:21",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mavlahr",
+                    "is_submitter": false,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_maqe48k",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/listenering",
+            "body": "Can you prove that statement? I\u2019m having a hard time finding a source to back that claim.",
+            "body_html": "<div class=\"md\"><p>Can you prove that statement? I\u2019m having a hard time finding a source to back that claim.</p>\n</div>",
+            "created_utc": "2025-02-03 09:06:14",
+            "distinguished": null,
+            "edited": false,
+            "id": "mape719",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapbrr9",
+            "score": 5,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/No-Bluebird-5708",
+            "body": "Yes. Please leave deep seek alone. It is a CCP propaganda machine turning its users into evil commies.\n\nGo play at ChatGPT and pay Sam Altman.\n\nPeople like you are overloading the system. Shoo! Shoo!\n\nI can't wait the entire site gets banned in the US so that I could use it in peace.",
+            "body_html": "<div class=\"md\"><p>Yes. Please leave deep seek alone. It is a CCP propaganda machine turning its users into evil commies.</p>\n\n<p>Go play at ChatGPT and pay Sam Altman.</p>\n\n<p>People like you are overloading the system. Shoo! Shoo!</p>\n\n<p>I can&#39;t wait the entire site gets banned in the US so that I could use it in peace.</p>\n</div>",
+            "created_utc": "2025-02-03 08:48:01",
+            "distinguished": null,
+            "edited": false,
+            "id": "mapccg4",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapbrr9",
+            "score": -25,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Bitter-Metal494",
+                "body": "But I love the CCP and deep seek, it's the perfect contra hegemonic power",
+                "body_html": "<div class=\"md\"><p>But I love the CCP and deep seek, it&#39;s the perfect contra hegemonic power</p>\n</div>",
+                "created_utc": "2025-02-03 08:51:00",
+                "distinguished": null,
+                "edited": false,
+                "id": "mapcncr",
+                "is_submitter": false,
+                "link_id": "t3_1igjqpq",
+                "parent_id": "t1_mapccg4",
+                "score": 16,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/No-Bluebird-5708",
+                    "body": "In all seriousness, no trolling, I really want this AI be banned from Europe and the US. It is a nightmare to use it now because of the sheer amount of volume it is receiving. People from developed countries should just stick to ChatGPT and pay Sam Altman. People from poorer countries can use this AI (commie propaganda or not) to help them. \n\nThis is a powerful tool. Just too many butthurt idiot trying to spam \"tenannam square\" like a stupid kid.\n\nI just want to use it in peace. It is wonderful to help me write legal briefs.\n\nIf the Westerners are so butthurt about China's AI they should just stick with Sam Altman and leave us all the rest in peace so I could use it properly.",
+                    "body_html": "<div class=\"md\"><p>In all seriousness, no trolling, I really want this AI be banned from Europe and the US. It is a nightmare to use it now because of the sheer amount of volume it is receiving. People from developed countries should just stick to ChatGPT and pay Sam Altman. People from poorer countries can use this AI (commie propaganda or not) to help them. </p>\n\n<p>This is a powerful tool. Just too many butthurt idiot trying to spam &quot;tenannam square&quot; like a stupid kid.</p>\n\n<p>I just want to use it in peace. It is wonderful to help me write legal briefs.</p>\n\n<p>If the Westerners are so butthurt about China&#39;s AI they should just stick with Sam Altman and leave us all the rest in peace so I could use it properly.</p>\n</div>",
+                    "created_utc": "2025-02-03 08:54:20",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mapczn1",
+                    "is_submitter": false,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_mapcncr",
+                    "score": -5,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Bitter-Metal494",
+                        "body": "I think you can download the code and run it locally idk",
+                        "body_html": "<div class=\"md\"><p>I think you can download the code and run it locally idk</p>\n</div>",
+                        "created_utc": "2025-02-03 08:59:51",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mapdjvf",
+                        "is_submitter": false,
+                        "link_id": "t3_1igjqpq",
+                        "parent_id": "t1_mapczn1",
+                        "score": 9,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Purple-Phrase-9180",
+                            "body": "Yup. I do it. Works nice",
+                            "body_html": "<div class=\"md\"><p>Yup. I do it. Works nice</p>\n</div>",
+                            "created_utc": "2025-02-03 10:00:56",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mapjh1j",
+                            "is_submitter": false,
+                            "link_id": "t3_1igjqpq",
+                            "parent_id": "t1_mapdjvf",
+                            "score": 3,
+                            "stickied": false,
+                            "replies": []
+                          },
+                          {
+                            "author": "u/No-Bluebird-5708",
+                            "body": "Don't have the technical expertise nor money for the hardware. \n\nAll I know is finally I can afford AI to help with my work and thanks to fucking western retards that can't stand China getting good in AI and now I have to get \"system busy, try again later\" when before the news about deepseek exploded it ran smooth as butter.\n\nSeriously for all you China haters out there: stop using Chinese stuff. Stop buying Chinese products if it makes you happy.\n\nStop fucking around with it and leave us people with proper things to do in peace so that we can use it properly.\n\nJust fuck off and use your own ChatGPT. The rest of the world have work to do and can't afford the monthly subs you know.",
+                            "body_html": "<div class=\"md\"><p>Don&#39;t have the technical expertise nor money for the hardware. </p>\n\n<p>All I know is finally I can afford AI to help with my work and thanks to fucking western retards that can&#39;t stand China getting good in AI and now I have to get &quot;system busy, try again later&quot; when before the news about deepseek exploded it ran smooth as butter.</p>\n\n<p>Seriously for all you China haters out there: stop using Chinese stuff. Stop buying Chinese products if it makes you happy.</p>\n\n<p>Stop fucking around with it and leave us people with proper things to do in peace so that we can use it properly.</p>\n\n<p>Just fuck off and use your own ChatGPT. The rest of the world have work to do and can&#39;t afford the monthly subs you know.</p>\n</div>",
+                            "created_utc": "2025-02-03 09:03:03",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mapdvim",
+                            "is_submitter": false,
+                            "link_id": "t3_1igjqpq",
+                            "parent_id": "t1_mapdjvf",
+                            "score": -7,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/LuxCoelho",
+                                "body": "Who are you to tell people to don't use chinese things? You aren't even expert in tech or AI, like you said. \nSinophobic much? Hate for no reason is prejudice\n\nWhat wrongs they did to you or to your country, seriously, what your reason to hate them come from?",
+                                "body_html": "<div class=\"md\"><p>Who are you to tell people to don&#39;t use chinese things? You aren&#39;t even expert in tech or AI, like you said. \nSinophobic much? Hate for no reason is prejudice</p>\n\n<p>What wrongs they did to you or to your country, seriously, what your reason to hate them come from?</p>\n</div>",
+                                "created_utc": "2025-02-03 12:40:03",
+                                "distinguished": null,
+                                "edited": "2025-02-03 12:43:44",
+                                "id": "mapzg05",
+                                "is_submitter": false,
+                                "link_id": "t3_1igjqpq",
+                                "parent_id": "t1_mapdvim",
+                                "score": 3,
+                                "stickied": false,
+                                "replies": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "[deleted]",
+            "body": "Protecting your freedom Jack off. Too much a coward to fight for your own so you blame those who had to do it for you. What a POS.",
+            "body_html": "<div class=\"md\"><p>Protecting your freedom Jack off. Too much a coward to fight for your own so you blame those who had to do it for you. What a POS.</p>\n</div>",
+            "created_utc": "2025-02-04 06:48:49",
+            "distinguished": null,
+            "edited": false,
+            "id": "mavn0qz",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapbrr9",
+            "score": -1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/kongweeneverdie",
+        "body": "Even if Harris elected, she will ban and sanction  Deepseek all around the world.",
+        "body_html": "<div class=\"md\"><p>Even if Harris elected, she will ban and sanction  Deepseek all around the world.</p>\n</div>",
+        "created_utc": "2025-02-03 10:35:31",
+        "distinguished": null,
+        "edited": false,
+        "id": "mapmrrh",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/lonelyroom-eklaghor",
+            "body": "Exactly, because the Tiktok ban was almost unanimously agreed upon by the Legislative body",
+            "body_html": "<div class=\"md\"><p>Exactly, because the Tiktok ban was almost unanimously agreed upon by the Legislative body</p>\n</div>",
+            "created_utc": "2025-02-03 12:12:36",
+            "distinguished": null,
+            "edited": false,
+            "id": "mapwfkj",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapmrrh",
+            "score": 7,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/PrinscessTiramisu",
+            "body": "All around the world?",
+            "body_html": "<div class=\"md\"><p>All around the world?</p>\n</div>",
+            "created_utc": "2025-02-03 12:37:27",
+            "distinguished": null,
+            "edited": false,
+            "id": "mapz5g0",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapmrrh",
+            "score": 3,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/kongweeneverdie",
+                "body": "Yup, this is how all the senate usually say, anything and everything all around the world.",
+                "body_html": "<div class=\"md\"><p>Yup, this is how all the senate usually say, anything and everything all around the world.</p>\n</div>",
+                "created_utc": "2025-02-03 13:41:11",
+                "distinguished": null,
+                "edited": false,
+                "id": "maq73hs",
+                "is_submitter": false,
+                "link_id": "t3_1igjqpq",
+                "parent_id": "t1_mapz5g0",
+                "score": 0,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/PrinscessTiramisu",
+                    "body": "I'm having trouble with your sentences, are you a native English speaker?",
+                    "body_html": "<div class=\"md\"><p>I&#39;m having trouble with your sentences, are you a native English speaker?</p>\n</div>",
+                    "created_utc": "2025-02-03 14:26:54",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "maqdsfu",
+                    "is_submitter": false,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_maq73hs",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/PinPsychological3982",
+            "body": "Both parties represent big corporate donors and not voters. But one is proudly fascist and the other is embarrassed. So they're the better choice",
+            "body_html": "<div class=\"md\"><p>Both parties represent big corporate donors and not voters. But one is proudly fascist and the other is embarrassed. So they&#39;re the better choice</p>\n</div>",
+            "created_utc": "2025-02-03 17:33:03",
+            "distinguished": null,
+            "edited": false,
+            "id": "marcu9e",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapmrrh",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/AndrewFrozzen",
+            "body": "All around the world? You think USA can control every country or what?\n\nEU would have banned it long ago if DeepSeek was shady. But they didn't.",
+            "body_html": "<div class=\"md\"><p>All around the world? You think USA can control every country or what?</p>\n\n<p>EU would have banned it long ago if DeepSeek was shady. But they didn&#39;t.</p>\n</div>",
+            "created_utc": "2025-02-04 06:37:28",
+            "distinguished": null,
+            "edited": false,
+            "id": "mavlk9w",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapmrrh",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/kongweeneverdie",
+                "body": "The senate first they say out loud they can. The outcome is not important. I mean Biden said very confidently he could decouple from China in every media, Russia would be punished by sanction.",
+                "body_html": "<div class=\"md\"><p>The senate first they say out loud they can. The outcome is not important. I mean Biden said very confidently he could decouple from China in every media, Russia would be punished by sanction.</p>\n</div>",
+                "created_utc": "2025-02-04 06:54:41",
+                "distinguished": null,
+                "edited": false,
+                "id": "mavnr6p",
+                "is_submitter": false,
+                "link_id": "t3_1igjqpq",
+                "parent_id": "t1_mavlk9w",
+                "score": 0,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/AndrewFrozzen",
+                    "body": "Ok... I'm not following. What does this have to do with the rest of the world? USA has absolutely no control over EU countries, for example. We hack & slash however we want over here. We did it several times with USA companies (Apple, Discord, Facebook/Meta, etc) and we will not stop because Biden, Kamaala or Trump said so.",
+                    "body_html": "<div class=\"md\"><p>Ok... I&#39;m not following. What does this have to do with the rest of the world? USA has absolutely no control over EU countries, for example. We hack &amp; slash however we want over here. We did it several times with USA companies (Apple, Discord, Facebook/Meta, etc) and we will not stop because Biden, Kamaala or Trump said so.</p>\n</div>",
+                    "created_utc": "2025-02-04 07:02:02",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mavonah",
+                    "is_submitter": false,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_mavnr6p",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Ubbe_04",
+        "body": "Even id it was other way around outcome still would be same",
+        "body_html": "<div class=\"md\"><p>Even id it was other way around outcome still would be same</p>\n</div>",
+        "created_utc": "2025-02-03 08:43:31",
+        "distinguished": null,
+        "edited": false,
+        "id": "mapbw1f",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/react_dev",
+        "body": "I think the great thing about deepseek is that you don\u2019t need to feel allegiance to a country. It\u2019s open source. There\u2019s a high chance that a US based fork on deepseek will emerge. The playing field has been leveled for everyone.",
+        "body_html": "<div class=\"md\"><p>I think the great thing about deepseek is that you don\u2019t need to feel allegiance to a country. It\u2019s open source. There\u2019s a high chance that a US based fork on deepseek will emerge. The playing field has been leveled for everyone.</p>\n</div>",
+        "created_utc": "2025-02-03 13:24:07",
+        "distinguished": null,
+        "edited": false,
+        "id": "maq4t7o",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/West_Sport_506",
+        "body": "https://preview.redd.it/4p4dhokxcxge1.png?width=701&format=png&auto=webp&s=5112c9a7066934ff74f7af0f976aaa0e394a0e5b\n\n\ud83c\udf88",
+        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/4p4dhokxcxge1.png?width=701&amp;format=png&amp;auto=webp&amp;s=5112c9a7066934ff74f7af0f976aaa0e394a0e5b\">https://preview.redd.it/4p4dhokxcxge1.png?width=701&amp;format=png&amp;auto=webp&amp;s=5112c9a7066934ff74f7af0f976aaa0e394a0e5b</a></p>\n\n<p>\ud83c\udf88</p>\n</div>",
+        "created_utc": "2025-02-03 14:19:26",
+        "distinguished": null,
+        "edited": false,
+        "id": "maqcmqq",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Odd-Size-5239",
+            "body": "China be like\n\nhttps://preview.redd.it/nqm7gg5bnxge1.png?width=1080&format=png&auto=webp&s=33b6731b56946d7368621eaeb3c9fae94928cc8b",
+            "body_html": "<div class=\"md\"><p>China be like</p>\n\n<p><a href=\"https://preview.redd.it/nqm7gg5bnxge1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=33b6731b56946d7368621eaeb3c9fae94928cc8b\">https://preview.redd.it/nqm7gg5bnxge1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=33b6731b56946d7368621eaeb3c9fae94928cc8b</a></p>\n</div>",
+            "created_utc": "2025-02-03 15:17:08",
+            "distinguished": null,
+            "edited": false,
+            "id": "maqm69c",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_maqcmqq",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Rear-gunner",
+        "body": "Actually the Chinese government has been widely accused of committing severe human rights abuses against the Uyghur population and other predominantly Muslim ethnic minorities in the Xinjiang region, with many allegations meeting the legal definition of genocide under international law. These accusations are supported by substantial evidence from governments, international organizations, human rights groups, and independent investigations.",
+        "body_html": "<div class=\"md\"><p>Actually the Chinese government has been widely accused of committing severe human rights abuses against the Uyghur population and other predominantly Muslim ethnic minorities in the Xinjiang region, with many allegations meeting the legal definition of genocide under international law. These accusations are supported by substantial evidence from governments, international organizations, human rights groups, and independent investigations.</p>\n</div>",
+        "created_utc": "2025-02-04 00:50:15",
+        "distinguished": null,
+        "edited": false,
+        "id": "maty2yu",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/nkj00b",
+            "body": "Yup agreed. But US is slowly becoming a harmful force in the world ... So lesser of two evils situation",
+            "body_html": "<div class=\"md\"><p>Yup agreed. But US is slowly becoming a harmful force in the world ... So lesser of two evils situation</p>\n</div>",
+            "created_utc": "2025-02-04 07:14:55",
+            "distinguished": null,
+            "edited": false,
+            "id": "mavq69e",
+            "is_submitter": true,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_maty2yu",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Rear-gunner",
+                "body": "https://freedomhouse.org/countries/freedom-world/scores\n\ncheckout USA vs China",
+                "body_html": "<div class=\"md\"><p><a href=\"https://freedomhouse.org/countries/freedom-world/scores\">https://freedomhouse.org/countries/freedom-world/scores</a></p>\n\n<p>checkout USA vs China</p>\n</div>",
+                "created_utc": "2025-02-04 07:34:59",
+                "distinguished": null,
+                "edited": false,
+                "id": "mavsh6d",
+                "is_submitter": false,
+                "link_id": "t3_1igjqpq",
+                "parent_id": "t1_mavq69e",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/No-Beginning-4269",
+        "body": "Half the time I use deepseek I get \"server busy\"",
+        "body_html": "<div class=\"md\"><p>Half the time I use deepseek I get &quot;server busy&quot;</p>\n</div>",
+        "created_utc": "2025-02-04 01:47:39",
+        "distinguished": null,
+        "edited": false,
+        "id": "mau8zmj",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/romanswinter",
+        "body": "Then stop using Reddit, its an American company. Also, stop using your Windows PC or Mac because both of those are American companies.",
+        "body_html": "<div class=\"md\"><p>Then stop using Reddit, its an American company. Also, stop using your Windows PC or Mac because both of those are American companies.</p>\n</div>",
+        "created_utc": "2025-02-04 06:17:40",
+        "distinguished": null,
+        "edited": false,
+        "id": "maviz2a",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/nkj00b",
+            "body": "I can't as there is no decent alternative at present",
+            "body_html": "<div class=\"md\"><p>I can&#39;t as there is no decent alternative at present</p>\n</div>",
+            "created_utc": "2025-02-04 07:13:33",
+            "distinguished": null,
+            "edited": false,
+            "id": "mavq0kg",
+            "is_submitter": true,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_maviz2a",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "[deleted]",
+        "body": "What a cry baby. If you hate America get the out of here. You are not wanted. The fewer bitter self-hating jackasses like you the better.",
+        "body_html": "<div class=\"md\"><p>What a cry baby. If you hate America get the out of here. You are not wanted. The fewer bitter self-hating jackasses like you the better.</p>\n</div>",
+        "created_utc": "2025-02-04 06:45:09",
+        "distinguished": null,
+        "edited": false,
+        "id": "mavmjws",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/nkj00b",
+            "body": "I don't live there",
+            "body_html": "<div class=\"md\"><p>I don&#39;t live there</p>\n</div>",
+            "created_utc": "2025-02-04 07:12:55",
+            "distinguished": null,
+            "edited": false,
+            "id": "mavpxvs",
+            "is_submitter": true,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mavmjws",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "[deleted]",
+        "body": "If you like a country that still has slavery then enjoy China! And if it's better why not just go there and live that wonderful lifestyle?",
+        "body_html": "<div class=\"md\"><p>If you like a country that still has slavery then enjoy China! And if it&#39;s better why not just go there and live that wonderful lifestyle?</p>\n</div>",
+        "created_utc": "2025-02-04 06:46:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "mavmryv",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/nkj00b",
+            "body": "I wouldn't like to live in either country",
+            "body_html": "<div class=\"md\"><p>I wouldn&#39;t like to live in either country</p>\n</div>",
+            "created_utc": "2025-02-04 07:18:59",
+            "distinguished": null,
+            "edited": false,
+            "id": "mavqnag",
+            "is_submitter": true,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mavmryv",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Former-Hospital-3656",
+        "body": "Why do you redditors have to shove politics up in even the most irrelevant of topics \ud83d\ude2d I\u2019m apolitical and literally Reddit is just insufferable",
+        "body_html": "<div class=\"md\"><p>Why do you redditors have to shove politics up in even the most irrelevant of topics \ud83d\ude2d I\u2019m apolitical and literally Reddit is just insufferable</p>\n</div>",
+        "created_utc": "2025-02-04 07:37:46",
+        "distinguished": null,
+        "edited": false,
+        "id": "mavssl8",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Maleficent-Demand107",
+        "body": "https://preview.redd.it/egz1tpqo4zge1.jpeg?width=1080&format=pjpg&auto=webp&s=297fae8bfd234faa8ff0273311045a17c845c834",
+        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/egz1tpqo4zge1.jpeg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=297fae8bfd234faa8ff0273311045a17c845c834\">https://preview.redd.it/egz1tpqo4zge1.jpeg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=297fae8bfd234faa8ff0273311045a17c845c834</a></p>\n</div>",
+        "created_utc": "2025-02-03 20:16:18",
+        "distinguished": null,
+        "edited": false,
+        "id": "masc382",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 0,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/timtomorkevin",
+            "body": "https://preview.redd.it/btaiq505l3he1.png?width=1920&format=png&auto=webp&s=aed54e58e274b21510a1c3305f7ad0cf65f7a72e",
+            "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/btaiq505l3he1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=aed54e58e274b21510a1c3305f7ad0cf65f7a72e\">https://preview.redd.it/btaiq505l3he1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=aed54e58e274b21510a1c3305f7ad0cf65f7a72e</a></p>\n</div>",
+            "created_utc": "2025-02-04 11:15:47",
+            "distinguished": null,
+            "edited": false,
+            "id": "mawekgz",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_masc382",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/BrocoliAssassin",
+        "body": "Yes cause China is much better at it than the usa.......right....\n\nThe USA has been like this for over 50 years.",
+        "body_html": "<div class=\"md\"><p>Yes cause China is much better at it than the usa.......right....</p>\n\n<p>The USA has been like this for over 50 years.</p>\n</div>",
+        "created_utc": "2025-02-03 17:03:26",
+        "distinguished": null,
+        "edited": false,
+        "id": "mar6lgy",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/SystematicHydromatic",
+        "body": "You think the US is bad. Try rebelling in China.",
+        "body_html": "<div class=\"md\"><p>You think the US is bad. Try rebelling in China.</p>\n</div>",
+        "created_utc": "2025-02-03 19:12:12",
+        "distinguished": null,
+        "edited": false,
+        "id": "mary863",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/totempow",
+        "body": "Oh Gee our president is an idiot, let me give China all my data.  We have a real rocket scientist here.  Pot calling the kettle black.",
+        "body_html": "<div class=\"md\"><p>Oh Gee our president is an idiot, let me give China all my data.  We have a real rocket scientist here.  Pot calling the kettle black.</p>\n</div>",
+        "created_utc": "2025-02-03 23:58:22",
+        "distinguished": null,
+        "edited": false,
+        "id": "matnw0q",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 0,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/nkj00b",
+            "body": "Give all data to US or give all data to China. The choice is becoming less obvious to me these days due to the choices going on in the US. (PS. I do not live in the US).",
+            "body_html": "<div class=\"md\"><p>Give all data to US or give all data to China. The choice is becoming less obvious to me these days due to the choices going on in the US. (PS. I do not live in the US).</p>\n</div>",
+            "created_utc": "2025-02-04 07:17:54",
+            "distinguished": null,
+            "edited": false,
+            "id": "mavqiqe",
+            "is_submitter": true,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_matnw0q",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/totempow",
+                "body": "If thats the case there isn't a reason to worry I guess.  Neither will handle your data better than the other if you aren't in the country.  So sorry about that.",
+                "body_html": "<div class=\"md\"><p>If thats the case there isn&#39;t a reason to worry I guess.  Neither will handle your data better than the other if you aren&#39;t in the country.  So sorry about that.</p>\n</div>",
+                "created_utc": "2025-02-04 13:06:16",
+                "distinguished": null,
+                "edited": false,
+                "id": "mawqnt8",
+                "is_submitter": false,
+                "link_id": "t3_1igjqpq",
+                "parent_id": "t1_mavqiqe",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/nkj00b",
+                    "body": "Data privacy was not part of my rationale for the original statement",
+                    "body_html": "<div class=\"md\"><p>Data privacy was not part of my rationale for the original statement</p>\n</div>",
+                    "created_utc": "2025-02-06 06:06:13",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb8sfip",
+                    "is_submitter": true,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_mawqnt8",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/hackerforhire",
+        "body": "Is that because you're trans?",
+        "body_html": "<div class=\"md\"><p>Is that because you&#39;re trans?</p>\n</div>",
+        "created_utc": "2025-02-04 00:23:40",
+        "distinguished": null,
+        "edited": false,
+        "id": "matsxos",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Spiritual_Fox_1865",
+        "body": "The alternative to the US is embracing China (CCP) who want your support so they can lie to you and promise you great things with the ultimate ulterior motive of controlling you and taking away your freedoms including freedom of speech and freedom of choice.  As bad as it may look it could be way worse.  The last administration was heading in that direction at warp speed.  They lost their minds though and lost most Americans in the process.",
+        "body_html": "<div class=\"md\"><p>The alternative to the US is embracing China (CCP) who want your support so they can lie to you and promise you great things with the ultimate ulterior motive of controlling you and taking away your freedoms including freedom of speech and freedom of choice.  As bad as it may look it could be way worse.  The last administration was heading in that direction at warp speed.  They lost their minds though and lost most Americans in the process.</p>\n</div>",
+        "created_utc": "2025-02-03 10:06:46",
+        "distinguished": null,
+        "edited": false,
+        "id": "mapk13i",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": -7,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/No-Bluebird-5708",
+        "body": "Please don't. Just pay Sam Altman and leave us to use Deep seek in peace.\n\nIt is so annoying that people like you are overloading the system.",
+        "body_html": "<div class=\"md\"><p>Please don&#39;t. Just pay Sam Altman and leave us to use Deep seek in peace.</p>\n\n<p>It is so annoying that people like you are overloading the system.</p>\n</div>",
+        "created_utc": "2025-02-03 08:45:35",
+        "distinguished": null,
+        "edited": false,
+        "id": "mapc3gw",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": -16,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Fingercult",
+            "body": "I hate the US as much as the next guy, but we can\u2019t blame the average American citizen who did not vote for that orange Cheeto. I feel sad for them. And patriotism is ingrained into many cultures so it\u2019s not unusual to eventually hit a point where you realize it\u2019s not all it\u2019s cracked up to be. \n\nHave some heart. they\u2019re living in a 3rd world country where kids die bc they can\u2019t afford asthma meds",
+            "body_html": "<div class=\"md\"><p>I hate the US as much as the next guy, but we can\u2019t blame the average American citizen who did not vote for that orange Cheeto. I feel sad for them. And patriotism is ingrained into many cultures so it\u2019s not unusual to eventually hit a point where you realize it\u2019s not all it\u2019s cracked up to be. </p>\n\n<p>Have some heart. they\u2019re living in a 3rd world country where kids die bc they can\u2019t afford asthma meds</p>\n</div>",
+            "created_utc": "2025-02-03 08:56:04",
+            "distinguished": null,
+            "edited": false,
+            "id": "mapd5yg",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapc3gw",
+            "score": 14,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/No-Bluebird-5708",
+                "body": "Don't care. Not my problem. You guys are all rich enough to use the paid version of AI.\n\nLeave us poorer folk to us the free version.\n\nThe day this app gets banned in the West for good will be the day I celebrate.",
+                "body_html": "<div class=\"md\"><p>Don&#39;t care. Not my problem. You guys are all rich enough to use the paid version of AI.</p>\n\n<p>Leave us poorer folk to us the free version.</p>\n\n<p>The day this app gets banned in the West for good will be the day I celebrate.</p>\n</div>",
+                "created_utc": "2025-02-03 08:58:14",
+                "distinguished": null,
+                "edited": false,
+                "id": "mapddx0",
+                "is_submitter": false,
+                "link_id": "t3_1igjqpq",
+                "parent_id": "t1_mapd5yg",
+                "score": -6,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/listenering",
+                    "body": "You\u2019d fit right in with America the way you think.",
+                    "body_html": "<div class=\"md\"><p>You\u2019d fit right in with America the way you think.</p>\n</div>",
+                    "created_utc": "2025-02-03 09:04:16",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mapdzy5",
+                    "is_submitter": false,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_mapddx0",
+                    "score": 8,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/Fingercult",
+                    "body": "I\u2019m not American, never have been never will be. But I think the average American is more poor than you think. \n\nAnd other poster is right, you sound American af lol",
+                    "body_html": "<div class=\"md\"><p>I\u2019m not American, never have been never will be. But I think the average American is more poor than you think. </p>\n\n<p>And other poster is right, you sound American af lol</p>\n</div>",
+                    "created_utc": "2025-02-03 16:40:52",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mar1y48",
+                    "is_submitter": false,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_mapddx0",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/No-Bluebird-5708",
+                        "body": "True blooded American shouldn\u2019t use commie AI. They should all use capitalist US AI to show their patriotism.\n\nWe living in the 3rd world should use deepseek instead",
+                        "body_html": "<div class=\"md\"><p>True blooded American shouldn\u2019t use commie AI. They should all use capitalist US AI to show their patriotism.</p>\n\n<p>We living in the 3rd world should use deepseek instead</p>\n</div>",
+                        "created_utc": "2025-02-03 23:34:33",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "matizrq",
+                        "is_submitter": false,
+                        "link_id": "t3_1igjqpq",
+                        "parent_id": "t1_mar1y48",
+                        "score": -1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/InsignificantCookie",
+            "body": "Lately, I've been playing this little game where I ask DS to solve ridiculously redundant and convoluted math equations to see how long I can make it think. My record is 10 minutes and 21 seconds! Trying to see if I can get it to 15mins.",
+            "body_html": "<div class=\"md\"><p>Lately, I&#39;ve been playing this little game where I ask DS to solve ridiculously redundant and convoluted math equations to see how long I can make it think. My record is 10 minutes and 21 seconds! Trying to see if I can get it to 15mins.</p>\n</div>",
+            "created_utc": "2025-02-03 09:06:24",
+            "distinguished": null,
+            "edited": false,
+            "id": "mape7mc",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapc3gw",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/No-Bluebird-5708",
+                "body": "Next time, just fucking try it with ChatGPT. I heard it is superior. why bother with an inferior model.\n\nJust go there.",
+                "body_html": "<div class=\"md\"><p>Next time, just fucking try it with ChatGPT. I heard it is superior. why bother with an inferior model.</p>\n\n<p>Just go there.</p>\n</div>",
+                "created_utc": "2025-02-03 09:08:02",
+                "distinguished": null,
+                "edited": false,
+                "id": "mapedfk",
+                "is_submitter": false,
+                "link_id": "t3_1igjqpq",
+                "parent_id": "t1_mape7mc",
+                "score": -1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/InsignificantCookie",
+                    "body": "You go use it if you believe it's so superior. I'll stick to DeepSeek, thanks.",
+                    "body_html": "<div class=\"md\"><p>You go use it if you believe it&#39;s so superior. I&#39;ll stick to DeepSeek, thanks.</p>\n</div>",
+                    "created_utc": "2025-02-03 09:14:44",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mapf19s",
+                    "is_submitter": false,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_mapedfk",
+                    "score": 7,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/No-Bluebird-5708",
+                        "body": "I use it because it is free. Rich folks from rich countries go pay Sam Altman and leave such AI resources to us poorer folks. \n\nSeriously, US congress and the EU should make quick decision and ban this AI from their juridiction as soon as possible. \n\nLeave free resources for the poorer folk from poorer countries. Stop overloading deepseek.",
+                        "body_html": "<div class=\"md\"><p>I use it because it is free. Rich folks from rich countries go pay Sam Altman and leave such AI resources to us poorer folks. </p>\n\n<p>Seriously, US congress and the EU should make quick decision and ban this AI from their juridiction as soon as possible. </p>\n\n<p>Leave free resources for the poorer folk from poorer countries. Stop overloading deepseek.</p>\n</div>",
+                        "created_utc": "2025-02-03 09:17:09",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mapf9vf",
+                        "is_submitter": false,
+                        "link_id": "t3_1igjqpq",
+                        "parent_id": "t1_mapf19s",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Kdub8990_",
+        "body": "you did see what we had the last four years, right?!....'and btw,. we don't miss you.....That's one less ignorant person. who doesn't pay attention or have common sense....",
+        "body_html": "<div class=\"md\"><p>you did see what we had the last four years, right?!....&#39;and btw,. we don&#39;t miss you.....That&#39;s one less ignorant person. who doesn&#39;t pay attention or have common sense....</p>\n</div>",
+        "created_utc": "2025-02-03 12:48:04",
+        "distinguished": null,
+        "edited": false,
+        "id": "maq0dd5",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": -5,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Bumble-Fuck-4322",
+        "body": "That\u2019s a dumb reason.",
+        "body_html": "<div class=\"md\"><p>That\u2019s a dumb reason.</p>\n</div>",
+        "created_utc": "2025-02-03 09:53:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "mapisu8",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": -8,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/HorrorsPersistSoDoI",
+            "body": "Shhh, you are only allowed to speak anti-Trump in Reddit",
+            "body_html": "<div class=\"md\"><p>Shhh, you are only allowed to speak anti-Trump in Reddit</p>\n</div>",
+            "created_utc": "2025-02-03 12:27:58",
+            "distinguished": null,
+            "edited": false,
+            "id": "mapy3ne",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapisu8",
+            "score": -2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/AbusedShaman",
+        "body": "So you support the Chinese? At least Trump was elected. Relax, he only has 4 years. What about President Xi? I find it odd that people are embracing the Chinese because of Trump.",
+        "body_html": "<div class=\"md\"><p>So you support the Chinese? At least Trump was elected. Relax, he only has 4 years. What about President Xi? I find it odd that people are embracing the Chinese because of Trump.</p>\n</div>",
+        "created_utc": "2025-02-03 17:00:30",
+        "distinguished": null,
+        "edited": false,
+        "id": "mar5zqj",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": -7,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/sagacityx1",
+        "body": "Blah blah.",
+        "body_html": "<div class=\"md\"><p>Blah blah.</p>\n</div>",
+        "created_utc": "2025-02-03 08:31:41",
+        "distinguished": null,
+        "edited": false,
+        "id": "mapanty",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": -14,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "[deleted]",
+        "body": "[deleted]",
+        "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+        "created_utc": "2025-02-03 09:19:19",
+        "distinguished": null,
+        "edited": false,
+        "id": "mapfhn7",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": -6,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Swimming_Piece7387",
+            "body": "What is wrong with you?",
+            "body_html": "<div class=\"md\"><p>What is wrong with you?</p>\n</div>",
+            "created_utc": "2025-02-03 12:33:25",
+            "distinguished": null,
+            "edited": false,
+            "id": "mapypbi",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapfhn7",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Tadao608",
+            "body": "Woah",
+            "body_html": "<div class=\"md\"><p>Woah</p>\n</div>",
+            "created_utc": "2025-02-03 12:44:07",
+            "distinguished": null,
+            "edited": false,
+            "id": "mapzwxv",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapfhn7",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Blackliquid",
+        "body": "Bro don't make this political. It's a piece of software. Just use it if you like it. What AI you use will not change anything for anyone.",
+        "body_html": "<div class=\"md\"><p>Bro don&#39;t make this political. It&#39;s a piece of software. Just use it if you like it. What AI you use will not change anything for anyone.</p>\n</div>",
+        "created_utc": "2025-02-03 09:08:42",
+        "distinguished": null,
+        "edited": false,
+        "id": "mapefrk",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": -8,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/RosietheMaker",
+            "body": "Everything is political though.\u00a0",
+            "body_html": "<div class=\"md\"><p>Everything is political though.\u00a0</p>\n</div>",
+            "created_utc": "2025-02-03 09:38:27",
+            "distinguished": null,
+            "edited": false,
+            "id": "maphc3r",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapefrk",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/FantasticOlive7568",
+        "body": "this is such a dumb take i don't even know where to start.  I might ask chatgpt 4.0 to find out. \"Choosing a product based on political frustration rather than its actual capabilities seems counterproductive. The effectiveness of an AI tool isn't tied to your feelings about a country\u2019s politics or its leaders. If your goal is to make informed decisions, it\u2019s better to focus on performance, features, and value rather than symbolic gestures that don\u2019t impact the very things you\u2019re frustrated with.",
+        "body_html": "<div class=\"md\"><p>this is such a dumb take i don&#39;t even know where to start.  I might ask chatgpt 4.0 to find out. &quot;Choosing a product based on political frustration rather than its actual capabilities seems counterproductive. The effectiveness of an AI tool isn&#39;t tied to your feelings about a country\u2019s politics or its leaders. If your goal is to make informed decisions, it\u2019s better to focus on performance, features, and value rather than symbolic gestures that don\u2019t impact the very things you\u2019re frustrated with.</p>\n</div>",
+        "created_utc": "2025-02-03 09:49:01",
+        "distinguished": null,
+        "edited": false,
+        "id": "mapicdb",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": -10,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Rear-gunner",
+        "body": "OMG so you would rather support the Chinese goverment that has detained and imprisioned so many people arther then support a man who is trying to stop it \nhttps://www.cfr.org/backgrounder/china-xinjiang-uyghurs-muslims-repression-genocide-human-rights",
+        "body_html": "<div class=\"md\"><p>OMG so you would rather support the Chinese goverment that has detained and imprisioned so many people arther then support a man who is trying to stop it \n<a href=\"https://www.cfr.org/backgrounder/china-xinjiang-uyghurs-muslims-repression-genocide-human-rights\">https://www.cfr.org/backgrounder/china-xinjiang-uyghurs-muslims-repression-genocide-human-rights</a></p>\n</div>",
+        "created_utc": "2025-02-03 09:13:01",
+        "distinguished": null,
+        "edited": false,
+        "id": "mapev9h",
+        "is_submitter": false,
+        "link_id": "t3_1igjqpq",
+        "parent_id": "t3_1igjqpq",
+        "score": -13,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/kongweeneverdie",
+            "body": "Everyone know this is fake. Only loud minorities insist on believing it.",
+            "body_html": "<div class=\"md\"><p>Everyone know this is fake. Only loud minorities insist on believing it.</p>\n</div>",
+            "created_utc": "2025-02-03 14:03:00",
+            "distinguished": null,
+            "edited": false,
+            "id": "maqa6qu",
+            "is_submitter": false,
+            "link_id": "t3_1igjqpq",
+            "parent_id": "t1_mapev9h",
+            "score": 3,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Rear-gunner",
+                "body": "who is everyone?",
+                "body_html": "<div class=\"md\"><p>who is everyone?</p>\n</div>",
+                "created_utc": "2025-02-04 00:58:16",
+                "distinguished": null,
+                "edited": false,
+                "id": "matzmgk",
+                "is_submitter": false,
+                "link_id": "t3_1igjqpq",
+                "parent_id": "t1_maqa6qu",
+                "score": 0,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/kongweeneverdie",
+                    "body": "you",
+                    "body_html": "<div class=\"md\"><p>you</p>\n</div>",
+                    "created_utc": "2025-02-04 01:00:09",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "matzzk3",
+                    "is_submitter": false,
+                    "link_id": "t3_1igjqpq",
+                    "parent_id": "t1_matzmgk",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Rear-gunner",
+                        "body": "Well I do not know its fake nor do these people \n\n\n[1] https://www.bbc.com/news/world-asia-china-22278037\n[2] https://www.hrw.org/news/2023/08/31/china-unrelenting-crimes-against-humanity-targeting-uyghurs\n[3] https://www.genocidewatch.com/single-post/uyghurs-credible-case-china-carrying-out-genocide\n[4] https://www.ndtv.com/world-news/china-arbitrarily-detained-over-1-million-uyghurs-from-2017-to-2023-us-report-5502286\n[5] https://www.hrw.org/news/2024/08/28/china-un-needs-address-crimes-against-humanity\n[6] https://www.bbc.com/news/world-asia-china-59595952\n[7] https://www.cfr.org/backgrounder/china-xinjiang-uyghurs-muslims-repression-genocide-human-rights\n[8] https://www.hrw.org/news/2023/10/23/un-member-countries-condemn-chinas-crimes-against-humanity\n[9] https://www.amnesty.org/en/location/asia-and-the-pacific/east-asia/china/report-china/\n[10] https://2017-2021.state.gov/chinas-disregard-for-human-rights/\n[11] https://foreignpolicy.com/2021/02/19/china-uighurs-genocide-us-pompeo-blinken/\n[12] https://2017-2021.state.gov/ccpabuses/\n[13] https://theconversation.com/un-report-on-chinas-abuse-of-uyghurs-is-stronger-than-expected-but-missing-a-vital-word-genocide-189917\n[14] https://www.ushmm.org/genocide-prevention/countries/china/chinese-persecution-of-the-uyghurs\n[15] https://www.globalr2p.org/countries/china/\n[16] https://www.hrw.org/report/2021/04/19/break-their-lineage-break-their-roots/chinas-crimes-against-humanity-targeting\n[17] https://www.humanrights.unsw.edu.au/research/commentary/un-report-xinjiang-abuses-leaves-no-room-plausible-deniability\n[18] http://id.china-embassy.gov.cn/eng/sgdt/202206/t20220622_10707637.htm\n[19] https://www.middleeasteye.net/news/uk-labour-drops-plan-accuse-china-genocide-over-uyghur-treatment\n[20] https://ejfoundation.org/news-media/china-is-responsible-for-systemic-human-rights-abuses-and-illegal-fishing-across-the-southwest-indian-ocean-new-investigation\n[21] https://www.voanews.com/a/report-china-using-strict-travel-restrictions-to-control-uyghurs/7961635.html\n[22] https://www.voanews.com/a/uyghur-news-recap-november-24---december-8-2023/7390541.html\n[23] https://www.globaltimes.cn/page/202405/1313250.shtml\n[24] https://dfrac.org/en/2025/02/03/misleading-claim-alleging-no-uyghur-genocide-goes-viral/\n[25] https://www.usip.org/publications/2023/04/dont-look-away-chinas-atrocities-against-uyghurs\n[26] https://www.cfr.org/backgrounder/contentious-us-china-trade-relationship\n[27] https://thediplomat.com/2024/08/chinas-genocide-tourism-strategy/\n[28] https://www.washingtonpost.com/opinions/2023/10/01/uyghur-professor-life-sentence-china/\n[29] https://www.amnesty.org/en/latest/news/2024/05/global-executions-soar-highest-number-in-decade/\n[30] https://religiousfreedominstitute.org/hard-evidence-of-chinas-genocide/\n[31] https://en.wikipedia.org/wiki/Persecution_of_Uyghurs_in_China\n[32] https://lordslibrary.parliament.uk/china-allegations-of-human-rights-abuses/\n[33] https://www.aljazeera.com/news/2024/6/18/china-accused-of-erasing-religion-culture-from-uighur-village-names\n[34] https://thediplomat.com/2024/05/xi-jinping-visit-gives-frances-macron-chance-to-raise-chinas-uyghur-genocide/\n[35] https://english.news.cn/20240529/6d6e270ad4a94f4584b2d1810ddba17a/c.html",
+                        "body_html": "<div class=\"md\"><p>Well I do not know its fake nor do these people </p>\n\n<p>[1] <a href=\"https://www.bbc.com/news/world-asia-china-22278037\">https://www.bbc.com/news/world-asia-china-22278037</a>\n[2] <a href=\"https://www.hrw.org/news/2023/08/31/china-unrelenting-crimes-against-humanity-targeting-uyghurs\">https://www.hrw.org/news/2023/08/31/china-unrelenting-crimes-against-humanity-targeting-uyghurs</a>\n[3] <a href=\"https://www.genocidewatch.com/single-post/uyghurs-credible-case-china-carrying-out-genocide\">https://www.genocidewatch.com/single-post/uyghurs-credible-case-china-carrying-out-genocide</a>\n[4] <a href=\"https://www.ndtv.com/world-news/china-arbitrarily-detained-over-1-million-uyghurs-from-2017-to-2023-us-report-5502286\">https://www.ndtv.com/world-news/china-arbitrarily-detained-over-1-million-uyghurs-from-2017-to-2023-us-report-5502286</a>\n[5] <a href=\"https://www.hrw.org/news/2024/08/28/china-un-needs-address-crimes-against-humanity\">https://www.hrw.org/news/2024/08/28/china-un-needs-address-crimes-against-humanity</a>\n[6] <a href=\"https://www.bbc.com/news/world-asia-china-59595952\">https://www.bbc.com/news/world-asia-china-59595952</a>\n[7] <a href=\"https://www.cfr.org/backgrounder/china-xinjiang-uyghurs-muslims-repression-genocide-human-rights\">https://www.cfr.org/backgrounder/china-xinjiang-uyghurs-muslims-repression-genocide-human-rights</a>\n[8] <a href=\"https://www.hrw.org/news/2023/10/23/un-member-countries-condemn-chinas-crimes-against-humanity\">https://www.hrw.org/news/2023/10/23/un-member-countries-condemn-chinas-crimes-against-humanity</a>\n[9] <a href=\"https://www.amnesty.org/en/location/asia-and-the-pacific/east-asia/china/report-china/\">https://www.amnesty.org/en/location/asia-and-the-pacific/east-asia/china/report-china/</a>\n[10] <a href=\"https://2017-2021.state.gov/chinas-disregard-for-human-rights/\">https://2017-2021.state.gov/chinas-disregard-for-human-rights/</a>\n[11] <a href=\"https://foreignpolicy.com/2021/02/19/china-uighurs-genocide-us-pompeo-blinken/\">https://foreignpolicy.com/2021/02/19/china-uighurs-genocide-us-pompeo-blinken/</a>\n[12] <a href=\"https://2017-2021.state.gov/ccpabuses/\">https://2017-2021.state.gov/ccpabuses/</a>\n[13] <a href=\"https://theconversation.com/un-report-on-chinas-abuse-of-uyghurs-is-stronger-than-expected-but-missing-a-vital-word-genocide-189917\">https://theconversation.com/un-report-on-chinas-abuse-of-uyghurs-is-stronger-than-expected-but-missing-a-vital-word-genocide-189917</a>\n[14] <a href=\"https://www.ushmm.org/genocide-prevention/countries/china/chinese-persecution-of-the-uyghurs\">https://www.ushmm.org/genocide-prevention/countries/china/chinese-persecution-of-the-uyghurs</a>\n[15] <a href=\"https://www.globalr2p.org/countries/china/\">https://www.globalr2p.org/countries/china/</a>\n[16] <a href=\"https://www.hrw.org/report/2021/04/19/break-their-lineage-break-their-roots/chinas-crimes-against-humanity-targeting\">https://www.hrw.org/report/2021/04/19/break-their-lineage-break-their-roots/chinas-crimes-against-humanity-targeting</a>\n[17] <a href=\"https://www.humanrights.unsw.edu.au/research/commentary/un-report-xinjiang-abuses-leaves-no-room-plausible-deniability\">https://www.humanrights.unsw.edu.au/research/commentary/un-report-xinjiang-abuses-leaves-no-room-plausible-deniability</a>\n[18] <a href=\"http://id.china-embassy.gov.cn/eng/sgdt/202206/t20220622_10707637.htm\">http://id.china-embassy.gov.cn/eng/sgdt/202206/t20220622_10707637.htm</a>\n[19] <a href=\"https://www.middleeasteye.net/news/uk-labour-drops-plan-accuse-china-genocide-over-uyghur-treatment\">https://www.middleeasteye.net/news/uk-labour-drops-plan-accuse-china-genocide-over-uyghur-treatment</a>\n[20] <a href=\"https://ejfoundation.org/news-media/china-is-responsible-for-systemic-human-rights-abuses-and-illegal-fishing-across-the-southwest-indian-ocean-new-investigation\">https://ejfoundation.org/news-media/china-is-responsible-for-systemic-human-rights-abuses-and-illegal-fishing-across-the-southwest-indian-ocean-new-investigation</a>\n[21] <a href=\"https://www.voanews.com/a/report-china-using-strict-travel-restrictions-to-control-uyghurs/7961635.html\">https://www.voanews.com/a/report-china-using-strict-travel-restrictions-to-control-uyghurs/7961635.html</a>\n[22] <a href=\"https://www.voanews.com/a/uyghur-news-recap-november-24---december-8-2023/7390541.html\">https://www.voanews.com/a/uyghur-news-recap-november-24---december-8-2023/7390541.html</a>\n[23] <a href=\"https://www.globaltimes.cn/page/202405/1313250.shtml\">https://www.globaltimes.cn/page/202405/1313250.shtml</a>\n[24] <a href=\"https://dfrac.org/en/2025/02/03/misleading-claim-alleging-no-uyghur-genocide-goes-viral/\">https://dfrac.org/en/2025/02/03/misleading-claim-alleging-no-uyghur-genocide-goes-viral/</a>\n[25] <a href=\"https://www.usip.org/publications/2023/04/dont-look-away-chinas-atrocities-against-uyghurs\">https://www.usip.org/publications/2023/04/dont-look-away-chinas-atrocities-against-uyghurs</a>\n[26] <a href=\"https://www.cfr.org/backgrounder/contentious-us-china-trade-relationship\">https://www.cfr.org/backgrounder/contentious-us-china-trade-relationship</a>\n[27] <a href=\"https://thediplomat.com/2024/08/chinas-genocide-tourism-strategy/\">https://thediplomat.com/2024/08/chinas-genocide-tourism-strategy/</a>\n[28] <a href=\"https://www.washingtonpost.com/opinions/2023/10/01/uyghur-professor-life-sentence-china/\">https://www.washingtonpost.com/opinions/2023/10/01/uyghur-professor-life-sentence-china/</a>\n[29] <a href=\"https://www.amnesty.org/en/latest/news/2024/05/global-executions-soar-highest-number-in-decade/\">https://www.amnesty.org/en/latest/news/2024/05/global-executions-soar-highest-number-in-decade/</a>\n[30] <a href=\"https://religiousfreedominstitute.org/hard-evidence-of-chinas-genocide/\">https://religiousfreedominstitute.org/hard-evidence-of-chinas-genocide/</a>\n[31] <a href=\"https://en.wikipedia.org/wiki/Persecution_of_Uyghurs_in_China\">https://en.wikipedia.org/wiki/Persecution_of_Uyghurs_in_China</a>\n[32] <a href=\"https://lordslibrary.parliament.uk/china-allegations-of-human-rights-abuses/\">https://lordslibrary.parliament.uk/china-allegations-of-human-rights-abuses/</a>\n[33] <a href=\"https://www.aljazeera.com/news/2024/6/18/china-accused-of-erasing-religion-culture-from-uighur-village-names\">https://www.aljazeera.com/news/2024/6/18/china-accused-of-erasing-religion-culture-from-uighur-village-names</a>\n[34] <a href=\"https://thediplomat.com/2024/05/xi-jinping-visit-gives-frances-macron-chance-to-raise-chinas-uyghur-genocide/\">https://thediplomat.com/2024/05/xi-jinping-visit-gives-frances-macron-chance-to-raise-chinas-uyghur-genocide/</a>\n[35] <a href=\"https://english.news.cn/20240529/6d6e270ad4a94f4584b2d1810ddba17a/c.html\">https://english.news.cn/20240529/6d6e270ad4a94f4584b2d1810ddba17a/c.html</a></p>\n</div>",
+                        "created_utc": "2025-02-04 01:07:08",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mau1bim",
+                        "is_submitter": false,
+                        "link_id": "t3_1igjqpq",
+                        "parent_id": "t1_matzzk3",
+                        "score": -1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/kongweeneverdie",
+                            "body": "Yup you rely on fake news. Oh I see you use Deepseek search.",
+                            "body_html": "<div class=\"md\"><p>Yup you rely on fake news. Oh I see you use Deepseek search.</p>\n</div>",
+                            "created_utc": "2025-02-04 01:40:56",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mau7q8o",
+                            "is_submitter": false,
+                            "link_id": "t3_1igjqpq",
+                            "parent_id": "t1_mau1bim",
+                            "score": 3,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/Rear-gunner",
+                                "body": "> Yup you rely on fake news. Oh I see you use Deepseek search.\n\nDeepseek falsely claims that the Chinese goverment is safeguarding the legitimate rights and interests of all ethnic groups, including the Uyghurs and other Turkic Muslims.",
+                                "body_html": "<div class=\"md\"><blockquote>\n<p>Yup you rely on fake news. Oh I see you use Deepseek search.</p>\n</blockquote>\n\n<p>Deepseek falsely claims that the Chinese goverment is safeguarding the legitimate rights and interests of all ethnic groups, including the Uyghurs and other Turkic Muslims.</p>\n</div>",
+                                "created_utc": "2025-02-04 05:27:13",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mavbsqs",
+                                "is_submitter": false,
+                                "link_id": "t3_1igjqpq",
+                                "parent_id": "t1_mau7q8o",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/kongweeneverdie",
+                                    "body": "I went to Xinjiang all the muslim here their right are protected. Their right is as normal as you have. They can work freely, setup family, free to practice their reglion and have a peaceful life. Who do you believe? The local muslim or the mainstream medias? All you links are made up stories written in air-condition rooms. They don't even travel to Xinjiang. You can travel to Xinjiang with 240H visa free.",
+                                    "body_html": "<div class=\"md\"><p>I went to Xinjiang all the muslim here their right are protected. Their right is as normal as you have. They can work freely, setup family, free to practice their reglion and have a peaceful life. Who do you believe? The local muslim or the mainstream medias? All you links are made up stories written in air-condition rooms. They don&#39;t even travel to Xinjiang. You can travel to Xinjiang with 240H visa free.</p>\n</div>",
+                                    "created_utc": "2025-02-04 05:38:21",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "mavdfue",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1igjqpq",
+                                    "parent_id": "t1_mavbsqs",
+                                    "score": 2,
+                                    "stickied": false,
+                                    "replies": [
+                                      {
+                                        "author": "u/Rear-gunner",
+                                        "body": "Obviously the editors of the wikipedia disagree with you.\n\nhttps://en.wikipedia.org/wiki/Persecution_of_Uyghurs_in_China",
+                                        "body_html": "<div class=\"md\"><p>Obviously the editors of the wikipedia disagree with you.</p>\n\n<p><a href=\"https://en.wikipedia.org/wiki/Persecution_of_Uyghurs_in_China\">https://en.wikipedia.org/wiki/Persecution_of_Uyghurs_in_China</a></p>\n</div>",
+                                        "created_utc": "2025-02-04 07:29:58",
+                                        "distinguished": null,
+                                        "edited": false,
+                                        "id": "mavrwmr",
+                                        "is_submitter": false,
+                                        "link_id": "t3_1igjqpq",
+                                        "parent_id": "t1_mavdfue",
+                                        "score": 1,
+                                        "stickied": false,
+                                        "replies": [
+                                          {
+                                            "author": "u/kongweeneverdie",
+                                            "body": "Wiki is just extension of the mainstream media like Reddit.",
+                                            "body_html": "<div class=\"md\"><p>Wiki is just extension of the mainstream media like Reddit.</p>\n</div>",
+                                            "created_utc": "2025-02-04 07:31:50",
+                                            "distinguished": null,
+                                            "edited": false,
+                                            "id": "mavs479",
+                                            "is_submitter": false,
+                                            "link_id": "t3_1igjqpq",
+                                            "parent_id": "t1_mavrwmr",
+                                            "score": 1,
+                                            "stickied": false,
+                                            "replies": [
+                                              {
+                                                "author": "u/Rear-gunner",
+                                                "body": "Does not mean that the mainstream media is wrong.",
+                                                "body_html": "<div class=\"md\"><p>Does not mean that the mainstream media is wrong.</p>\n</div>",
+                                                "created_utc": "2025-02-04 07:35:48",
+                                                "distinguished": null,
+                                                "edited": false,
+                                                "id": "mavskhy",
+                                                "is_submitter": false,
+                                                "link_id": "t3_1igjqpq",
+                                                "parent_id": "t1_mavs479",
+                                                "score": 1,
+                                                "stickied": false,
+                                                "replies": [
+                                                  {
+                                                    "author": "u/kongweeneverdie",
+                                                    "body": "They are wrong. These are no evidences by the mainstream media. ICJ and ICC already reject those claim, your mainstream media never report.",
+                                                    "body_html": "<div class=\"md\"><p>They are wrong. These are no evidences by the mainstream media. ICJ and ICC already reject those claim, your mainstream media never report.</p>\n</div>",
+                                                    "created_utc": "2025-02-04 07:58:33",
+                                                    "distinguished": null,
+                                                    "edited": false,
+                                                    "id": "mavv49n",
+                                                    "is_submitter": false,
+                                                    "link_id": "t3_1igjqpq",
+                                                    "parent_id": "t1_mavskhy",
+                                                    "score": 1,
+                                                    "stickied": false,
+                                                    "replies": [
+                                                      {
+                                                        "author": "u/Rear-gunner",
+                                                        "body": "Really ICJ\n\nhttps://www.icj.org/resource/hrc40china/",
+                                                        "body_html": "<div class=\"md\"><p>Really ICJ</p>\n\n<p><a href=\"https://www.icj.org/resource/hrc40china/\">https://www.icj.org/resource/hrc40china/</a></p>\n</div>",
+                                                        "created_utc": "2025-02-04 09:28:54",
+                                                        "distinguished": null,
+                                                        "edited": false,
+                                                        "id": "maw4c2g",
+                                                        "is_submitter": false,
+                                                        "link_id": "t3_1igjqpq",
+                                                        "parent_id": "t1_mavv49n",
+                                                        "score": 1,
+                                                        "stickied": false,
+                                                        "replies": [
+                                                          {
+                                                            "author": "u/kongweeneverdie",
+                                                            "body": "I mean this. [https://www.icj-cij.org/home](https://www.icj-cij.org/home) Not another western back NGOs.",
+                                                            "body_html": "<div class=\"md\"><p>I mean this. <a href=\"https://www.icj-cij.org/home\">https://www.icj-cij.org/home</a> Not another western back NGOs.</p>\n</div>",
+                                                            "created_utc": "2025-02-04 09:55:31",
+                                                            "distinguished": null,
+                                                            "edited": false,
+                                                            "id": "maw6w0y",
+                                                            "is_submitter": false,
+                                                            "link_id": "t3_1igjqpq",
+                                                            "parent_id": "t1_maw4c2g",
+                                                            "score": 1,
+                                                            "stickied": false,
+                                                            "replies": [
+                                                              {
+                                                                "author": "u/Rear-gunner",
+                                                                "body": "That is the same organisation",
+                                                                "body_html": "<div class=\"md\"><p>That is the same organisation</p>\n</div>",
+                                                                "created_utc": "2025-02-04 10:20:35",
+                                                                "distinguished": null,
+                                                                "edited": false,
+                                                                "id": "maw9a8o",
+                                                                "is_submitter": false,
+                                                                "link_id": "t3_1igjqpq",
+                                                                "parent_id": "t1_maw6w0y",
+                                                                "score": 1,
+                                                                "stickied": false,
+                                                                "replies": [
+                                                                  {
+                                                                    "author": "u/kongweeneverdie",
+                                                                    "body": "The logo is already different, you uneducated.",
+                                                                    "body_html": "<div class=\"md\"><p>The logo is already different, you uneducated.</p>\n</div>",
+                                                                    "created_utc": "2025-02-04 11:53:28",
+                                                                    "distinguished": null,
+                                                                    "edited": false,
+                                                                    "id": "mawibi2",
+                                                                    "is_submitter": false,
+                                                                    "link_id": "t3_1igjqpq",
+                                                                    "parent_id": "t1_maw9a8o",
+                                                                    "score": 1,
+                                                                    "stickied": false,
+                                                                    "replies": [
+                                                                      {
+                                                                        "author": "u/Rear-gunner",
+                                                                        "body": "Some organisation have a few logos",
+                                                                        "body_html": "<div class=\"md\"><p>Some organisation have a few logos</p>\n</div>",
+                                                                        "created_utc": "2025-02-04 13:02:48",
+                                                                        "distinguished": null,
+                                                                        "edited": false,
+                                                                        "id": "mawq7zj",
+                                                                        "is_submitter": false,
+                                                                        "link_id": "t3_1igjqpq",
+                                                                        "parent_id": "t1_mawibi2",
+                                                                        "score": 1,
+                                                                        "stickied": false,
+                                                                        "replies": [
+                                                                          {
+                                                                            "author": "u/kongweeneverdie",
+                                                                            "body": "The name already different, uneducated. lol",
+                                                                            "body_html": "<div class=\"md\"><p>The name already different, uneducated. lol</p>\n</div>",
+                                                                            "created_utc": "2025-02-04 13:59:54",
+                                                                            "distinguished": null,
+                                                                            "edited": false,
+                                                                            "id": "mawy4as",
+                                                                            "is_submitter": false,
+                                                                            "link_id": "t3_1igjqpq",
+                                                                            "parent_id": "t1_mawq7zj",
+                                                                            "score": 1,
+                                                                            "stickied": false,
+                                                                            "replies": [
+                                                                              {
+                                                                                "author": "u/Rear-gunner",
+                                                                                "body": "I was educated enought to know that it had blasted the Chinese goverment for it policies to these people, you did not.",
+                                                                                "body_html": "<div class=\"md\"><p>I was educated enought to know that it had blasted the Chinese goverment for it policies to these people, you did not.</p>\n</div>",
+                                                                                "created_utc": "2025-02-05 00:59:30",
+                                                                                "distinguished": null,
+                                                                                "edited": false,
+                                                                                "id": "mb0lpi5",
+                                                                                "is_submitter": false,
+                                                                                "link_id": "t3_1igjqpq",
+                                                                                "parent_id": "t1_mawy4as",
+                                                                                "score": 1,
+                                                                                "stickied": false,
+                                                                                "replies": [
+                                                                                  {
+                                                                                    "author": "u/kongweeneverdie",
+                                                                                    "body": "You are taught to be brainwashed.",
+                                                                                    "body_html": "<div class=\"md\"><p>You are taught to be brainwashed.</p>\n</div>",
+                                                                                    "created_utc": "2025-02-05 01:04:47",
+                                                                                    "distinguished": null,
+                                                                                    "edited": false,
+                                                                                    "id": "mb0mnni",
+                                                                                    "is_submitter": false,
+                                                                                    "link_id": "t3_1igjqpq",
+                                                                                    "parent_id": "t1_mb0lpi5",
+                                                                                    "score": 1,
+                                                                                    "stickied": false,
+                                                                                    "replies": []
+                                                                                  }
+                                                                                ]
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

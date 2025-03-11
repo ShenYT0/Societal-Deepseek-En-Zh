@@ -1,0 +1,806 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1io9s67/deepseek_is_the_kindest_gift/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Mammoth_One1510",
+      "created_utc": "2025-02-13 04:19:07",
+      "distinguished": null,
+      "edited": "2025-02-13 08:26:02",
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Other",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 51,
+      "permalink": "/r/DeepSeek/comments/1io9s67/deepseek_is_the_kindest_gift/",
+      "score": 335,
+      "selftext": "I am not a programmer, but I have to process a lot of data for work. It takes months for the IT team to respond to my requests. I try to use Copilot and ChatGPT to generate Python code, but the code either doesn\u2019t work or produces unexpected results\u2014just like the IT team. DeepSeek, on the other hand, works within one or two iterations. It\u2019s like my local yum cha\u2014very busy, but it just understands me\n\nNote \nCan not avoid the server crash . I am considering getting a second hand GPU and running a 5.7B deepseek code instruct locally. Has anyone tried it? ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "Deepseek is the kindest gift",
+      "upvote_ratio": 0.97
+    },
+    "comments": [
+      {
+        "author": "u/ogapadoga",
+        "body": "I think the biggest thing about DeepSeek is that it exposed LLMs as regular software that can be replicated easily. It is not the \"sentient new alien species\" that will destroy humanity in the next 5 years.",
+        "body_html": "<div class=\"md\"><p>I think the biggest thing about DeepSeek is that it exposed LLMs as regular software that can be replicated easily. It is not the &quot;sentient new alien species&quot; that will destroy humanity in the next 5 years.</p>\n</div>",
+        "created_utc": "2025-02-13 06:12:20",
+        "distinguished": null,
+        "edited": false,
+        "id": "mci4rov",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 94,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Murky_Sprinkles_4194",
+            "body": "By not pursuing profits, DeepSeek has forced OpenAI to stop their gradual release strategy (lit: stop squeezing the toothpaste tube) and cease maximizing their own interests, instead focusing on providing the best value to customers. DeepSeek has become the true OpenAI.",
+            "body_html": "<div class=\"md\"><p>By not pursuing profits, DeepSeek has forced OpenAI to stop their gradual release strategy (lit: stop squeezing the toothpaste tube) and cease maximizing their own interests, instead focusing on providing the best value to customers. DeepSeek has become the true OpenAI.</p>\n</div>",
+            "created_utc": "2025-02-13 09:42:25",
+            "distinguished": null,
+            "edited": false,
+            "id": "mcirl1c",
+            "is_submitter": false,
+            "link_id": "t3_1io9s67",
+            "parent_id": "t1_mci4rov",
+            "score": 70,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/BogdanK_seranking",
+                "body": "Interesting perspective. I partially agree with it. It seems like these are two entities that coexist, complement, and develop each other.\n\nCurrently, we see a balance and development in technology, rather than global hegemony from one group of developers. This always yields good results in the long run.",
+                "body_html": "<div class=\"md\"><p>Interesting perspective. I partially agree with it. It seems like these are two entities that coexist, complement, and develop each other.</p>\n\n<p>Currently, we see a balance and development in technology, rather than global hegemony from one group of developers. This always yields good results in the long run.</p>\n</div>",
+                "created_utc": "2025-02-13 15:11:44",
+                "distinguished": null,
+                "edited": false,
+                "id": "mcjv5wn",
+                "is_submitter": false,
+                "link_id": "t3_1io9s67",
+                "parent_id": "t1_mcirl1c",
+                "score": 4,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Various_Box_5865",
+                    "body": "if there was a peaceful coexistence, deepseek wouldn't be down so much because of hacking attempts. There is no peaceful coexistence in capitalistic mentality",
+                    "body_html": "<div class=\"md\"><p>if there was a peaceful coexistence, deepseek wouldn&#39;t be down so much because of hacking attempts. There is no peaceful coexistence in capitalistic mentality</p>\n</div>",
+                    "created_utc": "2025-02-13 16:57:15",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mckfh14",
+                    "is_submitter": false,
+                    "link_id": "t3_1io9s67",
+                    "parent_id": "t1_mcjv5wn",
+                    "score": 8,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              },
+              {
+                "author": "u/serendipity-DRG",
+                "body": "The CEO of DeepSeek founded a Hedge Fund - DeepSeek will be monetized.\n\nThe CEO wouldn't have founded a Hedge unless he was wanting to create personal wealth.\n\nI guarantee you that DeepSeek will be pursuing profit.\n\nDeepSeek isn't prepared to move forward as they are still having infrastructure problems - that they can't seem to solve.",
+                "body_html": "<div class=\"md\"><p>The CEO of DeepSeek founded a Hedge Fund - DeepSeek will be monetized.</p>\n\n<p>The CEO wouldn&#39;t have founded a Hedge unless he was wanting to create personal wealth.</p>\n\n<p>I guarantee you that DeepSeek will be pursuing profit.</p>\n\n<p>DeepSeek isn&#39;t prepared to move forward as they are still having infrastructure problems - that they can&#39;t seem to solve.</p>\n</div>",
+                "created_utc": "2025-02-13 20:42:12",
+                "distinguished": null,
+                "edited": false,
+                "id": "mclrezx",
+                "is_submitter": false,
+                "link_id": "t3_1io9s67",
+                "parent_id": "t1_mcirl1c",
+                "score": -3,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Clear-Selection9994",
+                    "body": "Sooo...what is your point? That Deepseek is not as good or China is evil? Not sure what are you really trying to communicate with all your imaginaries. As for the reality that i'm seeing, they are open sourced, and free. Thus brought a tons of ddos attacks causing infra problems.",
+                    "body_html": "<div class=\"md\"><p>Sooo...what is your point? That Deepseek is not as good or China is evil? Not sure what are you really trying to communicate with all your imaginaries. As for the reality that i&#39;m seeing, they are open sourced, and free. Thus brought a tons of ddos attacks causing infra problems.</p>\n</div>",
+                    "created_utc": "2025-02-16 01:41:51",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mczti7e",
+                    "is_submitter": false,
+                    "link_id": "t3_1io9s67",
+                    "parent_id": "t1_mclrezx",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/Short_Ad_8841",
+            "body": ">regular software that can be replicated easily\n\nAre you sure about that ? you still need hundreds of millions worth of HW to train a thing like that in a reasonable time, not many entities on this planet are in possession of such processing power -- and of course you also need to have a quite a few AI researches and developers laying around to actually make the thing\n\nif there was no competition, do you think deepseek service would be free ? or their model opensourced so that anyone can host it and make money off of it while the company who paid the price for training it now needs to compete against them to recoup the cost ?\n\nmeta is doing opensource to undermine the position of the established companies like openai while they are catching up and working on something they can themselves deploy and financially benefit from, deepseek is likely doing the same thing for the same reasons\n\nit's not like 10 random developers can get together and create an opensource alternative to o1 on their home HW in their free time",
+            "body_html": "<div class=\"md\"><blockquote>\n<p>regular software that can be replicated easily</p>\n</blockquote>\n\n<p>Are you sure about that ? you still need hundreds of millions worth of HW to train a thing like that in a reasonable time, not many entities on this planet are in possession of such processing power -- and of course you also need to have a quite a few AI researches and developers laying around to actually make the thing</p>\n\n<p>if there was no competition, do you think deepseek service would be free ? or their model opensourced so that anyone can host it and make money off of it while the company who paid the price for training it now needs to compete against them to recoup the cost ?</p>\n\n<p>meta is doing opensource to undermine the position of the established companies like openai while they are catching up and working on something they can themselves deploy and financially benefit from, deepseek is likely doing the same thing for the same reasons</p>\n\n<p>it&#39;s not like 10 random developers can get together and create an opensource alternative to o1 on their home HW in their free time</p>\n</div>",
+            "created_utc": "2025-02-14 09:19:56",
+            "distinguished": null,
+            "edited": "2025-02-14 09:25:36",
+            "id": "mcp8fmm",
+            "is_submitter": false,
+            "link_id": "t3_1io9s67",
+            "parent_id": "t1_mci4rov",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/nootropicMan",
+        "body": "Poetry",
+        "body_html": "<div class=\"md\"><p>Poetry</p>\n</div>",
+        "created_utc": "2025-02-13 04:21:18",
+        "distinguished": null,
+        "edited": false,
+        "id": "mchnre3",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 38,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/rochs007",
+        "body": "deep seek came from heave to save us lol",
+        "body_html": "<div class=\"md\"><p>deep seek came from heave to save us lol</p>\n</div>",
+        "created_utc": "2025-02-13 04:41:51",
+        "distinguished": null,
+        "edited": false,
+        "id": "mchr90u",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 19,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/cnydox",
+        "body": "True. But if only they are not becoming busy after every message",
+        "body_html": "<div class=\"md\"><p>True. But if only they are not becoming busy after every message</p>\n</div>",
+        "created_utc": "2025-02-13 06:08:33",
+        "distinguished": null,
+        "edited": false,
+        "id": "mci49ax",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 24,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/promptenjenneer",
+            "body": "You can get it to run pretty consistently through expanse.com",
+            "body_html": "<div class=\"md\"><p>You can get it to run pretty consistently through expanse.com</p>\n</div>",
+            "created_utc": "2025-02-13 07:49:59",
+            "distinguished": null,
+            "edited": false,
+            "id": "mcigf1h",
+            "is_submitter": false,
+            "link_id": "t3_1io9s67",
+            "parent_id": "t1_mci49ax",
+            "score": -2,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/OriginallyAwesome",
+            "body": "Been using plex and it's good so far. You can try it if you're looking for an alternative \nhttps://www.reddit.com/r/learnmachinelearning/s/fxNxkbJA5J",
+            "body_html": "<div class=\"md\"><p>Been using plex and it&#39;s good so far. You can try it if you&#39;re looking for an alternative \n<a href=\"https://www.reddit.com/r/learnmachinelearning/s/fxNxkbJA5J\">https://www.reddit.com/r/learnmachinelearning/s/fxNxkbJA5J</a></p>\n</div>",
+            "created_utc": "2025-02-13 10:57:36",
+            "distinguished": null,
+            "edited": false,
+            "id": "mciykog",
+            "is_submitter": false,
+            "link_id": "t3_1io9s67",
+            "parent_id": "t1_mci49ax",
+            "score": -4,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Baby_Grooot_",
+        "body": "Yes, and it is super accurate. Understands the constraints very well which others are not able to do in a single prompt.",
+        "body_html": "<div class=\"md\"><p>Yes, and it is super accurate. Understands the constraints very well which others are not able to do in a single prompt.</p>\n</div>",
+        "created_utc": "2025-02-13 05:30:58",
+        "distinguished": null,
+        "edited": false,
+        "id": "mchyyzz",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 8,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/I_love_Gay_corn",
+        "body": "I still miss The old ui copilot tbh, Microsoft is just Definition of evolution but are reversing",
+        "body_html": "<div class=\"md\"><p>I still miss The old ui copilot tbh, Microsoft is just Definition of evolution but are reversing</p>\n</div>",
+        "created_utc": "2025-02-13 04:29:37",
+        "distinguished": null,
+        "edited": false,
+        "id": "mchp6aj",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 13,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/ThePlush_1",
+            "body": "I miss Sidney :(",
+            "body_html": "<div class=\"md\"><p>I miss Sidney :(</p>\n</div>",
+            "created_utc": "2025-02-13 08:04:03",
+            "distinguished": null,
+            "edited": false,
+            "id": "mcihxdy",
+            "is_submitter": false,
+            "link_id": "t3_1io9s67",
+            "parent_id": "t1_mchp6aj",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/HurryAcceptable9242",
+                "body": "I miss Clippy.",
+                "body_html": "<div class=\"md\"><p>I miss Clippy.</p>\n</div>",
+                "created_utc": "2025-02-13 18:50:35",
+                "distinguished": null,
+                "edited": false,
+                "id": "mcl3mmp",
+                "is_submitter": false,
+                "link_id": "t3_1io9s67",
+                "parent_id": "t1_mcihxdy",
+                "score": 3,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/ThePlush_1",
+                    "body": "Now you got me almost in tears \ud83e\udd79",
+                    "body_html": "<div class=\"md\"><p>Now you got me almost in tears \ud83e\udd79</p>\n</div>",
+                    "created_utc": "2025-02-13 22:22:36",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mcmd1r6",
+                    "is_submitter": false,
+                    "link_id": "t3_1io9s67",
+                    "parent_id": "t1_mcl3mmp",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Narrow_Chair_7382",
+        "body": "If you can get it to work beyond 2 responses",
+        "body_html": "<div class=\"md\"><p>If you can get it to work beyond 2 responses</p>\n</div>",
+        "created_utc": "2025-02-13 04:46:06",
+        "distinguished": null,
+        "edited": false,
+        "id": "mchryes",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 9,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Mammoth_One1510",
+            "body": "The app works slightly better than the website.",
+            "body_html": "<div class=\"md\"><p>The app works slightly better than the website.</p>\n</div>",
+            "created_utc": "2025-02-13 04:55:29",
+            "distinguished": null,
+            "edited": false,
+            "id": "mchticw",
+            "is_submitter": true,
+            "link_id": "t3_1io9s67",
+            "parent_id": "t1_mchryes",
+            "score": 11,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Malifix",
+            "body": "You can run it on your laptop offline.",
+            "body_html": "<div class=\"md\"><p>You can run it on your laptop offline.</p>\n</div>",
+            "created_utc": "2025-02-13 07:19:29",
+            "distinguished": null,
+            "edited": false,
+            "id": "mcid1dy",
+            "is_submitter": false,
+            "link_id": "t3_1io9s67",
+            "parent_id": "t1_mchryes",
+            "score": 3,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Ekot",
+                "body": "No you can't.",
+                "body_html": "<div class=\"md\"><p>No you can&#39;t.</p>\n</div>",
+                "created_utc": "2025-02-13 09:13:07",
+                "distinguished": null,
+                "edited": false,
+                "id": "mciottd",
+                "is_submitter": false,
+                "link_id": "t3_1io9s67",
+                "parent_id": "t1_mcid1dy",
+                "score": -7,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Malifix",
+                    "body": "I\u2019ve done it, so it doesn\u2019t really matter if you believe it or not.\n\nhttps://www.reddit.com/r/selfhosted/comments/1ic8zil/yes_you_can_run_deepseekr1_locally_on_your_device/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button",
+                    "body_html": "<div class=\"md\"><p>I\u2019ve done it, so it doesn\u2019t really matter if you believe it or not.</p>\n\n<p><a href=\"https://www.reddit.com/r/selfhosted/comments/1ic8zil/yes_you_can_run_deepseekr1_locally_on_your_device/?utm_source=share&amp;utm_medium=mweb3x&amp;utm_name=mweb3xcss&amp;utm_term=1&amp;utm_content=share_button\">https://www.reddit.com/r/selfhosted/comments/1ic8zil/yes_you_can_run_deepseekr1_locally_on_your_device/?utm_source=share&amp;utm_medium=mweb3x&amp;utm_name=mweb3xcss&amp;utm_term=1&amp;utm_content=share_button</a></p>\n</div>",
+                    "created_utc": "2025-02-13 09:14:11",
+                    "distinguished": null,
+                    "edited": "2025-02-13 09:19:48",
+                    "id": "mcioxi7",
+                    "is_submitter": false,
+                    "link_id": "t3_1io9s67",
+                    "parent_id": "t1_mciottd",
+                    "score": 7,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Ekot",
+                        "body": "Wow, incredible.I didn't know they sold GPU clusters built into laptops!\n\n(you didn't run the same model provided by the Deepseek website/app/api)",
+                        "body_html": "<div class=\"md\"><p>Wow, incredible.I didn&#39;t know they sold GPU clusters built into laptops!</p>\n\n<p>(you didn&#39;t run the same model provided by the Deepseek website/app/api)</p>\n</div>",
+                        "created_utc": "2025-02-13 09:21:22",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mcipm5i",
+                        "is_submitter": false,
+                        "link_id": "t3_1io9s67",
+                        "parent_id": "t1_mcioxi7",
+                        "score": -3,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Malifix",
+                            "body": "No, but since it\u2019s open source I\u2019m sure there will be distilled models which only focus on maths or only focus on coding for example. That will come soon enough and those will probably be much easier to run too!",
+                            "body_html": "<div class=\"md\"><p>No, but since it\u2019s open source I\u2019m sure there will be distilled models which only focus on maths or only focus on coding for example. That will come soon enough and those will probably be much easier to run too!</p>\n</div>",
+                            "created_utc": "2025-02-13 09:25:30",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mciq06t",
+                            "is_submitter": false,
+                            "link_id": "t3_1io9s67",
+                            "parent_id": "t1_mcipm5i",
+                            "score": 7,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/Ekot",
+                                "body": "Agreed!\n\nBut hopefully you now see how saying \"You can run it on your laptop offline.\" is a misleading statement.",
+                                "body_html": "<div class=\"md\"><p>Agreed!</p>\n\n<p>But hopefully you now see how saying &quot;You can run it on your laptop offline.&quot; is a misleading statement.</p>\n</div>",
+                                "created_utc": "2025-02-13 09:28:10",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mciq9a3",
+                                "is_submitter": false,
+                                "link_id": "t3_1io9s67",
+                                "parent_id": "t1_mciq06t",
+                                "score": 5,
+                                "stickied": false,
+                                "replies": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "[deleted]",
+        "body": "the best thing the Chinese made",
+        "body_html": "<div class=\"md\"><p>the best thing the Chinese made</p>\n</div>",
+        "created_utc": "2025-02-13 05:54:36",
+        "distinguished": null,
+        "edited": false,
+        "id": "mci2cfa",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 6,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Cable-Unable",
+            "body": "Debatable. I mean the Chinese also invented paper, the compass, printing and gunpowder.",
+            "body_html": "<div class=\"md\"><p>Debatable. I mean the Chinese also invented paper, the compass, printing and gunpowder.</p>\n</div>",
+            "created_utc": "2025-02-13 06:44:07",
+            "distinguished": null,
+            "edited": false,
+            "id": "mci8ukh",
+            "is_submitter": false,
+            "link_id": "t3_1io9s67",
+            "parent_id": "t1_mci2cfa",
+            "score": 27,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Malifix",
+                "body": "They also invented tea, mechanical clocks, silk, porcelain, the abacus, seismograph, kite, stirrups, water mills, water hammer, suspension bridges, the repeating crossbow, fireworks, the wheelbarrow, modern cast iron techniques, dominoes, playing cards, the bullet train, mobile tap to pay system and paper money.\n\nAnd now, the first AI GPT that is open source and that with no access to internet can run on a regular laptop.",
+                "body_html": "<div class=\"md\"><p>They also invented tea, mechanical clocks, silk, porcelain, the abacus, seismograph, kite, stirrups, water mills, water hammer, suspension bridges, the repeating crossbow, fireworks, the wheelbarrow, modern cast iron techniques, dominoes, playing cards, the bullet train, mobile tap to pay system and paper money.</p>\n\n<p>And now, the first AI GPT that is open source and that with no access to internet can run on a regular laptop.</p>\n</div>",
+                "created_utc": "2025-02-13 07:10:32",
+                "distinguished": null,
+                "edited": "2025-02-13 07:18:30",
+                "id": "mcic06y",
+                "is_submitter": false,
+                "link_id": "t3_1io9s67",
+                "parent_id": "t1_mci8ukh",
+                "score": 22,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Cable-Unable",
+                    "body": "Absolutely. Impressive stuff \ud83d\udcaa",
+                    "body_html": "<div class=\"md\"><p>Absolutely. Impressive stuff \ud83d\udcaa</p>\n</div>",
+                    "created_utc": "2025-02-13 07:24:29",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mcidlv6",
+                    "is_submitter": false,
+                    "link_id": "t3_1io9s67",
+                    "parent_id": "t1_mcic06y",
+                    "score": 5,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/Mammoth_One1510",
+                    "body": "They should have never invented the money, evil of all.",
+                    "body_html": "<div class=\"md\"><p>They should have never invented the money, evil of all.</p>\n</div>",
+                    "created_utc": "2025-02-13 07:41:08",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mcifgbr",
+                    "is_submitter": true,
+                    "link_id": "t3_1io9s67",
+                    "parent_id": "t1_mcic06y",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Malifix",
+                        "body": "I guess money itself was already invented, like gold and silver coins, just not paper money backed by government. Marco Polo brought it to the West later on. Now most money is digital anyway unless they\u2019re in physical assets.",
+                        "body_html": "<div class=\"md\"><p>I guess money itself was already invented, like gold and silver coins, just not paper money backed by government. Marco Polo brought it to the West later on. Now most money is digital anyway unless they\u2019re in physical assets.</p>\n</div>",
+                        "created_utc": "2025-02-13 07:46:58",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mcig36z",
+                        "is_submitter": false,
+                        "link_id": "t3_1io9s67",
+                        "parent_id": "t1_mcifgbr",
+                        "score": 7,
+                        "stickied": false,
+                        "replies": []
+                      },
+                      {
+                        "author": "u/YsrYsl",
+                        "body": "I reckon it's the *love* of money that's the root of evil. It's definitely in the top 3 most misquotes of all time.",
+                        "body_html": "<div class=\"md\"><p>I reckon it&#39;s the <em>love</em> of money that&#39;s the root of evil. It&#39;s definitely in the top 3 most misquotes of all time.</p>\n</div>",
+                        "created_utc": "2025-02-13 13:39:46",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mcjgktd",
+                        "is_submitter": false,
+                        "link_id": "t3_1io9s67",
+                        "parent_id": "t1_mcifgbr",
+                        "score": 2,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Available-Top-8872",
+        "body": "Same",
+        "body_html": "<div class=\"md\"><p>Same</p>\n</div>",
+        "created_utc": "2025-02-13 06:04:50",
+        "distinguished": null,
+        "edited": false,
+        "id": "mci3r8u",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Philemon61",
+        "body": "How can you avoid the Server is busy problem?",
+        "body_html": "<div class=\"md\"><p>How can you avoid the Server is busy problem?</p>\n</div>",
+        "created_utc": "2025-02-13 07:38:16",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcif4xo",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Holnapra",
+            "body": "I use OpenRouter + LibreChat. It's not free, but worth it.",
+            "body_html": "<div class=\"md\"><p>I use OpenRouter + LibreChat. It&#39;s not free, but worth it.</p>\n</div>",
+            "created_utc": "2025-02-13 19:42:26",
+            "distinguished": null,
+            "edited": false,
+            "id": "mcleho5",
+            "is_submitter": false,
+            "link_id": "t3_1io9s67",
+            "parent_id": "t1_mcif4xo",
+            "score": 3,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Philemon61",
+                "body": "And you use API key than from deepseek?",
+                "body_html": "<div class=\"md\"><p>And you use API key than from deepseek?</p>\n</div>",
+                "created_utc": "2025-02-14 06:14:36",
+                "distinguished": null,
+                "edited": false,
+                "id": "mcontz3",
+                "is_submitter": false,
+                "link_id": "t3_1io9s67",
+                "parent_id": "t1_mcleho5",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Holnapra",
+                    "body": "No, I use the OpenRouter API, it's much more stable.",
+                    "body_html": "<div class=\"md\"><p>No, I use the OpenRouter API, it&#39;s much more stable.</p>\n</div>",
+                    "created_utc": "2025-02-14 10:22:37",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mcpeecc",
+                    "is_submitter": false,
+                    "link_id": "t3_1io9s67",
+                    "parent_id": "t1_mcontz3",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Philemon61",
+                        "body": "I will check this out. Its really Frustrating now.",
+                        "body_html": "<div class=\"md\"><p>I will check this out. Its really Frustrating now.</p>\n</div>",
+                        "created_utc": "2025-02-14 10:23:31",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mcpeheg",
+                        "is_submitter": false,
+                        "link_id": "t3_1io9s67",
+                        "parent_id": "t1_mcpeecc",
+                        "score": 2,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Indra_Kamikaze",
+        "body": "Btw, if you want to run it for free on mb like google collab, I can help you. I have done it.",
+        "body_html": "<div class=\"md\"><p>Btw, if you want to run it for free on mb like google collab, I can help you. I have done it.</p>\n</div>",
+        "created_utc": "2025-02-13 10:03:05",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcithfi",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Cergorach",
+        "body": "\"just like the IT team\"\n\nThat is so funny, but true (I work in IT).\n\nBut my first question is, does your company allow you to use CoPilot/ChatGPT/DeepSeek for work? You're exposing company information (structure) to an LLM with no idea what the company behind it will do with that data. Generally the IT security and Legal teams want to have a say in what's used/exposed.\n\nI think that DeepSeek is wonderful! But I only use it for hobby projects. For work I only use AI/LLM that's approved for that and by that client.",
+        "body_html": "<div class=\"md\"><p>&quot;just like the IT team&quot;</p>\n\n<p>That is so funny, but true (I work in IT).</p>\n\n<p>But my first question is, does your company allow you to use CoPilot/ChatGPT/DeepSeek for work? You&#39;re exposing company information (structure) to an LLM with no idea what the company behind it will do with that data. Generally the IT security and Legal teams want to have a say in what&#39;s used/exposed.</p>\n\n<p>I think that DeepSeek is wonderful! But I only use it for hobby projects. For work I only use AI/LLM that&#39;s approved for that and by that client.</p>\n</div>",
+        "created_utc": "2025-02-13 11:43:59",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcj31wq",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Mammoth_One1510",
+            "body": " Thank you, mate.\n\nI don\u2019t upload any data; I only ask for Python code to perform specific functions. Since I\u2019m not a programmer, the code I use typically achieves just one or two tasks\u2014for example, importing files from Folder A, calculating the standard deviation for each column, and saving the results in Folder B.\n\nWould this pose any data security risks?",
+            "body_html": "<div class=\"md\"><p>Thank you, mate.</p>\n\n<p>I don\u2019t upload any data; I only ask for Python code to perform specific functions. Since I\u2019m not a programmer, the code I use typically achieves just one or two tasks\u2014for example, importing files from Folder A, calculating the standard deviation for each column, and saving the results in Folder B.</p>\n\n<p>Would this pose any data security risks?</p>\n</div>",
+            "created_utc": "2025-02-13 12:26:39",
+            "distinguished": null,
+            "edited": false,
+            "id": "mcj7ihr",
+            "is_submitter": true,
+            "link_id": "t3_1io9s67",
+            "parent_id": "t1_mcj31wq",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Cergorach",
+                "body": "I'm maybe overly cautious, I would say just ask IT security and legal. Worst case scenario you can't, best case scenario: they pay for a LLM solution or give you a direct IT buddy that does everything for you. ;)\n\nThe absolute worst case scenario is that they find out, it's against company policy (somewhere hidden in the small text) and you're either reprimanded or fired. Or you get some malicious code that does something nasty and you get the same result.\n\nIt all depends on the organization, I don't know yours, but it's generally good to show you care about security/legal implications...",
+                "body_html": "<div class=\"md\"><p>I&#39;m maybe overly cautious, I would say just ask IT security and legal. Worst case scenario you can&#39;t, best case scenario: they pay for a LLM solution or give you a direct IT buddy that does everything for you. ;)</p>\n\n<p>The absolute worst case scenario is that they find out, it&#39;s against company policy (somewhere hidden in the small text) and you&#39;re either reprimanded or fired. Or you get some malicious code that does something nasty and you get the same result.</p>\n\n<p>It all depends on the organization, I don&#39;t know yours, but it&#39;s generally good to show you care about security/legal implications...</p>\n</div>",
+                "created_utc": "2025-02-13 12:36:18",
+                "distinguished": null,
+                "edited": false,
+                "id": "mcj8l9x",
+                "is_submitter": false,
+                "link_id": "t3_1io9s67",
+                "parent_id": "t1_mcj7ihr",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Mammoth_One1510",
+                    "body": "Thank you very much for your time and the information. I will ask for the policy to be sure.",
+                    "body_html": "<div class=\"md\"><p>Thank you very much for your time and the information. I will ask for the policy to be sure.</p>\n</div>",
+                    "created_utc": "2025-02-13 13:19:22",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mcjdt8z",
+                    "is_submitter": true,
+                    "link_id": "t3_1io9s67",
+                    "parent_id": "t1_mcj8l9x",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              },
+              {
+                "author": "u/YsrYsl",
+                "body": "Just gotta be smart on the prompting, which you seem to have done based on your replies so far. You can always ask it for some code with some dummy data or table, treat it as a template with which you cam copy the code and change with your own data accordingly.",
+                "body_html": "<div class=\"md\"><p>Just gotta be smart on the prompting, which you seem to have done based on your replies so far. You can always ask it for some code with some dummy data or table, treat it as a template with which you cam copy the code and change with your own data accordingly.</p>\n</div>",
+                "created_utc": "2025-02-13 13:42:47",
+                "distinguished": null,
+                "edited": false,
+                "id": "mcjh027",
+                "is_submitter": false,
+                "link_id": "t3_1io9s67",
+                "parent_id": "t1_mcj7ihr",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/AvailableMud1897",
+        "body": "DeepSeek has its positives because it will further start competition with OpenAI. I have rarely ever seen a company appeal to the consumers when they have a monopoly.",
+        "body_html": "<div class=\"md\"><p>DeepSeek has its positives because it will further start competition with OpenAI. I have rarely ever seen a company appeal to the consumers when they have a monopoly.</p>\n</div>",
+        "created_utc": "2025-02-13 12:39:12",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcj8x1h",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/tenhourguy",
+        "body": "I don't know which one you're referring to by 5.7B, but running these models locally doesn't seem cost-effective. Consumer hardware can only run the heavily-distilled models, and server hardware is expensive to buy for yourself. I've been using Expanse AI for more reliable access to DeepSeek-R1 but I suspect it may be the 70B version... it's better than anything I can run locally, but worse than the one on the DeepSeek website.",
+        "body_html": "<div class=\"md\"><p>I don&#39;t know which one you&#39;re referring to by 5.7B, but running these models locally doesn&#39;t seem cost-effective. Consumer hardware can only run the heavily-distilled models, and server hardware is expensive to buy for yourself. I&#39;ve been using Expanse AI for more reliable access to DeepSeek-R1 but I suspect it may be the 70B version... it&#39;s better than anything I can run locally, but worse than the one on the DeepSeek website.</p>\n</div>",
+        "created_utc": "2025-02-13 15:57:59",
+        "distinguished": null,
+        "edited": false,
+        "id": "mck3kgx",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Tadao608",
+        "body": "You can use Openrouter's website though to use Deepseek if you encounter errors with deepseek's website.",
+        "body_html": "<div class=\"md\"><p>You can use Openrouter&#39;s website though to use Deepseek if you encounter errors with deepseek&#39;s website.</p>\n</div>",
+        "created_utc": "2025-02-14 15:22:58",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcqfm34",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/mini_macho_",
+        "body": "Were you using ChatGPT 4-o?",
+        "body_html": "<div class=\"md\"><p>Were you using ChatGPT 4-o?</p>\n</div>",
+        "created_utc": "2025-02-19 11:17:48",
+        "distinguished": null,
+        "edited": false,
+        "id": "mdlb4av",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/dao1st",
+        "body": "A guy running uncensored deekseek locally just gave me access and... it seems pretty stupid and inaccurate to be honest.",
+        "body_html": "<div class=\"md\"><p>A guy running uncensored deekseek locally just gave me access and... it seems pretty stupid and inaccurate to be honest.</p>\n</div>",
+        "created_utc": "2025-02-13 19:35:08",
+        "distinguished": null,
+        "edited": false,
+        "id": "mclczdm",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/That-Iron-7253",
+        "body": "How is Deepseek usable? It\u2019s always busy",
+        "body_html": "<div class=\"md\"><p>How is Deepseek usable? It\u2019s always busy</p>\n</div>",
+        "created_utc": "2025-02-14 04:21:03",
+        "distinguished": null,
+        "edited": false,
+        "id": "mco70nk",
+        "is_submitter": false,
+        "link_id": "t3_1io9s67",
+        "parent_id": "t3_1io9s67",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

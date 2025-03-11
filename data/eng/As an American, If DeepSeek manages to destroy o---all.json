@@ -1,0 +1,1204 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1ickf68/as_an_american_if_deepseek_manages_to_destroy_our/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "[deleted]",
+      "created_utc": "2025-01-29 04:17:54",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": true,
+      "link_flair_text": "Disccusion",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 77,
+      "permalink": "/r/DeepSeek/comments/1ickf68/as_an_american_if_deepseek_manages_to_destroy_our/",
+      "score": 648,
+      "selftext": "I don\u2019t care if it\u2019s pseudoscience.\n\n1 like=1 prayer",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "As an American, If DeepSeek manages to destroy our techno-oligarchy, I will dedicate my life to Traditional Chinese Medicine",
+      "upvote_ratio": 0.95
+    },
+    "comments": [
+      {
+        "author": "u/alysonhower_dev",
+        "body": "I'm literally trying to accelerate this shit providing as much data as possible because I know they will throw back another cheap opensource model to crush USA techno-oligarchy. It may not be much data but at least is my own curated data.",
+        "body_html": "<div class=\"md\"><p>I&#39;m literally trying to accelerate this shit providing as much data as possible because I know they will throw back another cheap opensource model to crush USA techno-oligarchy. It may not be much data but at least is my own curated data.</p>\n</div>",
+        "created_utc": "2025-01-29 04:21:47",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9rfk6a",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 103,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Both-Drama-8561",
+            "body": "How do u provide data?i wnna contribute\u00a0",
+            "body_html": "<div class=\"md\"><p>How do u provide data?i wnna contribute\u00a0</p>\n</div>",
+            "created_utc": "2025-01-29 07:58:33",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9s9fno",
+            "is_submitter": false,
+            "link_id": "t3_1ickf68",
+            "parent_id": "t1_m9rfk6a",
+            "score": 15,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/tomas_mamud",
+                "body": "I guess, by using it",
+                "body_html": "<div class=\"md\"><p>I guess, by using it</p>\n</div>",
+                "created_utc": "2025-01-29 10:04:33",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9sm4qa",
+                "is_submitter": false,
+                "link_id": "t3_1ickf68",
+                "parent_id": "t1_m9s9fno",
+                "score": 14,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Both-Drama-8561",
+                    "body": "It doesn't have memory\u00a0",
+                    "body_html": "<div class=\"md\"><p>It doesn&#39;t have memory\u00a0</p>\n</div>",
+                    "created_utc": "2025-01-29 10:26:26",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9so7gm",
+                    "is_submitter": false,
+                    "link_id": "t3_1ickf68",
+                    "parent_id": "t1_m9sm4qa",
+                    "score": 7,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/blackrack",
+                        "body": "No user-facing memory doesn't mean the data won't be stored, analyzed and used for training",
+                        "body_html": "<div class=\"md\"><p>No user-facing memory doesn&#39;t mean the data won&#39;t be stored, analyzed and used for training</p>\n</div>",
+                        "created_utc": "2025-01-29 12:16:21",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m9sz3ly",
+                        "is_submitter": false,
+                        "link_id": "t3_1ickf68",
+                        "parent_id": "t1_m9so7gm",
+                        "score": 13,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Both-Drama-8561",
+                            "body": "Thats good",
+                            "body_html": "<div class=\"md\"><p>Thats good</p>\n</div>",
+                            "created_utc": "2025-01-29 12:28:56",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "m9t0hz4",
+                            "is_submitter": false,
+                            "link_id": "t3_1ickf68",
+                            "parent_id": "t1_m9sz3ly",
+                            "score": 5,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/Candid-Falcon1002",
+                                "body": "OpenAI sometimes prompts user to ask which response they prefer and gave option to tell AI if the user likes or dislikes the answer. I wonder if there is such mechanism on DeepSeek where we can contribute to help the model too",
+                                "body_html": "<div class=\"md\"><p>OpenAI sometimes prompts user to ask which response they prefer and gave option to tell AI if the user likes or dislikes the answer. I wonder if there is such mechanism on DeepSeek where we can contribute to help the model too</p>\n</div>",
+                                "created_utc": "2025-01-29 13:34:19",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "m9t8oez",
+                                "is_submitter": false,
+                                "link_id": "t3_1ickf68",
+                                "parent_id": "t1_m9t0hz4",
+                                "score": 2,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/Mac_ankush",
+                                    "body": "In Deepseek, you can offer like or dislike for every response it gives.",
+                                    "body_html": "<div class=\"md\"><p>In Deepseek, you can offer like or dislike for every response it gives.</p>\n</div>",
+                                    "created_utc": "2025-01-30 05:43:13",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "m9yjhyf",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1ickf68",
+                                    "parent_id": "t1_m9t8oez",
+                                    "score": 1,
+                                    "stickied": false,
+                                    "replies": []
+                                  },
+                                  {
+                                    "author": "u/Both-Drama-8561",
+                                    "body": "Both of the responses Barley difer , atleast for me",
+                                    "body_html": "<div class=\"md\"><p>Both of the responses Barley difer , atleast for me</p>\n</div>",
+                                    "created_utc": "2025-01-29 13:37:33",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "m9t94u3",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1ickf68",
+                                    "parent_id": "t1_m9t8oez",
+                                    "score": 0,
+                                    "stickied": false,
+                                    "replies": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/IxinDow",
+                "body": "in web interface you can upvote good deepseek answers and downvote bad ones (don't know if this is present in mobile app)",
+                "body_html": "<div class=\"md\"><p>in web interface you can upvote good deepseek answers and downvote bad ones (don&#39;t know if this is present in mobile app)</p>\n</div>",
+                "created_utc": "2025-01-29 22:50:25",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9wep5u",
+                "is_submitter": false,
+                "link_id": "t3_1ickf68",
+                "parent_id": "t1_m9s9fno",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Impossible-Film4781",
+        "body": "Well, you better improve your Chinese right away.",
+        "body_html": "<div class=\"md\"><p>Well, you better improve your Chinese right away.</p>\n</div>",
+        "created_utc": "2025-01-29 04:21:36",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9rfj28",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 36,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/BothNumber9",
+            "body": "Eh I\u2019ll take a neural chip in my brain that translates everything for me, and become a full blown Chinese citizen in full support of the government because the neural interface wouldn\u2019t let me think otherwise\u00a0",
+            "body_html": "<div class=\"md\"><p>Eh I\u2019ll take a neural chip in my brain that translates everything for me, and become a full blown Chinese citizen in full support of the government because the neural interface wouldn\u2019t let me think otherwise\u00a0</p>\n</div>",
+            "created_utc": "2025-01-29 04:35:02",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9rht71",
+            "is_submitter": false,
+            "link_id": "t3_1ickf68",
+            "parent_id": "t1_m9rfj28",
+            "score": 11,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Naduhan_Sum",
+        "body": "If DeepSeek had been released during the Biden presidency, Trump would\u2018ve said \u201eYou see, Democrats are bad, they can\u2019t handle AI and can\u2019t compete with China.\u201c",
+        "body_html": "<div class=\"md\"><p>If DeepSeek had been released during the Biden presidency, Trump would\u2018ve said \u201eYou see, Democrats are bad, they can\u2019t handle AI and can\u2019t compete with China.\u201c</p>\n</div>",
+        "created_utc": "2025-01-29 08:23:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9sc379",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 31,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/bjran8888",
+            "body": "I've been using deepseek for a month now but it didn't get US attention then hahaha",
+            "body_html": "<div class=\"md\"><p>I&#39;ve been using deepseek for a month now but it didn&#39;t get US attention then hahaha</p>\n</div>",
+            "created_utc": "2025-01-29 08:56:42",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9sfjiu",
+            "is_submitter": false,
+            "link_id": "t3_1ickf68",
+            "parent_id": "t1_m9sc379",
+            "score": 7,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/taiwbi",
+                "body": "US attention got when R1 and V3 eas released",
+                "body_html": "<div class=\"md\"><p>US attention got when R1 and V3 eas released</p>\n</div>",
+                "created_utc": "2025-01-29 10:43:50",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9spuj7",
+                "is_submitter": false,
+                "link_id": "t3_1ickf68",
+                "parent_id": "t1_m9sfjiu",
+                "score": 9,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/bjran8888",
+                    "body": "Actually focus is a funny thing.\n\n\nThere are a lot of technological innovations in China that Westerners simply don't pay attention to, or, rather, don't want to recognize.\n\n\nOh, or they'll say that the Chinese are \"copying\" the US, even though these technologies don't exist in the US.",
+                    "body_html": "<div class=\"md\"><p>Actually focus is a funny thing.</p>\n\n<p>There are a lot of technological innovations in China that Westerners simply don&#39;t pay attention to, or, rather, don&#39;t want to recognize.</p>\n\n<p>Oh, or they&#39;ll say that the Chinese are &quot;copying&quot; the US, even though these technologies don&#39;t exist in the US.</p>\n</div>",
+                    "created_utc": "2025-01-29 19:54:19",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9vboh4",
+                    "is_submitter": false,
+                    "link_id": "t3_1ickf68",
+                    "parent_id": "t1_m9spuj7",
+                    "score": 4,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/orangotai",
+        "body": "this has become beyond dumb",
+        "body_html": "<div class=\"md\"><p>this has become beyond dumb</p>\n</div>",
+        "created_utc": "2025-01-29 09:36:38",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9sjh70",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 5,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Blue_coat1",
+        "body": "how about Chinese massage and happy ending",
+        "body_html": "<div class=\"md\"><p>how about Chinese massage and happy ending</p>\n</div>",
+        "created_utc": "2025-01-29 10:51:43",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9sqlm7",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 4,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/meloPamelo",
+        "body": "traditional chinese medicine is preventive. not cure.",
+        "body_html": "<div class=\"md\"><p>traditional chinese medicine is preventive. not cure.</p>\n</div>",
+        "created_utc": "2025-01-29 07:22:44",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9s5fkj",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 7,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Macismo",
+            "body": "Say what you will. I was dying of Anthrax, Botulism, Bubonic plague, Cholera, COVID-19, Creutzfeldt-Jakob disease, Dengue fever, Diphtheria, Ebola, Echinococcosis, Encephalitis, Hantavirus pulmonary syndrome, Hemorrhagic fevers, Hepatitis B, Hepatitis C, HIV/AIDS, Influenza, Japanese encephalitis, Lassa fever, Leptospirosis, Listeriosis, Malaria, Marburg virus, Measles, Meningitis, Middle East respiratory syndrome (MERS), Monkeypox, MRSA infection, Necrotizing fasciitis, Nipah virus infection, Pertussis (whooping cough), Pneumonic plague, Polio, Rabies, Rocky Mountain spotted fever, SARS (Severe Acute Respiratory Syndrome), Scarlet fever, Schistosomiasis, Septicemia, Smallpox, Syphilis, Tetanus, Tuberculosis, Tularemia, Typhoid fever, Typhus, Variant Creutzfeldt-Jakob disease, Viral pneumonia, West Nile virus, Yellow fever, and Zika virus but then drank some hot water and was cured.",
+            "body_html": "<div class=\"md\"><p>Say what you will. I was dying of Anthrax, Botulism, Bubonic plague, Cholera, COVID-19, Creutzfeldt-Jakob disease, Dengue fever, Diphtheria, Ebola, Echinococcosis, Encephalitis, Hantavirus pulmonary syndrome, Hemorrhagic fevers, Hepatitis B, Hepatitis C, HIV/AIDS, Influenza, Japanese encephalitis, Lassa fever, Leptospirosis, Listeriosis, Malaria, Marburg virus, Measles, Meningitis, Middle East respiratory syndrome (MERS), Monkeypox, MRSA infection, Necrotizing fasciitis, Nipah virus infection, Pertussis (whooping cough), Pneumonic plague, Polio, Rabies, Rocky Mountain spotted fever, SARS (Severe Acute Respiratory Syndrome), Scarlet fever, Schistosomiasis, Septicemia, Smallpox, Syphilis, Tetanus, Tuberculosis, Tularemia, Typhoid fever, Typhus, Variant Creutzfeldt-Jakob disease, Viral pneumonia, West Nile virus, Yellow fever, and Zika virus but then drank some hot water and was cured.</p>\n</div>",
+            "created_utc": "2025-01-29 09:37:19",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9sjjh9",
+            "is_submitter": false,
+            "link_id": "t3_1ickf68",
+            "parent_id": "t1_m9s5fkj",
+            "score": 17,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Chtholly_Lee",
+        "body": "actually please don\\`t.\n\nBuy more random shit from TEMU is probably better for your health, also makes the point, and sometimes even useful.",
+        "body_html": "<div class=\"md\"><p>actually please don`t.</p>\n\n<p>Buy more random shit from TEMU is probably better for your health, also makes the point, and sometimes even useful.</p>\n</div>",
+        "created_utc": "2025-01-29 08:43:42",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9se7ta",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/AdditionalGuitar8994",
+        "body": "Good luck.",
+        "body_html": "<div class=\"md\"><p>Good luck.</p>\n</div>",
+        "created_utc": "2025-01-29 08:47:55",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9sencn",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Holiday-Smoke735",
+            "body": "China is the next superpower",
+            "body_html": "<div class=\"md\"><p>China is the next superpower</p>\n</div>",
+            "created_utc": "2025-02-22 15:36:59",
+            "distinguished": null,
+            "edited": false,
+            "id": "me6484h",
+            "is_submitter": false,
+            "link_id": "t3_1ickf68",
+            "parent_id": "t1_m9sencn",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Wild-Passenger-4528",
+        "body": "don't do it",
+        "body_html": "<div class=\"md\"><p>don&#39;t do it</p>\n</div>",
+        "created_utc": "2025-01-29 08:59:00",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9sfryf",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/taiwbi",
+        "body": "It's not gonna destroy anything. Maybe only nvidia goes back to 2023",
+        "body_html": "<div class=\"md\"><p>It&#39;s not gonna destroy anything. Maybe only nvidia goes back to 2023</p>\n</div>",
+        "created_utc": "2025-01-29 10:41:34",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9spmw3",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/sc7861",
+        "body": "looooooool",
+        "body_html": "<div class=\"md\"><p>looooooool</p>\n</div>",
+        "created_utc": "2025-01-29 16:29:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9u38fe",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Lightingsky",
+        "body": "Yo no need. Even Chinese people including the deepseek developers don\u2019t believe traditional Chinese medicine",
+        "body_html": "<div class=\"md\"><p>Yo no need. Even Chinese people including the deepseek developers don\u2019t believe traditional Chinese medicine</p>\n</div>",
+        "created_utc": "2025-01-29 18:24:50",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9urtyi",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/AnonimNetwork",
+        "body": "I came with an Idea what if deep seek team would implement an app for WINDOWS or Mac OS that will alow to run some deep seek task locally on the PC for example Microsoft Copilot does that using 20 % of my CPU intel core I5 10210U for simple responses or 30% of my Intel UHD gpu while generating a image. But this move can impact significantly the performance of Deep Seek also they can use the web search on my computer why to go on a server ?\n\nAlso there are newier pc wich come with integrated NPU I seen this on my friends laptop with Ryzen 5.\n\nPlease adress this message on deep seeks bussines email: \u201e[business@deepseek.com](mailto:business@deepseek.com)\u201d\n\nAlso you can add more of your wishes in this email thank you\n\n\n\n\n\nDear DeepSeek Team,I am writing to suggest a potential solution to address server overload challenges while improving user experience:\u00a0**a hybrid processing model that leverages users\u2019 local CPU/GPU resources alongside your cloud infrastructure**.**Why This Matters**\n\n1. **Server Load Reduction**: By offloading part of the processing to users\u2019 devices (e.g., 30\u201350% CPU/GPU usage), DeepSeek could significantly reduce latency during peak times.\n2. **Faster Responses**: Users with powerful hardware (e.g., modern GPUs) could get near-instant answers for simple queries.\n3. **Privacy-Centric Option**: Local processing would appeal to users who prioritize data security.\n\n**How It Could Work**\n\n* **Hybrid Mode**:\n   * **Lightweight Local Model**: A quantized/optimized version of DeepSeek for basic tasks (e.g., short Q&A, text parsing).\n   * **Cloud Fallback**: Complex requests (code generation, long analyses) are routed to your servers.\n* **Resource Customization**: Allow users to allocate a percentage of their CPU/GPU (e.g., 30%, 50%, or \u201cAuto\u201d).\n* **Hardware Detection**: The app could auto-detect device capabilities and recommend optimal settings.\n\n**Inspiration & Feasibility**\n\n* **Microsoft Copilot**: Already uses local resources (visible in Task Manager) for lightweight tasks or image generation.\n* **LM Studio/GPT4All**: Prove that local LLM execution is possible on consumer hardware.\n* **Stable Diffusion**: Community-driven tools like Automatic1111 show demand for hybrid solutions.",
+        "body_html": "<div class=\"md\"><p>I came with an Idea what if deep seek team would implement an app for WINDOWS or Mac OS that will alow to run some deep seek task locally on the PC for example Microsoft Copilot does that using 20 % of my CPU intel core I5 10210U for simple responses or 30% of my Intel UHD gpu while generating a image. But this move can impact significantly the performance of Deep Seek also they can use the web search on my computer why to go on a server ?</p>\n\n<p>Also there are newier pc wich come with integrated NPU I seen this on my friends laptop with Ryzen 5.</p>\n\n<p>Please adress this message on deep seeks bussines email: \u201e[<a href=\"mailto:business@deepseek.com\">business@deepseek.com</a>](mailto:<a href=\"mailto:business@deepseek.com\">business@deepseek.com</a>)\u201d</p>\n\n<p>Also you can add more of your wishes in this email thank you</p>\n\n<p>Dear DeepSeek Team,I am writing to suggest a potential solution to address server overload challenges while improving user experience:\u00a0<strong>a hybrid processing model that leverages users\u2019 local CPU/GPU resources alongside your cloud infrastructure</strong>.<strong>Why This Matters</strong></p>\n\n<ol>\n<li><strong>Server Load Reduction</strong>: By offloading part of the processing to users\u2019 devices (e.g., 30\u201350% CPU/GPU usage), DeepSeek could significantly reduce latency during peak times.</li>\n<li><strong>Faster Responses</strong>: Users with powerful hardware (e.g., modern GPUs) could get near-instant answers for simple queries.</li>\n<li><strong>Privacy-Centric Option</strong>: Local processing would appeal to users who prioritize data security.</li>\n</ol>\n\n<p><strong>How It Could Work</strong></p>\n\n<ul>\n<li><strong>Hybrid Mode</strong>:\n\n<ul>\n<li><strong>Lightweight Local Model</strong>: A quantized/optimized version of DeepSeek for basic tasks (e.g., short Q&amp;A, text parsing).</li>\n<li><strong>Cloud Fallback</strong>: Complex requests (code generation, long analyses) are routed to your servers.</li>\n</ul></li>\n<li><strong>Resource Customization</strong>: Allow users to allocate a percentage of their CPU/GPU (e.g., 30%, 50%, or \u201cAuto\u201d).</li>\n<li><strong>Hardware Detection</strong>: The app could auto-detect device capabilities and recommend optimal settings.</li>\n</ul>\n\n<p><strong>Inspiration &amp; Feasibility</strong></p>\n\n<ul>\n<li><strong>Microsoft Copilot</strong>: Already uses local resources (visible in Task Manager) for lightweight tasks or image generation.</li>\n<li><strong>LM Studio/GPT4All</strong>: Prove that local LLM execution is possible on consumer hardware.</li>\n<li><strong>Stable Diffusion</strong>: Community-driven tools like Automatic1111 show demand for hybrid solutions.</li>\n</ul>\n</div>",
+        "created_utc": "2025-01-29 18:42:45",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9uvsn2",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/anthonydelarosa",
+        "body": "![gif](giphy|10JhviFuU2gWD6)",
+        "body_html": "<div class=\"md\"><p><a href=\"https://giphy.com/gifs/10JhviFuU2gWD6\" target=\"_blank\"><img src=\"https://external-preview.redd.it/2dnI62e9UOVolrVMvJ6LgL4IaAK1kuo4wrJOepOwSOM.gif?width=153&height=200&s=a336ab52e43e67571d363a8ceae84eda8d02348b\" width=\"153\" height=\"200\"></a></p>\n</div>",
+        "created_utc": "2025-01-29 20:33:13",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9vk7sp",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/turb0_encapsulator",
+        "body": "I never thought I would be rooting for China, but it's clear that the oligarchs who are now running this country are a more immediate danger to the American people.",
+        "body_html": "<div class=\"md\"><p>I never thought I would be rooting for China, but it&#39;s clear that the oligarchs who are now running this country are a more immediate danger to the American people.</p>\n</div>",
+        "created_utc": "2025-01-30 01:12:28",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9x7hqm",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/FREE-AOL-CDS",
+            "body": "Interacting with Americans because of the tiktok ban and finding out all of the memes and jokes about America are true, and we are actually way behind in a lot of areas, has to be a huge morale boost.",
+            "body_html": "<div class=\"md\"><p>Interacting with Americans because of the tiktok ban and finding out all of the memes and jokes about America are true, and we are actually way behind in a lot of areas, has to be a huge morale boost.</p>\n</div>",
+            "created_utc": "2025-01-30 04:07:41",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9y40gh",
+            "is_submitter": false,
+            "link_id": "t3_1ickf68",
+            "parent_id": "t1_m9x7hqm",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Holiday-Smoke735",
+                "body": "The US is overrated",
+                "body_html": "<div class=\"md\"><p>The US is overrated</p>\n</div>",
+                "created_utc": "2025-02-22 15:38:13",
+                "distinguished": null,
+                "edited": false,
+                "id": "me64gdo",
+                "is_submitter": false,
+                "link_id": "t3_1ickf68",
+                "parent_id": "t1_m9y40gh",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/FREE-AOL-CDS",
+                    "body": "Doesn't matter. \n\nHaving citizens from the country that is your largest rival directly tell you how things REALLY are there, contrary to 100+ years of media and advertising that says otherwise can only motivate you if you're a country that is rising.",
+                    "body_html": "<div class=\"md\"><p>Doesn&#39;t matter. </p>\n\n<p>Having citizens from the country that is your largest rival directly tell you how things REALLY are there, contrary to 100+ years of media and advertising that says otherwise can only motivate you if you&#39;re a country that is rising.</p>\n</div>",
+                    "created_utc": "2025-02-22 20:46:15",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "me7vkgf",
+                    "is_submitter": false,
+                    "link_id": "t3_1ickf68",
+                    "parent_id": "t1_me64gdo",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Holiday-Smoke735",
+                        "body": "I understand but I think\nThe Americans are long overdue for a humbling",
+                        "body_html": "<div class=\"md\"><p>I understand but I think\nThe Americans are long overdue for a humbling</p>\n</div>",
+                        "created_utc": "2025-02-22 20:47:06",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "me7vqva",
+                        "is_submitter": false,
+                        "link_id": "t3_1ickf68",
+                        "parent_id": "t1_me7vkgf",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/MobyDickOrTheWhale89",
+        "body": ">As an American, If DeepSeek manages to destroy our techno-oligarchy, I will dedicate my life to Traditional Chinese Medicine\n\nTraditional Chinese Medicine AKA The Immortal Science of Marxism-Leninism-Maoism",
+        "body_html": "<div class=\"md\"><blockquote>\n<p>As an American, If DeepSeek manages to destroy our techno-oligarchy, I will dedicate my life to Traditional Chinese Medicine</p>\n</blockquote>\n\n<p>Traditional Chinese Medicine AKA The Immortal Science of Marxism-Leninism-Maoism</p>\n</div>",
+        "created_utc": "2025-01-29 13:39:20",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9t9dy0",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/AnonimNetwork",
+            "body": "I came with an Idea what if deep seek team would implement an app for WINDOWS or Mac OS that will alow to run some deep seek task locally on the PC for example Microsoft Copilot does that using 20 % of my CPU intel core I5 10210U for simple responses or 30% of my Intel UHD gpu while generating a image. But this move can impact significantly the performance of Deep Seek also they can use the web search on my computer why to go on a server ?\n\nAlso there are newier pc wich come with integrated NPU I seen this on my friends laptop with Ryzen 5.\n\nPlease adress this message on deep seeks bussines email: \u201e[business@deepseek.com](mailto:business@deepseek.com)\u201d\n\nAlso you can add more of your wishes in this email thank you\n\n\n\n\n\nDear DeepSeek Team,I am writing to suggest a potential solution to address server overload challenges while improving user experience:\u00a0**a hybrid processing model that leverages users\u2019 local CPU/GPU resources alongside your cloud infrastructure**.**Why This Matters**\n\n1. **Server Load Reduction**: By offloading part of the processing to users\u2019 devices (e.g., 30\u201350% CPU/GPU usage), DeepSeek could significantly reduce latency during peak times.\n2. **Faster Responses**: Users with powerful hardware (e.g., modern GPUs) could get near-instant answers for simple queries.\n3. **Privacy-Centric Option**: Local processing would appeal to users who prioritize data security.\n\n**How It Could Work**\n\n* **Hybrid Mode**:\n   * **Lightweight Local Model**: A quantized/optimized version of DeepSeek for basic tasks (e.g., short Q&A, text parsing).\n   * **Cloud Fallback**: Complex requests (code generation, long analyses) are routed to your servers.\n* **Resource Customization**: Allow users to allocate a percentage of their CPU/GPU (e.g., 30%, 50%, or \u201cAuto\u201d).\n* **Hardware Detection**: The app could auto-detect device capabilities and recommend optimal settings.\n\n**Inspiration & Feasibility**\n\n* **Microsoft Copilot**: Already uses local resources (visible in Task Manager) for lightweight tasks or image generation.\n* **LM Studio/GPT4All**: Prove that local LLM execution is possible on consumer hardware.\n* **Stable Diffusion**: Community-driven tools like Automatic1111 show demand for hybrid solutions.",
+            "body_html": "<div class=\"md\"><p>I came with an Idea what if deep seek team would implement an app for WINDOWS or Mac OS that will alow to run some deep seek task locally on the PC for example Microsoft Copilot does that using 20 % of my CPU intel core I5 10210U for simple responses or 30% of my Intel UHD gpu while generating a image. But this move can impact significantly the performance of Deep Seek also they can use the web search on my computer why to go on a server ?</p>\n\n<p>Also there are newier pc wich come with integrated NPU I seen this on my friends laptop with Ryzen 5.</p>\n\n<p>Please adress this message on deep seeks bussines email: \u201e[<a href=\"mailto:business@deepseek.com\">business@deepseek.com</a>](mailto:<a href=\"mailto:business@deepseek.com\">business@deepseek.com</a>)\u201d</p>\n\n<p>Also you can add more of your wishes in this email thank you</p>\n\n<p>Dear DeepSeek Team,I am writing to suggest a potential solution to address server overload challenges while improving user experience:\u00a0<strong>a hybrid processing model that leverages users\u2019 local CPU/GPU resources alongside your cloud infrastructure</strong>.<strong>Why This Matters</strong></p>\n\n<ol>\n<li><strong>Server Load Reduction</strong>: By offloading part of the processing to users\u2019 devices (e.g., 30\u201350% CPU/GPU usage), DeepSeek could significantly reduce latency during peak times.</li>\n<li><strong>Faster Responses</strong>: Users with powerful hardware (e.g., modern GPUs) could get near-instant answers for simple queries.</li>\n<li><strong>Privacy-Centric Option</strong>: Local processing would appeal to users who prioritize data security.</li>\n</ol>\n\n<p><strong>How It Could Work</strong></p>\n\n<ul>\n<li><strong>Hybrid Mode</strong>:\n\n<ul>\n<li><strong>Lightweight Local Model</strong>: A quantized/optimized version of DeepSeek for basic tasks (e.g., short Q&amp;A, text parsing).</li>\n<li><strong>Cloud Fallback</strong>: Complex requests (code generation, long analyses) are routed to your servers.</li>\n</ul></li>\n<li><strong>Resource Customization</strong>: Allow users to allocate a percentage of their CPU/GPU (e.g., 30%, 50%, or \u201cAuto\u201d).</li>\n<li><strong>Hardware Detection</strong>: The app could auto-detect device capabilities and recommend optimal settings.</li>\n</ul>\n\n<p><strong>Inspiration &amp; Feasibility</strong></p>\n\n<ul>\n<li><strong>Microsoft Copilot</strong>: Already uses local resources (visible in Task Manager) for lightweight tasks or image generation.</li>\n<li><strong>LM Studio/GPT4All</strong>: Prove that local LLM execution is possible on consumer hardware.</li>\n<li><strong>Stable Diffusion</strong>: Community-driven tools like Automatic1111 show demand for hybrid solutions.</li>\n</ul>\n</div>",
+            "created_utc": "2025-01-29 18:43:32",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9uvz1w",
+            "is_submitter": false,
+            "link_id": "t3_1ickf68",
+            "parent_id": "t1_m9t9dy0",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Inclusive_3Dprinting",
+        "body": "Some tiger penis tea for you madam?",
+        "body_html": "<div class=\"md\"><p>Some tiger penis tea for you madam?</p>\n</div>",
+        "created_utc": "2025-01-29 06:03:13",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9rvbk5",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/_Saber_69",
+        "body": "Tiananmen Square",
+        "body_html": "<div class=\"md\"><p>Tiananmen Square</p>\n</div>",
+        "created_utc": "2025-01-29 07:23:01",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9s5gp4",
+        "is_submitter": false,
+        "link_id": "t3_1ickf68",
+        "parent_id": "t3_1ickf68",
+        "score": -23,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/kjchowdhry",
+            "body": "So original. So brave /s",
+            "body_html": "<div class=\"md\"><p>So original. So brave /s</p>\n</div>",
+            "created_utc": "2025-01-29 07:40:31",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9s7g6l",
+            "is_submitter": false,
+            "link_id": "t3_1ickf68",
+            "parent_id": "t1_m9s5gp4",
+            "score": 17,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/_Saber_69",
+                "body": "Basically this entire subreddit can be destroyed by two words and you can't parry it. I think the Reddit administration should take it down because it goes against freedom of speech. And as far as I know Reddit is for freedom and has little to no restrictions.",
+                "body_html": "<div class=\"md\"><p>Basically this entire subreddit can be destroyed by two words and you can&#39;t parry it. I think the Reddit administration should take it down because it goes against freedom of speech. And as far as I know Reddit is for freedom and has little to no restrictions.</p>\n</div>",
+                "created_utc": "2025-01-29 07:42:32",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9s7o75",
+                "is_submitter": false,
+                "link_id": "t3_1ickf68",
+                "parent_id": "t1_m9s7g6l",
+                "score": -18,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/RiologyWatches",
+                    "body": "Open-sourced software is against freedom of speech because it refuses to answer specific political questions? \n\nIt doesn't stop you from asking questions or express your ideas, it just refuses to answer. How is that against freedom of speech exactly? \ud83e\udd23\n\nHowever, sinophobia, a form or racism, is against the Reddit TOS. So they should shut down your account if shutting down anything",
+                    "body_html": "<div class=\"md\"><p>Open-sourced software is against freedom of speech because it refuses to answer specific political questions? </p>\n\n<p>It doesn&#39;t stop you from asking questions or express your ideas, it just refuses to answer. How is that against freedom of speech exactly? \ud83e\udd23</p>\n\n<p>However, sinophobia, a form or racism, is against the Reddit TOS. So they should shut down your account if shutting down anything</p>\n</div>",
+                    "created_utc": "2025-01-29 10:23:31",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9snxhx",
+                    "is_submitter": false,
+                    "link_id": "t3_1ickf68",
+                    "parent_id": "t1_m9s7o75",
+                    "score": 6,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/Eisegetical",
+                    "body": "Oh get a life and move on. Nobody cares about your weak attempt to discredit. Run back to chatgpt if you're so butthurt about it.\u00a0",
+                    "body_html": "<div class=\"md\"><p>Oh get a life and move on. Nobody cares about your weak attempt to discredit. Run back to chatgpt if you&#39;re so butthurt about it.\u00a0</p>\n</div>",
+                    "created_utc": "2025-01-29 08:04:07",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9sa1n2",
+                    "is_submitter": false,
+                    "link_id": "t3_1ickf68",
+                    "parent_id": "t1_m9s7o75",
+                    "score": 6,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/shellacr",
+                    "body": "parried:\nhttps://i.redd.it/k0wezp1evqfe1.jpeg\n\nmeanwhile:\nhttps://x.com/kitahnji/status/1882714097432813964?s=46",
+                    "body_html": "<div class=\"md\"><p>parried:\n<a href=\"https://i.redd.it/k0wezp1evqfe1.jpeg\">https://i.redd.it/k0wezp1evqfe1.jpeg</a></p>\n\n<p>meanwhile:\n<a href=\"https://x.com/kitahnji/status/1882714097432813964?s=46\">https://x.com/kitahnji/status/1882714097432813964?s=46</a></p>\n</div>",
+                    "created_utc": "2025-01-29 15:33:42",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9tsbkg",
+                    "is_submitter": false,
+                    "link_id": "t3_1ickf68",
+                    "parent_id": "t1_m9s7o75",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/_Saber_69",
+                        "body": "Why would you bring this up? Are you butthurt because your broke ass couldn't afford a  $20 subscription? I just asked GPT about that conflict. It provided me with a decent answer. While the rice eaters rip-off just refuses to talk about Tiananmen Square.",
+                        "body_html": "<div class=\"md\"><p>Why would you bring this up? Are you butthurt because your broke ass couldn&#39;t afford a  $20 subscription? I just asked GPT about that conflict. It provided me with a decent answer. While the rice eaters rip-off just refuses to talk about Tiananmen Square.</p>\n</div>",
+                        "created_utc": "2025-01-29 15:42:10",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m9ttvw6",
+                        "is_submitter": false,
+                        "link_id": "t3_1ickf68",
+                        "parent_id": "t1_m9tsbkg",
+                        "score": 0,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/shellacr",
+                            "body": "they both censor.\n\nrefusing to talk at all about it is actually better. it encourages the user to look it up by other means.\n\nwhen you\u2019re lied to it\u2019s soft censorship and i\u2019m sure many are oblivious to it. \n\ni can and do pay for chatgpt but not for long.",
+                            "body_html": "<div class=\"md\"><p>they both censor.</p>\n\n<p>refusing to talk at all about it is actually better. it encourages the user to look it up by other means.</p>\n\n<p>when you\u2019re lied to it\u2019s soft censorship and i\u2019m sure many are oblivious to it. </p>\n\n<p>i can and do pay for chatgpt but not for long.</p>\n</div>",
+                            "created_utc": "2025-01-29 16:23:53",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "m9u20th",
+                            "is_submitter": false,
+                            "link_id": "t3_1ickf68",
+                            "parent_id": "t1_m9ttvw6",
+                            "score": 2,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/_Saber_69",
+                                "body": "ChatGPT was made in a country that supports Israel. And after white people did some bad things to Jews it's a good idea to help them. Besides, Israel is a rather progressive country compared to the others in that region so it's one more reason to support it.",
+                                "body_html": "<div class=\"md\"><p>ChatGPT was made in a country that supports Israel. And after white people did some bad things to Jews it&#39;s a good idea to help them. Besides, Israel is a rather progressive country compared to the others in that region so it&#39;s one more reason to support it.</p>\n</div>",
+                                "created_utc": "2025-01-29 16:25:40",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "m9u2dqs",
+                                "is_submitter": false,
+                                "link_id": "t3_1ickf68",
+                                "parent_id": "t1_m9u20th",
+                                "score": 0,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/shellacr",
+                                    "body": "Ah so you\u2019re not anti censorship per se, just the kind you agree with.\n\nIsrael is a fascist apartheid state, with LGBT rights, well on its way to being a full on theocracy. \n\nBy your logic we should be trying to help China. They underwent a century of colonialism with the opium wars, and afterwards the Japanese inflicted their own barbarism on Chinese people.",
+                                    "body_html": "<div class=\"md\"><p>Ah so you\u2019re not anti censorship per se, just the kind you agree with.</p>\n\n<p>Israel is a fascist apartheid state, with LGBT rights, well on its way to being a full on theocracy. </p>\n\n<p>By your logic we should be trying to help China. They underwent a century of colonialism with the opium wars, and afterwards the Japanese inflicted their own barbarism on Chinese people.</p>\n</div>",
+                                    "created_utc": "2025-01-29 16:42:05",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "m9u5q00",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1ickf68",
+                                    "parent_id": "t1_m9u2dqs",
+                                    "score": 0,
+                                    "stickied": false,
+                                    "replies": [
+                                      {
+                                        "author": "u/_Saber_69",
+                                        "body": "Nah bro I'm just racist. If the chinese behaved they'd deserve to be helped. But they became communist and anti-west so I think they should get the short end of the stick. If I was the president of the USA I'd literally just cut off china from the global internet. With the USA's influence over Europe it's not gonna be hard. Then I'd sanction it heavily to smother any development. Basically nothing and no one from the first world gets in or out of China. Taiwan is gonna become the USA's unsinkable aircraft carrier.",
+                                        "body_html": "<div class=\"md\"><p>Nah bro I&#39;m just racist. If the chinese behaved they&#39;d deserve to be helped. But they became communist and anti-west so I think they should get the short end of the stick. If I was the president of the USA I&#39;d literally just cut off china from the global internet. With the USA&#39;s influence over Europe it&#39;s not gonna be hard. Then I&#39;d sanction it heavily to smother any development. Basically nothing and no one from the first world gets in or out of China. Taiwan is gonna become the USA&#39;s unsinkable aircraft carrier.</p>\n</div>",
+                                        "created_utc": "2025-01-29 16:46:44",
+                                        "distinguished": null,
+                                        "edited": false,
+                                        "id": "m9u6p55",
+                                        "is_submitter": false,
+                                        "link_id": "t3_1ickf68",
+                                        "parent_id": "t1_m9u5q00",
+                                        "score": -1,
+                                        "stickied": false,
+                                        "replies": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/Zombi7273",
+            "body": "Bad bot",
+            "body_html": "<div class=\"md\"><p>Bad bot</p>\n</div>",
+            "created_utc": "2025-01-29 10:25:11",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9so359",
+            "is_submitter": false,
+            "link_id": "t3_1ickf68",
+            "parent_id": "t1_m9s5gp4",
+            "score": 6,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/B0tRank",
+                "body": "Thank you, Zombi7273, for voting on _Saber_69.\n\nThis bot wants to find the best and worst bots on Reddit. [You can view results here](https://botrank.pastimes.eu/).\n\n***\n\n^(Even if I don't reply to your comment, I'm still listening for votes. Check the webpage to see if your vote registered!)",
+                "body_html": "<div class=\"md\"><p>Thank you, Zombi7273, for voting on _Saber_69.</p>\n\n<p>This bot wants to find the best and worst bots on Reddit. <a href=\"https://botrank.pastimes.eu/\">You can view results here</a>.</p>\n\n<hr/>\n\n<p><sup>Even if I don&#39;t reply to your comment, I&#39;m still listening for votes. Check the webpage to see if your vote registered!</sup></p>\n</div>",
+                "created_utc": "2025-01-29 10:25:25",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9so3wy",
+                "is_submitter": false,
+                "link_id": "t3_1ickf68",
+                "parent_id": "t1_m9so359",
+                "score": 5,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/WhyNotCollegeBoard",
+                "body": "Are you sure about that? Because I am 99.99991% sure that _Saber_69 is not a bot.\n\n---\n\n^(I am a neural network being trained to detect spammers | Summon me with !isbot <username> |) ^(/r/spambotdetector |) [^(Optout)](https://www.reddit.com/message/compose?to=whynotcollegeboard&subject=!optout&message=!optout) ^(|) [^(Original Github)](https://github.com/SM-Wistful/BotDetection-Algorithm)",
+                "body_html": "<div class=\"md\"><p>Are you sure about that? Because I am 99.99991% sure that _Saber_69 is not a bot.</p>\n\n<hr/>\n\n<p><sup>I am a neural network being trained to detect spammers | Summon me with !isbot &lt;username&gt; |</sup> <sup><a href=\"/r/spambotdetector\">/r/spambotdetector</a> |</sup> <a href=\"https://www.reddit.com/message/compose?to=whynotcollegeboard&amp;subject=!optout&amp;message=!optout\"><sup>Optout</sup></a> <sup>|</sup> <a href=\"https://github.com/SM-Wistful/BotDetection-Algorithm\"><sup>Original Github</sup></a></p>\n</div>",
+                "created_utc": "2025-01-29 10:25:35",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9so4i8",
+                "is_submitter": false,
+                "link_id": "t3_1ickf68",
+                "parent_id": "t1_m9so359",
+                "score": -2,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/AntiAbrahamic",
+            "body": "Palestine",
+            "body_html": "<div class=\"md\"><p>Palestine</p>\n</div>",
+            "created_utc": "2025-01-29 08:14:10",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9sb4qk",
+            "is_submitter": false,
+            "link_id": "t3_1ickf68",
+            "parent_id": "t1_m9s5gp4",
+            "score": 6,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/_Saber_69",
+                "body": "Palestine what? It's just another country where people can't figure out how to be peaceful. Same as like Iraq or Afghanistan.",
+                "body_html": "<div class=\"md\"><p>Palestine what? It&#39;s just another country where people can&#39;t figure out how to be peaceful. Same as like Iraq or Afghanistan.</p>\n</div>",
+                "created_utc": "2025-01-29 08:18:18",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9sbkn5",
+                "is_submitter": false,
+                "link_id": "t3_1ickf68",
+                "parent_id": "t1_m9sb4qk",
+                "score": -10,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/AntiAbrahamic",
+                    "body": "America enabled a genocide in Palestine. Absolute hypocrites every goddamn one of you.",
+                    "body_html": "<div class=\"md\"><p>America enabled a genocide in Palestine. Absolute hypocrites every goddamn one of you.</p>\n</div>",
+                    "created_utc": "2025-01-29 08:19:11",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9sbnxm",
+                    "is_submitter": false,
+                    "link_id": "t3_1ickf68",
+                    "parent_id": "t1_m9sbkn5",
+                    "score": 12,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/_Saber_69",
+                        "body": "Why would you bring up America? Are you butthurt?",
+                        "body_html": "<div class=\"md\"><p>Why would you bring up America? Are you butthurt?</p>\n</div>",
+                        "created_utc": "2025-01-29 08:19:39",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m9sbpp5",
+                        "is_submitter": false,
+                        "link_id": "t3_1ickf68",
+                        "parent_id": "t1_m9sbnxm",
+                        "score": -1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/Former_Amoeba_619",
+            "body": "Sure buddy pay Sam Altman 200$ every month so his fancy chatbot can tell you about \"TiAnMiN sQuaRre\" but I am not as bright as you",
+            "body_html": "<div class=\"md\"><p>Sure buddy pay Sam Altman 200$ every month so his fancy chatbot can tell you about &quot;TiAnMiN sQuaRre&quot; but I am not as bright as you</p>\n</div>",
+            "created_utc": "2025-01-29 12:28:27",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9t0fzq",
+            "is_submitter": false,
+            "link_id": "t3_1ickf68",
+            "parent_id": "t1_m9s5gp4",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/_Saber_69",
+                "body": "Free cheese is in the mousetrap. Go grab it broke rat.",
+                "body_html": "<div class=\"md\"><p>Free cheese is in the mousetrap. Go grab it broke rat.</p>\n</div>",
+                "created_utc": "2025-01-29 12:42:22",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9t210y",
+                "is_submitter": false,
+                "link_id": "t3_1ickf68",
+                "parent_id": "t1_m9t0fzq",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Former_Amoeba_619",
+                    "body": "You are making a fool of yourself kid. You clearly don't know how deepseek works. It's open source and can be run locally",
+                    "body_html": "<div class=\"md\"><p>You are making a fool of yourself kid. You clearly don&#39;t know how deepseek works. It&#39;s open source and can be run locally</p>\n</div>",
+                    "created_utc": "2025-01-29 12:44:30",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9t29yo",
+                    "is_submitter": false,
+                    "link_id": "t3_1ickf68",
+                    "parent_id": "t1_m9t210y",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/_Saber_69",
+                        "body": "If it's free it doesn't mean nobody is benefiting from it. And the last thing you want to have benefits is China. As an American it's your responsibility to keep the USA the only global superpower. Otherwise Cold War 2 will be a thing and in 50 years half the world are gonna be speaking Mandarin. I can't believe that I as someone who doesn't even like American that much and definitely doesn't live there have to explain this to you. The US education system failed.",
+                        "body_html": "<div class=\"md\"><p>If it&#39;s free it doesn&#39;t mean nobody is benefiting from it. And the last thing you want to have benefits is China. As an American it&#39;s your responsibility to keep the USA the only global superpower. Otherwise Cold War 2 will be a thing and in 50 years half the world are gonna be speaking Mandarin. I can&#39;t believe that I as someone who doesn&#39;t even like American that much and definitely doesn&#39;t live there have to explain this to you. The US education system failed.</p>\n</div>",
+                        "created_utc": "2025-01-29 12:47:02",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m9t2kor",
+                        "is_submitter": false,
+                        "link_id": "t3_1ickf68",
+                        "parent_id": "t1_m9t29yo",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Former_Amoeba_619",
+                            "body": "Hey try to see the bigger picture, it's not just \"China vs USA\" here. It's More like \"Billionaire techoligarchs\" who are gatekeeping cutting edge technology from masses like you and me behind massive paywalls and an attempt to make AI available to everyone",
+                            "body_html": "<div class=\"md\"><p>Hey try to see the bigger picture, it&#39;s not just &quot;China vs USA&quot; here. It&#39;s More like &quot;Billionaire techoligarchs&quot; who are gatekeeping cutting edge technology from masses like you and me behind massive paywalls and an attempt to make AI available to everyone</p>\n</div>",
+                            "created_utc": "2025-01-29 13:10:23",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "m9t5gpw",
+                            "is_submitter": false,
+                            "link_id": "t3_1ickf68",
+                            "parent_id": "t1_m9t2kor",
+                            "score": 2,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/_Saber_69",
+                                "body": "I'd rather pay a measly $20 than live in a China-dominated world. Every single first world country should focus their resources on smothering China and not letting it develop. Or try to make it collapse and split into many independent countries. At the same time defending Taiwan, Japan and South Korea. When you think about it this way even 50% tax is logical.",
+                                "body_html": "<div class=\"md\"><p>I&#39;d rather pay a measly $20 than live in a China-dominated world. Every single first world country should focus their resources on smothering China and not letting it develop. Or try to make it collapse and split into many independent countries. At the same time defending Taiwan, Japan and South Korea. When you think about it this way even 50% tax is logical.</p>\n</div>",
+                                "created_utc": "2025-01-29 13:13:05",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "m9t5tap",
+                                "is_submitter": false,
+                                "link_id": "t3_1ickf68",
+                                "parent_id": "t1_m9t5gpw",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/Former_Amoeba_619",
+                                    "body": "It's 200$ not 20$. Hmm but okay if you think that running a model locally somehow makes China rule the world good for you mate",
+                                    "body_html": "<div class=\"md\"><p>It&#39;s 200$ not 20$. Hmm but okay if you think that running a model locally somehow makes China rule the world good for you mate</p>\n</div>",
+                                    "created_utc": "2025-01-29 13:18:08",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "m9t6hkm",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1ickf68",
+                                    "parent_id": "t1_m9t5tap",
+                                    "score": 2,
+                                    "stickied": false,
+                                    "replies": [
+                                      {
+                                        "author": "u/_Saber_69",
+                                        "body": "If you don't see a connection here you should never speak about politics. Don't even think of opening your little dirty mouth when people talk about politics.\n\n\nAlso it's $20. The cheapest subscription is just $20. The $200 one is for people who make money from ChatGPT. For casual users like you it's $20 or go use le chat or Bard.",
+                                        "body_html": "<div class=\"md\"><p>If you don&#39;t see a connection here you should never speak about politics. Don&#39;t even think of opening your little dirty mouth when people talk about politics.</p>\n\n<p>Also it&#39;s $20. The cheapest subscription is just $20. The $200 one is for people who make money from ChatGPT. For casual users like you it&#39;s $20 or go use le chat or Bard.</p>\n</div>",
+                                        "created_utc": "2025-01-29 13:21:47",
+                                        "distinguished": null,
+                                        "edited": false,
+                                        "id": "m9t6z3t",
+                                        "is_submitter": false,
+                                        "link_id": "t3_1ickf68",
+                                        "parent_id": "t1_m9t6hkm",
+                                        "score": 1,
+                                        "stickied": false,
+                                        "replies": [
+                                          {
+                                            "author": "u/Former_Amoeba_619",
+                                            "body": "The performance of Deepseek rivals O1 which is 200$. Also keep your nose in politics and don't ever speak of technology again because you know nothing",
+                                            "body_html": "<div class=\"md\"><p>The performance of Deepseek rivals O1 which is 200$. Also keep your nose in politics and don&#39;t ever speak of technology again because you know nothing</p>\n</div>",
+                                            "created_utc": "2025-01-29 13:23:40",
+                                            "distinguished": null,
+                                            "edited": false,
+                                            "id": "m9t783i",
+                                            "is_submitter": false,
+                                            "link_id": "t3_1ickf68",
+                                            "parent_id": "t1_m9t6z3t",
+                                            "score": 2,
+                                            "stickied": false,
+                                            "replies": [
+                                              {
+                                                "author": "u/_Saber_69",
+                                                "body": "We don't know if the Chinese rip-off is close to O1. Probably it isn't because nobody can do something this massive that fast. China was and always will be behind. Again, if it's free it doesn't mean you don't get exploited. TikTok is free yet it's making money. You wonder how.",
+                                                "body_html": "<div class=\"md\"><p>We don&#39;t know if the Chinese rip-off is close to O1. Probably it isn&#39;t because nobody can do something this massive that fast. China was and always will be behind. Again, if it&#39;s free it doesn&#39;t mean you don&#39;t get exploited. TikTok is free yet it&#39;s making money. You wonder how.</p>\n</div>",
+                                                "created_utc": "2025-01-29 13:27:48",
+                                                "distinguished": null,
+                                                "edited": false,
+                                                "id": "m9t7saj",
+                                                "is_submitter": false,
+                                                "link_id": "t3_1ickf68",
+                                                "parent_id": "t1_m9t783i",
+                                                "score": 1,
+                                                "stickied": false,
+                                                "replies": [
+                                                  {
+                                                    "author": "u/Former_Amoeba_619",
+                                                    "body": "Tiktok has ads. You are so unaware and talk like you know everything. Boy your 20$ are just going in the pocket of Sam Altman and if you think he is more thoughtful of you than Communists then you are so wrong.",
+                                                    "body_html": "<div class=\"md\"><p>Tiktok has ads. You are so unaware and talk like you know everything. Boy your 20$ are just going in the pocket of Sam Altman and if you think he is more thoughtful of you than Communists then you are so wrong.</p>\n</div>",
+                                                    "created_utc": "2025-01-29 13:33:59",
+                                                    "distinguished": null,
+                                                    "edited": false,
+                                                    "id": "m9t8mri",
+                                                    "is_submitter": false,
+                                                    "link_id": "t3_1ickf68",
+                                                    "parent_id": "t1_m9t7saj",
+                                                    "score": 2,
+                                                    "stickied": false,
+                                                    "replies": [
+                                                      {
+                                                        "author": "u/_Saber_69",
+                                                        "body": "You didn't rest the user agreement? Oh boy, I also was as clueless and naive as you once. And no, this guy doesn't take the money for himself. Part of it goes to maintain servers, part of it is to pay the workers, another part to extend his business and he invests the rest. This is how rich people do things in case you didn't know. They don't hoard money just because they can. They keep that flow of money and use part of it to buy cars and private jets.",
+                                                        "body_html": "<div class=\"md\"><p>You didn&#39;t rest the user agreement? Oh boy, I also was as clueless and naive as you once. And no, this guy doesn&#39;t take the money for himself. Part of it goes to maintain servers, part of it is to pay the workers, another part to extend his business and he invests the rest. This is how rich people do things in case you didn&#39;t know. They don&#39;t hoard money just because they can. They keep that flow of money and use part of it to buy cars and private jets.</p>\n</div>",
+                                                        "created_utc": "2025-01-29 13:37:27",
+                                                        "distinguished": null,
+                                                        "edited": false,
+                                                        "id": "m9t948e",
+                                                        "is_submitter": false,
+                                                        "link_id": "t3_1ickf68",
+                                                        "parent_id": "t1_m9t8mri",
+                                                        "score": 1,
+                                                        "stickied": false,
+                                                        "replies": [
+                                                          {
+                                                            "author": "u/Former_Amoeba_619",
+                                                            "body": "I also was unaware as you but then I found out that He has raised Billions of dollars from other sources (Microsoft.stargate etc) which are enough to keep the circle running already and those 20$ are surely going in his pocket",
+                                                            "body_html": "<div class=\"md\"><p>I also was unaware as you but then I found out that He has raised Billions of dollars from other sources (Microsoft.stargate etc) which are enough to keep the circle running already and those 20$ are surely going in his pocket</p>\n</div>",
+                                                            "created_utc": "2025-01-29 13:46:14",
+                                                            "distinguished": null,
+                                                            "edited": false,
+                                                            "id": "m9tae4d",
+                                                            "is_submitter": false,
+                                                            "link_id": "t3_1ickf68",
+                                                            "parent_id": "t1_m9t948e",
+                                                            "score": 1,
+                                                            "stickied": false,
+                                                            "replies": [
+                                                              {
+                                                                "author": "u/_Saber_69",
+                                                                "body": "Well because it's a capitalist world stuff is paid. Get used to it. The USSR collapsed 34 years ago, no more free stuff.",
+                                                                "body_html": "<div class=\"md\"><p>Well because it&#39;s a capitalist world stuff is paid. Get used to it. The USSR collapsed 34 years ago, no more free stuff.</p>\n</div>",
+                                                                "created_utc": "2025-01-29 13:47:21",
+                                                                "distinguished": null,
+                                                                "edited": false,
+                                                                "id": "m9tak37",
+                                                                "is_submitter": false,
+                                                                "link_id": "t3_1ickf68",
+                                                                "parent_id": "t1_m9tae4d",
+                                                                "score": 1,
+                                                                "stickied": false,
+                                                                "replies": [
+                                                                  {
+                                                                    "author": "u/Former_Amoeba_619",
+                                                                    "body": "You are wrong. Deepseek is free.\u00a0",
+                                                                    "body_html": "<div class=\"md\"><p>You are wrong. Deepseek is free.\u00a0</p>\n</div>",
+                                                                    "created_utc": "2025-01-29 13:50:54",
+                                                                    "distinguished": null,
+                                                                    "edited": false,
+                                                                    "id": "m9tb2t7",
+                                                                    "is_submitter": false,
+                                                                    "link_id": "t3_1ickf68",
+                                                                    "parent_id": "t1_m9tak37",
+                                                                    "score": 1,
+                                                                    "stickied": false,
+                                                                    "replies": [
+                                                                      {
+                                                                        "author": "u/_Saber_69",
+                                                                        "body": "You sell your dignity. People these days don't think about stuff like that. You got no pride. You'd lick Mao's Zedong if you were given something for \"free\".",
+                                                                        "body_html": "<div class=\"md\"><p>You sell your dignity. People these days don&#39;t think about stuff like that. You got no pride. You&#39;d lick Mao&#39;s Zedong if you were given something for &quot;free&quot;.</p>\n</div>",
+                                                                        "created_utc": "2025-01-29 13:52:52",
+                                                                        "distinguished": null,
+                                                                        "edited": false,
+                                                                        "id": "m9tbdbw",
+                                                                        "is_submitter": false,
+                                                                        "link_id": "t3_1ickf68",
+                                                                        "parent_id": "t1_m9tb2t7",
+                                                                        "score": 1,
+                                                                        "stickied": false,
+                                                                        "replies": [
+                                                                          {
+                                                                            "author": "u/Former_Amoeba_619",
+                                                                            "body": "You are taking things too far. Pretty sure half of your products in your home are made in China and your parents bought them because they were cheaper. Do you also think that your father will will lick Mao zedongs feet?",
+                                                                            "body_html": "<div class=\"md\"><p>You are taking things too far. Pretty sure half of your products in your home are made in China and your parents bought them because they were cheaper. Do you also think that your father will will lick Mao zedongs feet?</p>\n</div>",
+                                                                            "created_utc": "2025-01-29 13:54:26",
+                                                                            "distinguished": null,
+                                                                            "edited": false,
+                                                                            "id": "m9tblt3",
+                                                                            "is_submitter": false,
+                                                                            "link_id": "t3_1ickf68",
+                                                                            "parent_id": "t1_m9tbdbw",
+                                                                            "score": 1,
+                                                                            "stickied": false,
+                                                                            "replies": [
+                                                                              {
+                                                                                "author": "u/_Saber_69",
+                                                                                "body": "I live alone and I don't care what my dad does. He wasn't a good father and thankfully I didn't inherit anything from him except the Y chromosome. I currently only have a OnePlus phone. It runs on android anyway and the Snapdragon chip is made in Taiwan. Korean microwave and fridge, Netherlands monitor, American PC, Japanese car and earbuds, peripherals from all across the world for example Thailand.",
+                                                                                "body_html": "<div class=\"md\"><p>I live alone and I don&#39;t care what my dad does. He wasn&#39;t a good father and thankfully I didn&#39;t inherit anything from him except the Y chromosome. I currently only have a OnePlus phone. It runs on android anyway and the Snapdragon chip is made in Taiwan. Korean microwave and fridge, Netherlands monitor, American PC, Japanese car and earbuds, peripherals from all across the world for example Thailand.</p>\n</div>",
+                                                                                "created_utc": "2025-01-29 13:59:21",
+                                                                                "distinguished": null,
+                                                                                "edited": false,
+                                                                                "id": "m9tcci0",
+                                                                                "is_submitter": false,
+                                                                                "link_id": "t3_1ickf68",
+                                                                                "parent_id": "t1_m9tblt3",
+                                                                                "score": 1,
+                                                                                "stickied": false,
+                                                                                "replies": []
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "author": "u/Former_Amoeba_619",
+                    "body": "Financial conciousness doesn't equate being broke. I am simply saving 200$ every month. It's pointless tbh arguing with you I give up",
+                    "body_html": "<div class=\"md\"><p>Financial conciousness doesn&#39;t equate being broke. I am simply saving 200$ every month. It&#39;s pointless tbh arguing with you I give up</p>\n</div>",
+                    "created_utc": "2025-01-29 12:46:15",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9t2hez",
+                    "is_submitter": false,
+                    "link_id": "t3_1ickf68",
+                    "parent_id": "t1_m9t210y",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/_Saber_69",
+                        "body": "If people like you run the US it's doomed.",
+                        "body_html": "<div class=\"md\"><p>If people like you run the US it&#39;s doomed.</p>\n</div>",
+                        "created_utc": "2025-01-29 12:47:41",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m9t2njt",
+                        "is_submitter": false,
+                        "link_id": "t3_1ickf68",
+                        "parent_id": "t1_m9t2hez",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

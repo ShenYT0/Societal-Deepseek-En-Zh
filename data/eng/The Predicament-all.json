@@ -1,0 +1,93 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1ibjp06/the_predicament/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/EstablishmentFun3205",
+      "created_utc": "2025-01-27 21:50:30",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Funny",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 5,
+      "permalink": "/r/DeepSeek/comments/1ibjp06/the_predicament/",
+      "score": 550,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "The Predicament",
+      "upvote_ratio": 0.97
+    },
+    "comments": [
+      {
+        "author": "u/Blitzpc",
+        "body": "Can someone explain the joke? Is it because the Turkish guy performed better than his opponent (above) without needing equipment, so it's basically saying that deepseek is better than openai even with less money spent?",
+        "body_html": "<div class=\"md\"><p>Can someone explain the joke? Is it because the Turkish guy performed better than his opponent (above) without needing equipment, so it&#39;s basically saying that deepseek is better than openai even with less money spent?</p>\n</div>",
+        "created_utc": "2025-01-28 12:57:41",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9mez1x",
+        "is_submitter": false,
+        "link_id": "t3_1ibjp06",
+        "parent_id": "t3_1ibjp06",
+        "score": 7,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Mountain-Cucumber22",
+            "body": "damn bro, you thinking out loud like deepseek",
+            "body_html": "<div class=\"md\"><p>damn bro, you thinking out loud like deepseek</p>\n</div>",
+            "created_utc": "2025-01-28 13:59:37",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9mnbkb",
+            "is_submitter": false,
+            "link_id": "t3_1ibjp06",
+            "parent_id": "t1_m9mez1x",
+            "score": 19,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/HorrorsPersistSoDoI",
+                "body": "DeepSeek wrote that comment",
+                "body_html": "<div class=\"md\"><p>DeepSeek wrote that comment</p>\n</div>",
+                "created_utc": "2025-01-28 22:18:27",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9phcai",
+                "is_submitter": false,
+                "link_id": "t3_1ibjp06",
+                "parent_id": "t1_m9mnbkb",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/KarimBenzema15",
+        "body": "POV: you asked what event happened on June 4th 1989",
+        "body_html": "<div class=\"md\"><p>POV: you asked what event happened on June 4th 1989</p>\n</div>",
+        "created_utc": "2025-01-28 13:53:26",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9mmeum",
+        "is_submitter": false,
+        "link_id": "t3_1ibjp06",
+        "parent_id": "t3_1ibjp06",
+        "score": -1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

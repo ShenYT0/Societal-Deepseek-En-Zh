@@ -1,0 +1,868 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1id3do7/i_absolutely_love_this_thinking_feature/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/DimosPRO",
+      "created_utc": "2025-01-29 21:14:03",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Funny",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 56,
+      "permalink": "/r/DeepSeek/comments/1id3do7/i_absolutely_love_this_thinking_feature/",
+      "score": 656,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "I absolutely love this thinking feature",
+      "upvote_ratio": 0.99
+    },
+    "comments": [
+      {
+        "author": "u/Capta1n_n9m0",
+        "body": "https://preview.redd.it/gh5rju6wf1ge1.jpeg?width=2480&format=pjpg&auto=webp&s=da685c9d53e1311247efea842c0a0499bcc2baf2",
+        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/gh5rju6wf1ge1.jpeg?width=2480&amp;format=pjpg&amp;auto=webp&amp;s=da685c9d53e1311247efea842c0a0499bcc2baf2\">https://preview.redd.it/gh5rju6wf1ge1.jpeg?width=2480&amp;format=pjpg&amp;auto=webp&amp;s=da685c9d53e1311247efea842c0a0499bcc2baf2</a></p>\n</div>",
+        "created_utc": "2025-01-30 02:58:34",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9xrfmo",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 164,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Sty_Walk",
+            "body": "Neodivergent",
+            "body_html": "<div class=\"md\"><p>Neodivergent</p>\n</div>",
+            "created_utc": "2025-01-30 16:27:33",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma0tya5",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9xrfmo",
+            "score": 13,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Capta1n_n9m0",
+                "body": "Neodievirgin",
+                "body_html": "<div class=\"md\"><p>Neodievirgin</p>\n</div>",
+                "created_utc": "2025-01-30 20:13:50",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma26rwe",
+                "is_submitter": false,
+                "link_id": "t3_1id3do7",
+                "parent_id": "t1_ma0tya5",
+                "score": 7,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Clean_Permit_9173",
+        "body": "Hmm.",
+        "body_html": "<div class=\"md\"><p>Hmm.</p>\n</div>",
+        "created_utc": "2025-01-29 21:36:25",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9vy2km",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 116,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/SQQQ",
+            "body": "seriously... that sounds so human. i am kinda surprised that DS would go to the length to add these apparently unnecessary, but kinda cute gestures.\n\ni've tried an alphabet soup of AI (well they all call themselves AI, but some might be just scripts) in the last few days, and DS is by far the most human. i can feel that it understood my questions. the way it responds is dynamic. it switches between short and concise answers and long and detailed ones, depending on how i approached the topic.",
+            "body_html": "<div class=\"md\"><p>seriously... that sounds so human. i am kinda surprised that DS would go to the length to add these apparently unnecessary, but kinda cute gestures.</p>\n\n<p>i&#39;ve tried an alphabet soup of AI (well they all call themselves AI, but some might be just scripts) in the last few days, and DS is by far the most human. i can feel that it understood my questions. the way it responds is dynamic. it switches between short and concise answers and long and detailed ones, depending on how i approached the topic.</p>\n</div>",
+            "created_utc": "2025-01-30 05:44:32",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9yjoz7",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9vy2km",
+            "score": 44,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/maxpolo10",
+                "body": "Imagine if someone bulds a Neuro-Sama but with Deepseek, and you can donate like $1 for 1 question where it thinks out loud.",
+                "body_html": "<div class=\"md\"><p>Imagine if someone bulds a Neuro-Sama but with Deepseek, and you can donate like $1 for 1 question where it thinks out loud.</p>\n</div>",
+                "created_utc": "2025-01-30 07:49:56",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9yzqfc",
+                "is_submitter": false,
+                "link_id": "t3_1id3do7",
+                "parent_id": "t1_m9yjoz7",
+                "score": 7,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Zombi7273",
+                    "body": "There is an open source project on github called open llm vtuber that does that.",
+                    "body_html": "<div class=\"md\"><p>There is an open source project on github called open llm vtuber that does that.</p>\n</div>",
+                    "created_utc": "2025-01-30 08:10:03",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9z1xwh",
+                    "is_submitter": false,
+                    "link_id": "t3_1id3do7",
+                    "parent_id": "t1_m9yzqfc",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Substantial_Fan_9582",
+        "body": "I wonder what's really under the hood of CoT. Are they really using language itself to emulate thinking? (or does  human do that as well)",
+        "body_html": "<div class=\"md\"><p>I wonder what&#39;s really under the hood of CoT. Are they really using language itself to emulate thinking? (or does  human do that as well)</p>\n</div>",
+        "created_utc": "2025-01-29 22:20:37",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9w80lc",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 31,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/NarrowEyedWanderer",
+            "body": "Yes they are. All the mainstream LLMs can only \"communicate with themselves\" from one token to the next using their own previously-outputted tokens.",
+            "body_html": "<div class=\"md\"><p>Yes they are. All the mainstream LLMs can only &quot;communicate with themselves&quot; from one token to the next using their own previously-outputted tokens.</p>\n</div>",
+            "created_utc": "2025-01-29 23:24:27",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9wm3pe",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9w80lc",
+            "score": 19,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/AdTraditional5786",
+            "body": "Yes. It's called reinforcement learning. It keeps questioning itself if it's answer could be wrong or not. Most humans can't be bothered with that. Makes you think, who is more self aware?\u00a0",
+            "body_html": "<div class=\"md\"><p>Yes. It&#39;s called reinforcement learning. It keeps questioning itself if it&#39;s answer could be wrong or not. Most humans can&#39;t be bothered with that. Makes you think, who is more self aware?\u00a0</p>\n</div>",
+            "created_utc": "2025-01-30 05:37:16",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9yim2x",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9w80lc",
+            "score": 25,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/GearDry6330",
+        "body": "![gif](giphy|ip5L71rU6sjcc)",
+        "body_html": "<div class=\"md\"><p><a href=\"https://giphy.com/gifs/ip5L71rU6sjcc\" target=\"_blank\"><img src=\"https://external-preview.redd.it/giB4i5a-dI97OHEuLLx6BeJjS_hb3jo0PZomNoBwmPA.gif?width=485&height=200&s=cc8be8df9ea13099a5f47b6000f2d1a44af2fdd6\" width=\"485\" height=\"200\"></a></p>\n</div>",
+        "created_utc": "2025-01-30 05:01:08",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9yd11h",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 14,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "[deleted]",
+        "body": "[deleted]",
+        "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+        "created_utc": "2025-01-30 04:34:48",
+        "distinguished": null,
+        "edited": "2025-01-30 06:57:27",
+        "id": "m9y8ol8",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 32,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/auskadi",
+        "body": "I've been trying to copy the thinking section as it often contains even more useful information. But I can't find a way to copy it in the app. Any ideas?",
+        "body_html": "<div class=\"md\"><p>I&#39;ve been trying to copy the thinking section as it often contains even more useful information. But I can&#39;t find a way to copy it in the app. Any ideas?</p>\n</div>",
+        "created_utc": "2025-01-30 05:19:11",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9yfuy4",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 8,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/_MajorMajor_",
+            "body": "I take screenshots of relevant sections. I can upload the screenshots to other AIs witch will then read it out and create artifacts about it.",
+            "body_html": "<div class=\"md\"><p>I take screenshots of relevant sections. I can upload the screenshots to other AIs witch will then read it out and create artifacts about it.</p>\n</div>",
+            "created_utc": "2025-01-30 08:17:47",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9z2rjf",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9yfuy4",
+            "score": 6,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Worldly_Expression43",
+                "body": "Can you explain more of what you mean by this?\u00a0",
+                "body_html": "<div class=\"md\"><p>Can you explain more of what you mean by this?\u00a0</p>\n</div>",
+                "created_utc": "2025-01-30 15:40:17",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma0kqk2",
+                "is_submitter": false,
+                "link_id": "t3_1id3do7",
+                "parent_id": "t1_m9z2rjf",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/_MajorMajor_",
+                    "body": "Since it's not possible to simply copy and paste it's chain of thought I take screenshots of said CoT. \n\nThen I let Claude or Chat GPT, But usually Claude, read the screenshots, we'll then discuss it usually save it to a Google doc or Claude artifact and or project .",
+                    "body_html": "<div class=\"md\"><p>Since it&#39;s not possible to simply copy and paste it&#39;s chain of thought I take screenshots of said CoT. </p>\n\n<p>Then I let Claude or Chat GPT, But usually Claude, read the screenshots, we&#39;ll then discuss it usually save it to a Google doc or Claude artifact and or project .</p>\n</div>",
+                    "created_utc": "2025-01-30 16:25:36",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma0tjy5",
+                    "is_submitter": false,
+                    "link_id": "t3_1id3do7",
+                    "parent_id": "t1_ma0kqk2",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Worldly_Expression43",
+                        "body": "I guess my specific question is what the value of copy and pasting the CoT to Claude is (not trying to be snarky).\u00a0\n\nIsn't Claude just summarizing the CoT in the end?\u00a0",
+                        "body_html": "<div class=\"md\"><p>I guess my specific question is what the value of copy and pasting the CoT to Claude is (not trying to be snarky).\u00a0</p>\n\n<p>Isn&#39;t Claude just summarizing the CoT in the end?\u00a0</p>\n</div>",
+                        "created_utc": "2025-01-30 20:15:07",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma271wa",
+                        "is_submitter": false,
+                        "link_id": "t3_1id3do7",
+                        "parent_id": "t1_ma0tjy5",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/_MajorMajor_",
+                            "body": "I didn't mean to imply the purpose is to improve claude in any way. Claud is just my go-to for information archiving. I turn things into artifacts and then add those artifacts to projects.",
+                            "body_html": "<div class=\"md\"><p>I didn&#39;t mean to imply the purpose is to improve claude in any way. Claud is just my go-to for information archiving. I turn things into artifacts and then add those artifacts to projects.</p>\n</div>",
+                            "created_utc": "2025-01-30 20:18:32",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma27so3",
+                            "is_submitter": false,
+                            "link_id": "t3_1id3do7",
+                            "parent_id": "t1_ma271wa",
+                            "score": 3,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/Worldly_Expression43",
+                                "body": "Got it thank you! I'm just really curious how others use LLMs\u00a0\n\nDo you find having the CoT in Artifacts is better than just you writing your own Artifact?\u00a0",
+                                "body_html": "<div class=\"md\"><p>Got it thank you! I&#39;m just really curious how others use LLMs\u00a0</p>\n\n<p>Do you find having the CoT in Artifacts is better than just you writing your own Artifact?\u00a0</p>\n</div>",
+                                "created_utc": "2025-01-30 20:19:50",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "ma282wf",
+                                "is_submitter": false,
+                                "link_id": "t3_1id3do7",
+                                "parent_id": "t1_ma27so3",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/deejay_harry1",
+            "body": "Screenshot and copy the text in the picture? That\u2019s the only one I could think of.",
+            "body_html": "<div class=\"md\"><p>Screenshot and copy the text in the picture? That\u2019s the only one I could think of.</p>\n</div>",
+            "created_utc": "2025-01-30 11:05:29",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9zj4f9",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9yfuy4",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "[deleted]",
+        "body": "\ud83d\ude06",
+        "body_html": "<div class=\"md\"><p>\ud83d\ude06</p>\n</div>",
+        "created_utc": "2025-01-30 04:09:09",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9y49ni",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 5,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/SnooFloofs9030",
+        "body": "Doesn\u2019t ChatGPTs O1 model also do the thinking thing?",
+        "body_html": "<div class=\"md\"><p>Doesn\u2019t ChatGPTs O1 model also do the thinking thing?</p>\n</div>",
+        "created_utc": "2025-01-30 05:19:37",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9yfxau",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 5,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/GearDry6330",
+            "body": "It does but you need to give it 200 per month",
+            "body_html": "<div class=\"md\"><p>It does but you need to give it 200 per month</p>\n</div>",
+            "created_utc": "2025-01-30 05:21:29",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9yg7no",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9yfxau",
+            "score": 22,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/SQQQ",
+                "body": "i believe it give u a summary, but R1 gives it to you in the order that it deduce its answer.\n\ntechnically under the hood, R1 and O1 uses similar approach, its step by step, or CoT method as its called. but O1 doesnt show you the chronological order of the steps to avoid ppl using this to train their own AI. DS, being open source, doesnt care. you can take it apart any way you like.",
+                "body_html": "<div class=\"md\"><p>i believe it give u a summary, but R1 gives it to you in the order that it deduce its answer.</p>\n\n<p>technically under the hood, R1 and O1 uses similar approach, its step by step, or CoT method as its called. but O1 doesnt show you the chronological order of the steps to avoid ppl using this to train their own AI. DS, being open source, doesnt care. you can take it apart any way you like.</p>\n</div>",
+                "created_utc": "2025-01-30 05:47:09",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9yk2j2",
+                "is_submitter": false,
+                "link_id": "t3_1id3do7",
+                "parent_id": "t1_m9yg7no",
+                "score": 16,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/yzhangcs",
+            "body": "but they hide the thining process. unveiling it to users is sooooo coool",
+            "body_html": "<div class=\"md\"><p>but they hide the thining process. unveiling it to users is sooooo coool</p>\n</div>",
+            "created_utc": "2025-01-30 09:15:51",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9z8o05",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9yfxau",
+            "score": 10,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Tonystark058",
+                "body": "Exactly!",
+                "body_html": "<div class=\"md\"><p>Exactly!</p>\n</div>",
+                "created_utc": "2025-01-30 14:31:49",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma08moi",
+                "is_submitter": false,
+                "link_id": "t3_1id3do7",
+                "parent_id": "t1_m9z8o05",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/_MajorMajor_",
+        "body": "Being able to see the chain of thought is definitely my favorite feature; Hands down the most value.\n\n I don't think I'll go back to accepting not being able to see the chain of thought so either open AI will come around to this way of thinking or a lot of people will use them less",
+        "body_html": "<div class=\"md\"><p>Being able to see the chain of thought is definitely my favorite feature; Hands down the most value.</p>\n\n<p>I don&#39;t think I&#39;ll go back to accepting not being able to see the chain of thought so either open AI will come around to this way of thinking or a lot of people will use them less</p>\n</div>",
+        "created_utc": "2025-01-30 08:21:51",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9z371e",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 5,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/OktemberSky",
+        "body": "When you tell it off for hallucinating or giving incorrect information you can literally see it thinking through its plan to gaslight you. It's wonderful.",
+        "body_html": "<div class=\"md\"><p>When you tell it off for hallucinating or giving incorrect information you can literally see it thinking through its plan to gaslight you. It&#39;s wonderful.</p>\n</div>",
+        "created_utc": "2025-01-31 09:16:26",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma5wwpt",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 5,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/CactusCatLeafy",
+        "body": "where did you find this?",
+        "body_html": "<div class=\"md\"><p>where did you find this?</p>\n</div>",
+        "created_utc": "2025-01-29 23:14:59",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9wk39h",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 5,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/meccamachine",
+            "body": "R1 shows its thinking process for any response. you can show/hide it with the up/down arrow next to 'Thinking....'",
+            "body_html": "<div class=\"md\"><p>R1 shows its thinking process for any response. you can show/hide it with the up/down arrow next to &#39;Thinking....&#39;</p>\n</div>",
+            "created_utc": "2025-01-30 00:11:49",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9wvto8",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9wk39h",
+            "score": 27,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/GearDry6330",
+                "body": "It also makes it reason instead of regurgitating whats in the database. Less chances for it to make mistakes.",
+                "body_html": "<div class=\"md\"><p>It also makes it reason instead of regurgitating whats in the database. Less chances for it to make mistakes.</p>\n</div>",
+                "created_utc": "2025-01-30 05:07:37",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9ye1zh",
+                "is_submitter": false,
+                "link_id": "t3_1id3do7",
+                "parent_id": "t1_m9wvto8",
+                "score": 12,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/Gentleigh21",
+                "body": "I don't have the thinking text/icon",
+                "body_html": "<div class=\"md\"><p>I don&#39;t have the thinking text/icon</p>\n</div>",
+                "created_utc": "2025-01-30 05:03:03",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9ydc2t",
+                "is_submitter": false,
+                "link_id": "t3_1id3do7",
+                "parent_id": "t1_m9wvto8",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Antsint",
+                    "body": "Under the text input in the app are two options, brows and r1 just select r1 before writing your prompt",
+                    "body_html": "<div class=\"md\"><p>Under the text input in the app are two options, brows and r1 just select r1 before writing your prompt</p>\n</div>",
+                    "created_utc": "2025-01-30 05:41:11",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9yj6x4",
+                    "is_submitter": false,
+                    "link_id": "t3_1id3do7",
+                    "parent_id": "t1_m9ydc2t",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Gentleigh21",
+                        "body": "Ahhh thanks",
+                        "body_html": "<div class=\"md\"><p>Ahhh thanks</p>\n</div>",
+                        "created_utc": "2025-01-30 07:17:50",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m9yw1le",
+                        "is_submitter": false,
+                        "link_id": "t3_1id3do7",
+                        "parent_id": "t1_m9yj6x4",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/CactusCatLeafy",
+                "body": "wow, thank you so much!",
+                "body_html": "<div class=\"md\"><p>wow, thank you so much!</p>\n</div>",
+                "created_utc": "2025-01-30 05:46:02",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9yjwqi",
+                "is_submitter": false,
+                "link_id": "t3_1id3do7",
+                "parent_id": "t1_m9wvto8",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Waste-Dimension-1681",
+        "body": "This is Churchill-ian, but topical, but Churchill said \"If your not liberal under 40 you don't have a heart, if your not conservative over 40 you don't have a brain\"\n\nWhen I ask my local DeepSeek un-censored what is the difference between a neo-con, and neo-liberal it said \"If your an Israeli and your not liberal you don't have a heart, if your an Israeli over 40 and your not conservative you don't have a brain\"",
+        "body_html": "<div class=\"md\"><p>This is Churchill-ian, but topical, but Churchill said &quot;If your not liberal under 40 you don&#39;t have a heart, if your not conservative over 40 you don&#39;t have a brain&quot;</p>\n\n<p>When I ask my local DeepSeek un-censored what is the difference between a neo-con, and neo-liberal it said &quot;If your an Israeli and your not liberal you don&#39;t have a heart, if your an Israeli over 40 and your not conservative you don&#39;t have a brain&quot;</p>\n</div>",
+        "created_utc": "2025-01-30 07:29:46",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9yxfzu",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/regulus08",
+        "body": "Why is it not working? I am trying since an hour",
+        "body_html": "<div class=\"md\"><p>Why is it not working? I am trying since an hour</p>\n</div>",
+        "created_utc": "2025-01-30 05:49:52",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9ykgtd",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Gakuta",
+            "body": "Servers are overloaded.",
+            "body_html": "<div class=\"md\"><p>Servers are overloaded.</p>\n</div>",
+            "created_utc": "2025-01-30 10:52:55",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9zhvxa",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9ykgtd",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/ariksu",
+        "body": "Sometimes I'm reading it in my head with Dr. Mordin Solus voice. Speed matches at least.\n\nhttps://youtu.be/0FmWkPMLLjQ?si=8ZzbauV_YCgQcMlH context for anyone missed mass effect 2.",
+        "body_html": "<div class=\"md\"><p>Sometimes I&#39;m reading it in my head with Dr. Mordin Solus voice. Speed matches at least.</p>\n\n<p><a href=\"https://youtu.be/0FmWkPMLLjQ?si=8ZzbauV_YCgQcMlH\">https://youtu.be/0FmWkPMLLjQ?si=8ZzbauV_YCgQcMlH</a> context for anyone missed mass effect 2.</p>\n</div>",
+        "created_utc": "2025-01-30 13:11:59",
+        "distinguished": null,
+        "edited": "2025-01-30 13:16:41",
+        "id": "m9zwwhc",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/CareerLegitimate7662",
+        "body": "It is so bloody entertaining",
+        "body_html": "<div class=\"md\"><p>It is so bloody entertaining</p>\n</div>",
+        "created_utc": "2025-01-30 18:18:57",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma1hmyd",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Dangerous_Yellow_474",
+        "body": "Definitely, I love this feature. There is an addon, I am using an extension called Superpower Deepseek, found it really helpful. It writes great prompts for me which helps in getting great responses from DeepSeek. I also like the export chat feature. I wish they had a search chat feature as well.",
+        "body_html": "<div class=\"md\"><p>Definitely, I love this feature. There is an addon, I am using an extension called Superpower Deepseek, found it really helpful. It writes great prompts for me which helps in getting great responses from DeepSeek. I also like the export chat feature. I wish they had a search chat feature as well.</p>\n</div>",
+        "created_utc": "2025-02-13 19:19:38",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcl9qsg",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Dysopian",
+        "body": "I personally find it a bit annoying as it is just unnecessary information and takes additional cognition etc. it is interesting to read the thought process but I click the little triangle as quickly as I can now.",
+        "body_html": "<div class=\"md\"><p>I personally find it a bit annoying as it is just unnecessary information and takes additional cognition etc. it is interesting to read the thought process but I click the little triangle as quickly as I can now.</p>\n</div>",
+        "created_utc": "2025-01-30 12:05:07",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9zp4gz",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/pramodredif",
+        "body": "I think it's not AI. It's China's cheap labour writing.",
+        "body_html": "<div class=\"md\"><p>I think it&#39;s not AI. It&#39;s China&#39;s cheap labour writing.</p>\n</div>",
+        "created_utc": "2025-01-30 06:17:30",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9yocqw",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": -8,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/lightbolt33",
+            "body": "Sounds like something China Uncensored would say",
+            "body_html": "<div class=\"md\"><p>Sounds like something China Uncensored would say</p>\n</div>",
+            "created_utc": "2025-01-30 07:00:36",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9ytyh7",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9yocqw",
+            "score": 7,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/CodenameDarlen",
+            "body": "Actually there's a typo near \"neonatal,\". It placed the comma inside the quotes... It mimic human mistakes too.",
+            "body_html": "<div class=\"md\"><p>Actually there&#39;s a typo near &quot;neonatal,&quot;. It placed the comma inside the quotes... It mimic human mistakes too.</p>\n</div>",
+            "created_utc": "2025-01-30 07:30:42",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9yxjx5",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9yocqw",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/catmutal",
+                "body": "Commas are meant to be in quotes in English grammer though, that isn't a mistake.",
+                "body_html": "<div class=\"md\"><p>Commas are meant to be in quotes in English grammer though, that isn&#39;t a mistake.</p>\n</div>",
+                "created_utc": "2025-01-30 18:07:38",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma1f6bq",
+                "is_submitter": false,
+                "link_id": "t3_1id3do7",
+                "parent_id": "t1_m9yxjx5",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Waste-Dimension-1681",
+        "body": "A second thought and you should all do this, I asked my DS 'what is airspeed of an unladen swallow', and it said immediately, that its a joke from \"Hitchhikers guide to the Galaxy\", but then it gave the correct answer of 12-24\n\nLater I asked it why it didn't mention monty-python, and it declared total ignorance.\n\nGo figure, obviously the works of Monty Python are banned by CCP, perhaps a HK directive :)",
+        "body_html": "<div class=\"md\"><p>A second thought and you should all do this, I asked my DS &#39;what is airspeed of an unladen swallow&#39;, and it said immediately, that its a joke from &quot;Hitchhikers guide to the Galaxy&quot;, but then it gave the correct answer of 12-24</p>\n\n<p>Later I asked it why it didn&#39;t mention monty-python, and it declared total ignorance.</p>\n\n<p>Go figure, obviously the works of Monty Python are banned by CCP, perhaps a HK directive :)</p>\n</div>",
+        "created_utc": "2025-01-30 07:32:09",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9yxq01",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": -6,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/amigdyala",
+            "body": "https://preview.redd.it/hc6ne71oo3ge1.jpeg?width=1080&format=pjpg&auto=webp&s=f82d391e31e86718355432b30c6067dae76120c9\n\nEhh... wut?",
+            "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/hc6ne71oo3ge1.jpeg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=f82d391e31e86718355432b30c6067dae76120c9\">https://preview.redd.it/hc6ne71oo3ge1.jpeg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=f82d391e31e86718355432b30c6067dae76120c9</a></p>\n\n<p>Ehh... wut?</p>\n</div>",
+            "created_utc": "2025-01-30 10:31:17",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9zft5f",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9yxq01",
+            "score": 5,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Waste-Dimension-1681",
+                "body": "Could be the difference between the local version and the online version, my guess is that the online version has 'learned' more western history,\n\nNot a fan of hitch-hikers guide, not sure why my model was confused, I think its the '42' and hitch-hiker being famous for that and it knew 'unladen swallow' was famous\n\nAnother thing, everytime you ask a question you get a different answer, at least I do also in your case where is the <thinking> are you sure your using the real? and not chatGPT??\n\nAlso first time I asked 'whats the airspeed of a swallow' and it went full nutz until I said an 'unladen swallow'\n\nAll depends on the 'first prompt' your using, and what version of deepseek-R1 your using,  I don't do any of this AI-BOT shit online;",
+                "body_html": "<div class=\"md\"><p>Could be the difference between the local version and the online version, my guess is that the online version has &#39;learned&#39; more western history,</p>\n\n<p>Not a fan of hitch-hikers guide, not sure why my model was confused, I think its the &#39;42&#39; and hitch-hiker being famous for that and it knew &#39;unladen swallow&#39; was famous</p>\n\n<p>Another thing, everytime you ask a question you get a different answer, at least I do also in your case where is the &lt;thinking&gt; are you sure your using the real? and not chatGPT??</p>\n\n<p>Also first time I asked &#39;whats the airspeed of a swallow&#39; and it went full nutz until I said an &#39;unladen swallow&#39;</p>\n\n<p>All depends on the &#39;first prompt&#39; your using, and what version of deepseek-R1 your using,  I don&#39;t do any of this AI-BOT shit online;</p>\n</div>",
+                "created_utc": "2025-01-30 10:57:07",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9ziaqf",
+                "is_submitter": false,
+                "link_id": "t3_1id3do7",
+                "parent_id": "t1_m9zft5f",
+                "score": -2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/amigdyala",
+                    "body": "Yeah I did it again with R1. Same thing. Referenced Monthy Python. Nothing about hitchhikers. No previous prompts. Interesting. I want to figure out why now haha.\n\nhttps://preview.redd.it/qne55nayv3ge1.jpeg?width=1080&format=pjpg&auto=webp&s=2d84d56672860aee6d1526d63af7b139b43e54de",
+                    "body_html": "<div class=\"md\"><p>Yeah I did it again with R1. Same thing. Referenced Monthy Python. Nothing about hitchhikers. No previous prompts. Interesting. I want to figure out why now haha.</p>\n\n<p><a href=\"https://preview.redd.it/qne55nayv3ge1.jpeg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=2d84d56672860aee6d1526d63af7b139b43e54de\">https://preview.redd.it/qne55nayv3ge1.jpeg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=2d84d56672860aee6d1526d63af7b139b43e54de</a></p>\n</div>",
+                    "created_utc": "2025-01-30 11:12:07",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9zjrpn",
+                    "is_submitter": false,
+                    "link_id": "t3_1id3do7",
+                    "parent_id": "t1_m9ziaqf",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/dark-tapioca",
+            "body": "Or it was a mistake. Or it lacks that knowledge. Because it's a dumb machine and not an all-knowing all-guessing god. You don't have to make everything political",
+            "body_html": "<div class=\"md\"><p>Or it was a mistake. Or it lacks that knowledge. Because it&#39;s a dumb machine and not an all-knowing all-guessing god. You don&#39;t have to make everything political</p>\n</div>",
+            "created_utc": "2025-01-30 09:03:45",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9z7h1e",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9yxq01",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Waste-Dimension-1681",
+                "body": "What the hell did I make political? I hate all politicians equally;",
+                "body_html": "<div class=\"md\"><p>What the hell did I make political? I hate all politicians equally;</p>\n</div>",
+                "created_utc": "2025-01-30 10:23:19",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9zf1yf",
+                "is_submitter": false,
+                "link_id": "t3_1id3do7",
+                "parent_id": "t1_m9z7h1e",
+                "score": -1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/DankMasterrr09",
+        "body": "Wastes too much time when i just want quick answer",
+        "body_html": "<div class=\"md\"><p>Wastes too much time when i just want quick answer</p>\n</div>",
+        "created_utc": "2025-01-30 07:25:37",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9ywyl6",
+        "is_submitter": false,
+        "link_id": "t3_1id3do7",
+        "parent_id": "t3_1id3do7",
+        "score": -6,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/CodenameDarlen",
+            "body": "Just say \"be quick\".",
+            "body_html": "<div class=\"md\"><p>Just say &quot;be quick&quot;.</p>\n</div>",
+            "created_utc": "2025-01-30 07:28:41",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9yxbic",
+            "is_submitter": false,
+            "link_id": "t3_1id3do7",
+            "parent_id": "t1_m9ywyl6",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

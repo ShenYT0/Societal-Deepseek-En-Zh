@@ -1,0 +1,2911 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1ihn9a6/this_is_just_outraging/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Recent-Ask-5583",
+      "created_utc": "2025-02-04 18:33:30",
+      "distinguished": null,
+      "edited": false,
+      "gallery_data": {
+        "items": [
+          {
+            "caption": "",
+            "media_id": "ps80n6z8r5he1",
+            "id": 599056023
+          },
+          {
+            "caption": "",
+            "media_id": "eyeqou29r5he1",
+            "id": 599056024
+          },
+          {
+            "caption": "",
+            "media_id": "mvmwz469r5he1",
+            "id": 599056025
+          },
+          {
+            "caption": "",
+            "media_id": "j9bu4u99r5he1",
+            "id": 599056026
+          },
+          {
+            "caption": "",
+            "media_id": "dq2o7id9r5he1",
+            "id": 599056027
+          }
+        ]
+      },
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "News",
+      "locked": false,
+      "media_metadata": {
+        "ps80n6z8r5he1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/jpg",
+          "p": [
+            {
+              "y": 73,
+              "x": 108,
+              "u": "https://preview.redd.it/ps80n6z8r5he1.jpg?width=108&crop=smart&auto=webp&s=5ffa3b7a02eea50ea25db426a46f86cc5b25c35c"
+            },
+            {
+              "y": 147,
+              "x": 216,
+              "u": "https://preview.redd.it/ps80n6z8r5he1.jpg?width=216&crop=smart&auto=webp&s=a0da490798650d93dfeb2d78b441542e44f99111"
+            },
+            {
+              "y": 218,
+              "x": 320,
+              "u": "https://preview.redd.it/ps80n6z8r5he1.jpg?width=320&crop=smart&auto=webp&s=672a85527bf8c5011b4262eb8122e42031b618ee"
+            },
+            {
+              "y": 437,
+              "x": 640,
+              "u": "https://preview.redd.it/ps80n6z8r5he1.jpg?width=640&crop=smart&auto=webp&s=278a7efda9689063d94acc93c46d7de9032e7266"
+            },
+            {
+              "y": 656,
+              "x": 960,
+              "u": "https://preview.redd.it/ps80n6z8r5he1.jpg?width=960&crop=smart&auto=webp&s=5035d1663be864837c55ccc3e25b0ac24f53bc68"
+            },
+            {
+              "y": 738,
+              "x": 1080,
+              "u": "https://preview.redd.it/ps80n6z8r5he1.jpg?width=1080&crop=smart&auto=webp&s=65759537c531b8689ccbc33346c84d2c55642826"
+            }
+          ],
+          "s": {
+            "y": 984,
+            "x": 1440,
+            "u": "https://preview.redd.it/ps80n6z8r5he1.jpg?width=1440&format=pjpg&auto=webp&s=e4b177c13fbc319b1f10153e2b51e32b722848f1"
+          },
+          "id": "ps80n6z8r5he1"
+        },
+        "mvmwz469r5he1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/jpg",
+          "p": [
+            {
+              "y": 61,
+              "x": 108,
+              "u": "https://preview.redd.it/mvmwz469r5he1.jpg?width=108&crop=smart&auto=webp&s=67c0d1b89bd35034391b76afdd2ff68f49b1ce5d"
+            },
+            {
+              "y": 123,
+              "x": 216,
+              "u": "https://preview.redd.it/mvmwz469r5he1.jpg?width=216&crop=smart&auto=webp&s=c642c41f0bd24f24feea6916cfa228a48a52100e"
+            },
+            {
+              "y": 182,
+              "x": 320,
+              "u": "https://preview.redd.it/mvmwz469r5he1.jpg?width=320&crop=smart&auto=webp&s=384effd1a35be25ed7464900fe41d43a0ecadfe3"
+            },
+            {
+              "y": 365,
+              "x": 640,
+              "u": "https://preview.redd.it/mvmwz469r5he1.jpg?width=640&crop=smart&auto=webp&s=40d7faa95761ba1517ffd83707df9027762fc082"
+            },
+            {
+              "y": 548,
+              "x": 960,
+              "u": "https://preview.redd.it/mvmwz469r5he1.jpg?width=960&crop=smart&auto=webp&s=aa298c6f424ae70e47fbea2e8aa30f63f4ef8eba"
+            },
+            {
+              "y": 616,
+              "x": 1080,
+              "u": "https://preview.redd.it/mvmwz469r5he1.jpg?width=1080&crop=smart&auto=webp&s=24718e5f936ba0bb5f02707603b6a59ec30010f4"
+            }
+          ],
+          "s": {
+            "y": 822,
+            "x": 1440,
+            "u": "https://preview.redd.it/mvmwz469r5he1.jpg?width=1440&format=pjpg&auto=webp&s=d071c89abfeb971140f445dccedd9d1e5e150566"
+          },
+          "id": "mvmwz469r5he1"
+        },
+        "j9bu4u99r5he1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/jpg",
+          "p": [
+            {
+              "y": 48,
+              "x": 108,
+              "u": "https://preview.redd.it/j9bu4u99r5he1.jpg?width=108&crop=smart&auto=webp&s=744b92b766e905fd54f4394b5c82a1002ec732e0"
+            },
+            {
+              "y": 97,
+              "x": 216,
+              "u": "https://preview.redd.it/j9bu4u99r5he1.jpg?width=216&crop=smart&auto=webp&s=a755f4f8ef1a8f186115c6725cd9e9a4dc4582b5"
+            },
+            {
+              "y": 144,
+              "x": 320,
+              "u": "https://preview.redd.it/j9bu4u99r5he1.jpg?width=320&crop=smart&auto=webp&s=d685b0134f463a24ed3d56941c8af52a09242e7f"
+            },
+            {
+              "y": 288,
+              "x": 640,
+              "u": "https://preview.redd.it/j9bu4u99r5he1.jpg?width=640&crop=smart&auto=webp&s=4d4250570ee7d25df9f61b076657300b882108b0"
+            },
+            {
+              "y": 432,
+              "x": 960,
+              "u": "https://preview.redd.it/j9bu4u99r5he1.jpg?width=960&crop=smart&auto=webp&s=104d666e2ad4ffb9363e5c4621bbce5dc61822de"
+            },
+            {
+              "y": 486,
+              "x": 1080,
+              "u": "https://preview.redd.it/j9bu4u99r5he1.jpg?width=1080&crop=smart&auto=webp&s=a320b2da66cb914c696d8b0999629ec90a96c4b8"
+            }
+          ],
+          "s": {
+            "y": 649,
+            "x": 1440,
+            "u": "https://preview.redd.it/j9bu4u99r5he1.jpg?width=1440&format=pjpg&auto=webp&s=421202be6dfb78164ba5c58fa81d95f64d9f8188"
+          },
+          "id": "j9bu4u99r5he1"
+        },
+        "dq2o7id9r5he1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/png",
+          "p": [
+            {
+              "y": 65,
+              "x": 108,
+              "u": "https://preview.redd.it/dq2o7id9r5he1.png?width=108&crop=smart&auto=webp&s=2de22ed180db7a903a9851abdec46bdc46452152"
+            },
+            {
+              "y": 131,
+              "x": 216,
+              "u": "https://preview.redd.it/dq2o7id9r5he1.png?width=216&crop=smart&auto=webp&s=b41a6d1169cd04eae549d38fb02033cfdcd35667"
+            },
+            {
+              "y": 194,
+              "x": 320,
+              "u": "https://preview.redd.it/dq2o7id9r5he1.png?width=320&crop=smart&auto=webp&s=b3612a37c85d2639087fbda7697dec8a3ab60fe2"
+            },
+            {
+              "y": 389,
+              "x": 640,
+              "u": "https://preview.redd.it/dq2o7id9r5he1.png?width=640&crop=smart&auto=webp&s=f118e25d7e544f3225b514917fe4b238643e6b9a"
+            },
+            {
+              "y": 584,
+              "x": 960,
+              "u": "https://preview.redd.it/dq2o7id9r5he1.png?width=960&crop=smart&auto=webp&s=4e339630485618f6a972cdfeca2ca635046db315"
+            },
+            {
+              "y": 657,
+              "x": 1080,
+              "u": "https://preview.redd.it/dq2o7id9r5he1.png?width=1080&crop=smart&auto=webp&s=a9672ecd23d5a4f1b659d7d16f18d684fa0e9647"
+            }
+          ],
+          "s": {
+            "y": 876,
+            "x": 1440,
+            "u": "https://preview.redd.it/dq2o7id9r5he1.png?width=1440&format=png&auto=webp&s=c281dabbec6c262c0503476e2acd32387566841a"
+          },
+          "id": "dq2o7id9r5he1"
+        },
+        "eyeqou29r5he1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/jpg",
+          "p": [
+            {
+              "y": 47,
+              "x": 108,
+              "u": "https://preview.redd.it/eyeqou29r5he1.jpg?width=108&crop=smart&auto=webp&s=3a9b8acdb888da7e2fe13d2bacc13ac05711f687"
+            },
+            {
+              "y": 95,
+              "x": 216,
+              "u": "https://preview.redd.it/eyeqou29r5he1.jpg?width=216&crop=smart&auto=webp&s=fdb9ea29f861a5089b36d9ec99559e0326c0e9cf"
+            },
+            {
+              "y": 141,
+              "x": 320,
+              "u": "https://preview.redd.it/eyeqou29r5he1.jpg?width=320&crop=smart&auto=webp&s=04f9ae47492f016ebaffdccce87bb93225d27543"
+            },
+            {
+              "y": 283,
+              "x": 640,
+              "u": "https://preview.redd.it/eyeqou29r5he1.jpg?width=640&crop=smart&auto=webp&s=e4a615431fe96c09a76cb0da74895f1b68f743a5"
+            },
+            {
+              "y": 424,
+              "x": 960,
+              "u": "https://preview.redd.it/eyeqou29r5he1.jpg?width=960&crop=smart&auto=webp&s=d09f43aeed988004bee2aa1fa6b4981d62b31f3f"
+            },
+            {
+              "y": 477,
+              "x": 1080,
+              "u": "https://preview.redd.it/eyeqou29r5he1.jpg?width=1080&crop=smart&auto=webp&s=fbc531411befa7833e039f0f51d86d63905c351f"
+            }
+          ],
+          "s": {
+            "y": 637,
+            "x": 1440,
+            "u": "https://preview.redd.it/eyeqou29r5he1.jpg?width=1440&format=pjpg&auto=webp&s=79cded7a5cbae9cf06248f22f6d5d931b717c6e7"
+          },
+          "id": "eyeqou29r5he1"
+        }
+      },
+      "nsfw": false,
+      "num_comments": 175,
+      "permalink": "/r/DeepSeek/comments/1ihn9a6/this_is_just_outraging/",
+      "score": 509,
+      "selftext": "This app isn't even a month old, and the whole world is already planning on banning it?!?! \n\nNot to mention the thrashy reviews lowering it's reputation, that are made by US, EU and AUS bots ;[\n\nWhat have we gotten to?..\ud83d\udc80\n",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "This is just outraging...",
+      "upvote_ratio": 0.88
+    },
+    "comments": [
+      {
+        "author": "u/freekyrationale",
+        "body": "Banning DeepSeek on governmental devices is not wrong IMO, wrong thing is only banning DeepSeek and not ChatGPT.",
+        "body_html": "<div class=\"md\"><p>Banning DeepSeek on governmental devices is not wrong IMO, wrong thing is only banning DeepSeek and not ChatGPT.</p>\n</div>",
+        "created_utc": "2025-02-04 18:42:49",
+        "distinguished": null,
+        "edited": "2025-02-04 19:45:17",
+        "id": "maygrn6",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 310,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/No-Beginning-4269",
+            "body": "Australian here. The ban only covers govt devices. Also, they also have banned chatGPT.",
+            "body_html": "<div class=\"md\"><p>Australian here. The ban only covers govt devices. Also, they also have banned chatGPT.</p>\n</div>",
+            "created_utc": "2025-02-04 21:25:17",
+            "distinguished": null,
+            "edited": false,
+            "id": "mazfgke",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_maygrn6",
+            "score": 153,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/freekyrationale",
+                "body": "In this case I see nothing wrong.",
+                "body_html": "<div class=\"md\"><p>In this case I see nothing wrong.</p>\n</div>",
+                "created_utc": "2025-02-04 21:35:40",
+                "distinguished": null,
+                "edited": false,
+                "id": "mazhl1n",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mazfgke",
+                "score": 106,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/LovelyClementine",
+                    "body": "Many are raging over the headline.",
+                    "body_html": "<div class=\"md\"><p>Many are raging over the headline.</p>\n</div>",
+                    "created_utc": "2025-02-05 01:16:56",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb0otka",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mazhl1n",
+                    "score": 26,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Independent_Roof9997",
+                        "body": "Well then they don't even read the whole headline or understand the headlines content.",
+                        "body_html": "<div class=\"md\"><p>Well then they don&#39;t even read the whole headline or understand the headlines content.</p>\n</div>",
+                        "created_utc": "2025-02-05 10:24:47",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mb2vo5x",
+                        "is_submitter": false,
+                        "link_id": "t3_1ihn9a6",
+                        "parent_id": "t1_mb0otka",
+                        "score": 3,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  },
+                  {
+                    "author": "u/ShinobiOnestrike",
+                    "body": "![gif](giphy|26gsvAm8UPaczzXz2)",
+                    "body_html": "<div class=\"md\"><p><a href=\"https://giphy.com/gifs/26gsvAm8UPaczzXz2\" target=\"_blank\"><img src=\"https://external-preview.redd.it/Mv53hfXOKjGFMhTT3RrTwgRStCK1GOR-LgmNTUED4NY.gif?width=160&height=200&s=c78308ee9bccf0b78d0b6b14f6a2f415b99eb2bc\" width=\"160\" height=\"200\"></a></p>\n</div>",
+                    "created_utc": "2025-02-05 03:10:20",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb19rv9",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mazhl1n",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              },
+              {
+                "author": "u/IAAIPG",
+                "body": "banning the use of ChatGPT in primary and secondary public schools........",
+                "body_html": "<div class=\"md\"><p>banning the use of ChatGPT in primary and secondary public schools........</p>\n</div>",
+                "created_utc": "2025-02-05 11:45:45",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb33ij4",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mazfgke",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/More-Ad-4503",
+                "body": "did they ban gemini and claude as well?",
+                "body_html": "<div class=\"md\"><p>did they ban gemini and claude as well?</p>\n</div>",
+                "created_utc": "2025-02-05 02:34:49",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb135n7",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mazfgke",
+                "score": 4,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/InsignificantCookie",
+            "body": "well, the US is an ally of Australia. China isn't. If you think Australia is wrong to ban DS on their government devices, do you also think China is wrong for banning Chatgpt?",
+            "body_html": "<div class=\"md\"><p>well, the US is an ally of Australia. China isn&#39;t. If you think Australia is wrong to ban DS on their government devices, do you also think China is wrong for banning Chatgpt?</p>\n</div>",
+            "created_utc": "2025-02-04 18:53:29",
+            "distinguished": null,
+            "edited": false,
+            "id": "mayj3aq",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_maygrn6",
+            "score": 20,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "[deleted]",
+                "body": "[deleted]",
+                "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+                "created_utc": "2025-02-04 20:10:37",
+                "distinguished": null,
+                "edited": false,
+                "id": "mayzr0a",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayj3aq",
+                "score": 41,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Psychological_Mix_89",
+                    "body": "Ally of the rich and greedy",
+                    "body_html": "<div class=\"md\"><p>Ally of the rich and greedy</p>\n</div>",
+                    "created_utc": "2025-02-04 20:25:45",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "maz2zsm",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mayzr0a",
+                    "score": 18,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/Strange_Proposal_308",
+                    "body": "As an Aussie I was going to say something like that, but then I think about those that didn\u2019t vote for Trump.  I cant imagine how you guys feel.",
+                    "body_html": "<div class=\"md\"><p>As an Aussie I was going to say something like that, but then I think about those that didn\u2019t vote for Trump.  I cant imagine how you guys feel.</p>\n</div>",
+                    "created_utc": "2025-02-04 23:42:21",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb07k6b",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mayzr0a",
+                    "score": 4,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/2ukiwis",
+                        "body": "We are getting exactly what we as a country voted for and deserve.",
+                        "body_html": "<div class=\"md\"><p>We are getting exactly what we as a country voted for and deserve.</p>\n</div>",
+                        "created_utc": "2025-02-05 22:34:01",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mb6hmju",
+                        "is_submitter": false,
+                        "link_id": "t3_1ihn9a6",
+                        "parent_id": "t1_mb07k6b",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/More-Ad-4503",
+                "body": "No. The US couped Australia sometime in the 70's. It's a puppet state.",
+                "body_html": "<div class=\"md\"><p>No. The US couped Australia sometime in the 70&#39;s. It&#39;s a puppet state.</p>\n</div>",
+                "created_utc": "2025-02-05 02:39:28",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb1413k",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayj3aq",
+                "score": 4,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/Kitchen-Jicama8715",
+                "body": "On a CCP device? They would be silly if they didn't",
+                "body_html": "<div class=\"md\"><p>On a CCP device? They would be silly if they didn&#39;t</p>\n</div>",
+                "created_utc": "2025-02-04 19:08:43",
+                "distinguished": null,
+                "edited": false,
+                "id": "maymf06",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayj3aq",
+                "score": 8,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/More-Ad-4503",
+                    "body": "*CPC",
+                    "body_html": "<div class=\"md\"><p>*CPC</p>\n</div>",
+                    "created_utc": "2025-02-05 02:39:45",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb1432g",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_maymf06",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              },
+              {
+                "author": "u/Infamous_Prompt_6126",
+                "body": "US is ally of nobody.\n\nAre you north American? Sound so weird. Look to Canada, their \"allies\".",
+                "body_html": "<div class=\"md\"><p>US is ally of nobody.</p>\n\n<p>Are you north American? Sound so weird. Look to Canada, their &quot;allies&quot;.</p>\n</div>",
+                "created_utc": "2025-02-05 04:41:20",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb1q4mp",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayj3aq",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/AdTraditional5786",
+                "body": "You are naive. There are no friends or allies in geopolitics, only self interest. - Henry Kissenger\u00a0",
+                "body_html": "<div class=\"md\"><p>You are naive. There are no friends or allies in geopolitics, only self interest. - Henry Kissenger\u00a0</p>\n</div>",
+                "created_utc": "2025-02-05 14:19:40",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb3mtfl",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayj3aq",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/InsignificantCookie",
+                    "body": "Dude, who cares? The real point is China bans everything, so it's ridiculous to complain when other countries ban Chinese stuff.",
+                    "body_html": "<div class=\"md\"><p>Dude, who cares? The real point is China bans everything, so it&#39;s ridiculous to complain when other countries ban Chinese stuff.</p>\n</div>",
+                    "created_utc": "2025-02-05 14:23:20",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb3nemw",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mb3mtfl",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              },
+              {
+                "author": "u/chunkypenguion1991",
+                "body": "Pretty much all US apps are banned in China. On all devices, not just the ones used by government officials.",
+                "body_html": "<div class=\"md\"><p>Pretty much all US apps are banned in China. On all devices, not just the ones used by government officials.</p>\n</div>",
+                "created_utc": "2025-02-04 21:10:27",
+                "distinguished": null,
+                "edited": false,
+                "id": "mazceur",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayj3aq",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/stanquevisch",
+                    "body": "That is not true at all. The only banned apps are for specific and different reasons. Google, Mera and X had their problems with CCP, bit Apple has a bunch of stone in store to download.",
+                    "body_html": "<div class=\"md\"><p>That is not true at all. The only banned apps are for specific and different reasons. Google, Mera and X had their problems with CCP, bit Apple has a bunch of stone in store to download.</p>\n</div>",
+                    "created_utc": "2025-02-05 00:02:27",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb0bee9",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mazceur",
+                    "score": 9,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/More-Ad-4503",
+                        "body": "They refused to remove US funded terrorism activity against China on their platforms.",
+                        "body_html": "<div class=\"md\"><p>They refused to remove US funded terrorism activity against China on their platforms.</p>\n</div>",
+                        "created_utc": "2025-02-05 02:40:28",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mb147qv",
+                        "is_submitter": false,
+                        "link_id": "t3_1ihn9a6",
+                        "parent_id": "t1_mb0bee9",
+                        "score": 4,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  },
+                  {
+                    "author": "u/InsignificantCookie",
+                    "body": "Yeah, only China is allowed to ban things apparently \ud83d\ude02",
+                    "body_html": "<div class=\"md\"><p>Yeah, only China is allowed to ban things apparently \ud83d\ude02</p>\n</div>",
+                    "created_utc": "2025-02-04 22:17:46",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mazqcae",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mazceur",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/Desikj",
+            "body": "Meanwhile China banned all us based apps and services from decades.",
+            "body_html": "<div class=\"md\"><p>Meanwhile China banned all us based apps and services from decades.</p>\n</div>",
+            "created_utc": "2025-02-05 00:17:08",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb0e3e7",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_maygrn6",
+            "score": 7,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/More-Ad-4503",
+                "body": "good? the US spends billions on anti-china propaganda, terrorism, and regime change. they HAVE to be censored. the US banned RT and they don't even lie about anything.",
+                "body_html": "<div class=\"md\"><p>good? the US spends billions on anti-china propaganda, terrorism, and regime change. they HAVE to be censored. the US banned RT and they don&#39;t even lie about anything.</p>\n</div>",
+                "created_utc": "2025-02-05 02:38:33",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb13v0d",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mb0e3e7",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "[deleted]",
+                "body": "Yup, seems like people here are completely blind.",
+                "body_html": "<div class=\"md\"><p>Yup, seems like people here are completely blind.</p>\n</div>",
+                "created_utc": "2025-02-05 02:13:26",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb0z56g",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mb0e3e7",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Mental_Goose_241",
+                    "body": "Just because there is outrage for this right now does not mean there is not outrage for censorship in other countries/cases as well. What a silly take.",
+                    "body_html": "<div class=\"md\"><p>Just because there is outrage for this right now does not mean there is not outrage for censorship in other countries/cases as well. What a silly take.</p>\n</div>",
+                    "created_utc": "2025-02-05 03:22:49",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb1c2fx",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mb0z56g",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/Vas1le",
+            "body": "What US gonna do? \n\nSpy? (They already do that) - also, OpenAI is a private company. \n\nDeepseek is also a private but not the same private company as in US, China Party can have access to all data and you would not know, more, they will not delete your data if you delete your account. And more security risks associated..",
+            "body_html": "<div class=\"md\"><p>What US gonna do? </p>\n\n<p>Spy? (They already do that) - also, OpenAI is a private company. </p>\n\n<p>Deepseek is also a private but not the same private company as in US, China Party can have access to all data and you would not know, more, they will not delete your data if you delete your account. And more security risks associated..</p>\n</div>",
+            "created_utc": "2025-02-04 23:12:35",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb01pbd",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_maygrn6",
+            "score": 3,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Due-Memory-6957",
+                "body": ">Deepseek is also a private but not the same private company as in US, China Party can have access to all data and you would not know, more, they will not delete your data if you delete your account. And more security risks associated..\n\nSo same as US, really.",
+                "body_html": "<div class=\"md\"><blockquote>\n<p>Deepseek is also a private but not the same private company as in US, China Party can have access to all data and you would not know, more, they will not delete your data if you delete your account. And more security risks associated..</p>\n</blockquote>\n\n<p>So same as US, really.</p>\n</div>",
+                "created_utc": "2025-02-05 02:24:00",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb114il",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mb01pbd",
+                "score": 6,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Vas1le",
+                    "body": "Ask deepseek lol",
+                    "body_html": "<div class=\"md\"><p>Ask deepseek lol</p>\n</div>",
+                    "created_utc": "2025-02-05 08:42:25",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb2lqgq",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mb114il",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              },
+              {
+                "author": "u/More-Ad-4503",
+                "body": "The US does not have PRIVATE companies. The feds tell you to do something you have to do it. In fact, openAI has NSA people on their board of directors. DARPA cancelled the LifeLog project on the same day that Mark Zuckerberg launched Facebook. All the major tech companies have connections to the feds, some were even started as a result of the feds (look up \"in-q-tel\"). \" IQT is the independent, non-profit strategic investor for the CIA and the broader U.S. Intelligence Community \u2013 including DHS.\"",
+                "body_html": "<div class=\"md\"><p>The US does not have PRIVATE companies. The feds tell you to do something you have to do it. In fact, openAI has NSA people on their board of directors. DARPA cancelled the LifeLog project on the same day that Mark Zuckerberg launched Facebook. All the major tech companies have connections to the feds, some were even started as a result of the feds (look up &quot;in-q-tel&quot;). &quot; IQT is the independent, non-profit strategic investor for the CIA and the broader U.S. Intelligence Community \u2013 including DHS.&quot;</p>\n</div>",
+                "created_utc": "2025-02-05 02:40:57",
+                "distinguished": null,
+                "edited": "2025-02-05 02:46:52",
+                "id": "mb14b0i",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mb01pbd",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/just4kicksxxx",
+            "body": "They aren't even the same thing... DS was fully wide-open with every single piece of information that you put into it to absolutely anyone...",
+            "body_html": "<div class=\"md\"><p>They aren&#39;t even the same thing... DS was fully wide-open with every single piece of information that you put into it to absolutely anyone...</p>\n</div>",
+            "created_utc": "2025-02-05 03:11:02",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb19wgo",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_maygrn6",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Gytole",
+            "body": "Almost like a red flag.",
+            "body_html": "<div class=\"md\"><p>Almost like a red flag.</p>\n</div>",
+            "created_utc": "2025-02-05 03:14:34",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb1ajvw",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_maygrn6",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Voopvoop007",
+            "body": "Why? Deepseek had a huge security breach and the data is in any case accesible by an adversary (China).",
+            "body_html": "<div class=\"md\"><p>Why? Deepseek had a huge security breach and the data is in any case accesible by an adversary (China).</p>\n</div>",
+            "created_utc": "2025-02-05 15:57:34",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb443u7",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_maygrn6",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/aotol",
+            "body": "It\u2019s just on government devices. Other people can still use as normal.",
+            "body_html": "<div class=\"md\"><p>It\u2019s just on government devices. Other people can still use as normal.</p>\n</div>",
+            "created_utc": "2025-02-06 05:59:19",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb8rgt1",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_maygrn6",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Condomphobic",
+            "body": "Australia and the United States have strengthened their alliance in recent years, driven by shared concerns over China\u2019s growing military assertiveness and geopolitical ambitions in the Indo-Pacific. \n\nWhile neither country explicitly labels China as an \u201cenemy,\u201d their strategic alignment reflects a coordinated effort to counter Beijing\u2019s influence through defense partnerships, economic decoupling measures, and regional deterrence initiatives.\n\n**With this info known**, I think it\u2019s time to accept that a large portion of the world does not trust China. However, a large portion of the world trusts America.",
+            "body_html": "<div class=\"md\"><p>Australia and the United States have strengthened their alliance in recent years, driven by shared concerns over China\u2019s growing military assertiveness and geopolitical ambitions in the Indo-Pacific. </p>\n\n<p>While neither country explicitly labels China as an \u201cenemy,\u201d their strategic alignment reflects a coordinated effort to counter Beijing\u2019s influence through defense partnerships, economic decoupling measures, and regional deterrence initiatives.</p>\n\n<p><strong>With this info known</strong>, I think it\u2019s time to accept that a large portion of the world does not trust China. However, a large portion of the world trusts America.</p>\n</div>",
+            "created_utc": "2025-02-04 18:54:40",
+            "distinguished": null,
+            "edited": false,
+            "id": "mayjckj",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_maygrn6",
+            "score": -6,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/No-Painting-3970",
+                "body": "Bruh, I think you should read about the Cloud act. No one trusts America",
+                "body_html": "<div class=\"md\"><p>Bruh, I think you should read about the Cloud act. No one trusts America</p>\n</div>",
+                "created_utc": "2025-02-04 19:05:10",
+                "distinguished": null,
+                "edited": false,
+                "id": "mayln99",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayjckj",
+                "score": 13,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Condomphobic",
+                    "body": "Tell that to these countries banning DeepSeek and not GPT",
+                    "body_html": "<div class=\"md\"><p>Tell that to these countries banning DeepSeek and not GPT</p>\n</div>",
+                    "created_utc": "2025-02-04 19:06:33",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mayly3j",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mayln99",
+                    "score": 5,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/stanquevisch",
+                        "body": "Australia is also banning chatGPT from gov\u2019t devices.",
+                        "body_html": "<div class=\"md\"><p>Australia is also banning chatGPT from gov\u2019t devices.</p>\n</div>",
+                        "created_utc": "2025-02-05 00:03:43",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mb0bmx6",
+                        "is_submitter": false,
+                        "link_id": "t3_1ihn9a6",
+                        "parent_id": "t1_mayly3j",
+                        "score": 3,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Condomphobic",
+                            "body": "Then this means that LLM companies are analyzing people\u2019s data",
+                            "body_html": "<div class=\"md\"><p>Then this means that LLM companies are analyzing people\u2019s data</p>\n</div>",
+                            "created_utc": "2025-02-05 00:09:51",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mb0crif",
+                            "is_submitter": false,
+                            "link_id": "t3_1ihn9a6",
+                            "parent_id": "t1_mb0bmx6",
+                            "score": -2,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/More-Ad-4503",
+                                "body": "bot",
+                                "body_html": "<div class=\"md\"><p>bot</p>\n</div>",
+                                "created_utc": "2025-02-05 02:45:37",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mb156ra",
+                                "is_submitter": false,
+                                "link_id": "t3_1ihn9a6",
+                                "parent_id": "t1_mb0crif",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/Condomphobic",
+                                    "body": "Only bots downvote my comment. \n\nIf companies ban EACH OTHER\u2019s LLMs from being used, then that means these LLM companies are feeding off our data. And the governments know",
+                                    "body_html": "<div class=\"md\"><p>Only bots downvote my comment. </p>\n\n<p>If companies ban EACH OTHER\u2019s LLMs from being used, then that means these LLM companies are feeding off our data. And the governments know</p>\n</div>",
+                                    "created_utc": "2025-02-05 02:47:16",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "mb15i1d",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1ihn9a6",
+                                    "parent_id": "t1_mb156ra",
+                                    "score": 1,
+                                    "stickied": false,
+                                    "replies": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "author": "u/No-Painting-3970",
+                        "body": "Bruh, its geopolitics, not trust. Impeding the access of tech companies to your countries market risks payback from the US government. Specially under the current administration. Europe is unable to enforce the current data protection act because of this.",
+                        "body_html": "<div class=\"md\"><p>Bruh, its geopolitics, not trust. Impeding the access of tech companies to your countries market risks payback from the US government. Specially under the current administration. Europe is unable to enforce the current data protection act because of this.</p>\n</div>",
+                        "created_utc": "2025-02-04 20:11:47",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mayzzz6",
+                        "is_submitter": false,
+                        "link_id": "t3_1ihn9a6",
+                        "parent_id": "t1_mayly3j",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/kongweeneverdie",
+                "body": "Large portion of the world mean US alliance less than 20% of world population. The non world make up 80% among 140 nations.",
+                "body_html": "<div class=\"md\"><p>Large portion of the world mean US alliance less than 20% of world population. The non world make up 80% among 140 nations.</p>\n</div>",
+                "created_utc": "2025-02-05 01:34:29",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb0rzht",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayjckj",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Condomphobic",
+                    "body": "Accept the truth.",
+                    "body_html": "<div class=\"md\"><p>Accept the truth.</p>\n</div>",
+                    "created_utc": "2025-02-05 01:56:25",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb0vyxe",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mb0rzht",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/kongweeneverdie",
+                        "body": "Yes, I accept your 20% world views.",
+                        "body_html": "<div class=\"md\"><p>Yes, I accept your 20% world views.</p>\n</div>",
+                        "created_utc": "2025-02-05 02:14:33",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mb0zcu1",
+                        "is_submitter": false,
+                        "link_id": "t3_1ihn9a6",
+                        "parent_id": "t1_mb0vyxe",
+                        "score": 2,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Condomphobic",
+                            "body": "20% is 80% if that 20% has the highest GDP and influence man",
+                            "body_html": "<div class=\"md\"><p>20% is 80% if that 20% has the highest GDP and influence man</p>\n</div>",
+                            "created_utc": "2025-02-05 02:34:16",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mb131x7",
+                            "is_submitter": false,
+                            "link_id": "t3_1ihn9a6",
+                            "parent_id": "t1_mb0zcu1",
+                            "score": 2,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/kongweeneverdie",
+                                "body": "You can't even destroy Russia. You turn Afghanistan, Iran and Syria into Islam rule country. Great GDP and influence indeed.",
+                                "body_html": "<div class=\"md\"><p>You can&#39;t even destroy Russia. You turn Afghanistan, Iran and Syria into Islam rule country. Great GDP and influence indeed.</p>\n</div>",
+                                "created_utc": "2025-02-05 02:37:01",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mb13kk1",
+                                "is_submitter": false,
+                                "link_id": "t3_1ihn9a6",
+                                "parent_id": "t1_mb131x7",
+                                "score": 2,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/Condomphobic",
+                                    "body": "World\u2019s superpower buddy. \n\nNothing else to say",
+                                    "body_html": "<div class=\"md\"><p>World\u2019s superpower buddy. </p>\n\n<p>Nothing else to say</p>\n</div>",
+                                    "created_utc": "2025-02-05 02:46:25",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "mb15c9t",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1ihn9a6",
+                                    "parent_id": "t1_mb13kk1",
+                                    "score": 1,
+                                    "stickied": false,
+                                    "replies": [
+                                      {
+                                        "author": "u/kongweeneverdie",
+                                        "body": "Only in name.",
+                                        "body_html": "<div class=\"md\"><p>Only in name.</p>\n</div>",
+                                        "created_utc": "2025-02-05 02:47:58",
+                                        "distinguished": null,
+                                        "edited": false,
+                                        "id": "mb15mrr",
+                                        "is_submitter": false,
+                                        "link_id": "t3_1ihn9a6",
+                                        "parent_id": "t1_mb15c9t",
+                                        "score": 2,
+                                        "stickied": false,
+                                        "replies": [
+                                          {
+                                            "author": "u/Condomphobic",
+                                            "body": "Our name isn\u2019t world\u2019s superpower buddy.",
+                                            "body_html": "<div class=\"md\"><p>Our name isn\u2019t world\u2019s superpower buddy.</p>\n</div>",
+                                            "created_utc": "2025-02-05 02:52:25",
+                                            "distinguished": null,
+                                            "edited": false,
+                                            "id": "mb16gxx",
+                                            "is_submitter": false,
+                                            "link_id": "t3_1ihn9a6",
+                                            "parent_id": "t1_mb15mrr",
+                                            "score": 0,
+                                            "stickied": false,
+                                            "replies": [
+                                              {
+                                                "author": "u/kongweeneverdie",
+                                                "body": "Ok, you are not in superpower.",
+                                                "body_html": "<div class=\"md\"><p>Ok, you are not in superpower.</p>\n</div>",
+                                                "created_utc": "2025-02-05 03:13:10",
+                                                "distinguished": null,
+                                                "edited": false,
+                                                "id": "mb1aalt",
+                                                "is_submitter": false,
+                                                "link_id": "t3_1ihn9a6",
+                                                "parent_id": "t1_mb16gxx",
+                                                "score": 2,
+                                                "stickied": false,
+                                                "replies": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/KURD_1_STAN",
+                "body": "And do u see why china can grow its influence? Because usa and its allies have been fing other places up for the shared interests u mentioned. \n\nNo most people dont trust america nor western countries but they are not so easily manipulated to just blinded trust china like westerners trust america, so they dont trust china as well but will always choose china over america",
+                "body_html": "<div class=\"md\"><p>And do u see why china can grow its influence? Because usa and its allies have been fing other places up for the shared interests u mentioned. </p>\n\n<p>No most people dont trust america nor western countries but they are not so easily manipulated to just blinded trust china like westerners trust america, so they dont trust china as well but will always choose china over america</p>\n</div>",
+                "created_utc": "2025-02-04 19:07:45",
+                "distinguished": null,
+                "edited": false,
+                "id": "maym7jl",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayjckj",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Condomphobic",
+                    "body": "Tell that to these governments man",
+                    "body_html": "<div class=\"md\"><p>Tell that to these governments man</p>\n</div>",
+                    "created_utc": "2025-02-04 19:08:49",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "maymftj",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_maym7jl",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/KURD_1_STAN",
+                        "body": "Im just responding to ur last part, people dont trust america more than they dont trust china.",
+                        "body_html": "<div class=\"md\"><p>Im just responding to ur last part, people dont trust america more than they dont trust china.</p>\n</div>",
+                        "created_utc": "2025-02-04 19:11:27",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mayn0ey",
+                        "is_submitter": false,
+                        "link_id": "t3_1ihn9a6",
+                        "parent_id": "t1_maymftj",
+                        "score": -1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Condomphobic",
+                            "body": "Why do we have so many immigrants from all over the world?",
+                            "body_html": "<div class=\"md\"><p>Why do we have so many immigrants from all over the world?</p>\n</div>",
+                            "created_utc": "2025-02-04 19:12:35",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mayn99j",
+                            "is_submitter": false,
+                            "link_id": "t3_1ihn9a6",
+                            "parent_id": "t1_mayn0ey",
+                            "score": 5,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/Aware-Turnover6088",
+                                "body": "Err, your whole country is made up of immigrants. It's what it's built on. People can like a country, want to live there, but not think the government is great. America has tons of opportunities, hence why people want to live there. They're not flocking there because they love Biden or Trump.",
+                                "body_html": "<div class=\"md\"><p>Err, your whole country is made up of immigrants. It&#39;s what it&#39;s built on. People can like a country, want to live there, but not think the government is great. America has tons of opportunities, hence why people want to live there. They&#39;re not flocking there because they love Biden or Trump.</p>\n</div>",
+                                "created_utc": "2025-02-04 21:44:43",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mazjgvy",
+                                "is_submitter": false,
+                                "link_id": "t3_1ihn9a6",
+                                "parent_id": "t1_mayn99j",
+                                "score": 5,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/coooyon",
+                                    "body": "You clearly don't understand why or how this came to be",
+                                    "body_html": "<div class=\"md\"><p>You clearly don&#39;t understand why or how this came to be</p>\n</div>",
+                                    "created_utc": "2025-02-05 01:04:37",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "mb0mml3",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1ihn9a6",
+                                    "parent_id": "t1_mazjgvy",
+                                    "score": 1,
+                                    "stickied": false,
+                                    "replies": [
+                                      {
+                                        "author": "u/Aware-Turnover6088",
+                                        "body": "Why or how what came to be?",
+                                        "body_html": "<div class=\"md\"><p>Why or how what came to be?</p>\n</div>",
+                                        "created_utc": "2025-02-05 10:39:33",
+                                        "distinguished": null,
+                                        "edited": false,
+                                        "id": "mb2x1xn",
+                                        "is_submitter": false,
+                                        "link_id": "t3_1ihn9a6",
+                                        "parent_id": "t1_mb0mml3",
+                                        "score": 1,
+                                        "stickied": false,
+                                        "replies": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "author": "u/KURD_1_STAN",
+                                "body": "Cause due to usa's interest the dollar can be sold everywhere and the yuan isnt as valuabl, so it will be kore beneficial when they send it to their families home.\n\nAnd europe is closer to ME countries than china, and traveling by boat is much simplier compared to traveling across couple countries.\n\nAnd other reason",
+                                "body_html": "<div class=\"md\"><p>Cause due to usa&#39;s interest the dollar can be sold everywhere and the yuan isnt as valuabl, so it will be kore beneficial when they send it to their families home.</p>\n\n<p>And europe is closer to ME countries than china, and traveling by boat is much simplier compared to traveling across couple countries.</p>\n\n<p>And other reason</p>\n</div>",
+                                "created_utc": "2025-02-04 19:20:26",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mayoyvm",
+                                "is_submitter": false,
+                                "link_id": "t3_1ihn9a6",
+                                "parent_id": "t1_mayn99j",
+                                "score": 2,
+                                "stickied": false,
+                                "replies": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/Crafty-Confidence975",
+            "body": "100% You don\u2019t even want it on your device as an app. Just use the browser version. And definitely don\u2019t put any sensitive info into the chat. I will guarantee it\u2019s all logged and evaluated by the CCP. That\u2019s just a given.",
+            "body_html": "<div class=\"md\"><p>100% You don\u2019t even want it on your device as an app. Just use the browser version. And definitely don\u2019t put any sensitive info into the chat. I will guarantee it\u2019s all logged and evaluated by the CCP. That\u2019s just a given.</p>\n</div>",
+            "created_utc": "2025-02-04 21:43:06",
+            "distinguished": null,
+            "edited": false,
+            "id": "mazj4w5",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_maygrn6",
+            "score": -1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Due-Memory-6957",
+                "body": "The truth is that you should be more worried about your own government than a foreign one (unless you work in a sensitive job), the Chinese can't do anything to you, your own government can.",
+                "body_html": "<div class=\"md\"><p>The truth is that you should be more worried about your own government than a foreign one (unless you work in a sensitive job), the Chinese can&#39;t do anything to you, your own government can.</p>\n</div>",
+                "created_utc": "2025-02-05 02:25:02",
+                "distinguished": null,
+                "edited": "2025-02-05 04:53:21",
+                "id": "mb11bk9",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mazj4w5",
+                "score": 6,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/More-Ad-4503",
+                    "body": "I'm Taiwanese American and i say shit like \"Taiwan is already independent\" and \"CPC claims to Taiwan make ZERO sense\" and i'm more worried about the CIA and other feds than the CPC",
+                    "body_html": "<div class=\"md\"><p>I&#39;m Taiwanese American and i say shit like &quot;Taiwan is already independent&quot; and &quot;CPC claims to Taiwan make ZERO sense&quot; and i&#39;m more worried about the CIA and other feds than the CPC</p>\n</div>",
+                    "created_utc": "2025-02-05 02:44:55",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb1520j",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mb11bk9",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/Crafty-Confidence975",
+                    "body": "The problem is that all of that stored data has a way of leaking. At which point you have black hat professionals who are looking into what they can do with it.",
+                    "body_html": "<div class=\"md\"><p>The problem is that all of that stored data has a way of leaking. At which point you have black hat professionals who are looking into what they can do with it.</p>\n</div>",
+                    "created_utc": "2025-02-05 02:28:19",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb11xnn",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mb11bk9",
+                    "score": -1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Decent-Photograph391",
+                        "body": "Oh you mean like how Target and T-Mobile both got my sensitive information leaked to the dark web, for sale to the highest bidder and all they can do is \u201c3 months of credit monitoring\u201d?",
+                        "body_html": "<div class=\"md\"><p>Oh you mean like how Target and T-Mobile both got my sensitive information leaked to the dark web, for sale to the highest bidder and all they can do is \u201c3 months of credit monitoring\u201d?</p>\n</div>",
+                        "created_utc": "2025-02-05 02:42:50",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mb14nw9",
+                        "is_submitter": false,
+                        "link_id": "t3_1ihn9a6",
+                        "parent_id": "t1_mb11xnn",
+                        "score": 3,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Crafty-Confidence975",
+                            "body": "Sure or this: https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak",
+                            "body_html": "<div class=\"md\"><p>Sure or this: <a href=\"https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak\">https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak</a></p>\n</div>",
+                            "created_utc": "2025-02-05 03:08:51",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mb19hw3",
+                            "is_submitter": false,
+                            "link_id": "t3_1ihn9a6",
+                            "parent_id": "t1_mb14nw9",
+                            "score": 0,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/coooyon",
+                "body": "All these idiots in here that don't understand how the world works.. well said",
+                "body_html": "<div class=\"md\"><p>All these idiots in here that don&#39;t understand how the world works.. well said</p>\n</div>",
+                "created_utc": "2025-02-05 01:03:50",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb0mhgy",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mazj4w5",
+                "score": 0,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/More-Ad-4503",
+                    "body": "i think they're CIA bots",
+                    "body_html": "<div class=\"md\"><p>i think they&#39;re CIA bots</p>\n</div>",
+                    "created_utc": "2025-02-05 02:44:14",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb14xbo",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mb0mhgy",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/ilovezam",
+        "body": "Meh, it's banned from government and military devices in these headlines. As long as it's not something affecting the general public I don't see how that's a big deal.\n\nI know of tech companies that don't even want you to use ChatGPT using work devices for fear that data is leaked to OpenAI servers, and this is a reasonable concern.\n\nChina does also have cybersecurity laws that mean that its government gets full access to whatever stored in Chinese company servers if they so wish. It's probably smart to disallow sensitive devices from access if we're being honest here.",
+        "body_html": "<div class=\"md\"><p>Meh, it&#39;s banned from government and military devices in these headlines. As long as it&#39;s not something affecting the general public I don&#39;t see how that&#39;s a big deal.</p>\n\n<p>I know of tech companies that don&#39;t even want you to use ChatGPT using work devices for fear that data is leaked to OpenAI servers, and this is a reasonable concern.</p>\n\n<p>China does also have cybersecurity laws that mean that its government gets full access to whatever stored in Chinese company servers if they so wish. It&#39;s probably smart to disallow sensitive devices from access if we&#39;re being honest here.</p>\n</div>",
+        "created_utc": "2025-02-04 18:47:57",
+        "distinguished": null,
+        "edited": false,
+        "id": "mayhvxg",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 38,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Condomphobic",
+            "body": "Interesting, because the U.S. government is starting to heavily integrate OpenAI into their workflows.",
+            "body_html": "<div class=\"md\"><p>Interesting, because the U.S. government is starting to heavily integrate OpenAI into their workflows.</p>\n</div>",
+            "created_utc": "2025-02-04 18:56:02",
+            "distinguished": null,
+            "edited": false,
+            "id": "mayjnh2",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mayhvxg",
+            "score": 5,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/KURD_1_STAN",
+            "body": "[DeepSeek users in US could face million-dollar fine and prison time under new law](https://www.independent.co.uk/tech/deepseek-ban-us-ai-law-b2691755.html)",
+            "body_html": "<div class=\"md\"><p><a href=\"https://www.independent.co.uk/tech/deepseek-ban-us-ai-law-b2691755.html\">DeepSeek users in US could face million-dollar fine and prison time under new law</a></p>\n</div>",
+            "created_utc": "2025-02-04 19:10:24",
+            "distinguished": null,
+            "edited": false,
+            "id": "mayms6j",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mayhvxg",
+            "score": 4,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Condomphobic",
+                "body": "That\u2019s not passing. One person with low IQ drafted that. \n\nThey can\u2019t even stop people from downloading pirated movies",
+                "body_html": "<div class=\"md\"><p>That\u2019s not passing. One person with low IQ drafted that. </p>\n\n<p>They can\u2019t even stop people from downloading pirated movies</p>\n</div>",
+                "created_utc": "2025-02-04 19:22:35",
+                "distinguished": null,
+                "edited": false,
+                "id": "maypfo8",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayms6j",
+                "score": 7,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/KURD_1_STAN",
+                    "body": "Nobody said nobody can use them anymore but they will be punished if caught just like pirated movies.\n\nAnd it is already being banned from government places,  AN OPEN SOURCE MODEL THAT CAN BE RAN COMPLETELY OFFLINE.  it is not possible for it be a threat if ran correctly",
+                    "body_html": "<div class=\"md\"><p>Nobody said nobody can use them anymore but they will be punished if caught just like pirated movies.</p>\n\n<p>And it is already being banned from government places,  AN OPEN SOURCE MODEL THAT CAN BE RAN COMPLETELY OFFLINE.  it is not possible for it be a threat if ran correctly</p>\n</div>",
+                    "created_utc": "2025-02-04 19:54:40",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "maywb7p",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_maypfo8",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/No-Beginning-4269",
+        "body": "Australian here. The ban only covers govt devices. Also, they also have banned chatGPT.",
+        "body_html": "<div class=\"md\"><p>Australian here. The ban only covers govt devices. Also, they also have banned chatGPT.</p>\n</div>",
+        "created_utc": "2025-02-04 21:25:49",
+        "distinguished": null,
+        "edited": false,
+        "id": "mazfkgl",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 10,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Tyrannosaurusblanch",
+            "body": "That\u2019s right. Sky net won\u2019t have control of us yet. Either form. \n\nI don\u2019t know what the big deal is.",
+            "body_html": "<div class=\"md\"><p>That\u2019s right. Sky net won\u2019t have control of us yet. Either form. </p>\n\n<p>I don\u2019t know what the big deal is.</p>\n</div>",
+            "created_utc": "2025-02-04 23:29:34",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb051zc",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mazfkgl",
+            "score": 3,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/coooyon",
+                "body": "Idiots that live in America, who don't understand their american privelage or the way the world works crying is the big deal",
+                "body_html": "<div class=\"md\"><p>Idiots that live in America, who don&#39;t understand their american privelage or the way the world works crying is the big deal</p>\n</div>",
+                "created_utc": "2025-02-05 01:06:21",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb0mxjf",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mb051zc",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Sure_as_Suresh",
+        "body": "I thought Australia was UK's little bitch not US",
+        "body_html": "<div class=\"md\"><p>I thought Australia was UK&#39;s little bitch not US</p>\n</div>",
+        "created_utc": "2025-02-04 18:47:36",
+        "distinguished": null,
+        "edited": false,
+        "id": "mayht2e",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 28,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Psychological_Mix_89",
+            "body": "They're abused stepchildren who do whatever they can to win over their stepdad - Murica",
+            "body_html": "<div class=\"md\"><p>They&#39;re abused stepchildren who do whatever they can to win over their stepdad - Murica</p>\n</div>",
+            "created_utc": "2025-02-04 20:26:17",
+            "distinguished": null,
+            "edited": false,
+            "id": "maz33re",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mayht2e",
+            "score": 14,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/AdTraditional5786",
+            "body": "UK is weak now. So Australia is now bitch of the US.\u00a0",
+            "body_html": "<div class=\"md\"><p>UK is weak now. So Australia is now bitch of the US.\u00a0</p>\n</div>",
+            "created_utc": "2025-02-05 14:20:42",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb3mzg8",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mayht2e",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/BotomsDntDeservRight",
+            "body": "Explain how its not wrong?? Y'all are just blabbering.",
+            "body_html": "<div class=\"md\"><p>Explain how its not wrong?? Y&#39;all are just blabbering.</p>\n</div>",
+            "created_utc": "2025-02-04 23:05:39",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb00bje",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mayht2e",
+            "score": 0,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Just-4Head-8964",
+        "body": "\\[on government device\\]\n\nguys read the fucking title, it does nothing for random non governmental users.\n\nChina also banned apple phone from government workers. Government security is usually very tight on such thing, but it does not affect you, holy shit",
+        "body_html": "<div class=\"md\"><p>[on government device]</p>\n\n<p>guys read the fucking title, it does nothing for random non governmental users.</p>\n\n<p>China also banned apple phone from government workers. Government security is usually very tight on such thing, but it does not affect you, holy shit</p>\n</div>",
+        "created_utc": "2025-02-04 19:08:35",
+        "distinguished": null,
+        "edited": false,
+        "id": "maymdyk",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 11,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/InsignificantCookie",
+        "body": "What is the obsession in this sub with people wanting every country to allow DeepSeek on their GOVERNMENT devices? It should be expected that they ban it. China bans chatgpt. Is that an issue to you too?",
+        "body_html": "<div class=\"md\"><p>What is the obsession in this sub with people wanting every country to allow DeepSeek on their GOVERNMENT devices? It should be expected that they ban it. China bans chatgpt. Is that an issue to you too?</p>\n</div>",
+        "created_utc": "2025-02-04 18:45:00",
+        "distinguished": null,
+        "edited": false,
+        "id": "mayh8s6",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 18,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/mikethespike056",
+            "body": "this sub has no idea about world politics lmao they bitch about GOVERNMENTS banning this shit \ud83d\ude2d\ud83d\udc80",
+            "body_html": "<div class=\"md\"><p>this sub has no idea about world politics lmao they bitch about GOVERNMENTS banning this shit \ud83d\ude2d\ud83d\udc80</p>\n</div>",
+            "created_utc": "2025-02-04 19:20:53",
+            "distinguished": null,
+            "edited": false,
+            "id": "mayp2ec",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mayh8s6",
+            "score": 11,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Secure_Guest_6171",
+            "body": "that should tell you something about their real intent",
+            "body_html": "<div class=\"md\"><p>that should tell you something about their real intent</p>\n</div>",
+            "created_utc": "2025-02-04 18:48:30",
+            "distinguished": null,
+            "edited": false,
+            "id": "mayi07t",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mayh8s6",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Condomphobic",
+                "body": "Do these bans indicate that these LLMs are actually farming our data???",
+                "body_html": "<div class=\"md\"><p>Do these bans indicate that these LLMs are actually farming our data???</p>\n</div>",
+                "created_utc": "2025-02-04 18:57:32",
+                "distinguished": null,
+                "edited": false,
+                "id": "mayjzep",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayi07t",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/AndrewFrozzen",
+                "body": "What real intent?\n\nIt's normal.\n\nIt's governmental thing. Nothing to do with population\n\nIf China can ban Chatgpt on governmental devices, so can Australia.\n\nI don't support GPT as much anymore. But some of yall really are too delusional",
+                "body_html": "<div class=\"md\"><p>What real intent?</p>\n\n<p>It&#39;s normal.</p>\n\n<p>It&#39;s governmental thing. Nothing to do with population</p>\n\n<p>If China can ban Chatgpt on governmental devices, so can Australia.</p>\n\n<p>I don&#39;t support GPT as much anymore. But some of yall really are too delusional</p>\n</div>",
+                "created_utc": "2025-02-04 19:06:01",
+                "distinguished": null,
+                "edited": false,
+                "id": "mayltvo",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayi07t",
+                "score": 3,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Secure_Guest_6171",
+                    "body": "Delusional how?",
+                    "body_html": "<div class=\"md\"><p>Delusional how?</p>\n</div>",
+                    "created_utc": "2025-02-04 19:07:04",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "maym21z",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mayltvo",
+                    "score": -2,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/AndrewFrozzen",
+                        "body": "Not everything done is against DeepSeek.\n\nThis is a normal thing.\n\nIt's their government. Would be weird if they banned it all over Australia.",
+                        "body_html": "<div class=\"md\"><p>Not everything done is against DeepSeek.</p>\n\n<p>This is a normal thing.</p>\n\n<p>It&#39;s their government. Would be weird if they banned it all over Australia.</p>\n</div>",
+                        "created_utc": "2025-02-04 19:08:26",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "maymcsr",
+                        "is_submitter": false,
+                        "link_id": "t3_1ihn9a6",
+                        "parent_id": "t1_maym21z",
+                        "score": 0,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Royal_Plate2092",
+                            "body": "this is normal? where are the dozens of articles about banning chat gpt then.",
+                            "body_html": "<div class=\"md\"><p>this is normal? where are the dozens of articles about banning chat gpt then.</p>\n</div>",
+                            "created_utc": "2025-02-04 22:04:42",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "maznlw9",
+                            "is_submitter": false,
+                            "link_id": "t3_1ihn9a6",
+                            "parent_id": "t1_maymcsr",
+                            "score": 2,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/4ss4ssinscr33d",
+                                "body": "He literally said GPT is banned in China. Are you upset about that?",
+                                "body_html": "<div class=\"md\"><p>He literally said GPT is banned in China. Are you upset about that?</p>\n</div>",
+                                "created_utc": "2025-02-06 06:12:23",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mb8t9xz",
+                                "is_submitter": false,
+                                "link_id": "t3_1ihn9a6",
+                                "parent_id": "t1_maznlw9",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/Royal_Plate2092",
+                                    "body": "obviously I'd be upset if I was chinese. I hate any kind of censorship",
+                                    "body_html": "<div class=\"md\"><p>obviously I&#39;d be upset if I was chinese. I hate any kind of censorship</p>\n</div>",
+                                    "created_utc": "2025-02-06 06:16:47",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "mb8tvk7",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1ihn9a6",
+                                    "parent_id": "t1_mb8t9xz",
+                                    "score": 1,
+                                    "stickied": false,
+                                    "replies": [
+                                      {
+                                        "author": "u/4ss4ssinscr33d",
+                                        "body": "Do you realize that Australia didn\u2019t ban Deepseek for civilian use, only for government use?",
+                                        "body_html": "<div class=\"md\"><p>Do you realize that Australia didn\u2019t ban Deepseek for civilian use, only for government use?</p>\n</div>",
+                                        "created_utc": "2025-02-06 06:18:25",
+                                        "distinguished": null,
+                                        "edited": false,
+                                        "id": "mb8u3is",
+                                        "is_submitter": false,
+                                        "link_id": "t3_1ihn9a6",
+                                        "parent_id": "t1_mb8tvk7",
+                                        "score": 1,
+                                        "stickied": false,
+                                        "replies": [
+                                          {
+                                            "author": "u/Royal_Plate2092",
+                                            "body": "yes. also there is some artificial panic created around deepseek because ut hurt the US economy",
+                                            "body_html": "<div class=\"md\"><p>yes. also there is some artificial panic created around deepseek because ut hurt the US economy</p>\n</div>",
+                                            "created_utc": "2025-02-06 08:26:49",
+                                            "distinguished": null,
+                                            "edited": false,
+                                            "id": "mb99bmw",
+                                            "is_submitter": false,
+                                            "link_id": "t3_1ihn9a6",
+                                            "parent_id": "t1_mb8u3is",
+                                            "score": 1,
+                                            "stickied": false,
+                                            "replies": [
+                                              {
+                                                "author": "u/4ss4ssinscr33d",
+                                                "body": "Lmao It did not hurt the US economy. Stop getting your news from social media.",
+                                                "body_html": "<div class=\"md\"><p>Lmao It did not hurt the US economy. Stop getting your news from social media.</p>\n</div>",
+                                                "created_utc": "2025-02-06 21:20:09",
+                                                "distinguished": null,
+                                                "edited": false,
+                                                "id": "mbcrk90",
+                                                "is_submitter": false,
+                                                "link_id": "t3_1ihn9a6",
+                                                "parent_id": "t1_mb99bmw",
+                                                "score": 1,
+                                                "stickied": false,
+                                                "replies": [
+                                                  {
+                                                    "author": "u/Royal_Plate2092",
+                                                    "body": "explain?",
+                                                    "body_html": "<div class=\"md\"><p>explain?</p>\n</div>",
+                                                    "created_utc": "2025-02-07 06:51:11",
+                                                    "distinguished": null,
+                                                    "edited": false,
+                                                    "id": "mbfnnv9",
+                                                    "is_submitter": false,
+                                                    "link_id": "t3_1ihn9a6",
+                                                    "parent_id": "t1_mbcrk90",
+                                                    "score": 1,
+                                                    "stickied": false,
+                                                    "replies": []
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "author": "u/Secure_Guest_6171",
+                            "body": "I'm not defending DeepSeek, not even a little",
+                            "body_html": "<div class=\"md\"><p>I&#39;m not defending DeepSeek, not even a little</p>\n</div>",
+                            "created_utc": "2025-02-04 19:20:43",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mayp132",
+                            "is_submitter": false,
+                            "link_id": "t3_1ihn9a6",
+                            "parent_id": "t1_maymcsr",
+                            "score": -1,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/AndrewFrozzen",
+                                "body": "Then what do you mean by \"real intent\"?",
+                                "body_html": "<div class=\"md\"><p>Then what do you mean by &quot;real intent&quot;?</p>\n</div>",
+                                "created_utc": "2025-02-04 19:22:41",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "maypggi",
+                                "is_submitter": false,
+                                "link_id": "t3_1ihn9a6",
+                                "parent_id": "t1_mayp132",
+                                "score": 0,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/Secure_Guest_6171",
+                                    "body": "Of DeepSeek / China, that they're \"outraged\" by a ban that is routine practice for the CCP",
+                                    "body_html": "<div class=\"md\"><p>Of DeepSeek / China, that they&#39;re &quot;outraged&quot; by a ban that is routine practice for the CCP</p>\n</div>",
+                                    "created_utc": "2025-02-04 19:25:35",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "mayq3b5",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1ihn9a6",
+                                    "parent_id": "t1_maypggi",
+                                    "score": 1,
+                                    "stickied": false,
+                                    "replies": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/NameTooCool",
+            "body": "Tbh it\u2019s starting to feel like some weird campaign",
+            "body_html": "<div class=\"md\"><p>Tbh it\u2019s starting to feel like some weird campaign</p>\n</div>",
+            "created_utc": "2025-02-05 00:28:10",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb0g439",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mayh8s6",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/UpSkrrSkrr",
+            "body": "90% of the posts in this sub are performative Chinese nationalism.",
+            "body_html": "<div class=\"md\"><p>90% of the posts in this sub are performative Chinese nationalism.</p>\n</div>",
+            "created_utc": "2025-02-04 19:08:22",
+            "distinguished": null,
+            "edited": "2025-02-04 19:16:11",
+            "id": "maymcbt",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mayh8s6",
+            "score": 0,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/CareerLegitimate7662",
+        "body": "Australia is just the wests little bitch",
+        "body_html": "<div class=\"md\"><p>Australia is just the wests little bitch</p>\n</div>",
+        "created_utc": "2025-02-04 18:49:31",
+        "distinguished": null,
+        "edited": false,
+        "id": "mayi84g",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 18,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/BotomsDntDeservRight",
+            "body": "So you want them to use AI apps on governmental devices?",
+            "body_html": "<div class=\"md\"><p>So you want them to use AI apps on governmental devices?</p>\n</div>",
+            "created_utc": "2025-02-04 23:04:30",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb00385",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mayi84g",
+            "score": -2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Strong_Appeal7",
+        "body": "Gov devices should not have any social appa at all, like this is a work device not personal",
+        "body_html": "<div class=\"md\"><p>Gov devices should not have any social appa at all, like this is a work device not personal</p>\n</div>",
+        "created_utc": "2025-02-05 03:29:10",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb1d8j5",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/peaceisthe-",
+        "body": "Racism again",
+        "body_html": "<div class=\"md\"><p>Racism again</p>\n</div>",
+        "created_utc": "2025-02-05 05:58:30",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb224j7",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "[deleted]",
+        "body": "I only want to stop seeing the fucking server busy",
+        "body_html": "<div class=\"md\"><p>I only want to stop seeing the fucking server busy</p>\n</div>",
+        "created_utc": "2025-02-04 18:49:47",
+        "distinguished": null,
+        "edited": "2025-02-05 21:58:30",
+        "id": "mayia7c",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 6,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/BagRevolutionary6579",
+            "body": "Based",
+            "body_html": "<div class=\"md\"><p>Based</p>\n</div>",
+            "created_utc": "2025-02-05 19:15:32",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb59zpw",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mayia7c",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Recent-Ask-5583",
+            "body": "If only they would stop attacking it... \n\nI swear that one day it'll go down for the very good (shutdown)",
+            "body_html": "<div class=\"md\"><p>If only they would stop attacking it... </p>\n\n<p>I swear that one day it&#39;ll go down for the very good (shutdown)</p>\n</div>",
+            "created_utc": "2025-02-04 18:51:53",
+            "distinguished": null,
+            "edited": false,
+            "id": "mayiqj8",
+            "is_submitter": true,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mayia7c",
+            "score": 0,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/jellobend",
+        "body": "Are they banning running local models too? If so, what is the security risk there?",
+        "body_html": "<div class=\"md\"><p>Are they banning running local models too? If so, what is the security risk there?</p>\n</div>",
+        "created_utc": "2025-02-04 19:46:44",
+        "distinguished": null,
+        "edited": false,
+        "id": "mayukst",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/blackicehawk",
+        "body": "Coming soon for the US too, unfortunately.\n\n[A strict new bill could land DeepSeek users in prison for 20 years just for using the app.](https://lifehacker.com/tech/congress-might-ban-deepseek?utm_medium=RSS)",
+        "body_html": "<div class=\"md\"><p>Coming soon for the US too, unfortunately.</p>\n\n<p><a href=\"https://lifehacker.com/tech/congress-might-ban-deepseek?utm_medium=RSS\">A strict new bill could land DeepSeek users in prison for 20 years just for using the app.</a></p>\n</div>",
+        "created_utc": "2025-02-04 20:16:52",
+        "distinguished": null,
+        "edited": false,
+        "id": "maz1310",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Recent-Ask-5583",
+            "body": "This is next level\ud83d\udc80\ud83d\udc80",
+            "body_html": "<div class=\"md\"><p>This is next level\ud83d\udc80\ud83d\udc80</p>\n</div>",
+            "created_utc": "2025-02-05 16:35:49",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb4bqpu",
+            "is_submitter": true,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_maz1310",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/NameTooCool",
+        "body": "I don\u2019t think people on this sub realize what on government devices even means. The Chinese government would have to be total morons to use ChatGPT or Gemini to do official government work, no shit western governments will also not be using it for that. It\u2019s not banned for any consumers.",
+        "body_html": "<div class=\"md\"><p>I don\u2019t think people on this sub realize what on government devices even means. The Chinese government would have to be total morons to use ChatGPT or Gemini to do official government work, no shit western governments will also not be using it for that. It\u2019s not banned for any consumers.</p>\n</div>",
+        "created_utc": "2025-02-05 00:26:34",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb0ftlb",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Specific-Lie2020",
+        "body": "When you can't stand the competition, ban it - I guess.",
+        "body_html": "<div class=\"md\"><p>When you can&#39;t stand the competition, ban it - I guess.</p>\n</div>",
+        "created_utc": "2025-02-05 02:38:23",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb13txs",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/govind31415926",
+        "body": "Sinophobia by definition\u00a0",
+        "body_html": "<div class=\"md\"><p>Sinophobia by definition\u00a0</p>\n</div>",
+        "created_utc": "2025-02-05 05:01:06",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb1te2t",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Kooky_Interest6835",
+        "body": "Nah they just mad companies are losing money lmfao time to download the big one",
+        "body_html": "<div class=\"md\"><p>Nah they just mad companies are losing money lmfao time to download the big one</p>\n</div>",
+        "created_utc": "2025-02-05 08:47:59",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb2mao8",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/turb0_encapsulator",
+        "body": "taking an open source LLM and creating your own version for your employees or citizens would be a good idea for any government.",
+        "body_html": "<div class=\"md\"><p>taking an open source LLM and creating your own version for your employees or citizens would be a good idea for any government.</p>\n</div>",
+        "created_utc": "2025-02-04 18:47:15",
+        "distinguished": null,
+        "edited": false,
+        "id": "mayhqiq",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 4,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Secure_Guest_6171",
+            "body": "only after extensive auditing of the code, considering the source (no pun intended)",
+            "body_html": "<div class=\"md\"><p>only after extensive auditing of the code, considering the source (no pun intended)</p>\n</div>",
+            "created_utc": "2025-02-04 18:50:07",
+            "distinguished": null,
+            "edited": false,
+            "id": "mayicqa",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_mayhqiq",
+            "score": 4,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/turb0_encapsulator",
+                "body": "as long as it can't connect to servers in China it should be fine. It won't be accurate about issues involving China, but otherwise useful.",
+                "body_html": "<div class=\"md\"><p>as long as it can&#39;t connect to servers in China it should be fine. It won&#39;t be accurate about issues involving China, but otherwise useful.</p>\n</div>",
+                "created_utc": "2025-02-04 18:54:33",
+                "distinguished": null,
+                "edited": false,
+                "id": "mayjbr5",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayicqa",
+                "score": 4,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Kitchen-Jicama8715",
+                    "body": "How would you know there's not subtle propaganda?",
+                    "body_html": "<div class=\"md\"><p>How would you know there&#39;s not subtle propaganda?</p>\n</div>",
+                    "created_utc": "2025-02-04 19:12:10",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mayn62t",
+                    "is_submitter": false,
+                    "link_id": "t3_1ihn9a6",
+                    "parent_id": "t1_mayjbr5",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/turb0_encapsulator",
+                        "body": "it's possible. it may be worth monitoring. Meta's LLAMA is also open source, though not as resource efficient",
+                        "body_html": "<div class=\"md\"><p>it&#39;s possible. it may be worth monitoring. Meta&#39;s LLAMA is also open source, though not as resource efficient</p>\n</div>",
+                        "created_utc": "2025-02-04 23:25:21",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mb0484k",
+                        "is_submitter": false,
+                        "link_id": "t3_1ihn9a6",
+                        "parent_id": "t1_mayn62t",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      },
+                      {
+                        "author": "u/humanofficial",
+                        "body": "You don't",
+                        "body_html": "<div class=\"md\"><p>You don&#39;t</p>\n</div>",
+                        "created_utc": "2025-02-04 22:33:50",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "maztqcx",
+                        "is_submitter": false,
+                        "link_id": "t3_1ihn9a6",
+                        "parent_id": "t1_mayn62t",
+                        "score": 0,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/humanofficial",
+                "body": "An issue with all this talk about open-source is that's its not really that \"open\". It has open weights yes, so it could be fine-tuned. However, code on how it was trained, on what data, guardrails etc. is not public.",
+                "body_html": "<div class=\"md\"><p>An issue with all this talk about open-source is that&#39;s its not really that &quot;open&quot;. It has open weights yes, so it could be fine-tuned. However, code on how it was trained, on what data, guardrails etc. is not public.</p>\n</div>",
+                "created_utc": "2025-02-04 22:41:41",
+                "distinguished": null,
+                "edited": false,
+                "id": "mazvd0a",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayicqa",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/rosesmellikepoopoo",
+        "body": "Who cares",
+        "body_html": "<div class=\"md\"><p>Who cares</p>\n</div>",
+        "created_utc": "2025-02-04 18:41:45",
+        "distinguished": null,
+        "edited": false,
+        "id": "maygjhk",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 5,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Recent-Ask-5583",
+            "body": "I mean, I got it around 4 days ago, and now just wondering why they wanna be banned just because they're from China",
+            "body_html": "<div class=\"md\"><p>I mean, I got it around 4 days ago, and now just wondering why they wanna be banned just because they&#39;re from China</p>\n</div>",
+            "created_utc": "2025-02-04 18:45:47",
+            "distinguished": null,
+            "edited": false,
+            "id": "mayhezd",
+            "is_submitter": true,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_maygjhk",
+            "score": -8,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/AndrewFrozzen",
+                "body": "Do you work in the government? If yes, then ask for a replacement.\n\nIf not, you shouldn't care. As a citizen, you can freely use it.",
+                "body_html": "<div class=\"md\"><p>Do you work in the government? If yes, then ask for a replacement.</p>\n\n<p>If not, you shouldn&#39;t care. As a citizen, you can freely use it.</p>\n</div>",
+                "created_utc": "2025-02-04 19:06:51",
+                "distinguished": null,
+                "edited": false,
+                "id": "maym0fz",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayhezd",
+                "score": 4,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/Sheree_PancakeLover",
+                "body": "It\u2019s almost like China and the US have an antagonistic relationship.",
+                "body_html": "<div class=\"md\"><p>It\u2019s almost like China and the US have an antagonistic relationship.</p>\n</div>",
+                "created_utc": "2025-02-04 23:16:37",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb02io5",
+                "is_submitter": false,
+                "link_id": "t3_1ihn9a6",
+                "parent_id": "t1_mayhezd",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/dgpaul10",
+        "body": "Don't see anything wrong with banning usage of certain tools on government devices. People can just pull out their personal cell phone/computer and use it.",
+        "body_html": "<div class=\"md\"><p>Don&#39;t see anything wrong with banning usage of certain tools on government devices. People can just pull out their personal cell phone/computer and use it.</p>\n</div>",
+        "created_utc": "2025-02-04 22:32:28",
+        "distinguished": null,
+        "edited": false,
+        "id": "maztg4s",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Tyrannosaurusblanch",
+            "body": "It\u2019s for government business.",
+            "body_html": "<div class=\"md\"><p>It\u2019s for government business.</p>\n</div>",
+            "created_utc": "2025-02-04 23:28:32",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb04un5",
+            "is_submitter": false,
+            "link_id": "t3_1ihn9a6",
+            "parent_id": "t1_maztg4s",
+            "score": 0,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/ZeeRa2007",
+        "body": "finally server will free up from people asking about obviously censored things",
+        "body_html": "<div class=\"md\"><p>finally server will free up from people asking about obviously censored things</p>\n</div>",
+        "created_utc": "2025-02-04 19:14:37",
+        "distinguished": null,
+        "edited": false,
+        "id": "maynp9x",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Afraid_Computer5687",
+        "body": "And ChatGPT with open ai having a board member who is a NSA director isn't a security risk \ud83e\udd21",
+        "body_html": "<div class=\"md\"><p>And ChatGPT with open ai having a board member who is a NSA director isn&#39;t a security risk \ud83e\udd21</p>\n</div>",
+        "created_utc": "2025-02-04 19:38:34",
+        "distinguished": null,
+        "edited": false,
+        "id": "mayst1z",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Galrentv",
+        "body": "The issue with the security of government devices is there will always be a couple of people extremely negligent with it",
+        "body_html": "<div class=\"md\"><p>The issue with the security of government devices is there will always be a couple of people extremely negligent with it</p>\n</div>",
+        "created_utc": "2025-02-04 19:39:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "maysy9j",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/HiddenPalm",
+        "body": "Its just government computers. Im sure the Australian people are eagerly waiting for DeepSeek to fix the search feature just like the rest of the world. Ain't nobody got $200 a month to pay OpenAI for a think outloud feature.",
+        "body_html": "<div class=\"md\"><p>Its just government computers. Im sure the Australian people are eagerly waiting for DeepSeek to fix the search feature just like the rest of the world. Ain&#39;t nobody got $200 a month to pay OpenAI for a think outloud feature.</p>\n</div>",
+        "created_utc": "2025-02-04 19:58:03",
+        "distinguished": null,
+        "edited": false,
+        "id": "mayx1rp",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/baloblack",
+        "body": "This war will still be won by open source....the community that builds in silence",
+        "body_html": "<div class=\"md\"><p>This war will still be won by open source....the community that builds in silence</p>\n</div>",
+        "created_utc": "2025-02-04 20:50:35",
+        "distinguished": null,
+        "edited": false,
+        "id": "maz89mz",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/undermaster__",
+        "body": "What's up with banning DeepSeek? It's literally open-source; you cannot just ban it. But sure, at least I won't get things like \"Server is busy\" with fewer people using it.",
+        "body_html": "<div class=\"md\"><p>What&#39;s up with banning DeepSeek? It&#39;s literally open-source; you cannot just ban it. But sure, at least I won&#39;t get things like &quot;Server is busy&quot; with fewer people using it.</p>\n</div>",
+        "created_utc": "2025-02-04 20:57:44",
+        "distinguished": null,
+        "edited": false,
+        "id": "maz9rtr",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/TheyCallMeDozer",
+        "body": "I understand not allowing the app or web app out of fear mongering\u2026. but outwriting banning it, meaning even local hosted models are banned\u2026 you have a better chance of getting something dodgy on your system playing the ad bloated solitaire games that are installed on Windows systems then you do from running a local Deep Seek model through something like Ollama... the most dangerous thing the code could do is generate scripts to do dodgy stuff",
+        "body_html": "<div class=\"md\"><p>I understand not allowing the app or web app out of fear mongering\u2026. but outwriting banning it, meaning even local hosted models are banned\u2026 you have a better chance of getting something dodgy on your system playing the ad bloated solitaire games that are installed on Windows systems then you do from running a local Deep Seek model through something like Ollama... the most dangerous thing the code could do is generate scripts to do dodgy stuff</p>\n</div>",
+        "created_utc": "2025-02-04 20:58:03",
+        "distinguished": null,
+        "edited": false,
+        "id": "maz9u7c",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Nadie_AZ",
+        "body": "So what I am to take from this is I need to set up it on a standalone system at home so I can use it without politics getting in the way.\n\nI just wish I had a system that could do it.",
+        "body_html": "<div class=\"md\"><p>So what I am to take from this is I need to set up it on a standalone system at home so I can use it without politics getting in the way.</p>\n\n<p>I just wish I had a system that could do it.</p>\n</div>",
+        "created_utc": "2025-02-04 21:12:03",
+        "distinguished": null,
+        "edited": false,
+        "id": "mazcqri",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/RolandMurdoc",
+        "body": "Good thing I live in Mexico, where piracy is legal, and they are to dumb (In general) to care about this.",
+        "body_html": "<div class=\"md\"><p>Good thing I live in Mexico, where piracy is legal, and they are to dumb (In general) to care about this.</p>\n</div>",
+        "created_utc": "2025-02-04 21:13:26",
+        "distinguished": null,
+        "edited": false,
+        "id": "mazd0yd",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/ArandaBases",
+        "body": "I think \"outraging\" is probably a reach, except to the extent that everyone thinks everything is outraging now so why not this too.",
+        "body_html": "<div class=\"md\"><p>I think &quot;outraging&quot; is probably a reach, except to the extent that everyone thinks everything is outraging now so why not this too.</p>\n</div>",
+        "created_utc": "2025-02-04 22:33:41",
+        "distinguished": null,
+        "edited": false,
+        "id": "maztp9y",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/JungianJester",
+        "body": "Good! my API should run faster then.",
+        "body_html": "<div class=\"md\"><p>Good! my API should run faster then.</p>\n</div>",
+        "created_utc": "2025-02-04 22:40:23",
+        "distinguished": null,
+        "edited": false,
+        "id": "mazv35l",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/BotomsDntDeservRight",
+        "body": "Why this sub is surprised?",
+        "body_html": "<div class=\"md\"><p>Why this sub is surprised?</p>\n</div>",
+        "created_utc": "2025-02-04 23:03:50",
+        "distinguished": null,
+        "edited": false,
+        "id": "mazzyad",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "[deleted]",
+        "body": "Eh whatever, as an Australian we already got a fuck load of issues with this country.",
+        "body_html": "<div class=\"md\"><p>Eh whatever, as an Australian we already got a fuck load of issues with this country.</p>\n</div>",
+        "created_utc": "2025-02-04 23:04:46",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb0053d",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/SurealOrNotSureal",
+        "body": "The SBS Report said it's decision to ban deepseek was the result of \"country agnostic policy\", but why then hasn't  it banned US based. Chatbot AI Llms ? \nThe have the exact same vulnerability to gov censorship and influence. \n\nEg: try asking the US counterparts about \nThe trump election or the jan6 inserection.  \n\nIt's concerns may be valid, but they are just as valid for US apps, \n\nAnd  let's face it,\n If those precise concerns are implimented in a country's agnostic national security policy.\n They should definitely be banning \n#MurkyMurdochsPropagandaNetwork apps. #Skynews #Foxnews. US based Social Media. Etc.. \n That all Blatently engaged in covert data collection and political interference.\n\n#Justsayin",
+        "body_html": "<div class=\"md\"><p>The SBS Report said it&#39;s decision to ban deepseek was the result of &quot;country agnostic policy&quot;, but why then hasn&#39;t  it banned US based. Chatbot AI Llms ? \nThe have the exact same vulnerability to gov censorship and influence. </p>\n\n<p>Eg: try asking the US counterparts about \nThe trump election or the jan6 inserection.  </p>\n\n<p>It&#39;s concerns may be valid, but they are just as valid for US apps, </p>\n\n<p>And  let&#39;s face it,\n If those precise concerns are implimented in a country&#39;s agnostic national security policy.\n They should definitely be banning </p>\n\n<h1>MurkyMurdochsPropagandaNetwork apps. #Skynews #Foxnews. US based Social Media. Etc..</h1>\n\n<p>That all Blatently engaged in covert data collection and political interference.</p>\n\n<h1>Justsayin</h1>\n</div>",
+        "created_utc": "2025-02-04 23:08:10",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb00tqy",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Mountain_Ad6328",
+        "body": "Hurting big tech profits thats why imagine 1 trillion lose.",
+        "body_html": "<div class=\"md\"><p>Hurting big tech profits thats why imagine 1 trillion lose.</p>\n</div>",
+        "created_utc": "2025-02-04 23:11:25",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb01h4d",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Shot_Acanthisitta824",
+        "body": "ever used HUAWEI?\n\nhaha i did and US banned it and forced their client states to ban it too. i still love HUAWEI but the thing is if any ameeican company cant compete it will resort to ban",
+        "body_html": "<div class=\"md\"><p>ever used HUAWEI?</p>\n\n<p>haha i did and US banned it and forced their client states to ban it too. i still love HUAWEI but the thing is if any ameeican company cant compete it will resort to ban</p>\n</div>",
+        "created_utc": "2025-02-04 23:13:49",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb01ya4",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/butihearviolins",
+        "body": "The ratings while ChatGPT is at 4.9!  \nDeepSeek is so superior to ChatGPT, at least for what I use it, that it's not even a competition at this point.",
+        "body_html": "<div class=\"md\"><p>The ratings while ChatGPT is at 4.9!<br/>\nDeepSeek is so superior to ChatGPT, at least for what I use it, that it&#39;s not even a competition at this point.</p>\n</div>",
+        "created_utc": "2025-02-04 23:15:01",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb026ze",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Medium-Payment-8037",
+        "body": "You realize a lot more are banned on government devices, right?",
+        "body_html": "<div class=\"md\"><p>You realize a lot more are banned on government devices, right?</p>\n</div>",
+        "created_utc": "2025-02-04 23:33:59",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb05x43",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Sapling-074",
+        "body": "You can't do a lot of things on a government device. I don't even think your allowed to play Pokemon Go.This is not that strange for any country.",
+        "body_html": "<div class=\"md\"><p>You can&#39;t do a lot of things on a government device. I don&#39;t even think your allowed to play Pokemon Go.This is not that strange for any country.</p>\n</div>",
+        "created_utc": "2025-02-04 23:44:18",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb07xs6",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/djaybe",
+        "body": "Meanwhile perplexity.ai is hosting R1 models in US & EU and integrated it by default this week.",
+        "body_html": "<div class=\"md\"><p>Meanwhile perplexity.ai is hosting R1 models in US &amp; EU and integrated it by default this week.</p>\n</div>",
+        "created_utc": "2025-02-05 00:49:57",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb0jztr",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/kongweeneverdie",
+        "body": "India are downloading the source code like crazy.",
+        "body_html": "<div class=\"md\"><p>India are downloading the source code like crazy.</p>\n</div>",
+        "created_utc": "2025-02-05 01:07:25",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb0n4gl",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/SlowEnvironment3105",
+        "body": "Anyway,as a Chinese,a lower flow is much better for me to use deepseek.",
+        "body_html": "<div class=\"md\"><p>Anyway,as a Chinese,a lower flow is much better for me to use deepseek.</p>\n</div>",
+        "created_utc": "2025-02-05 01:22:25",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb0pt36",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/livejamie",
+        "body": "Who cares about what a government wants on its government-provided devices for its employees?\n\nThat's fair game.",
+        "body_html": "<div class=\"md\"><p>Who cares about what a government wants on its government-provided devices for its employees?</p>\n\n<p>That&#39;s fair game.</p>\n</div>",
+        "created_utc": "2025-02-05 01:41:26",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb0t8oi",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/mateusjay954",
+        "body": "You want to use it as a government official\u2026?",
+        "body_html": "<div class=\"md\"><p>You want to use it as a government official\u2026?</p>\n</div>",
+        "created_utc": "2025-02-05 01:48:46",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb0ukey",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/CypLeviathan",
+        "body": "The installation of ANY software that isn't needed on ANY device that has access to, or processes sensitive data, especially government devices is always a good idea.\n\nBe that AI or anything else. \n\nWhy do people seem outraged by this?",
+        "body_html": "<div class=\"md\"><p>The installation of ANY software that isn&#39;t needed on ANY device that has access to, or processes sensitive data, especially government devices is always a good idea.</p>\n\n<p>Be that AI or anything else. </p>\n\n<p>Why do people seem outraged by this?</p>\n</div>",
+        "created_utc": "2025-02-05 02:17:18",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb0zvez",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/StandardStretch7430",
+        "body": "it is a open source project, you can check the code by every single word, what are you afraid of \uff1f",
+        "body_html": "<div class=\"md\"><p>it is a open source project, you can check the code by every single word, what are you afraid of \uff1f</p>\n</div>",
+        "created_utc": "2025-02-05 10:51:20",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb2y6ig",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/SurealOrNotSureal",
+        "body": "If any app deserving of banning  because of its threat the national  security. \nIid be starting with X, twitter. \n Moving to banning anything connected  with any connection to #MurkyMurdochsPropagandaNetwork ...\nHave you ever tried asking Gemini anything to do with trumps election  or his jan 6 inserection.  \nLoL ...\n\nWe are in the midst of the 3rd world War\nIt's an Economic/ Tech,  war \nAnd the American empire is in rapid decline .in case you hadent noticed the US is loosing that war. \nAnd this right here  is the front line .",
+        "body_html": "<div class=\"md\"><p>If any app deserving of banning  because of its threat the national  security. \nIid be starting with X, twitter. \n Moving to banning anything connected  with any connection to #MurkyMurdochsPropagandaNetwork ...\nHave you ever tried asking Gemini anything to do with trumps election  or his jan 6 inserection.<br/>\nLoL ...</p>\n\n<p>We are in the midst of the 3rd world War\nIt&#39;s an Economic/ Tech,  war \nAnd the American empire is in rapid decline .in case you hadent noticed the US is loosing that war. \nAnd this right here  is the front line .</p>\n</div>",
+        "created_utc": "2025-02-05 11:46:06",
+        "distinguished": null,
+        "edited": "2025-02-05 11:53:02",
+        "id": "mb33jtg",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Due-Memory-6957",
+        "body": "Not the whole world, US and it's allies. Working just fine for me in Brazil and no one is talking about banning it.",
+        "body_html": "<div class=\"md\"><p>Not the whole world, US and it&#39;s allies. Working just fine for me in Brazil and no one is talking about banning it.</p>\n</div>",
+        "created_utc": "2025-02-05 13:40:59",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb3h34s",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/LooseCuseJuice44",
+        "body": "This is the game now. It\u2019s ridiculous.",
+        "body_html": "<div class=\"md\"><p>This is the game now. It\u2019s ridiculous.</p>\n</div>",
+        "created_utc": "2025-02-05 14:57:25",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb3t2zi",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/markosolo",
+        "body": "Outrageous*",
+        "body_html": "<div class=\"md\"><p>Outrageous*</p>\n</div>",
+        "created_utc": "2025-02-05 15:21:00",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb3x9wv",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/xcviij",
+        "body": "Australia is banning it for government use, which is logical and smart. Why hate on this??",
+        "body_html": "<div class=\"md\"><p>Australia is banning it for government use, which is logical and smart. Why hate on this??</p>\n</div>",
+        "created_utc": "2025-02-05 22:40:22",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb6j1lb",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/4ss4ssinscr33d",
+        "body": "This sub is literally just anti-Western, pro-Chinese brainrot lmaooo",
+        "body_html": "<div class=\"md\"><p>This sub is literally just anti-Western, pro-Chinese brainrot lmaooo</p>\n</div>",
+        "created_utc": "2025-02-06 06:13:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb8te45",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Trick-Combination-37",
+        "body": "Can't let China win the AI race",
+        "body_html": "<div class=\"md\"><p>Can&#39;t let China win the AI race</p>\n</div>",
+        "created_utc": "2025-02-04 18:56:55",
+        "distinguished": null,
+        "edited": false,
+        "id": "mayjuix",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/United_Grocery_23",
+        "body": "wtf is that \"deepseek coin\" and \"deepseek ai crypto\" search recommendation bro",
+        "body_html": "<div class=\"md\"><p>wtf is that &quot;deepseek coin&quot; and &quot;deepseek ai crypto&quot; search recommendation bro</p>\n</div>",
+        "created_utc": "2025-02-04 19:00:30",
+        "distinguished": null,
+        "edited": false,
+        "id": "maykmym",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Entire_Ride_9952",
+        "body": "It's Australia dude \ud83d\udc80 they can't be more rude than that \ud83d\ude0fthe land of great risks .....",
+        "body_html": "<div class=\"md\"><p>It&#39;s Australia dude \ud83d\udc80 they can&#39;t be more rude than that \ud83d\ude0fthe land of great risks .....</p>\n</div>",
+        "created_utc": "2025-02-05 02:18:55",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb1069q",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/thefirebrigades",
+        "body": "Remember the Huawei 5G tech ban?\n\nThe product was thoroughly examined. Just like DeepSeek is open source can its code can be examined.\n\nThe ban is purely political, its not rational. \n\nThat does not matter, the target audience is not the west. China always aims at the developing nations in the world for their markets and the strategy has always been to take the global market while the west erect bans, sanctions, tariffs, etc.",
+        "body_html": "<div class=\"md\"><p>Remember the Huawei 5G tech ban?</p>\n\n<p>The product was thoroughly examined. Just like DeepSeek is open source can its code can be examined.</p>\n\n<p>The ban is purely political, its not rational. </p>\n\n<p>That does not matter, the target audience is not the west. China always aims at the developing nations in the world for their markets and the strategy has always been to take the global market while the west erect bans, sanctions, tariffs, etc.</p>\n</div>",
+        "created_utc": "2025-02-04 22:21:24",
+        "distinguished": null,
+        "edited": false,
+        "id": "mazr3r8",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/mersalee",
+        "body": "what hasn't Australia banned ?",
+        "body_html": "<div class=\"md\"><p>what hasn&#39;t Australia banned ?</p>\n</div>",
+        "created_utc": "2025-02-04 18:59:11",
+        "distinguished": null,
+        "edited": false,
+        "id": "maykcbi",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": -1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/NSLsuckCock",
+        "body": "More like Deepsuck!! \ud83c\udde8\ud83c\uddf3\ud83d\udc15\ud83d\udca9",
+        "body_html": "<div class=\"md\"><p>More like Deepsuck!! \ud83c\udde8\ud83c\uddf3\ud83d\udc15\ud83d\udca9</p>\n</div>",
+        "created_utc": "2025-02-05 10:13:27",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb2ulkb",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Total_Brick_2416",
+        "body": "Banning it on government devices is not a bad thing lmao. China is an authoritarian government that can access DeepSeek\u2019s data if they want to.",
+        "body_html": "<div class=\"md\"><p>Banning it on government devices is not a bad thing lmao. China is an authoritarian government that can access DeepSeek\u2019s data if they want to.</p>\n</div>",
+        "created_utc": "2025-02-05 13:00:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb3btfy",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/n627",
+        "body": "Typical headlines when ever China makes a solid product. lol",
+        "body_html": "<div class=\"md\"><p>Typical headlines when ever China makes a solid product. lol</p>\n</div>",
+        "created_utc": "2025-02-04 20:11:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "mayzvpn",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": -1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Almani_it",
+        "body": "they are scared like hell",
+        "body_html": "<div class=\"md\"><p>they are scared like hell</p>\n</div>",
+        "created_utc": "2025-02-04 21:15:19",
+        "distinguished": null,
+        "edited": false,
+        "id": "mazdewr",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": -1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Capital_Angle_8174",
+        "body": "This is xi ying Ping inguiring about your cara extendes square",
+        "body_html": "<div class=\"md\"><p>This is xi ying Ping inguiring about your cara extendes square</p>\n</div>",
+        "created_utc": "2025-02-05 02:52:49",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb16jkc",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": -1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Glum-Squirrel5887",
+        "body": "It\u2019s understandable",
+        "body_html": "<div class=\"md\"><p>It\u2019s understandable</p>\n</div>",
+        "created_utc": "2025-02-05 03:43:37",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb1fvfm",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": -2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/rykite",
+        "body": "Honestly tried DS and was not that impressed. If any govt in any country bans an app, they have their reasons whether the civilians agrees or not. Should we start talking about firewalls next?",
+        "body_html": "<div class=\"md\"><p>Honestly tried DS and was not that impressed. If any govt in any country bans an app, they have their reasons whether the civilians agrees or not. Should we start talking about firewalls next?</p>\n</div>",
+        "created_utc": "2025-02-05 04:11:20",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb1kw6x",
+        "is_submitter": false,
+        "link_id": "t3_1ihn9a6",
+        "parent_id": "t3_1ihn9a6",
+        "score": -2,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

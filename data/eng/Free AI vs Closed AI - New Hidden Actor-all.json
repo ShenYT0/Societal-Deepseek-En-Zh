@@ -1,0 +1,936 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1id9gyo/free_ai_vs_closed_ai_new_hidden_actor/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/bi4key",
+      "created_utc": "2025-01-30 01:37:42",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Funny",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 60,
+      "permalink": "/r/DeepSeek/comments/1id9gyo/free_ai_vs_closed_ai_new_hidden_actor/",
+      "score": 605,
+      "selftext": "\nNew info:  https://www.reddit.com/r/LateStageCapitalism/s/Ust9AKlUCa",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "Free AI vs Closed AI - New Hidden Actor",
+      "upvote_ratio": 0.97
+    },
+    "comments": [
+      {
+        "author": "u/Prudent_Quantity_744",
+        "body": "Open source for life. Go China.",
+        "body_html": "<div class=\"md\"><p>Open source for life. Go China.</p>\n</div>",
+        "created_utc": "2025-01-30 10:30:43",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9zfr81",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": 44,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Top_Truth3343",
+            "body": "In all honesty, the very fact that a democratic country is pushing against AI open source, and the fact that deepseek-r1 released on the same day that trump announced 500 billion dollars in the white house, will make it absolutely no coincidence that deepseek could potentially make it with a hidden agenda.\n\nAnother possibility is that it was an actual coincidence, which would be even more surprising. If it is a coincidence, then it has nothing to do with nationality. It would simply be clever engineers somewhere in the world figured out how to make great ai. Everything in the end goes back to nationalism. If the product is free, you are the product, perhaps the people who worked on deepseek in china, shorted the stock market before releasing r1, and their plan to make money, pre-knowingly that the stock market would crash by releasing the model, perhaps that was the actual incentive. (Remember, they are originally engineers who work in economics, and trading algorithms, so this is not from the realm of impossibility).\n\nI do not think the chinese government will allow open source ai to develop, they want it all for themselves on how to control the population. However, they could also have overseen the possibility that if USA closed off their ai code, and seen that they are being in disadvantage, they could have secretly funded this project, and made the ai software open source, in order to make it so other countries develop stronger ai, out of spite to prevent USA from being the sole dominant country in having ai. However, that requires a lot of oversight, and we already marched on the ream of conspiracy theory. So the only likely outcome is the latter, which is shorting the stock market to make profit out of the chaos. No hidden agendas, just business people trying to find out how to make a buck.",
+            "body_html": "<div class=\"md\"><p>In all honesty, the very fact that a democratic country is pushing against AI open source, and the fact that deepseek-r1 released on the same day that trump announced 500 billion dollars in the white house, will make it absolutely no coincidence that deepseek could potentially make it with a hidden agenda.</p>\n\n<p>Another possibility is that it was an actual coincidence, which would be even more surprising. If it is a coincidence, then it has nothing to do with nationality. It would simply be clever engineers somewhere in the world figured out how to make great ai. Everything in the end goes back to nationalism. If the product is free, you are the product, perhaps the people who worked on deepseek in china, shorted the stock market before releasing r1, and their plan to make money, pre-knowingly that the stock market would crash by releasing the model, perhaps that was the actual incentive. (Remember, they are originally engineers who work in economics, and trading algorithms, so this is not from the realm of impossibility).</p>\n\n<p>I do not think the chinese government will allow open source ai to develop, they want it all for themselves on how to control the population. However, they could also have overseen the possibility that if USA closed off their ai code, and seen that they are being in disadvantage, they could have secretly funded this project, and made the ai software open source, in order to make it so other countries develop stronger ai, out of spite to prevent USA from being the sole dominant country in having ai. However, that requires a lot of oversight, and we already marched on the ream of conspiracy theory. So the only likely outcome is the latter, which is shorting the stock market to make profit out of the chaos. No hidden agendas, just business people trying to find out how to make a buck.</p>\n</div>",
+            "created_utc": "2025-01-31 03:02:04",
+            "distinguished": null,
+            "edited": "2025-01-31 03:08:44",
+            "id": "ma4h77c",
+            "is_submitter": false,
+            "link_id": "t3_1id9gyo",
+            "parent_id": "t1_m9zfr81",
+            "score": 0,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Communist-Menace",
+                "body": "> If the product is free, you are the product\n\nYou could say that for apps like Facebook and Twitter, but they are not open source. \n\nThere are plenty of programs that are free and open-source, and you are not the product. Your statement is just stupid. You are just spewing jargon without understanding it.",
+                "body_html": "<div class=\"md\"><blockquote>\n<p>If the product is free, you are the product</p>\n</blockquote>\n\n<p>You could say that for apps like Facebook and Twitter, but they are not open source. </p>\n\n<p>There are plenty of programs that are free and open-source, and you are not the product. Your statement is just stupid. You are just spewing jargon without understanding it.</p>\n</div>",
+                "created_utc": "2025-01-31 16:29:39",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma7igpt",
+                "is_submitter": false,
+                "link_id": "t3_1id9gyo",
+                "parent_id": "t1_ma4h77c",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/Gwentlique",
+                "body": ">...If the product is free, you are the product.\n\nSure when it comes to surveillance capitalism and advertisement, but open source software that is both free as in beer and free as in speech has been a thing almost as long as we've had computers.\n\nIf you download a linux distro and install it on your PC, you're not a product. It's free, it's open source, and it doesn't monetize your data.",
+                "body_html": "<div class=\"md\"><blockquote>\n<p>...If the product is free, you are the product.</p>\n</blockquote>\n\n<p>Sure when it comes to surveillance capitalism and advertisement, but open source software that is both free as in beer and free as in speech has been a thing almost as long as we&#39;ve had computers.</p>\n\n<p>If you download a linux distro and install it on your PC, you&#39;re not a product. It&#39;s free, it&#39;s open source, and it doesn&#39;t monetize your data.</p>\n</div>",
+                "created_utc": "2025-02-04 11:02:11",
+                "distinguished": null,
+                "edited": false,
+                "id": "mawd93u",
+                "is_submitter": false,
+                "link_id": "t3_1id9gyo",
+                "parent_id": "t1_ma4h77c",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/binuuday",
+        "body": "Deepseek already banned in Italy, Its a matter of time before it gets banned in other countries. OpenAI is actually closed, stole our work to train its model, now blaming deepseek.",
+        "body_html": "<div class=\"md\"><p>Deepseek already banned in Italy, Its a matter of time before it gets banned in other countries. OpenAI is actually closed, stole our work to train its model, now blaming deepseek.</p>\n</div>",
+        "created_utc": "2025-01-30 05:30:02",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9yhitu",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": 49,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "[deleted]",
+            "body": "its not banned, its pulled back by DeepSeek themselves. they were questioned about proofs of respecting the gdpr which they don't since they explicitly say the data is stored in china, which breaks the gdpr. the authorities gave them 20 days to provide proof and deepseek pulled back the app.\n\ni believe deepseek is busy with the load and the attacks and cant dedicate time for gdpr for now and when they can it'll be back. that's my hope at least. if it doesn't return then....umm yeah that's a bad sign. i say that as a deepseek supporter but i wont prioritize a shiny toy over digital security. the ball is in deepseek's court now",
+            "body_html": "<div class=\"md\"><p>its not banned, its pulled back by DeepSeek themselves. they were questioned about proofs of respecting the gdpr which they don&#39;t since they explicitly say the data is stored in china, which breaks the gdpr. the authorities gave them 20 days to provide proof and deepseek pulled back the app.</p>\n\n<p>i believe deepseek is busy with the load and the attacks and cant dedicate time for gdpr for now and when they can it&#39;ll be back. that&#39;s my hope at least. if it doesn&#39;t return then....umm yeah that&#39;s a bad sign. i say that as a deepseek supporter but i wont prioritize a shiny toy over digital security. the ball is in deepseek&#39;s court now</p>\n</div>",
+            "created_utc": "2025-01-30 15:41:22",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma0kxvo",
+            "is_submitter": false,
+            "link_id": "t3_1id9gyo",
+            "parent_id": "t1_m9yhitu",
+            "score": 6,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/xqoe",
+            "body": "Italians manages to access it anyway with VPN or different provider (self-hosting, Chute, Openrouter...)? Or government has really hard blocked access?\n\nItalians are the only one in the world to have banned it nation-wide or not?",
+            "body_html": "<div class=\"md\"><p>Italians manages to access it anyway with VPN or different provider (self-hosting, Chute, Openrouter...)? Or government has really hard blocked access?</p>\n\n<p>Italians are the only one in the world to have banned it nation-wide or not?</p>\n</div>",
+            "created_utc": "2025-01-30 11:29:40",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9zli61",
+            "is_submitter": false,
+            "link_id": "t3_1id9gyo",
+            "parent_id": "t1_m9yhitu",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/mastercreeper66",
+                "body": "The app just got removed from Italian App Store, it is still possible to use DeepSeek from the website or if you already had the app installed",
+                "body_html": "<div class=\"md\"><p>The app just got removed from Italian App Store, it is still possible to use DeepSeek from the website or if you already had the app installed</p>\n</div>",
+                "created_utc": "2025-01-30 13:30:09",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9zzbsj",
+                "is_submitter": false,
+                "link_id": "t3_1id9gyo",
+                "parent_id": "t1_m9zli61",
+                "score": 7,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/ValerioLundini",
+                    "body": "it\u2019s banned in italy for the same reason chatgpt was at the start, it\u2019s for the GDPR, but it\u2019s just the app removed from the app store, i still have it downloaded and it\u2019s still accessible from browser",
+                    "body_html": "<div class=\"md\"><p>it\u2019s banned in italy for the same reason chatgpt was at the start, it\u2019s for the GDPR, but it\u2019s just the app removed from the app store, i still have it downloaded and it\u2019s still accessible from browser</p>\n</div>",
+                    "created_utc": "2025-01-30 15:23:44",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma0ho7d",
+                    "is_submitter": false,
+                    "link_id": "t3_1id9gyo",
+                    "parent_id": "t1_m9zzbsj",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/zano19724",
+                    "body": "I thought this was a global thing. Is it only italy?",
+                    "body_html": "<div class=\"md\"><p>I thought this was a global thing. Is it only italy?</p>\n</div>",
+                    "created_utc": "2025-01-30 15:01:55",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma0dqwy",
+                    "is_submitter": false,
+                    "link_id": "t3_1id9gyo",
+                    "parent_id": "t1_m9zzbsj",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/andreamp0",
+                        "body": "for now",
+                        "body_html": "<div class=\"md\"><p>for now</p>\n</div>",
+                        "created_utc": "2025-01-30 21:04:57",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma2hx0q",
+                        "is_submitter": false,
+                        "link_id": "t3_1id9gyo",
+                        "parent_id": "t1_ma0dqwy",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/Pasta-hobo",
+            "body": "Isn't Deepseek banned due to copyright issues, or is that something else?",
+            "body_html": "<div class=\"md\"><p>Isn&#39;t Deepseek banned due to copyright issues, or is that something else?</p>\n</div>",
+            "created_utc": "2025-01-30 06:44:00",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9yrv3t",
+            "is_submitter": false,
+            "link_id": "t3_1id9gyo",
+            "parent_id": "t1_m9yhitu",
+            "score": -22,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "[deleted]",
+                "body": "If you are worried by Copyright with LLMs, I got news for you fam.",
+                "body_html": "<div class=\"md\"><p>If you are worried by Copyright with LLMs, I got news for you fam.</p>\n</div>",
+                "created_utc": "2025-01-30 19:45:19",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma20jm4",
+                "is_submitter": false,
+                "link_id": "t3_1id9gyo",
+                "parent_id": "t1_m9yrv3t",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Pasta-hobo",
+                    "body": "I know, I'm asking if the copyright issues are the reason it got banned in Italy",
+                    "body_html": "<div class=\"md\"><p>I know, I&#39;m asking if the copyright issues are the reason it got banned in Italy</p>\n</div>",
+                    "created_utc": "2025-01-30 19:46:07",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma20q0t",
+                    "is_submitter": false,
+                    "link_id": "t3_1id9gyo",
+                    "parent_id": "t1_ma20jm4",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "[deleted]",
+                        "body": "Probably not, because if that's the case most LLM would be banned. \n\nI don't know much about why",
+                        "body_html": "<div class=\"md\"><p>Probably not, because if that&#39;s the case most LLM would be banned. </p>\n\n<p>I don&#39;t know much about why</p>\n</div>",
+                        "created_utc": "2025-01-30 19:49:16",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma21ezh",
+                        "is_submitter": false,
+                        "link_id": "t3_1id9gyo",
+                        "parent_id": "t1_ma20q0t",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Pasta-hobo",
+                            "body": "Wasn't ChatGPT banned in Italy for copyright issues?",
+                            "body_html": "<div class=\"md\"><p>Wasn&#39;t ChatGPT banned in Italy for copyright issues?</p>\n</div>",
+                            "created_utc": "2025-01-30 19:49:42",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma21iev",
+                            "is_submitter": false,
+                            "link_id": "t3_1id9gyo",
+                            "parent_id": "t1_ma21ezh",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/xqoe",
+        "body": "Theres a lot of other 3 letters agencies",
+        "body_html": "<div class=\"md\"><p>Theres a lot of other 3 letters agencies</p>\n</div>",
+        "created_utc": "2025-01-30 11:28:39",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9zlejw",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": 5,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/The_Mauldalorian",
+        "body": "so the free and open source movement was communist all along? gee who would've thought",
+        "body_html": "<div class=\"md\"><p>so the free and open source movement was communist all along? gee who would&#39;ve thought</p>\n</div>",
+        "created_utc": "2025-01-30 12:37:45",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9zsq6x",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": 4,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Sylvia-the-Spy",
+            "body": "China isn\u2019t even communist",
+            "body_html": "<div class=\"md\"><p>China isn\u2019t even communist</p>\n</div>",
+            "created_utc": "2025-01-30 18:48:28",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma1o3jn",
+            "is_submitter": false,
+            "link_id": "t3_1id9gyo",
+            "parent_id": "t1_m9zsq6x",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Strong_Appeal7",
+                "body": "Exactly, they have invested so early in tech and now they get their ROI, that's what capitalists do.",
+                "body_html": "<div class=\"md\"><p>Exactly, they have invested so early in tech and now they get their ROI, that&#39;s what capitalists do.</p>\n</div>",
+                "created_utc": "2025-01-31 05:31:45",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma5671o",
+                "is_submitter": false,
+                "link_id": "t3_1id9gyo",
+                "parent_id": "t1_ma1o3jn",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/ChickenNugget267",
+                "body": "\"Socialism with Chinese Characteristics\" same difference. It's not some fantasy anarchist utopia but it's the closest thing we have that's a viable alternative to captialism. And it can be reformed to be better and is being reformed into becoming better. Can't say the same for any of the liberal states ultras seem to prefer.",
+                "body_html": "<div class=\"md\"><p>&quot;Socialism with Chinese Characteristics&quot; same difference. It&#39;s not some fantasy anarchist utopia but it&#39;s the closest thing we have that&#39;s a viable alternative to captialism. And it can be reformed to be better and is being reformed into becoming better. Can&#39;t say the same for any of the liberal states ultras seem to prefer.</p>\n</div>",
+                "created_utc": "2025-02-02 15:49:30",
+                "distinguished": null,
+                "edited": false,
+                "id": "mak680s",
+                "is_submitter": false,
+                "link_id": "t3_1id9gyo",
+                "parent_id": "t1_ma1o3jn",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Sylvia-the-Spy",
+                    "body": "\u201cSocialism with Chinese characteristics\u201d is a euphemism for capitalism",
+                    "body_html": "<div class=\"md\"><p>\u201cSocialism with Chinese characteristics\u201d is a euphemism for capitalism</p>\n</div>",
+                    "created_utc": "2025-02-02 20:56:44",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "malz4u1",
+                    "is_submitter": false,
+                    "link_id": "t3_1id9gyo",
+                    "parent_id": "t1_mak680s",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/ChickenNugget267",
+                        "body": "Maybe you should educate yourself on Chinese economics and read some actual Marxist theory, lol\n\nYour idealism does more to serve capitalism and fascism than anything else.",
+                        "body_html": "<div class=\"md\"><p>Maybe you should educate yourself on Chinese economics and read some actual Marxist theory, lol</p>\n\n<p>Your idealism does more to serve capitalism and fascism than anything else.</p>\n</div>",
+                        "created_utc": "2025-02-02 21:30:01",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mam63mv",
+                        "is_submitter": false,
+                        "link_id": "t3_1id9gyo",
+                        "parent_id": "t1_malz4u1",
+                        "score": 2,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Sylvia-the-Spy",
+                            "body": "Marx's writings basically do nothing to describe modern Chinese development. It's as though Silicon Valley replaced their buzzwords with \"maoist ideals\" and \"people's development\"\n\nThough the US and China hate each other for their differences, Their similarities are even more frightening",
+                            "body_html": "<div class=\"md\"><p>Marx&#39;s writings basically do nothing to describe modern Chinese development. It&#39;s as though Silicon Valley replaced their buzzwords with &quot;maoist ideals&quot; and &quot;people&#39;s development&quot;</p>\n\n<p>Though the US and China hate each other for their differences, Their similarities are even more frightening</p>\n</div>",
+                            "created_utc": "2025-02-02 22:44:27",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mamld8g",
+                            "is_submitter": false,
+                            "link_id": "t3_1id9gyo",
+                            "parent_id": "t1_mam63mv",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/ChickenNugget267",
+                                "body": "Again, I suggest you actually study Chinese economics and put away the Time magazines and other bourgeois propaganda.\n\nMarx encouraged people to think with in terms of dialectical materialism. Look up what both those words mean because you clearly don't understand it.",
+                                "body_html": "<div class=\"md\"><p>Again, I suggest you actually study Chinese economics and put away the Time magazines and other bourgeois propaganda.</p>\n\n<p>Marx encouraged people to think with in terms of dialectical materialism. Look up what both those words mean because you clearly don&#39;t understand it.</p>\n</div>",
+                                "created_utc": "2025-02-02 22:47:06",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mamlwlv",
+                                "is_submitter": false,
+                                "link_id": "t3_1id9gyo",
+                                "parent_id": "t1_mamld8g",
+                                "score": 2,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/Sylvia-the-Spy",
+                                    "body": "Chinese economics students much more brilliant than I have suggested Jeff Bezos be called the world's greatest Marxist because of how successful his businesses are, based on the definitions they're taught. \n\n  \nIn modern China, dialectical materialism effectively translates to whoever is improving society the most with their business. Factory owners and CEOs are the best Marxists because they provide good jobs to the Chinese people.",
+                                    "body_html": "<div class=\"md\"><p>Chinese economics students much more brilliant than I have suggested Jeff Bezos be called the world&#39;s greatest Marxist because of how successful his businesses are, based on the definitions they&#39;re taught. </p>\n\n<p>In modern China, dialectical materialism effectively translates to whoever is improving society the most with their business. Factory owners and CEOs are the best Marxists because they provide good jobs to the Chinese people.</p>\n</div>",
+                                    "created_utc": "2025-02-02 23:02:09",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "mamoykp",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1id9gyo",
+                                    "parent_id": "t1_mamlwlv",
+                                    "score": 1,
+                                    "stickied": false,
+                                    "replies": [
+                                      {
+                                        "author": "u/ChickenNugget267",
+                                        "body": "\ud83e\udd21",
+                                        "body_html": "<div class=\"md\"><p>\ud83e\udd21</p>\n</div>",
+                                        "created_utc": "2025-02-02 23:09:05",
+                                        "distinguished": null,
+                                        "edited": false,
+                                        "id": "mamqc49",
+                                        "is_submitter": false,
+                                        "link_id": "t3_1id9gyo",
+                                        "parent_id": "t1_mamoykp",
+                                        "score": 2,
+                                        "stickied": false,
+                                        "replies": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Budget-Exit2875",
+        "body": "Choose your camp, lol. Better train your own AI :/",
+        "body_html": "<div class=\"md\"><p>Choose your camp, lol. Better train your own AI :/</p>\n</div>",
+        "created_utc": "2025-01-30 09:52:20",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9zc5ba",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/msixtwofive",
+        "body": "Deepseek is most likely China's \"diplomatic\" response to Trump and his \"tariffs\" and other fascist nonsense going on in the west. China has built much of Its economy on tech and other manufacturing exports for the whole world. Trump and all this right wing populist trash is bad for their business model.\n\nEven though government communications channels are pretty secure I can guarantee you all the people spying for intelligence agencies inside the big tech companies are not being vetted the same way. And it's not like trump and his people are known for not flapping their lips in communications and wrong places either.\n\nIt's pretty obvious that in the buildup to the election trump went around dangling the 100s of billions of dollars in AI funding that was coming if the all kissed the ring.\n\nThe timing of deepseek's release probably isn't a coincidence.",
+        "body_html": "<div class=\"md\"><p>Deepseek is most likely China&#39;s &quot;diplomatic&quot; response to Trump and his &quot;tariffs&quot; and other fascist nonsense going on in the west. China has built much of Its economy on tech and other manufacturing exports for the whole world. Trump and all this right wing populist trash is bad for their business model.</p>\n\n<p>Even though government communications channels are pretty secure I can guarantee you all the people spying for intelligence agencies inside the big tech companies are not being vetted the same way. And it&#39;s not like trump and his people are known for not flapping their lips in communications and wrong places either.</p>\n\n<p>It&#39;s pretty obvious that in the buildup to the election trump went around dangling the 100s of billions of dollars in AI funding that was coming if the all kissed the ring.</p>\n\n<p>The timing of deepseek&#39;s release probably isn&#39;t a coincidence.</p>\n</div>",
+        "created_utc": "2025-01-31 15:12:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma73sl5",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Sylvia-the-Spy",
+        "body": "Nvidia? They released an open source AI so people would buy their cards",
+        "body_html": "<div class=\"md\"><p>Nvidia? They released an open source AI so people would buy their cards</p>\n</div>",
+        "created_utc": "2025-01-30 18:48:09",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma1o105",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Informal_Plankton321",
+        "body": "Interesting. But please remember that if something is free in the internet, then you are the product. \n\nI\u2019m not against any platform, but they have to pay the bills for staff, hardware, cover DC costs etc. If it\u2019s free then someone pays for it, either there\u2019s a gov related reason (impact US dominance/markets) or make money on the data.",
+        "body_html": "<div class=\"md\"><p>Interesting. But please remember that if something is free in the internet, then you are the product. </p>\n\n<p>I\u2019m not against any platform, but they have to pay the bills for staff, hardware, cover DC costs etc. If it\u2019s free then someone pays for it, either there\u2019s a gov related reason (impact US dominance/markets) or make money on the data.</p>\n</div>",
+        "created_utc": "2025-01-30 19:15:45",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma1u1og",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/LightBluepono",
+            "body": "Or you can pay AND be the product !",
+            "body_html": "<div class=\"md\"><p>Or you can pay AND be the product !</p>\n</div>",
+            "created_utc": "2025-01-31 08:33:31",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma5sktc",
+            "is_submitter": false,
+            "link_id": "t3_1id9gyo",
+            "parent_id": "t1_ma1u1og",
+            "score": 3,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Informal_Plankton321",
+                "body": "Where exactly? Google?",
+                "body_html": "<div class=\"md\"><p>Where exactly? Google?</p>\n</div>",
+                "created_utc": "2025-01-31 08:58:46",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma5v59z",
+                "is_submitter": false,
+                "link_id": "t3_1id9gyo",
+                "parent_id": "t1_ma5sktc",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/Sea_Training228",
+            "body": "Deepseek is NOT free. It's just very cheap. They have a pricing list: [https://api-docs.deepseek.com/quick\\_start/pricing](https://api-docs.deepseek.com/quick_start/pricing)",
+            "body_html": "<div class=\"md\"><p>Deepseek is NOT free. It&#39;s just very cheap. They have a pricing list: <a href=\"https://api-docs.deepseek.com/quick_start/pricing\">https://api-docs.deepseek.com/quick_start/pricing</a></p>\n</div>",
+            "created_utc": "2025-01-30 20:30:36",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma2afqt",
+            "is_submitter": false,
+            "link_id": "t3_1id9gyo",
+            "parent_id": "t1_ma1u1og",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Informal_Plankton321",
+                "body": "Thanks, wasn\u2019t aware, used it for few questions only .",
+                "body_html": "<div class=\"md\"><p>Thanks, wasn\u2019t aware, used it for few questions only .</p>\n</div>",
+                "created_utc": "2025-01-30 20:32:01",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma2aqwi",
+                "is_submitter": false,
+                "link_id": "t3_1id9gyo",
+                "parent_id": "t1_ma2afqt",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/ACrimeSoClassic",
+        "body": "Are there any guides for how to set up R1 to run locally?",
+        "body_html": "<div class=\"md\"><p>Are there any guides for how to set up R1 to run locally?</p>\n</div>",
+        "created_utc": "2025-01-30 22:44:45",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma33jqd",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/_DarkRaeven",
+            "body": "I followed this tutorial on YT:\n\nhttps://youtu.be/5kFV20LatL8?si=ayiJnvim6XQtw_4R",
+            "body_html": "<div class=\"md\"><p>I followed this tutorial on YT:</p>\n\n<p><a href=\"https://youtu.be/5kFV20LatL8?si=ayiJnvim6XQtw_4R\">https://youtu.be/5kFV20LatL8?si=ayiJnvim6XQtw_4R</a></p>\n</div>",
+            "created_utc": "2025-01-31 01:15:48",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma3xra4",
+            "is_submitter": false,
+            "link_id": "t3_1id9gyo",
+            "parent_id": "t1_ma33jqd",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "[deleted]",
+            "body": "[deleted]",
+            "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+            "created_utc": "2025-01-31 05:46:27",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma58ctk",
+            "is_submitter": false,
+            "link_id": "t3_1id9gyo",
+            "parent_id": "t1_ma33jqd",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/ACrimeSoClassic",
+                "body": "I did get that far, but every time I tried to download Deepseek, it would get stuck in an endless download cycle.",
+                "body_html": "<div class=\"md\"><p>I did get that far, but every time I tried to download Deepseek, it would get stuck in an endless download cycle.</p>\n</div>",
+                "created_utc": "2025-01-31 06:03:36",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma5atfr",
+                "is_submitter": false,
+                "link_id": "t3_1id9gyo",
+                "parent_id": "t1_ma58ctk",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "[deleted]",
+                    "body": "[deleted]",
+                    "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+                    "created_utc": "2025-01-31 07:07:35",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma5j3hk",
+                    "is_submitter": false,
+                    "link_id": "t3_1id9gyo",
+                    "parent_id": "t1_ma5atfr",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/ACrimeSoClassic",
+                        "body": "> ollama run deepseek-r1:7b\n\nWorked like a charm, thank you!",
+                        "body_html": "<div class=\"md\"><blockquote>\n<p>ollama run deepseek-r1:7b</p>\n</blockquote>\n\n<p>Worked like a charm, thank you!</p>\n</div>",
+                        "created_utc": "2025-01-31 08:16:51",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma5qv00",
+                        "is_submitter": false,
+                        "link_id": "t3_1id9gyo",
+                        "parent_id": "t1_ma5j3hk",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "[deleted]",
+                            "body": "[deleted]",
+                            "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+                            "created_utc": "2025-01-31 08:31:36",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma5sdt1",
+                            "is_submitter": false,
+                            "link_id": "t3_1id9gyo",
+                            "parent_id": "t1_ma5qv00",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/ACrimeSoClassic",
+                                "body": "I went with Msty for that, seems to work pretty well.",
+                                "body_html": "<div class=\"md\"><p>I went with Msty for that, seems to work pretty well.</p>\n</div>",
+                                "created_utc": "2025-01-31 08:53:43",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "ma5ummq",
+                                "is_submitter": false,
+                                "link_id": "t3_1id9gyo",
+                                "parent_id": "t1_ma5sdt1",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Negative_Code9830",
+        "body": "If it was China who was developing the most advanced chips, have no doubt that the sides would be flipped. Let's not forget that they kind of have their own Internet which is full of censorship. I'm afraid there are no heroes in this game.",
+        "body_html": "<div class=\"md\"><p>If it was China who was developing the most advanced chips, have no doubt that the sides would be flipped. Let&#39;s not forget that they kind of have their own Internet which is full of censorship. I&#39;m afraid there are no heroes in this game.</p>\n</div>",
+        "created_utc": "2025-01-30 12:35:08",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9zsfbz",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Sylvia-the-Spy",
+            "body": "The best actors are probably the dev teams of OpenAI, High-flyer, and Nvidia",
+            "body_html": "<div class=\"md\"><p>The best actors are probably the dev teams of OpenAI, High-flyer, and Nvidia</p>\n</div>",
+            "created_utc": "2025-01-30 18:49:13",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma1o9kt",
+            "is_submitter": false,
+            "link_id": "t3_1id9gyo",
+            "parent_id": "t1_m9zsfbz",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Apple_macOS",
+        "body": "r/stonetossingjuice",
+        "body_html": "<div class=\"md\"><p><a href=\"/r/stonetossingjuice\">r/stonetossingjuice</a></p>\n</div>",
+        "created_utc": "2025-01-30 05:46:31",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9yjz7w",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/20charaters",
+        "body": "I like to image your edit of my meme won't be the last.\n\nPeople will just continue to add more and more opposition.\n\nAnd 10 years from now, some deranged YTber will find the first one, and I'll get death threats.\n\nNot that I'm not getting them already.",
+        "body_html": "<div class=\"md\"><p>I like to image your edit of my meme won&#39;t be the last.</p>\n\n<p>People will just continue to add more and more opposition.</p>\n\n<p>And 10 years from now, some deranged YTber will find the first one, and I&#39;ll get death threats.</p>\n\n<p>Not that I&#39;m not getting them already.</p>\n</div>",
+        "created_utc": "2025-01-30 23:55:41",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma3icre",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Any_Refrigerator2330",
+        "body": "Nothing is free. Simple like that.",
+        "body_html": "<div class=\"md\"><p>Nothing is free. Simple like that.</p>\n</div>",
+        "created_utc": "2025-01-30 10:12:47",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9ze2el",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": -5,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/PhysicallyTender",
+            "body": "you can git clone the repo and run it in a sandbox machine.",
+            "body_html": "<div class=\"md\"><p>you can git clone the repo and run it in a sandbox machine.</p>\n</div>",
+            "created_utc": "2025-01-30 12:57:59",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9zv5qm",
+            "is_submitter": false,
+            "link_id": "t3_1id9gyo",
+            "parent_id": "t1_m9ze2el",
+            "score": 4,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/dukeofindus",
+        "body": "Free AI can't even criticize Xi",
+        "body_html": "<div class=\"md\"><p>Free AI can&#39;t even criticize Xi</p>\n</div>",
+        "created_utc": "2025-01-30 10:36:32",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9zgaww",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": -7,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Mage_Ozz",
+            "body": "This is the problem. You dont need an IA to ask some bullshit like \u201cis china a dictatorship\u201d - add a dumbass emoji face -\n\nIA is for helping us with a lot of homework, work, duties, like any tech tool for now\u2026 nobody should rest on an IA of what opinion of the world how it works\n\nIdk, just accept the fact this has been a good shake for IA indusrries probably pushing for better outcome for us",
+            "body_html": "<div class=\"md\"><p>This is the problem. You dont need an IA to ask some bullshit like \u201cis china a dictatorship\u201d - add a dumbass emoji face -</p>\n\n<p>IA is for helping us with a lot of homework, work, duties, like any tech tool for now\u2026 nobody should rest on an IA of what opinion of the world how it works</p>\n\n<p>Idk, just accept the fact this has been a good shake for IA indusrries probably pushing for better outcome for us</p>\n</div>",
+            "created_utc": "2025-01-30 12:19:59",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9zqq8j",
+            "is_submitter": false,
+            "link_id": "t3_1id9gyo",
+            "parent_id": "t1_m9zgaww",
+            "score": 7,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/dukeofindus",
+                "body": "I asked DeepSeek about the North-Eeastern states of India, for research purposes. For your information, China claims some of those states as Chinese territories. Guess what? it won't say anything at all. I really wanted to know about those, but it just collapsed lmao. ChatGPT got handy at last.\n\nEdit: Downvotes fortunately won't change facts.",
+                "body_html": "<div class=\"md\"><p>I asked DeepSeek about the North-Eeastern states of India, for research purposes. For your information, China claims some of those states as Chinese territories. Guess what? it won&#39;t say anything at all. I really wanted to know about those, but it just collapsed lmao. ChatGPT got handy at last.</p>\n\n<p>Edit: Downvotes fortunately won&#39;t change facts.</p>\n</div>",
+                "created_utc": "2025-01-30 12:23:04",
+                "distinguished": null,
+                "edited": "2025-01-30 12:59:26",
+                "id": "m9zr2lw",
+                "is_submitter": false,
+                "link_id": "t3_1id9gyo",
+                "parent_id": "t1_m9zqq8j",
+                "score": -2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/PretendStable516",
+                    "body": "Man, it's funny you're talking about this shit when the USA literally engaged in a 15-month genocide, threatened to buy Greenland,  takeover of Panama canal , engaged in commercial wars just to stifle the innovation by brute force . By every standard, if you operate on the principle of the lesser evil, China can't even come close to what the USA is engaging in. But for some reason, you don't think about that when you use ChatGPT. Whether you like it or not, China served humanity by making it open source, something the US could have done but didn't",
+                    "body_html": "<div class=\"md\"><p>Man, it&#39;s funny you&#39;re talking about this shit when the USA literally engaged in a 15-month genocide, threatened to buy Greenland,  takeover of Panama canal , engaged in commercial wars just to stifle the innovation by brute force . By every standard, if you operate on the principle of the lesser evil, China can&#39;t even come close to what the USA is engaging in. But for some reason, you don&#39;t think about that when you use ChatGPT. Whether you like it or not, China served humanity by making it open source, something the US could have done but didn&#39;t</p>\n</div>",
+                    "created_utc": "2025-01-30 15:46:09",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma0lu9d",
+                    "is_submitter": false,
+                    "link_id": "t3_1id9gyo",
+                    "parent_id": "t1_m9zr2lw",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/dukeofindus",
+                        "body": "A regular consumer of AI utilities couldn't care less about these things. What I'm saying is DeepSeek is filled with CCP propaganda. Even when I'm trying to get neutral information about something, it won't give me that. It's just China-biased. Whereas, ChatGPT is way more neutral, it is ready to criticize Trump administration and American policy makers. Do you think DeepSeek can do the same with China?",
+                        "body_html": "<div class=\"md\"><p>A regular consumer of AI utilities couldn&#39;t care less about these things. What I&#39;m saying is DeepSeek is filled with CCP propaganda. Even when I&#39;m trying to get neutral information about something, it won&#39;t give me that. It&#39;s just China-biased. Whereas, ChatGPT is way more neutral, it is ready to criticize Trump administration and American policy makers. Do you think DeepSeek can do the same with China?</p>\n</div>",
+                        "created_utc": "2025-01-30 15:59:40",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "ma0ofkf",
+                        "is_submitter": false,
+                        "link_id": "t3_1id9gyo",
+                        "parent_id": "t1_ma0lu9d",
+                        "score": 0,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Paige404_Games",
+                            "body": "Honest question: have you seen the difference in how ChatGPT talks about Israel versus Palestine?",
+                            "body_html": "<div class=\"md\"><p>Honest question: have you seen the difference in how ChatGPT talks about Israel versus Palestine?</p>\n</div>",
+                            "created_utc": "2025-01-30 23:04:21",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "ma37s10",
+                            "is_submitter": false,
+                            "link_id": "t3_1id9gyo",
+                            "parent_id": "t1_ma0ofkf",
+                            "score": 2,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "author": "u/Mage_Ozz",
+                    "body": "Its ok, so now you know for certain aspects you can choose one or other. \n\nMaybe if you ask chatgpt about any issue, it wont give you an answer right?\n\nAll systems has safeguards",
+                    "body_html": "<div class=\"md\"><p>Its ok, so now you know for certain aspects you can choose one or other. </p>\n\n<p>Maybe if you ask chatgpt about any issue, it wont give you an answer right?</p>\n\n<p>All systems has safeguards</p>\n</div>",
+                    "created_utc": "2025-01-30 15:58:16",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "ma0o5sa",
+                    "is_submitter": false,
+                    "link_id": "t3_1id9gyo",
+                    "parent_id": "t1_m9zr2lw",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/cuchulainn1984",
+        "body": "So in this case China is the champion of freedom, one of the most oppressive regimes in the world is the champion of freedom. c'mon guys you are going to have to be more believable than that.",
+        "body_html": "<div class=\"md\"><p>So in this case China is the champion of freedom, one of the most oppressive regimes in the world is the champion of freedom. c&#39;mon guys you are going to have to be more believable than that.</p>\n</div>",
+        "created_utc": "2025-01-30 14:54:46",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma0cift",
+        "is_submitter": false,
+        "link_id": "t3_1id9gyo",
+        "parent_id": "t3_1id9gyo",
+        "score": -5,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/PretendStable516",
+            "body": "Well, they served humanity by making it open source, while the other power gives bombs to laser some brown kids in the Middle East and makes their oligarchy even more powerful. At least in China, they do rehabilitation with their billionaires ( if you know what i mean , remember jack ma)  the moment they start harming society",
+            "body_html": "<div class=\"md\"><p>Well, they served humanity by making it open source, while the other power gives bombs to laser some brown kids in the Middle East and makes their oligarchy even more powerful. At least in China, they do rehabilitation with their billionaires ( if you know what i mean , remember jack ma)  the moment they start harming society</p>\n</div>",
+            "created_utc": "2025-01-30 15:50:08",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma0mlas",
+            "is_submitter": false,
+            "link_id": "t3_1id9gyo",
+            "parent_id": "t1_ma0cift",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

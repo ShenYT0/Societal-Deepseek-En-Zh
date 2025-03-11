@@ -1,0 +1,185 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1iitbng/its_working_fine_for_me/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/whatdoihia",
+      "created_utc": "2025-02-06 04:37:21",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Funny",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 11,
+      "permalink": "/r/DeepSeek/comments/1iitbng/its_working_fine_for_me/",
+      "score": 376,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "It\u2019s working fine for me!",
+      "upvote_ratio": 0.98
+    },
+    "comments": [
+      {
+        "author": "u/unbannedrhodie",
+        "body": "https://preview.redd.it/uwy389cd9ghe1.jpeg?width=1290&format=pjpg&auto=webp&s=d2aa1841dae42fe7d396f55d1df3f183ad533c42",
+        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/uwy389cd9ghe1.jpeg?width=1290&amp;format=pjpg&amp;auto=webp&amp;s=d2aa1841dae42fe7d396f55d1df3f183ad533c42\">https://preview.redd.it/uwy389cd9ghe1.jpeg?width=1290&amp;format=pjpg&amp;auto=webp&amp;s=d2aa1841dae42fe7d396f55d1df3f183ad533c42</a></p>\n</div>",
+        "created_utc": "2025-02-06 05:52:50",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb8qjl7",
+        "is_submitter": false,
+        "link_id": "t3_1iitbng",
+        "parent_id": "t3_1iitbng",
+        "score": 34,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/NotCollegiateSuites6",
+            "body": "\"since I'm an AI, I don't have feelings\" makes me so sad",
+            "body_html": "<div class=\"md\"><p>&quot;since I&#39;m an AI, I don&#39;t have feelings&quot; makes me so sad</p>\n</div>",
+            "created_utc": "2025-02-06 11:56:11",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb9u1ag",
+            "is_submitter": false,
+            "link_id": "t3_1iitbng",
+            "parent_id": "t1_mb8qjl7",
+            "score": 22,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/South_Landscape_6519",
+                "body": "bruh",
+                "body_html": "<div class=\"md\"><p>bruh</p>\n</div>",
+                "created_utc": "2025-02-06 13:36:00",
+                "distinguished": null,
+                "edited": false,
+                "id": "mba60qo",
+                "is_submitter": false,
+                "link_id": "t3_1iitbng",
+                "parent_id": "t1_mb9u1ag",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/whatdoihia",
+            "body": "The long thought process before the answer is funny to read. It\u2019s like someone with social anxiety figuring out how to reply. \ud83d\ude06",
+            "body_html": "<div class=\"md\"><p>The long thought process before the answer is funny to read. It\u2019s like someone with social anxiety figuring out how to reply. \ud83d\ude06</p>\n</div>",
+            "created_utc": "2025-02-06 05:54:21",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb8qred",
+            "is_submitter": true,
+            "link_id": "t3_1iitbng",
+            "parent_id": "t1_mb8qjl7",
+            "score": 36,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Afraid_Computer5687",
+                "body": "Can confirm. This is exactly what would happen if somebody asked me..",
+                "body_html": "<div class=\"md\"><p>Can confirm. This is exactly what would happen if somebody asked me..</p>\n</div>",
+                "created_utc": "2025-02-06 13:24:38",
+                "distinguished": null,
+                "edited": false,
+                "id": "mba4gys",
+                "is_submitter": false,
+                "link_id": "t3_1iitbng",
+                "parent_id": "t1_mb8qred",
+                "score": 13,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/South_Landscape_6519",
+            "body": "https://preview.redd.it/3gsok8xf3hhe1.png?width=753&format=png&auto=webp&s=689394d3b15eaacf5d80d695b13a5e88168bd2bf",
+            "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/3gsok8xf3hhe1.png?width=753&amp;format=png&amp;auto=webp&amp;s=689394d3b15eaacf5d80d695b13a5e88168bd2bf\">https://preview.redd.it/3gsok8xf3hhe1.png?width=753&amp;format=png&amp;auto=webp&amp;s=689394d3b15eaacf5d80d695b13a5e88168bd2bf</a></p>\n</div>",
+            "created_utc": "2025-02-06 08:41:25",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb9atvk",
+            "is_submitter": false,
+            "link_id": "t3_1iitbng",
+            "parent_id": "t1_mb8qjl7",
+            "score": 15,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Meoww_Dawg",
+        "body": "It worked for me last night. It works better when I use the web version on both my phone & tablet instead of the app. Works better as in crashes a lot less while the app just straight up tells me the server is busy every single time.",
+        "body_html": "<div class=\"md\"><p>It worked for me last night. It works better when I use the web version on both my phone &amp; tablet instead of the app. Works better as in crashes a lot less while the app just straight up tells me the server is busy every single time.</p>\n</div>",
+        "created_utc": "2025-02-06 16:09:37",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbawj19",
+        "is_submitter": false,
+        "link_id": "t3_1iitbng",
+        "parent_id": "t3_1iitbng",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/CamouflagedFox",
+        "body": "Wait, brainwashed Americans are going to ask most original questions to an AI model. You need to wait your line.",
+        "body_html": "<div class=\"md\"><p>Wait, brainwashed Americans are going to ask most original questions to an AI model. You need to wait your line.</p>\n</div>",
+        "created_utc": "2025-02-06 18:34:57",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbbrlrl",
+        "is_submitter": false,
+        "link_id": "t3_1iitbng",
+        "parent_id": "t3_1iitbng",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/whatdoihia",
+            "body": "I was watching NBC news and they did a comparison between OpenAI and DeepSeek. The only thing they did was to ask about Tiananmen and Xi. That\u2019s it, that was their comparison. \n\nAnd the anchor said it can see \u201call of your keystrokes\u201d\n\nSeems like the media received their marching orders from big tech.",
+            "body_html": "<div class=\"md\"><p>I was watching NBC news and they did a comparison between OpenAI and DeepSeek. The only thing they did was to ask about Tiananmen and Xi. That\u2019s it, that was their comparison. </p>\n\n<p>And the anchor said it can see \u201call of your keystrokes\u201d</p>\n\n<p>Seems like the media received their marching orders from big tech.</p>\n</div>",
+            "created_utc": "2025-02-07 02:32:02",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbehtmp",
+            "is_submitter": true,
+            "link_id": "t3_1iitbng",
+            "parent_id": "t1_mbbrlrl",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Solid_Lawfulness6984",
+        "body": "It's been driving me nuts since it wasn't working properly, so now I'm using it on ChatHub...",
+        "body_html": "<div class=\"md\"><p>It&#39;s been driving me nuts since it wasn&#39;t working properly, so now I&#39;m using it on ChatHub...</p>\n</div>",
+        "created_utc": "2025-02-13 08:52:08",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcimsq4",
+        "is_submitter": false,
+        "link_id": "t3_1iitbng",
+        "parent_id": "t3_1iitbng",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      }
+    ]
+  }
+}

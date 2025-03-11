@@ -1,0 +1,651 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1irn5k7/liang_wenfeng_deepseek_meets_xi_jinping/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/foo-bar-nlogn-100",
+      "created_utc": "2025-02-17 17:00:46",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "News",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 41,
+      "permalink": "/r/DeepSeek/comments/1irn5k7/liang_wenfeng_deepseek_meets_xi_jinping/",
+      "score": 561,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "Liang Wenfeng (DeepSeek) meets Xi Jinping",
+      "upvote_ratio": 0.99
+    },
+    "comments": [
+      {
+        "author": "u/pepeperezcanyear",
+        "body": "Say goodbye to the \"busy server\". It means fresh money for the company. A lot.",
+        "body_html": "<div class=\"md\"><p>Say goodbye to the &quot;busy server&quot;. It means fresh money for the company. A lot.</p>\n</div>",
+        "created_utc": "2025-02-17 17:14:36",
+        "distinguished": null,
+        "edited": false,
+        "id": "md9muna",
+        "is_submitter": false,
+        "link_id": "t3_1irn5k7",
+        "parent_id": "t3_1irn5k7",
+        "score": 146,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Condomphobic",
+            "body": "lol a lot more countries are about to slam that **ban hammer** after seeing this meeting",
+            "body_html": "<div class=\"md\"><p>lol a lot more countries are about to slam that <strong>ban hammer</strong> after seeing this meeting</p>\n</div>",
+            "created_utc": "2025-02-17 18:37:36",
+            "distinguished": null,
+            "edited": false,
+            "id": "mda414g",
+            "is_submitter": false,
+            "link_id": "t3_1irn5k7",
+            "parent_id": "t1_md9muna",
+            "score": 53,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Stalaagh",
+                "body": "VPN",
+                "body_html": "<div class=\"md\"><p>VPN</p>\n</div>",
+                "created_utc": "2025-02-17 19:10:38",
+                "distinguished": null,
+                "edited": false,
+                "id": "mdaba8o",
+                "is_submitter": false,
+                "link_id": "t3_1irn5k7",
+                "parent_id": "t1_mda414g",
+                "score": 17,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/jazzplower",
+                    "body": "You can literally download DeepSeek like Llama and run it on your computer. It\u2019s mostly open source like llama.",
+                    "body_html": "<div class=\"md\"><p>You can literally download DeepSeek like Llama and run it on your computer. It\u2019s mostly open source like llama.</p>\n</div>",
+                    "created_utc": "2025-02-17 21:04:04",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mdb0760",
+                    "is_submitter": false,
+                    "link_id": "t3_1irn5k7",
+                    "parent_id": "t1_mdaba8o",
+                    "score": 20,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Tim_Buckrue",
+                        "body": "*I* can't run it on *my* computer, but give it a few years \ud83d\ude42\n\n(I still have the full 641GB model downloaded just in case)",
+                        "body_html": "<div class=\"md\"><p><em>I</em> can&#39;t run it on <em>my</em> computer, but give it a few years \ud83d\ude42</p>\n\n<p>(I still have the full 641GB model downloaded just in case)</p>\n</div>",
+                        "created_utc": "2025-02-18 00:47:58",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mdc9ymf",
+                        "is_submitter": false,
+                        "link_id": "t3_1irn5k7",
+                        "parent_id": "t1_mdb0760",
+                        "score": 8,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/CoffeeLaxative",
+                            "body": "Have you tried running the distilled versions?",
+                            "body_html": "<div class=\"md\"><p>Have you tried running the distilled versions?</p>\n</div>",
+                            "created_utc": "2025-02-18 02:48:22",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mdcvr2c",
+                            "is_submitter": false,
+                            "link_id": "t3_1irn5k7",
+                            "parent_id": "t1_mdc9ymf",
+                            "score": 2,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/Tim_Buckrue",
+                                "body": "I have, but when I want the best of the best responses I still go to the website.",
+                                "body_html": "<div class=\"md\"><p>I have, but when I want the best of the best responses I still go to the website.</p>\n</div>",
+                                "created_utc": "2025-02-18 03:54:50",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mdd751c",
+                                "is_submitter": false,
+                                "link_id": "t3_1irn5k7",
+                                "parent_id": "t1_mdcvr2c",
+                                "score": 3,
+                                "stickied": false,
+                                "replies": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "author": "u/HeinrichTheWolf_17",
+                        "body": "Well of course, DeepSeek is Open AI. Unlike OpenAI.",
+                        "body_html": "<div class=\"md\"><p>Well of course, DeepSeek is Open AI. Unlike OpenAI.</p>\n</div>",
+                        "created_utc": "2025-02-18 01:45:29",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mdckfvl",
+                        "is_submitter": false,
+                        "link_id": "t3_1irn5k7",
+                        "parent_id": "t1_mdb0760",
+                        "score": 6,
+                        "stickied": false,
+                        "replies": []
+                      },
+                      {
+                        "author": "u/Cergorach",
+                        "body": "Sure, if you're running a supercomputer or a cluster. It can run on relatively little, but we're still talking about car money instead of expensive house money. You can run smaller versions locally (depending on hardware), but not comparable in qulaity to what you get from the full version. But there are companies that run the big model outside of China...",
+                        "body_html": "<div class=\"md\"><p>Sure, if you&#39;re running a supercomputer or a cluster. It can run on relatively little, but we&#39;re still talking about car money instead of expensive house money. You can run smaller versions locally (depending on hardware), but not comparable in qulaity to what you get from the full version. But there are companies that run the big model outside of China...</p>\n</div>",
+                        "created_utc": "2025-02-18 18:40:37",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mdgp4ua",
+                        "is_submitter": false,
+                        "link_id": "t3_1irn5k7",
+                        "parent_id": "t1_mdb0760",
+                        "score": 0,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/jazzplower",
+                            "body": "The other thing that makes deep seek special is that you don\u2019t need a super computer to run it. Otherwise no one would have lost their shit. Besides, like you mentioned you can get quantized versions that run on consumer hardware like from hugging face. The quality is not too far off\n\nEdit it\u2019s not like you won\u2019t be able to find other companies running it either. You\u2019re so negative, that you can\u2019t even figure out cheap and simple solutions.",
+                            "body_html": "<div class=\"md\"><p>The other thing that makes deep seek special is that you don\u2019t need a super computer to run it. Otherwise no one would have lost their shit. Besides, like you mentioned you can get quantized versions that run on consumer hardware like from hugging face. The quality is not too far off</p>\n\n<p>Edit it\u2019s not like you won\u2019t be able to find other companies running it either. You\u2019re so negative, that you can\u2019t even figure out cheap and simple solutions.</p>\n</div>",
+                            "created_utc": "2025-02-18 23:17:00",
+                            "distinguished": null,
+                            "edited": "2025-02-19 01:56:26",
+                            "id": "mdid76c",
+                            "is_submitter": false,
+                            "link_id": "t3_1irn5k7",
+                            "parent_id": "t1_mdgp4ua",
+                            "score": 0,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/Glittering_River5861",
+                "body": "Good for us.",
+                "body_html": "<div class=\"md\"><p>Good for us.</p>\n</div>",
+                "created_utc": "2025-02-17 20:48:05",
+                "distinguished": null,
+                "edited": false,
+                "id": "mdawqku",
+                "is_submitter": false,
+                "link_id": "t3_1irn5k7",
+                "parent_id": "t1_mda414g",
+                "score": 6,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/nblv",
+                "body": "Hopefully I will be able to top up DeepSeek API after the user base decreases.",
+                "body_html": "<div class=\"md\"><p>Hopefully I will be able to top up DeepSeek API after the user base decreases.</p>\n</div>",
+                "created_utc": "2025-02-18 08:21:45",
+                "distinguished": null,
+                "edited": "2025-02-18 08:32:54",
+                "id": "mde7172",
+                "is_submitter": false,
+                "link_id": "t3_1irn5k7",
+                "parent_id": "t1_mda414g",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/kongweeneverdie",
+                    "body": "They will just increase the servers.",
+                    "body_html": "<div class=\"md\"><p>They will just increase the servers.</p>\n</div>",
+                    "created_utc": "2025-02-18 12:06:53",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mdetfed",
+                    "is_submitter": false,
+                    "link_id": "t3_1irn5k7",
+                    "parent_id": "t1_mde7172",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              },
+              {
+                "author": "u/Honest-Designer-2496",
+                "body": "Very unlikely in this scenario, as President Xi is encouraging the private sectors to invest more in local market so as to stimulate the economy. More regulations towards foreign firms perhaps.",
+                "body_html": "<div class=\"md\"><p>Very unlikely in this scenario, as President Xi is encouraging the private sectors to invest more in local market so as to stimulate the economy. More regulations towards foreign firms perhaps.</p>\n</div>",
+                "created_utc": "2025-02-18 08:38:52",
+                "distinguished": null,
+                "edited": false,
+                "id": "mde8se3",
+                "is_submitter": false,
+                "link_id": "t3_1irn5k7",
+                "parent_id": "t1_mda414g",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/kongweeneverdie",
+                    "body": "Not really if they can afford to violate US laws.",
+                    "body_html": "<div class=\"md\"><p>Not really if they can afford to violate US laws.</p>\n</div>",
+                    "created_utc": "2025-02-18 12:07:35",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mdeti47",
+                    "is_submitter": false,
+                    "link_id": "t3_1irn5k7",
+                    "parent_id": "t1_mde8se3",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/matt2001",
+        "body": "\nComparing Education Background of Chinese Politicians vs US\n\n|   |   |   |\n|---|---|---|\n|Aspect|China (CCP Leaders)|United States (Federal Leaders)|\n|Background Focus|Engineering, Science, Technology|Law, Business, Political Science|\n|Top Leaders with STEM Degrees|Many (e.g., Xi, Hu, Jiang)|Few (e.g., Hoover, Carter)|\n|Legislative Composition|Technocrats and Scientists|Lawyers, Businesspeople|\n|Political Culture|Technocratic and Centralized|Representative and Decentralized|\n|Policy Influence|Long-term, tech-driven strategies|Public opinion, legal frameworks|",
+        "body_html": "<div class=\"md\"><p>Comparing Education Background of Chinese Politicians vs US</p>\n\n<table><thead>\n<tr>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead><tbody>\n<tr>\n<td>Aspect</td>\n<td>China (CCP Leaders)</td>\n<td>United States (Federal Leaders)</td>\n</tr>\n<tr>\n<td>Background Focus</td>\n<td>Engineering, Science, Technology</td>\n<td>Law, Business, Political Science</td>\n</tr>\n<tr>\n<td>Top Leaders with STEM Degrees</td>\n<td>Many (e.g., Xi, Hu, Jiang)</td>\n<td>Few (e.g., Hoover, Carter)</td>\n</tr>\n<tr>\n<td>Legislative Composition</td>\n<td>Technocrats and Scientists</td>\n<td>Lawyers, Businesspeople</td>\n</tr>\n<tr>\n<td>Political Culture</td>\n<td>Technocratic and Centralized</td>\n<td>Representative and Decentralized</td>\n</tr>\n<tr>\n<td>Policy Influence</td>\n<td>Long-term, tech-driven strategies</td>\n<td>Public opinion, legal frameworks</td>\n</tr>\n</tbody></table>\n</div>",
+        "created_utc": "2025-02-17 18:04:57",
+        "distinguished": null,
+        "edited": false,
+        "id": "md9x2an",
+        "is_submitter": false,
+        "link_id": "t3_1irn5k7",
+        "parent_id": "t3_1irn5k7",
+        "score": 49,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/guidoboyaco",
+            "body": "Engineers should rule the world",
+            "body_html": "<div class=\"md\"><p>Engineers should rule the world</p>\n</div>",
+            "created_utc": "2025-02-17 22:18:56",
+            "distinguished": null,
+            "edited": false,
+            "id": "mdbg7xw",
+            "is_submitter": false,
+            "link_id": "t3_1irn5k7",
+            "parent_id": "t1_md9x2an",
+            "score": 6,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/UntiedStatMarinCrops",
+                "body": "CS nerds are having influence in the US and it\u2019s not looking too good",
+                "body_html": "<div class=\"md\"><p>CS nerds are having influence in the US and it\u2019s not looking too good</p>\n</div>",
+                "created_utc": "2025-02-18 02:17:02",
+                "distinguished": null,
+                "edited": false,
+                "id": "mdcq5c5",
+                "is_submitter": false,
+                "link_id": "t3_1irn5k7",
+                "parent_id": "t1_mdbg7xw",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/matt2001",
+                "body": "It looks like they will...",
+                "body_html": "<div class=\"md\"><p>It looks like they will...</p>\n</div>",
+                "created_utc": "2025-02-17 23:53:18",
+                "distinguished": null,
+                "edited": false,
+                "id": "mdbzri2",
+                "is_submitter": false,
+                "link_id": "t3_1irn5k7",
+                "parent_id": "t1_mdbg7xw",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/systematicolu",
+            "body": "Yea I don\u2019t think majority technocrats in power is a good thing either. See: Elon in the US. Ideally you\u2019d want the government to skew towards Teachers. They make natural leaders and deal with objections a lot. Of course, a balance of representation in every career field is best.",
+            "body_html": "<div class=\"md\"><p>Yea I don\u2019t think majority technocrats in power is a good thing either. See: Elon in the US. Ideally you\u2019d want the government to skew towards Teachers. They make natural leaders and deal with objections a lot. Of course, a balance of representation in every career field is best.</p>\n</div>",
+            "created_utc": "2025-02-18 05:35:31",
+            "distinguished": null,
+            "edited": false,
+            "id": "mddmvxc",
+            "is_submitter": false,
+            "link_id": "t3_1irn5k7",
+            "parent_id": "t1_md9x2an",
+            "score": 4,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/_spec_tre",
+                "body": "The funny thing is you can make a sensible argument that the people Trump is buddy-buddying with are technocrats too. It's literally just how you frame it. Ultimately the power to rule should not be given to any specific group and that's all there is to it",
+                "body_html": "<div class=\"md\"><p>The funny thing is you can make a sensible argument that the people Trump is buddy-buddying with are technocrats too. It&#39;s literally just how you frame it. Ultimately the power to rule should not be given to any specific group and that&#39;s all there is to it</p>\n</div>",
+                "created_utc": "2025-02-18 06:14:04",
+                "distinguished": null,
+                "edited": false,
+                "id": "mdds4wc",
+                "is_submitter": false,
+                "link_id": "t3_1irn5k7",
+                "parent_id": "t1_mddmvxc",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/kongweeneverdie",
+                "body": "Rumours CPC member has 70% engineering background that including handful of double degree.",
+                "body_html": "<div class=\"md\"><p>Rumours CPC member has 70% engineering background that including handful of double degree.</p>\n</div>",
+                "created_utc": "2025-02-18 12:09:21",
+                "distinguished": null,
+                "edited": false,
+                "id": "mdetoyg",
+                "is_submitter": false,
+                "link_id": "t3_1irn5k7",
+                "parent_id": "t1_mddmvxc",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Kenny070287",
+                    "body": "And even one that went to take phd despite having only primary school education.",
+                    "body_html": "<div class=\"md\"><p>And even one that went to take phd despite having only primary school education.</p>\n</div>",
+                    "created_utc": "2025-02-20 18:48:37",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mdu7dbm",
+                    "is_submitter": false,
+                    "link_id": "t3_1irn5k7",
+                    "parent_id": "t1_mdetoyg",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/tnyczr",
+        "body": "he went to personally ask about the T. square because DeepSeek doesn't know the answer",
+        "body_html": "<div class=\"md\"><p>he went to personally ask about the T. square because DeepSeek doesn&#39;t know the answer</p>\n</div>",
+        "created_utc": "2025-02-17 17:40:26",
+        "distinguished": null,
+        "edited": false,
+        "id": "md9s2iw",
+        "is_submitter": false,
+        "link_id": "t3_1irn5k7",
+        "parent_id": "t3_1irn5k7",
+        "score": 65,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/pas220",
+            "body": "He will be confused because this is western name, they have defferent name for the event + most of them know about it  they just don't care about something happened 30 years ago, and some are actually glad it didn't lead to another unstablety ( i want to add no they didn't want democracy and capitalism, actually many lost their jops because china reforms , main reason)",
+            "body_html": "<div class=\"md\"><p>He will be confused because this is western name, they have defferent name for the event + most of them know about it  they just don&#39;t care about something happened 30 years ago, and some are actually glad it didn&#39;t lead to another unstablety ( i want to add no they didn&#39;t want democracy and capitalism, actually many lost their jops because china reforms , main reason)</p>\n</div>",
+            "created_utc": "2025-02-17 18:00:43",
+            "distinguished": null,
+            "edited": false,
+            "id": "md9w7g2",
+            "is_submitter": false,
+            "link_id": "t3_1irn5k7",
+            "parent_id": "t1_md9s2iw",
+            "score": 12,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/tnyczr",
+                "body": "It was just a joke because people flood this topic on a daily basis, but okay",
+                "body_html": "<div class=\"md\"><p>It was just a joke because people flood this topic on a daily basis, but okay</p>\n</div>",
+                "created_utc": "2025-02-17 18:16:10",
+                "distinguished": null,
+                "edited": false,
+                "id": "md9zekr",
+                "is_submitter": false,
+                "link_id": "t3_1irn5k7",
+                "parent_id": "t1_md9w7g2",
+                "score": 7,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/pas220",
+                    "body": "Mostly boomer losers , they still think it's cold war",
+                    "body_html": "<div class=\"md\"><p>Mostly boomer losers , they still think it&#39;s cold war</p>\n</div>",
+                    "created_utc": "2025-02-17 18:21:18",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mda0hw8",
+                    "is_submitter": false,
+                    "link_id": "t3_1irn5k7",
+                    "parent_id": "t1_md9zekr",
+                    "score": 19,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/CoffeeLaxative",
+                        "body": "It still is and they're losing",
+                        "body_html": "<div class=\"md\"><p>It still is and they&#39;re losing</p>\n</div>",
+                        "created_utc": "2025-02-18 02:49:07",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mdcvvuw",
+                        "is_submitter": false,
+                        "link_id": "t3_1irn5k7",
+                        "parent_id": "t1_mda0hw8",
+                        "score": 2,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Strong_Appeal7",
+        "body": "Xi: *seek* AI bro",
+        "body_html": "<div class=\"md\"><p>Xi: <em>seek</em> AI bro</p>\n</div>",
+        "created_utc": "2025-02-17 17:31:25",
+        "distinguished": null,
+        "edited": false,
+        "id": "md9q8xy",
+        "is_submitter": false,
+        "link_id": "t3_1irn5k7",
+        "parent_id": "t3_1irn5k7",
+        "score": 16,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/nodeocracy",
+        "body": "Send h100s",
+        "body_html": "<div class=\"md\"><p>Send h100s</p>\n</div>",
+        "created_utc": "2025-02-17 20:42:53",
+        "distinguished": null,
+        "edited": false,
+        "id": "mdavm6q",
+        "is_submitter": false,
+        "link_id": "t3_1irn5k7",
+        "parent_id": "t3_1irn5k7",
+        "score": 5,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Next-Business-976",
+        "body": "Hope Xi will support'em like Trump is to Elon",
+        "body_html": "<div class=\"md\"><p>Hope Xi will support&#39;em like Trump is to Elon</p>\n</div>",
+        "created_utc": "2025-02-18 04:30:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "mddd4ii",
+        "is_submitter": false,
+        "link_id": "t3_1irn5k7",
+        "parent_id": "t3_1irn5k7",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/likeassassin_",
+        "body": "Now he can rest in peace",
+        "body_html": "<div class=\"md\"><p>Now he can rest in peace</p>\n</div>",
+        "created_utc": "2025-02-17 23:29:35",
+        "distinguished": null,
+        "edited": false,
+        "id": "mdbv100",
+        "is_submitter": false,
+        "link_id": "t3_1irn5k7",
+        "parent_id": "t3_1irn5k7",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/VoceMisteriosa",
+        "body": "You know it's time to sleep when at first you thought Liang Wengfen was a translation of Deep Seek.",
+        "body_html": "<div class=\"md\"><p>You know it&#39;s time to sleep when at first you thought Liang Wengfen was a translation of Deep Seek.</p>\n</div>",
+        "created_utc": "2025-02-18 01:22:41",
+        "distinguished": null,
+        "edited": false,
+        "id": "mdcgahj",
+        "is_submitter": false,
+        "link_id": "t3_1irn5k7",
+        "parent_id": "t3_1irn5k7",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/shark8866",
+            "body": "in Chinese, it is called shen du qiu suo",
+            "body_html": "<div class=\"md\"><p>in Chinese, it is called shen du qiu suo</p>\n</div>",
+            "created_utc": "2025-02-18 04:33:49",
+            "distinguished": null,
+            "edited": false,
+            "id": "mdddlhg",
+            "is_submitter": false,
+            "link_id": "t3_1irn5k7",
+            "parent_id": "t1_mdcgahj",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Baldy5421",
+        "body": "Winnieeeeee",
+        "body_html": "<div class=\"md\"><p>Winnieeeeee</p>\n</div>",
+        "created_utc": "2025-02-18 08:55:53",
+        "distinguished": null,
+        "edited": false,
+        "id": "mdeaifs",
+        "is_submitter": false,
+        "link_id": "t3_1irn5k7",
+        "parent_id": "t3_1irn5k7",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/ME_LIKEY_SUGAR",
+        "body": "probably asking location of people bugging them with T square",
+        "body_html": "<div class=\"md\"><p>probably asking location of people bugging them with T square</p>\n</div>",
+        "created_utc": "2025-02-17 17:56:08",
+        "distinguished": null,
+        "edited": false,
+        "id": "md9v9jm",
+        "is_submitter": false,
+        "link_id": "t3_1irn5k7",
+        "parent_id": "t3_1irn5k7",
+        "score": -22,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Condomphobic",
+            "body": "lol",
+            "body_html": "<div class=\"md\"><p>lol</p>\n</div>",
+            "created_utc": "2025-02-17 18:39:56",
+            "distinguished": null,
+            "edited": false,
+            "id": "mda4jf6",
+            "is_submitter": false,
+            "link_id": "t3_1irn5k7",
+            "parent_id": "t1_md9v9jm",
+            "score": 4,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/X718klK_h",
+        "body": "I heard he works directly for, and only answers to, Xi, no?",
+        "body_html": "<div class=\"md\"><p>I heard he works directly for, and only answers to, Xi, no?</p>\n</div>",
+        "created_utc": "2025-02-17 20:20:26",
+        "distinguished": null,
+        "edited": false,
+        "id": "mdaqqdn",
+        "is_submitter": false,
+        "link_id": "t3_1irn5k7",
+        "parent_id": "t3_1irn5k7",
+        "score": -18,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/SK5454",
+            "body": "what",
+            "body_html": "<div class=\"md\"><p>what</p>\n</div>",
+            "created_utc": "2025-02-17 21:11:34",
+            "distinguished": null,
+            "edited": false,
+            "id": "mdb1shg",
+            "is_submitter": false,
+            "link_id": "t3_1irn5k7",
+            "parent_id": "t1_mdaqqdn",
+            "score": 10,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Conscious_Chef_3233",
+            "body": "you are correct bro! every body in china answer to hin! he meets 14b people every day",
+            "body_html": "<div class=\"md\"><p>you are correct bro! every body in china answer to hin! he meets 14b people every day</p>\n</div>",
+            "created_utc": "2025-02-18 02:08:59",
+            "distinguished": null,
+            "edited": false,
+            "id": "mdcop6e",
+            "is_submitter": false,
+            "link_id": "t3_1irn5k7",
+            "parent_id": "t1_mdaqqdn",
+            "score": 7,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

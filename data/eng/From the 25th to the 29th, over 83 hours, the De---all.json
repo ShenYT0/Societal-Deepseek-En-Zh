@@ -1,0 +1,411 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1ie4md3/from_the_25th_to_the_29th_over_83_hours_the/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/No_Penalty3029",
+      "created_utc": "2025-01-31 03:31:16",
+      "distinguished": null,
+      "edited": false,
+      "gallery_data": {
+        "items": [
+          {
+            "caption": "",
+            "media_id": "prkgnmxmq8ge1",
+            "id": 596168599
+          },
+          {
+            "caption": "",
+            "media_id": "pjh5845nq8ge1",
+            "id": 596168600
+          },
+          {
+            "caption": "",
+            "media_id": "uekvy6anq8ge1",
+            "id": 596168601
+          }
+        ]
+      },
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Unverified News",
+      "locked": true,
+      "media_metadata": {
+        "pjh5845nq8ge1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/jpg",
+          "p": [
+            {
+              "y": 157,
+              "x": 108,
+              "u": "https://preview.redd.it/pjh5845nq8ge1.jpg?width=108&crop=smart&auto=webp&s=9c5d9838122e3de365e4adba95d8acb49b5be01d"
+            },
+            {
+              "y": 314,
+              "x": 216,
+              "u": "https://preview.redd.it/pjh5845nq8ge1.jpg?width=216&crop=smart&auto=webp&s=598c74299850fcc74a24cf3b4055626631956dd6"
+            },
+            {
+              "y": 466,
+              "x": 320,
+              "u": "https://preview.redd.it/pjh5845nq8ge1.jpg?width=320&crop=smart&auto=webp&s=6802984a637e35b94d4993daa776881499f8efd1"
+            },
+            {
+              "y": 932,
+              "x": 640,
+              "u": "https://preview.redd.it/pjh5845nq8ge1.jpg?width=640&crop=smart&auto=webp&s=574ceec04091fd58fe173177874543e56169571d"
+            }
+          ],
+          "s": {
+            "y": 1048,
+            "x": 719,
+            "u": "https://preview.redd.it/pjh5845nq8ge1.jpg?width=719&format=pjpg&auto=webp&s=c18bc6f52f8970be411ec0cf6d4b34f244ba1fa5"
+          },
+          "id": "pjh5845nq8ge1"
+        },
+        "prkgnmxmq8ge1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/png",
+          "p": [
+            {
+              "y": 110,
+              "x": 108,
+              "u": "https://preview.redd.it/prkgnmxmq8ge1.png?width=108&crop=smart&auto=webp&s=61034f3cdf2dd8e000713bada538dc326f0ea20d"
+            },
+            {
+              "y": 221,
+              "x": 216,
+              "u": "https://preview.redd.it/prkgnmxmq8ge1.png?width=216&crop=smart&auto=webp&s=b75665db48c891719925cff6525ce61ed3bfa29c"
+            },
+            {
+              "y": 328,
+              "x": 320,
+              "u": "https://preview.redd.it/prkgnmxmq8ge1.png?width=320&crop=smart&auto=webp&s=7ba0448f53f3953e12551cc5c17ad24f74b53f38"
+            },
+            {
+              "y": 657,
+              "x": 640,
+              "u": "https://preview.redd.it/prkgnmxmq8ge1.png?width=640&crop=smart&auto=webp&s=843cf1cbc8f4434dab87ee22a88055cfcdf99d4f"
+            }
+          ],
+          "s": {
+            "y": 740,
+            "x": 720,
+            "u": "https://preview.redd.it/prkgnmxmq8ge1.png?width=720&format=png&auto=webp&s=7a26128f7836aa817aa22826ec5ff1a2a410515d"
+          },
+          "id": "prkgnmxmq8ge1"
+        },
+        "uekvy6anq8ge1": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/jpg",
+          "p": [
+            {
+              "y": 122,
+              "x": 108,
+              "u": "https://preview.redd.it/uekvy6anq8ge1.jpg?width=108&crop=smart&auto=webp&s=556ce3d5249e74d5caf03bbc6ea0e1f2d3eddd09"
+            },
+            {
+              "y": 245,
+              "x": 216,
+              "u": "https://preview.redd.it/uekvy6anq8ge1.jpg?width=216&crop=smart&auto=webp&s=300504def49736087e6b7bd9dfca810697566e77"
+            },
+            {
+              "y": 363,
+              "x": 320,
+              "u": "https://preview.redd.it/uekvy6anq8ge1.jpg?width=320&crop=smart&auto=webp&s=6a895a50c3c301e767807bb9bb4dba9c2ce7772e"
+            },
+            {
+              "y": 726,
+              "x": 640,
+              "u": "https://preview.redd.it/uekvy6anq8ge1.jpg?width=640&crop=smart&auto=webp&s=a3b28dd8a607432efa1f5e4428ef67eae4ebdec2"
+            }
+          ],
+          "s": {
+            "y": 814,
+            "x": 717,
+            "u": "https://preview.redd.it/uekvy6anq8ge1.jpg?width=717&format=pjpg&auto=webp&s=d7df13fda6eea8b5062cb93d0ccc35eb8c4e8dad"
+          },
+          "id": "uekvy6anq8ge1"
+        }
+      },
+      "nsfw": false,
+      "num_comments": 17,
+      "permalink": "/r/DeepSeek/comments/1ie4md3/from_the_25th_to_the_29th_over_83_hours_the/",
+      "score": 475,
+      "selftext": "Not sure if true though ",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "From the 25th to the 29th, over 83 hours, the Deepseek server cluster was subjected to over 230 million DDoS malicious requests per second, with the total attack volume equivalent to the total internet traffic of Europe for three days.",
+      "upvote_ratio": 0.93
+    },
+    "comments": [
+      {
+        "author": "u/nekofneko",
+        "body": "After my careful investigation, this article contains false information",
+        "body_html": "<div class=\"md\"><p>After my careful investigation, this article contains false information</p>\n</div>",
+        "created_utc": "2025-01-31 06:06:58",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma5bahj",
+        "is_submitter": false,
+        "link_id": "t3_1ie4md3",
+        "parent_id": "t3_1ie4md3",
+        "score": 1,
+        "stickied": true,
+        "replies": [
+          {
+            "author": "u/nekofneko",
+            "body": "The information originated from a Twitter account called \u201cCollection of \u5373\u523b\u201d, which is an automated account that reposts content from the Chinese social media platform \u5373\u523b (Jike). This account is not an official source, as stated in its bio.\n\nThe original post on Jike came from a user named Qian Yu (\u94b1\u94b0), who later deleted the post and clarified that it was meant as a joke. His follow-up message stated: \u201c\u8f6c\u4e2a\u6bb5\u5b50\u5927\u5bb6\u5f53\u771f\u4e86\uff0c\u4e0d\u597d\u73a9\u201d, which roughly translates to \u201cI shared a joke, but people took it seriously\u2014this isn\u2019t fun.\u201d",
+            "body_html": "<div class=\"md\"><p>The information originated from a Twitter account called \u201cCollection of \u5373\u523b\u201d, which is an automated account that reposts content from the Chinese social media platform \u5373\u523b (Jike). This account is not an official source, as stated in its bio.</p>\n\n<p>The original post on Jike came from a user named Qian Yu (\u94b1\u94b0), who later deleted the post and clarified that it was meant as a joke. His follow-up message stated: \u201c\u8f6c\u4e2a\u6bb5\u5b50\u5927\u5bb6\u5f53\u771f\u4e86\uff0c\u4e0d\u597d\u73a9\u201d, which roughly translates to \u201cI shared a joke, but people took it seriously\u2014this isn\u2019t fun.\u201d</p>\n</div>",
+            "created_utc": "2025-01-31 06:16:56",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma5co6w",
+            "is_submitter": false,
+            "link_id": "t3_1ie4md3",
+            "parent_id": "t1_ma5bahj",
+            "score": 68,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Hutten1522",
+        "body": "US IT giants cutthroat each other, Chinese IT giants help each other.",
+        "body_html": "<div class=\"md\"><p>US IT giants cutthroat each other, Chinese IT giants help each other.</p>\n</div>",
+        "created_utc": "2025-01-31 04:44:21",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma4yuwn",
+        "is_submitter": false,
+        "link_id": "t3_1ie4md3",
+        "parent_id": "t3_1ie4md3",
+        "score": 97,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "[deleted]",
+            "body": "[removed]",
+            "body_html": "<div class=\"md\"><p>[removed]</p>\n</div>",
+            "created_utc": "2025-01-31 05:30:01",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma55xs1",
+            "is_submitter": false,
+            "link_id": "t3_1ie4md3",
+            "parent_id": "t1_ma4yuwn",
+            "score": -50,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Visible_Bat2176",
+                "body": "CCP is better than MAGA, anyway",
+                "body_html": "<div class=\"md\"><p>CCP is better than MAGA, anyway</p>\n</div>",
+                "created_utc": "2025-01-31 05:37:08",
+                "distinguished": null,
+                "edited": false,
+                "id": "ma56zhf",
+                "is_submitter": false,
+                "link_id": "t3_1ie4md3",
+                "parent_id": "t1_ma55xs1",
+                "score": 41,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/Hutten1522",
+                "body": "They have leader, US has oligarchy.",
+                "body_html": "<div class=\"md\"><p>They have leader, US has oligarchy.</p>\n</div>",
+                "created_utc": "2025-01-31 05:39:29",
+                "distinguished": null,
+                "edited": "2025-01-31 05:44:16",
+                "id": "ma57btj",
+                "is_submitter": false,
+                "link_id": "t3_1ie4md3",
+                "parent_id": "t1_ma55xs1",
+                "score": 38,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Crafty_Escape9320",
+        "body": "Wish I was Chinese their solidarity and passion is so much more fun than whatever is happening here",
+        "body_html": "<div class=\"md\"><p>Wish I was Chinese their solidarity and passion is so much more fun than whatever is happening here</p>\n</div>",
+        "created_utc": "2025-01-31 03:50:29",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma4prmi",
+        "is_submitter": false,
+        "link_id": "t3_1ie4md3",
+        "parent_id": "t3_1ie4md3",
+        "score": 96,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Strong_Appeal7",
+            "body": "Yeah, no one dares fu*k with their little brother and get away with it.",
+            "body_html": "<div class=\"md\"><p>Yeah, no one dares fu*k with their little brother and get away with it.</p>\n</div>",
+            "created_utc": "2025-01-31 05:59:01",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma5a61o",
+            "is_submitter": false,
+            "link_id": "t3_1ie4md3",
+            "parent_id": "t1_ma4prmi",
+            "score": 13,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/UnsurprisinglyLong",
+        "body": "that's crazy",
+        "body_html": "<div class=\"md\"><p>that&#39;s crazy</p>\n</div>",
+        "created_utc": "2025-01-31 03:58:57",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma4r8ni",
+        "is_submitter": false,
+        "link_id": "t3_1ie4md3",
+        "parent_id": "t3_1ie4md3",
+        "score": 21,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/bb-wa",
+        "body": "kinda explains why it was so slow back then?",
+        "body_html": "<div class=\"md\"><p>kinda explains why it was so slow back then?</p>\n</div>",
+        "created_utc": "2025-01-31 05:24:49",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma55600",
+        "is_submitter": false,
+        "link_id": "t3_1ie4md3",
+        "parent_id": "t3_1ie4md3",
+        "score": 18,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Wirtschaftsprufer",
+        "body": "Not a fan of corporates but feels good to know that at least in some country companies come together at tough times\n\n![gif](giphy|PudZiAbQDUEik|downsized)",
+        "body_html": "<div class=\"md\"><p>Not a fan of corporates but feels good to know that at least in some country companies come together at tough times</p>\n\n<p><a href=\"https://giphy.com/gifs/PudZiAbQDUEik\" target=\"_blank\"><img src=\"https://external-preview.redd.it/8QEIgWLOzSq0ELfDzfgV1714NuaZJpeiculBOPZ2B1w.gif?width=480&height=260&s=0881df8cecdc74343f3d66302bbbbc22872923ea\" width=\"480\" height=\"260\"></a></p>\n</div>",
+        "created_utc": "2025-01-31 05:35:03",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma56of4",
+        "is_submitter": false,
+        "link_id": "t3_1ie4md3",
+        "parent_id": "t3_1ie4md3",
+        "score": 18,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Substantial_Fan_9582",
+        "body": "Sounds familiar. Great resistance and solidarity!",
+        "body_html": "<div class=\"md\"><p>Sounds familiar. Great resistance and solidarity!</p>\n</div>",
+        "created_utc": "2025-01-31 05:16:26",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma53wse",
+        "is_submitter": false,
+        "link_id": "t3_1ie4md3",
+        "parent_id": "t3_1ie4md3",
+        "score": 9,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/AdditionalGuitar8994",
+        "body": "nowadays, any one can post a number and would be spread all over internet in less than 5 minutes. LOL",
+        "body_html": "<div class=\"md\"><p>nowadays, any one can post a number and would be spread all over internet in less than 5 minutes. LOL</p>\n</div>",
+        "created_utc": "2025-01-31 05:06:06",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma52bk6",
+        "is_submitter": false,
+        "link_id": "t3_1ie4md3",
+        "parent_id": "t3_1ie4md3",
+        "score": 6,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/coloradical5280",
+        "body": "that's either: \n\n* exaggerated greatly (biggest DDoS of all time was cloudflare (2022) I think, and was closer to 50 million/s, IIRC.\n* true, but if so, much (or most) didn't come from North America\n\n230 million/s would be 10-20 tb/s second of data. The largest bandwidth cable (there are dozens, but the largest) is the Japan to US FASTER cable and that can run like 60tb/s. \n\nThe bottlenecks going into that cable are AWS, Cloudflare, GCP, Azure, etc, all with extensive DDoS protections, and even if those were \"tricked\" which has never been done, the data literally wouldn't fit...  Many more Us based servers would have come to a crawl as well. \n\nLooking forward to seeing this autopsy, cause even if they're exaggerating by 300%, it's still massively logistically challenging attack if you're outside China.\n\nEdit just noticed how downvoted this is without a single person telling me why I\u2019m wrong ?? \n\nI\u2019m not saying they are lying \u2014 or \u2014  that the US is innocent.",
+        "body_html": "<div class=\"md\"><p>that&#39;s either: </p>\n\n<ul>\n<li>exaggerated greatly (biggest DDoS of all time was cloudflare (2022) I think, and was closer to 50 million/s, IIRC.</li>\n<li>true, but if so, much (or most) didn&#39;t come from North America</li>\n</ul>\n\n<p>230 million/s would be 10-20 tb/s second of data. The largest bandwidth cable (there are dozens, but the largest) is the Japan to US FASTER cable and that can run like 60tb/s. </p>\n\n<p>The bottlenecks going into that cable are AWS, Cloudflare, GCP, Azure, etc, all with extensive DDoS protections, and even if those were &quot;tricked&quot; which has never been done, the data literally wouldn&#39;t fit...  Many more Us based servers would have come to a crawl as well. </p>\n\n<p>Looking forward to seeing this autopsy, cause even if they&#39;re exaggerating by 300%, it&#39;s still massively logistically challenging attack if you&#39;re outside China.</p>\n\n<p>Edit just noticed how downvoted this is without a single person telling me why I\u2019m wrong ?? </p>\n\n<p>I\u2019m not saying they are lying \u2014 or \u2014  that the US is innocent.</p>\n</div>",
+        "created_utc": "2025-01-31 05:45:54",
+        "distinguished": null,
+        "edited": "2025-02-01 03:35:23",
+        "id": "ma589w9",
+        "is_submitter": false,
+        "link_id": "t3_1ie4md3",
+        "parent_id": "t3_1ie4md3",
+        "score": -14,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/enikylu",
+        "body": "Don\u2019t trust that",
+        "body_html": "<div class=\"md\"><p>Don\u2019t trust that</p>\n</div>",
+        "created_utc": "2025-01-31 04:28:03",
+        "distinguished": null,
+        "edited": false,
+        "id": "ma4w69d",
+        "is_submitter": false,
+        "link_id": "t3_1ie4md3",
+        "parent_id": "t3_1ie4md3",
+        "score": -34,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/notthevcode",
+            "body": "why though?",
+            "body_html": "<div class=\"md\"><p>why though?</p>\n</div>",
+            "created_utc": "2025-01-31 05:00:53",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma51ijl",
+            "is_submitter": false,
+            "link_id": "t3_1ie4md3",
+            "parent_id": "t1_ma4w69d",
+            "score": 21,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Visible_Bat2176",
+            "body": "Trust maga america instead :))",
+            "body_html": "<div class=\"md\"><p>Trust maga america instead :))</p>\n</div>",
+            "created_utc": "2025-01-31 05:38:25",
+            "distinguished": null,
+            "edited": false,
+            "id": "ma57690",
+            "is_submitter": false,
+            "link_id": "t3_1ie4md3",
+            "parent_id": "t1_ma4w69d",
+            "score": 15,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

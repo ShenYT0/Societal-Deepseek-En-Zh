@@ -1,0 +1,993 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1ibwzvt/lets_pick_one/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/SgUncle_Eric",
+      "created_utc": "2025-01-28 09:21:57",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Disccusion",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 68,
+      "permalink": "/r/DeepSeek/comments/1ibwzvt/lets_pick_one/",
+      "score": 364,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "Let's pick one \ud83e\udd17",
+      "upvote_ratio": 0.99
+    },
+    "comments": [
+      {
+        "author": "u/RoofComplete1126",
+        "body": "I got a feeling DeepSeek is legit.\n\n![gif](giphy|3o6wNRQXOmPzJ16X2o)",
+        "body_html": "<div class=\"md\"><p>I got a feeling DeepSeek is legit.</p>\n\n<p><a href=\"https://giphy.com/gifs/3o6wNRQXOmPzJ16X2o\" target=\"_blank\"><img src=\"https://external-preview.redd.it/o-ypmq-4b9j0xzetDVlvErnbtQb7ySvvDBPijVU72t8.gif?width=266&height=200&s=0f7438a341a8324a58abfb742606f916f33cc2b6\" width=\"266\" height=\"200\"></a></p>\n</div>",
+        "created_utc": "2025-01-28 13:32:32",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9mjgus",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 33,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Mountain-Computers",
+        "body": "The MOST important part is the cost at the bottom, while having similar performance. It is insane how expensive ChatGPT is, or how cheap deepseek is.",
+        "body_html": "<div class=\"md\"><p>The MOST important part is the cost at the bottom, while having similar performance. It is insane how expensive ChatGPT is, or how cheap deepseek is.</p>\n</div>",
+        "created_utc": "2025-01-28 14:57:04",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9mwln5",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 33,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/rautap3nis",
+            "body": "Spies. Think of how the soviets acquired nuclear weapopns equal and beyond the U.S.",
+            "body_html": "<div class=\"md\"><p>Spies. Think of how the soviets acquired nuclear weapopns equal and beyond the U.S.</p>\n</div>",
+            "created_utc": "2025-01-28 15:40:28",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9n4co1",
+            "is_submitter": false,
+            "link_id": "t3_1ibwzvt",
+            "parent_id": "t1_m9mwln5",
+            "score": -19,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Amrod96",
+                "body": "Well, not everything was copied or ChatGPT would be the same or cheaper.\n\nThe Soviet copy of Western missiles, which in turn was inspired by the German V2, led both sides to make the technological mistake of using liquid fuel.  A copy usually carries with it the same technical errors.",
+                "body_html": "<div class=\"md\"><p>Well, not everything was copied or ChatGPT would be the same or cheaper.</p>\n\n<p>The Soviet copy of Western missiles, which in turn was inspired by the German V2, led both sides to make the technological mistake of using liquid fuel.  A copy usually carries with it the same technical errors.</p>\n</div>",
+                "created_utc": "2025-01-28 16:14:09",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9naswk",
+                "is_submitter": false,
+                "link_id": "t3_1ibwzvt",
+                "parent_id": "t1_m9n4co1",
+                "score": 7,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/rautap3nis",
+                    "body": "I mean yeah OpenAI always tells us that oh noo this shit is so expensive we're gonna have to charge you 200 dollars for unlimited access but how the fuck do we know they're telling the truth if they won't even tell us how many parameters their model has?",
+                    "body_html": "<div class=\"md\"><p>I mean yeah OpenAI always tells us that oh noo this shit is so expensive we&#39;re gonna have to charge you 200 dollars for unlimited access but how the fuck do we know they&#39;re telling the truth if they won&#39;t even tell us how many parameters their model has?</p>\n</div>",
+                    "created_utc": "2025-01-28 16:16:48",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9nbbvg",
+                    "is_submitter": false,
+                    "link_id": "t3_1ibwzvt",
+                    "parent_id": "t1_m9naswk",
+                    "score": -3,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              },
+              {
+                "author": "u/dinkir19",
+                "body": "Well just... don't use DeepSeek on anything connected to classified information. The average citizen doesn't carry that kind of info on them.",
+                "body_html": "<div class=\"md\"><p>Well just... don&#39;t use DeepSeek on anything connected to classified information. The average citizen doesn&#39;t carry that kind of info on them.</p>\n</div>",
+                "created_utc": "2025-01-28 15:51:40",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9n6gq6",
+                "is_submitter": false,
+                "link_id": "t3_1ibwzvt",
+                "parent_id": "t1_m9n4co1",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/rautap3nis",
+                    "body": "Uhm, what I meant was how they got on such a level so cheap.",
+                    "body_html": "<div class=\"md\"><p>Uhm, what I meant was how they got on such a level so cheap.</p>\n</div>",
+                    "created_utc": "2025-01-28 16:14:29",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9nav89",
+                    "is_submitter": false,
+                    "link_id": "t3_1ibwzvt",
+                    "parent_id": "t1_m9n6gq6",
+                    "score": -4,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/dinkir19",
+                        "body": "Oh! My mistake!",
+                        "body_html": "<div class=\"md\"><p>Oh! My mistake!</p>\n</div>",
+                        "created_utc": "2025-01-28 16:22:01",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m9ncdr0",
+                        "is_submitter": false,
+                        "link_id": "t3_1ibwzvt",
+                        "parent_id": "t1_m9nav89",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/BoJackHorseMan53",
+                "body": "At this point I feel like at least half the US population is a conspiracy theorist.\n\nDo you also believe the earth is flat?\nMoon landing was fake?\n9/11 was an inside joke?",
+                "body_html": "<div class=\"md\"><p>At this point I feel like at least half the US population is a conspiracy theorist.</p>\n\n<p>Do you also believe the earth is flat?\nMoon landing was fake?\n9/11 was an inside joke?</p>\n</div>",
+                "created_utc": "2025-01-28 20:59:29",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9p073h",
+                "is_submitter": false,
+                "link_id": "t3_1ibwzvt",
+                "parent_id": "t1_m9n4co1",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/rautap3nis",
+                    "body": "Rofl no. And I'm not from the US. To not consider the possibility of stolen IP in this case is just intellectually dishonest. It's the most valuable technology in the world right now.\n\nAlso why do you personally trust this graph? Did you confirm on your own it was possible to create this with the numbers provided? Or did you perhaps find a paper online of which you didn't understand a single paragraph?\n\nI'm not saying for certain they are lying but it's healthy to keep yourself open to the possibility.",
+                    "body_html": "<div class=\"md\"><p>Rofl no. And I&#39;m not from the US. To not consider the possibility of stolen IP in this case is just intellectually dishonest. It&#39;s the most valuable technology in the world right now.</p>\n\n<p>Also why do you personally trust this graph? Did you confirm on your own it was possible to create this with the numbers provided? Or did you perhaps find a paper online of which you didn&#39;t understand a single paragraph?</p>\n\n<p>I&#39;m not saying for certain they are lying but it&#39;s healthy to keep yourself open to the possibility.</p>\n</div>",
+                    "created_utc": "2025-01-28 21:11:58",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9p2w2h",
+                    "is_submitter": false,
+                    "link_id": "t3_1ibwzvt",
+                    "parent_id": "t1_m9p073h",
+                    "score": 0,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/BoJackHorseMan53",
+                        "body": "I read their research paper and did the math to estimate their cost. It all checks out. I understand the research paper, I have a functioning brain.\n\nElectricity is cheaper in China because they have the most nuclear reactors in the world.\nThey used many optimization techniques to bring the cost down.",
+                        "body_html": "<div class=\"md\"><p>I read their research paper and did the math to estimate their cost. It all checks out. I understand the research paper, I have a functioning brain.</p>\n\n<p>Electricity is cheaper in China because they have the most nuclear reactors in the world.\nThey used many optimization techniques to bring the cost down.</p>\n</div>",
+                        "created_utc": "2025-01-29 04:58:33",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m9rloc4",
+                        "is_submitter": false,
+                        "link_id": "t3_1ibwzvt",
+                        "parent_id": "t1_m9p2w2h",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/rautap3nis",
+                            "body": "Oh how odd, this just dropped about a day later. [https://www.youtube.com/watch?v=hpwoGjpYygI](https://www.youtube.com/watch?v=hpwoGjpYygI)\n\nI'm sure you've done your research well though.",
+                            "body_html": "<div class=\"md\"><p>Oh how odd, this just dropped about a day later. <a href=\"https://www.youtube.com/watch?v=hpwoGjpYygI\">https://www.youtube.com/watch?v=hpwoGjpYygI</a></p>\n\n<p>I&#39;m sure you&#39;ve done your research well though.</p>\n</div>",
+                            "created_utc": "2025-01-29 23:13:59",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "m9wjvlx",
+                            "is_submitter": false,
+                            "link_id": "t3_1ibwzvt",
+                            "parent_id": "t1_m9rloc4",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/BoJackHorseMan53",
+                                "body": "Again, everyone's source is the research paper. Try reading it.",
+                                "body_html": "<div class=\"md\"><p>Again, everyone&#39;s source is the research paper. Try reading it.</p>\n</div>",
+                                "created_utc": "2025-01-30 02:47:05",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "m9xpa6b",
+                                "is_submitter": false,
+                                "link_id": "t3_1ibwzvt",
+                                "parent_id": "t1_m9wjvlx",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/rautap3nis",
+                                    "body": "Everyone read the paper and did the math here? Sure bro. Sure.",
+                                    "body_html": "<div class=\"md\"><p>Everyone read the paper and did the math here? Sure bro. Sure.</p>\n</div>",
+                                    "created_utc": "2025-01-30 06:31:46",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "m9yq9f1",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1ibwzvt",
+                                    "parent_id": "t1_m9xpa6b",
+                                    "score": 1,
+                                    "stickied": false,
+                                    "replies": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/rautap3nis",
+                "body": "To the downvoters. 24 hours later: [https://www.youtube.com/watch?v=hpwoGjpYygI](https://www.youtube.com/watch?v=hpwoGjpYygI)\n\nNo spies needed these days but obviously they didn't scramble their data on their own which would cost, you know, fuckloads. Compared to sorting through all the trash that OpenAI had to do and DeepSeek just basically mooching off of the curated data and deepening the biases of the OpenAI models they managed to get further with less training involved. However DeepSeek's training data might have cost them ungodly amounts of money which a Microsoft, a profit driven private company, happily accepted of course.",
+                "body_html": "<div class=\"md\"><p>To the downvoters. 24 hours later: <a href=\"https://www.youtube.com/watch?v=hpwoGjpYygI\">https://www.youtube.com/watch?v=hpwoGjpYygI</a></p>\n\n<p>No spies needed these days but obviously they didn&#39;t scramble their data on their own which would cost, you know, fuckloads. Compared to sorting through all the trash that OpenAI had to do and DeepSeek just basically mooching off of the curated data and deepening the biases of the OpenAI models they managed to get further with less training involved. However DeepSeek&#39;s training data might have cost them ungodly amounts of money which a Microsoft, a profit driven private company, happily accepted of course.</p>\n</div>",
+                "created_utc": "2025-01-29 23:14:23",
+                "distinguished": null,
+                "edited": "2025-01-29 23:21:27",
+                "id": "m9wjyoh",
+                "is_submitter": false,
+                "link_id": "t3_1ibwzvt",
+                "parent_id": "t1_m9n4co1",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/RdFoxxx",
+        "body": "What is Context length? How long they remember what happened in conversation?",
+        "body_html": "<div class=\"md\"><p>What is Context length? How long they remember what happened in conversation?</p>\n</div>",
+        "created_utc": "2025-01-28 10:18:50",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9lytj3",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 8,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Temporal_Integrity",
+            "body": "Yeah in a sense. Think of it like short term memory. \nLike if you upload a 400 page book to Deepseek and ask it to summarize, it won't  be able to do it accurately because it can't fit all the tokens in its context length. However, O1 will be able to because it has four times the context length.\n\nHowever if you ask to summarize a 50 page document, both will be able to do it.  64k tokens equals roughly 80 pages of English text - enough for many cases. \n\nGemini 1.5 Pro comes with a 2 *million* token context length. That allows Gemini to do some crazy shit others cant, like translating The Lord of The Rings to a language you invented by uploading your own homemade dictionary and grammar book as well as the book to be translated.\n\nEDIT: Apparantly the image in OP is a lie. [Deepseek only has a 64k tokens context length.](https://api-docs.deepseek.com/quick_start/pricing)",
+            "body_html": "<div class=\"md\"><p>Yeah in a sense. Think of it like short term memory. \nLike if you upload a 400 page book to Deepseek and ask it to summarize, it won&#39;t  be able to do it accurately because it can&#39;t fit all the tokens in its context length. However, O1 will be able to because it has four times the context length.</p>\n\n<p>However if you ask to summarize a 50 page document, both will be able to do it.  64k tokens equals roughly 80 pages of English text - enough for many cases. </p>\n\n<p>Gemini 1.5 Pro comes with a 2 <em>million</em> token context length. That allows Gemini to do some crazy shit others cant, like translating The Lord of The Rings to a language you invented by uploading your own homemade dictionary and grammar book as well as the book to be translated.</p>\n\n<p>EDIT: Apparantly the image in OP is a lie. <a href=\"https://api-docs.deepseek.com/quick_start/pricing\">Deepseek only has a 64k tokens context length.</a></p>\n</div>",
+            "created_utc": "2025-01-28 14:12:59",
+            "distinguished": null,
+            "edited": "2025-01-28 15:18:20",
+            "id": "m9mpchn",
+            "is_submitter": false,
+            "link_id": "t3_1ibwzvt",
+            "parent_id": "t1_m9lytj3",
+            "score": 30,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/RdFoxxx",
+                "body": "Oh thank you, I was interested in it but couldn't find any info. Deepseek themselves said it was 16k, but it didn't even know their name, so I thought it was wrong.",
+                "body_html": "<div class=\"md\"><p>Oh thank you, I was interested in it but couldn&#39;t find any info. Deepseek themselves said it was 16k, but it didn&#39;t even know their name, so I thought it was wrong.</p>\n</div>",
+                "created_utc": "2025-01-28 14:25:11",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9mra59",
+                "is_submitter": false,
+                "link_id": "t3_1ibwzvt",
+                "parent_id": "t1_m9mpchn",
+                "score": 7,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Temporal_Integrity",
+                    "body": "[Deepseek is actually 64K.](https://api-docs.deepseek.com/quick_start/pricing) Which is 80 pages - that's a bit short for  heavy duty work but you can still do quite a bit with it.",
+                    "body_html": "<div class=\"md\"><p><a href=\"https://api-docs.deepseek.com/quick_start/pricing\">Deepseek is actually 64K.</a> Which is 80 pages - that&#39;s a bit short for  heavy duty work but you can still do quite a bit with it.</p>\n</div>",
+                    "created_utc": "2025-01-28 15:16:03",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9mzwgp",
+                    "is_submitter": false,
+                    "link_id": "t3_1ibwzvt",
+                    "parent_id": "t1_m9mra59",
+                    "score": 5,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              },
+              {
+                "author": "u/BoJackHorseMan53",
+                "body": "Deepseek API has 64k context but the model itself has 128k context and can be found on third party hosts, check openrouter",
+                "body_html": "<div class=\"md\"><p>Deepseek API has 64k context but the model itself has 128k context and can be found on third party hosts, check openrouter</p>\n</div>",
+                "created_utc": "2025-01-28 20:56:48",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9ozm47",
+                "is_submitter": false,
+                "link_id": "t3_1ibwzvt",
+                "parent_id": "t1_m9mpchn",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/BubblyOption7980",
+        "body": "Does DeepSeek start from / requires an underlying pre-trained model? If so, is the $5.58M cost estimate misleading?",
+        "body_html": "<div class=\"md\"><p>Does DeepSeek start from / requires an underlying pre-trained model? If so, is the $5.58M cost estimate misleading?</p>\n</div>",
+        "created_utc": "2025-01-28 12:24:12",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9mb3gr",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 8,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/SgUncle_Eric",
+            "body": "In the DeepSeek-V3 paper, DeepSeek says that it spent 2.66 million GPU-hours on H800 accelerators to do the pretraining, 119,000 GPU-hours on context extension, and a mere 5,000  GPU-hours for supervised fine-tuning and reinforcement learning on the base V3 model, for a total of 2.79 million GPU-hours. At the cost of $2 per GPU hour \u2013 we have no idea if that is actually the prevailing price in China \u2013 then it cost a mere $5.58 million.\n\nThe cluster that DeepSeek says that it used to train the V3 model had a mere 256 server nodes with eight of the H800 GPU accelerators each, for a total of 2,048 GPUs. We presume that they are the H800 SXM5 version of the H800 cards, which have their FP64 floating point performance capped at 1 teraflops and are otherwise the same as the 80 GB version of the H100 card that most of the companies in the world can buy. (The PCI-Express version of the H800 card has some of its CUDA cores deactivated and has its memory bandwidth cut by 39 percent to 2 TB/sec from the 3.35 TB/sec on the base H100 card announced way back in 2022.) The eight GPUs inside the node are interlinked with NVSwitch es to created a shared memory domain across those GPU memories, and the nodes have multiple InfiniBand cards (probably one per GPU) to create high bandwidth links out to other nodes in the cluster. We strongly suspect DeepSeek only had access to 100 Gb/sec InfiniBand adapters and switches, but it could be running at 200 Gb/sec; the company does not say\n\nRead the full article @ https://www.nextplatform.com/2025/01/27/how-did-deepseek-train-its-ai-model-on-a-lot-less-and-crippled-hardware/",
+            "body_html": "<div class=\"md\"><p>In the DeepSeek-V3 paper, DeepSeek says that it spent 2.66 million GPU-hours on H800 accelerators to do the pretraining, 119,000 GPU-hours on context extension, and a mere 5,000  GPU-hours for supervised fine-tuning and reinforcement learning on the base V3 model, for a total of 2.79 million GPU-hours. At the cost of $2 per GPU hour \u2013 we have no idea if that is actually the prevailing price in China \u2013 then it cost a mere $5.58 million.</p>\n\n<p>The cluster that DeepSeek says that it used to train the V3 model had a mere 256 server nodes with eight of the H800 GPU accelerators each, for a total of 2,048 GPUs. We presume that they are the H800 SXM5 version of the H800 cards, which have their FP64 floating point performance capped at 1 teraflops and are otherwise the same as the 80 GB version of the H100 card that most of the companies in the world can buy. (The PCI-Express version of the H800 card has some of its CUDA cores deactivated and has its memory bandwidth cut by 39 percent to 2 TB/sec from the 3.35 TB/sec on the base H100 card announced way back in 2022.) The eight GPUs inside the node are interlinked with NVSwitch es to created a shared memory domain across those GPU memories, and the nodes have multiple InfiniBand cards (probably one per GPU) to create high bandwidth links out to other nodes in the cluster. We strongly suspect DeepSeek only had access to 100 Gb/sec InfiniBand adapters and switches, but it could be running at 200 Gb/sec; the company does not say</p>\n\n<p>Read the full article @ <a href=\"https://www.nextplatform.com/2025/01/27/how-did-deepseek-train-its-ai-model-on-a-lot-less-and-crippled-hardware/\">https://www.nextplatform.com/2025/01/27/how-did-deepseek-train-its-ai-model-on-a-lot-less-and-crippled-hardware/</a></p>\n</div>",
+            "created_utc": "2025-01-28 12:47:07",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9mdp3i",
+            "is_submitter": true,
+            "link_id": "t3_1ibwzvt",
+            "parent_id": "t1_m9mb3gr",
+            "score": 7,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/RealKingNish",
+                "body": "Points to note in another paper they also mentioned about their 10k H100 clusters. So, maybe they used that for R1.",
+                "body_html": "<div class=\"md\"><p>Points to note in another paper they also mentioned about their 10k H100 clusters. So, maybe they used that for R1.</p>\n</div>",
+                "created_utc": "2025-01-28 17:51:26",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9nv7c3",
+                "is_submitter": false,
+                "link_id": "t3_1ibwzvt",
+                "parent_id": "t1_m9mdp3i",
+                "score": 3,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/SgUncle_Eric",
+                    "body": "Yes for  R1 and they used Huawei's chips too! \ud83e\udd23\ud83e\udd23\ud83e\udd23\n\n![gif](giphy|3o6UB3VhArvomJHtdK)",
+                    "body_html": "<div class=\"md\"><p>Yes for  R1 and they used Huawei&#39;s chips too! \ud83e\udd23\ud83e\udd23\ud83e\udd23</p>\n\n<p><a href=\"https://giphy.com/gifs/3o6UB3VhArvomJHtdK\" target=\"_blank\"><img src=\"https://external-preview.redd.it/Q6049rvkBVA6eYJz0k-zFWjRTCCco0PHm9zOdCvj70w.gif?width=226&height=200&s=57f007e5ff0cc06e2d6eb9ea49d347951ee47a11\" width=\"226\" height=\"200\"></a></p>\n</div>",
+                    "created_utc": "2025-01-29 03:34:14",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9r72rd",
+                    "is_submitter": true,
+                    "link_id": "t3_1ibwzvt",
+                    "parent_id": "t1_m9nv7c3",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/legalizedmt",
+        "body": "But evil CCP 1984 I cant get my anti China sentiment from this primarily on math and coding focused LLM so the one costing 200$/month is much better /s",
+        "body_html": "<div class=\"md\"><p>But evil CCP 1984 I cant get my anti China sentiment from this primarily on math and coding focused LLM so the one costing 200$/month is much better /s</p>\n</div>",
+        "created_utc": "2025-01-28 22:55:22",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9ppdce",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 5,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/notroseefar",
+        "body": "Wow cost is way cheaper",
+        "body_html": "<div class=\"md\"><p>Wow cost is way cheaper</p>\n</div>",
+        "created_utc": "2025-01-28 15:33:31",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9n32pa",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/TheRussianChairThief",
+        "body": "I have no idea how to code or what this means, can someone help?",
+        "body_html": "<div class=\"md\"><p>I have no idea how to code or what this means, can someone help?</p>\n</div>",
+        "created_utc": "2025-01-28 17:37:55",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9nsa10",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/legxndares",
+        "body": "Gpt for me.",
+        "body_html": "<div class=\"md\"><p>Gpt for me.</p>\n</div>",
+        "created_utc": "2025-01-28 23:14:07",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9ptbi9",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 2,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/RealAlias_Leaf",
+        "body": "WTF is \"Group Relative Policy Optimization\" (GRPO)?\n\nIf you search this, there is basically zero info except from what is taken from the DeepSeek paper. Yet that paper has no references for GRPO.\n\nSupposedly they claim this optimizes responses by evaluating the relative performance of multiple generated responses (generate 2 responses, pick the better one is already super common), but not with a critic model.\n\nSo who makes this evaluation? In RLHF, humans make this evaluation, but are we to believe it is possible to tune the models responses to align with human expectations with neither a human nor a critic model involved?\n\nWHAT?",
+        "body_html": "<div class=\"md\"><p>WTF is &quot;Group Relative Policy Optimization&quot; (GRPO)?</p>\n\n<p>If you search this, there is basically zero info except from what is taken from the DeepSeek paper. Yet that paper has no references for GRPO.</p>\n\n<p>Supposedly they claim this optimizes responses by evaluating the relative performance of multiple generated responses (generate 2 responses, pick the better one is already super common), but not with a critic model.</p>\n\n<p>So who makes this evaluation? In RLHF, humans make this evaluation, but are we to believe it is possible to tune the models responses to align with human expectations with neither a human nor a critic model involved?</p>\n\n<p>WHAT?</p>\n</div>",
+        "created_utc": "2025-01-28 15:09:41",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9mys1p",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/SgUncle_Eric",
+            "body": "GRPO was made possible by the Deepseek team. That's how they set themselves apart despite with much lower computing power & resources. Technically, it was designed and made by them, and of course they won't tell everyone how it's made for good reasons. Can you imagine what the team owns equal share of computing power as OpenAI or anything closer, what would they be achieved then?",
+            "body_html": "<div class=\"md\"><p>GRPO was made possible by the Deepseek team. That&#39;s how they set themselves apart despite with much lower computing power &amp; resources. Technically, it was designed and made by them, and of course they won&#39;t tell everyone how it&#39;s made for good reasons. Can you imagine what the team owns equal share of computing power as OpenAI or anything closer, what would they be achieved then?</p>\n</div>",
+            "created_utc": "2025-01-28 15:42:51",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9n4t0j",
+            "is_submitter": true,
+            "link_id": "t3_1ibwzvt",
+            "parent_id": "t1_m9mys1p",
+            "score": 6,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/seanwee2000",
+                "body": "GRPO was introduced in one of their older research papers\n\nhttps://arxiv.org/abs/2402.03300\n\nits hardly a secret and it's not very complicated, which is elegant in a way",
+                "body_html": "<div class=\"md\"><p>GRPO was introduced in one of their older research papers</p>\n\n<p><a href=\"https://arxiv.org/abs/2402.03300\">https://arxiv.org/abs/2402.03300</a></p>\n\n<p>its hardly a secret and it&#39;s not very complicated, which is elegant in a way</p>\n</div>",
+                "created_utc": "2025-01-28 20:48:43",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9oxu1z",
+                "is_submitter": false,
+                "link_id": "t3_1ibwzvt",
+                "parent_id": "t1_m9n4t0j",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/bb-wa",
+        "body": "Nice chart",
+        "body_html": "<div class=\"md\"><p>Nice chart</p>\n</div>",
+        "created_utc": "2025-01-28 13:32:47",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9mji35",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/sekhmet666",
+        "body": "What\u2019s the source of this?",
+        "body_html": "<div class=\"md\"><p>What\u2019s the source of this?</p>\n</div>",
+        "created_utc": "2025-01-28 17:47:41",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9nudyh",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/SgUncle_Eric",
+            "body": "https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf",
+            "body_html": "<div class=\"md\"><p><a href=\"https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf\">https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf</a></p>\n</div>",
+            "created_utc": "2025-01-29 05:04:49",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9rmo5z",
+            "is_submitter": true,
+            "link_id": "t3_1ibwzvt",
+            "parent_id": "t1_m9nudyh",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/RealKingNish",
+        "body": "hey, can you provide source for r1 training cost.",
+        "body_html": "<div class=\"md\"><p>hey, can you provide source for r1 training cost.</p>\n</div>",
+        "created_utc": "2025-01-28 17:48:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9nui74",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/dclinnaeus",
+        "body": "The processing efficiency the cotton gin provided was expected to reduce labor demand, but it reduced production costs to the point that prices fell enough that demand grew and labor demands increased instead. The same will happen with more efficient ai models. The tech selloff is just a convenient excuse to realize gains and buy back in at lower prices, particularly the sell off in the optical comms/compute space.",
+        "body_html": "<div class=\"md\"><p>The processing efficiency the cotton gin provided was expected to reduce labor demand, but it reduced production costs to the point that prices fell enough that demand grew and labor demands increased instead. The same will happen with more efficient ai models. The tech selloff is just a convenient excuse to realize gains and buy back in at lower prices, particularly the sell off in the optical comms/compute space.</p>\n</div>",
+        "created_utc": "2025-01-28 20:03:15",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9onuuj",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Desertbro",
+        "body": "...so...the Mint Mobile of AI...????",
+        "body_html": "<div class=\"md\"><p>...so...the Mint Mobile of AI...????</p>\n</div>",
+        "created_utc": "2025-01-28 20:16:52",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9oqttz",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Pikrin",
+        "body": "Similar to when the big guys started seeing results from the ARM processor. At first they didn\u2019t care for it, now they can\u2019t match its specs,low power, and efficiency at low cost",
+        "body_html": "<div class=\"md\"><p>Similar to when the big guys started seeing results from the ARM processor. At first they didn\u2019t care for it, now they can\u2019t match its specs,low power, and efficiency at low cost</p>\n</div>",
+        "created_utc": "2025-01-28 22:19:33",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9phkwa",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/xqoe",
+        "body": "I find the comparison especially not partial, it's good!",
+        "body_html": "<div class=\"md\"><p>I find the comparison especially not partial, it&#39;s good!</p>\n</div>",
+        "created_utc": "2025-01-28 16:55:39",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9njaz6",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": 0,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Lazy-Reserve6695",
+        "body": "You forgot censorship-100%",
+        "body_html": "<div class=\"md\"><p>You forgot censorship-100%</p>\n</div>",
+        "created_utc": "2025-01-28 14:15:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9mpt12",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": -8,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Far-Nose-2088",
+            "body": "Same as in the US. OpenAis, Googles, Anthropic all have filters built in.",
+            "body_html": "<div class=\"md\"><p>Same as in the US. OpenAis, Googles, Anthropic all have filters built in.</p>\n</div>",
+            "created_utc": "2025-01-28 14:43:36",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9mub63",
+            "is_submitter": false,
+            "link_id": "t3_1ibwzvt",
+            "parent_id": "t1_m9mpt12",
+            "score": 7,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Livid_Zucchini_1625",
+            "body": "https://preview.redd.it/gj937c7prqfe1.jpeg?width=934&format=pjpg&auto=webp&s=dd3842d9fa0978ee60265bdfe7005d8c737b0efe",
+            "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/gj937c7prqfe1.jpeg?width=934&amp;format=pjpg&amp;auto=webp&amp;s=dd3842d9fa0978ee60265bdfe7005d8c737b0efe\">https://preview.redd.it/gj937c7prqfe1.jpeg?width=934&amp;format=pjpg&amp;auto=webp&amp;s=dd3842d9fa0978ee60265bdfe7005d8c737b0efe</a></p>\n</div>",
+            "created_utc": "2025-01-28 15:05:07",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9mxzet",
+            "is_submitter": false,
+            "link_id": "t3_1ibwzvt",
+            "parent_id": "t1_m9mpt12",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Traditional-Serve550",
+            "body": "Wtf do you mean. Its open source. If you are that worried just run it localy",
+            "body_html": "<div class=\"md\"><p>Wtf do you mean. Its open source. If you are that worried just run it localy</p>\n</div>",
+            "created_utc": "2025-01-28 20:12:00",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9oprl0",
+            "is_submitter": false,
+            "link_id": "t3_1ibwzvt",
+            "parent_id": "t1_m9mpt12",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/BoioDruid",
+        "body": "Yep, but only one of them will answer me about events from june 1989 that happened in china",
+        "body_html": "<div class=\"md\"><p>Yep, but only one of them will answer me about events from june 1989 that happened in china</p>\n</div>",
+        "created_utc": "2025-01-28 12:49:20",
+        "distinguished": null,
+        "edited": false,
+        "id": "m9mdyk5",
+        "is_submitter": false,
+        "link_id": "t3_1ibwzvt",
+        "parent_id": "t3_1ibwzvt",
+        "score": -18,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Exybr",
+            "body": "And? Did you care about that one week ago?",
+            "body_html": "<div class=\"md\"><p>And? Did you care about that one week ago?</p>\n</div>",
+            "created_utc": "2025-01-28 12:51:36",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9me8ax",
+            "is_submitter": false,
+            "link_id": "t3_1ibwzvt",
+            "parent_id": "t1_m9mdyk5",
+            "score": 22,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/BoioDruid",
+                "body": "I indeed did, I actually come from a country that likes to stick a big middle finger to totalitarian regimes",
+                "body_html": "<div class=\"md\"><p>I indeed did, I actually come from a country that likes to stick a big middle finger to totalitarian regimes</p>\n</div>",
+                "created_utc": "2025-01-28 13:37:10",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9mk3v3",
+                "is_submitter": false,
+                "link_id": "t3_1ibwzvt",
+                "parent_id": "t1_m9me8ax",
+                "score": -8,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/rikos969",
+            "body": "I know what happened in 1989 in china , I have more important things to ask",
+            "body_html": "<div class=\"md\"><p>I know what happened in 1989 in china , I have more important things to ask</p>\n</div>",
+            "created_utc": "2025-01-28 13:17:59",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9mhiwm",
+            "is_submitter": false,
+            "link_id": "t3_1ibwzvt",
+            "parent_id": "t1_m9mdyk5",
+            "score": 7,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/SgUncle_Eric",
+            "body": "It seems counterintuitive to target a country that experienced significant suffering during both World Wars, especially considering they were largely isolationist and not actively involved in global conflicts. Their history, like that of many nations, includes periods of hardship and potential injustices. Focusing solely on these past events, particularly those involving pain and suffering, can be seen as an oversimplification and an insensitive approach to international relations.\n\n![gif](giphy|ZaF4Vl1NQxwaVsStQU)",
+            "body_html": "<div class=\"md\"><p>It seems counterintuitive to target a country that experienced significant suffering during both World Wars, especially considering they were largely isolationist and not actively involved in global conflicts. Their history, like that of many nations, includes periods of hardship and potential injustices. Focusing solely on these past events, particularly those involving pain and suffering, can be seen as an oversimplification and an insensitive approach to international relations.</p>\n\n<p><a href=\"https://giphy.com/gifs/ZaF4Vl1NQxwaVsStQU\" target=\"_blank\"><img src=\"https://external-preview.redd.it/MsTew9su00Sh6ofHMEgzIFJA1yx6w3-7FXYP7jnFgVw.gif?width=200&height=200&s=45fe1d4194a4ec63e9e2bd2b9edfa1e050598499\" width=\"200\" height=\"200\"></a></p>\n</div>",
+            "created_utc": "2025-01-28 13:04:26",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9mfsvc",
+            "is_submitter": true,
+            "link_id": "t3_1ibwzvt",
+            "parent_id": "t1_m9mdyk5",
+            "score": 12,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/nudelauflauf23",
+                "body": "\"potential injustices\" is definitely an interesting way to describe the massacre of 2600 protesters",
+                "body_html": "<div class=\"md\"><p>&quot;potential injustices&quot; is definitely an interesting way to describe the massacre of 2600 protesters</p>\n</div>",
+                "created_utc": "2025-01-28 13:20:41",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9mhvjx",
+                "is_submitter": false,
+                "link_id": "t3_1ibwzvt",
+                "parent_id": "t1_m9mfsvc",
+                "score": -6,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/BoioDruid",
+                "body": "\"past events\" \"Ponential injustices\", how nicely do you try to shift the words, not like stuff like this happens in the country daily, just better covered up",
+                "body_html": "<div class=\"md\"><p>&quot;past events&quot; &quot;Ponential injustices&quot;, how nicely do you try to shift the words, not like stuff like this happens in the country daily, just better covered up</p>\n</div>",
+                "created_utc": "2025-01-28 13:36:51",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9mk2b0",
+                "is_submitter": false,
+                "link_id": "t3_1ibwzvt",
+                "parent_id": "t1_m9mfsvc",
+                "score": -6,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/Blitzpc",
+            "body": "OpenAI's Chatgpt actively adopts American propaganda regarding it's foreign policy in the Middle East. So please pipe down and keep it consistent.",
+            "body_html": "<div class=\"md\"><p>OpenAI&#39;s Chatgpt actively adopts American propaganda regarding it&#39;s foreign policy in the Middle East. So please pipe down and keep it consistent.</p>\n</div>",
+            "created_utc": "2025-01-28 13:24:09",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9mic5v",
+            "is_submitter": false,
+            "link_id": "t3_1ibwzvt",
+            "parent_id": "t1_m9mdyk5",
+            "score": 7,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/BoioDruid",
+                "body": "https://preview.redd.it/3vrh2al9cqfe1.png?width=712&format=png&auto=webp&s=5d1a7556cfe297f5fd6cd8f3f92e49a7e2e22571\n\nThis seems to me like a well argumented answer to the question if the Iraq war was justified (and this is just the last part, I do not wanna put in two pages of text), and hey, atleast Chatgpt will talk about it",
+                "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/3vrh2al9cqfe1.png?width=712&amp;format=png&amp;auto=webp&amp;s=5d1a7556cfe297f5fd6cd8f3f92e49a7e2e22571\">https://preview.redd.it/3vrh2al9cqfe1.png?width=712&amp;format=png&amp;auto=webp&amp;s=5d1a7556cfe297f5fd6cd8f3f92e49a7e2e22571</a></p>\n\n<p>This seems to me like a well argumented answer to the question if the Iraq war was justified (and this is just the last part, I do not wanna put in two pages of text), and hey, atleast Chatgpt will talk about it</p>\n</div>",
+                "created_utc": "2025-01-28 13:39:26",
+                "distinguished": null,
+                "edited": false,
+                "id": "m9mkf30",
+                "is_submitter": false,
+                "link_id": "t3_1ibwzvt",
+                "parent_id": "t1_m9mic5v",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/No-Pomegranate-5883",
+                    "body": "Now ask ChatGPT to tell you a joke about women. It\u2019s just as biased and dumb. Just has different biases that happen to align with things you agree with.",
+                    "body_html": "<div class=\"md\"><p>Now ask ChatGPT to tell you a joke about women. It\u2019s just as biased and dumb. Just has different biases that happen to align with things you agree with.</p>\n</div>",
+                    "created_utc": "2025-01-28 19:21:59",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "m9oerep",
+                    "is_submitter": false,
+                    "link_id": "t3_1ibwzvt",
+                    "parent_id": "t1_m9mkf30",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/IWasEatingThoseBeans",
+                        "body": "You're saying that an AI that doesn't engage in sexism is as bad as one that helps to cover up the massacre of peaceful protestors?",
+                        "body_html": "<div class=\"md\"><p>You&#39;re saying that an AI that doesn&#39;t engage in sexism is as bad as one that helps to cover up the massacre of peaceful protestors?</p>\n</div>",
+                        "created_utc": "2025-01-28 21:48:31",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m9patbb",
+                        "is_submitter": false,
+                        "link_id": "t3_1ibwzvt",
+                        "parent_id": "t1_m9oerep",
+                        "score": 0,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/No-Pomegranate-5883",
+                            "body": "Bias is bias. \n\nJokes about women aren\u2019t sexism. \n\nWriting jokes about men but refusing to write jokes about women is sexism, dipshit. Learn the meaning of words before trying to throw around the latest Reddit propaganda to help your cause.",
+                            "body_html": "<div class=\"md\"><p>Bias is bias. </p>\n\n<p>Jokes about women aren\u2019t sexism. </p>\n\n<p>Writing jokes about men but refusing to write jokes about women is sexism, dipshit. Learn the meaning of words before trying to throw around the latest Reddit propaganda to help your cause.</p>\n</div>",
+                            "created_utc": "2025-01-28 22:05:49",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "m9pell6",
+                            "is_submitter": false,
+                            "link_id": "t3_1ibwzvt",
+                            "parent_id": "t1_m9patbb",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/IWasEatingThoseBeans",
+                                "body": "Yikes, dude.\n\nYikes.\n\nGood luck.",
+                                "body_html": "<div class=\"md\"><p>Yikes, dude.</p>\n\n<p>Yikes.</p>\n\n<p>Good luck.</p>\n</div>",
+                                "created_utc": "2025-01-28 22:55:51",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "m9pph1e",
+                                "is_submitter": false,
+                                "link_id": "t3_1ibwzvt",
+                                "parent_id": "t1_m9pell6",
+                                "score": 0,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/No-Pomegranate-5883",
+                                    "body": "The only \u201cyikes\u201d here is the fact that everything I said is 100% fact and you had no possible rebuttal. But you felt the need to say something anyways. You can\u2019t refute facts so you figured you\u2019d try to attack me, personally. \n\nGet a fucking grip dude. I can recognize that DeepSeek is biased. It is. Just like ChatGPT is biased. Because it is. The difference is, I\u2019m not a dipshit loser that believes bias is okay as long as I am biased in the same direction.",
+                                    "body_html": "<div class=\"md\"><p>The only \u201cyikes\u201d here is the fact that everything I said is 100% fact and you had no possible rebuttal. But you felt the need to say something anyways. You can\u2019t refute facts so you figured you\u2019d try to attack me, personally. </p>\n\n<p>Get a fucking grip dude. I can recognize that DeepSeek is biased. It is. Just like ChatGPT is biased. Because it is. The difference is, I\u2019m not a dipshit loser that believes bias is okay as long as I am biased in the same direction.</p>\n</div>",
+                                    "created_utc": "2025-01-28 23:06:47",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "m9prs9w",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1ibwzvt",
+                                    "parent_id": "t1_m9pph1e",
+                                    "score": 1,
+                                    "stickied": false,
+                                    "replies": [
+                                      {
+                                        "author": "u/IWasEatingThoseBeans",
+                                        "body": "You realize you're the one who immediately resorted to name-calling, referring to me as dipshit?\n\nYou realize that I asked a question and you used it to assume my stance completely?\n\nYou realize you didn't actually answer my question at all?",
+                                        "body_html": "<div class=\"md\"><p>You realize you&#39;re the one who immediately resorted to name-calling, referring to me as dipshit?</p>\n\n<p>You realize that I asked a question and you used it to assume my stance completely?</p>\n\n<p>You realize you didn&#39;t actually answer my question at all?</p>\n</div>",
+                                        "created_utc": "2025-01-28 23:10:46",
+                                        "distinguished": null,
+                                        "edited": false,
+                                        "id": "m9psm2x",
+                                        "is_submitter": false,
+                                        "link_id": "t3_1ibwzvt",
+                                        "parent_id": "t1_m9prs9w",
+                                        "score": 0,
+                                        "stickied": false,
+                                        "replies": [
+                                          {
+                                            "author": "u/No-Pomegranate-5883",
+                                            "body": "I didn\u2019t assume anything. You said that a joke about women is sexism. Which is factually incorrect. That is not at all what sexism is. You parroted Reddit rhetoric without actually checking if what you said is true or correct. Pretty sure I can easily assume a lot about you based on that. \n\nI did answer your question.  \u201cBias is bias.\u201d You simply agree with one LLMs bias and not another ones bias. I say both are biased and both are wrong for being that way.",
+                                            "body_html": "<div class=\"md\"><p>I didn\u2019t assume anything. You said that a joke about women is sexism. Which is factually incorrect. That is not at all what sexism is. You parroted Reddit rhetoric without actually checking if what you said is true or correct. Pretty sure I can easily assume a lot about you based on that. </p>\n\n<p>I did answer your question.  \u201cBias is bias.\u201d You simply agree with one LLMs bias and not another ones bias. I say both are biased and both are wrong for being that way.</p>\n</div>",
+                                            "created_utc": "2025-01-28 23:20:50",
+                                            "distinguished": null,
+                                            "edited": false,
+                                            "id": "m9pupn3",
+                                            "is_submitter": false,
+                                            "link_id": "t3_1ibwzvt",
+                                            "parent_id": "t1_m9psm2x",
+                                            "score": 1,
+                                            "stickied": false,
+                                            "replies": [
+                                              {
+                                                "author": "u/IWasEatingThoseBeans",
+                                                "body": "I'm speaking to you, and you're speaking to an imaginary strawman conglomerate of other comments you've read. It's like you're on a different planet.\n\nTruly, man. Good luck.\n\nYikes.",
+                                                "body_html": "<div class=\"md\"><p>I&#39;m speaking to you, and you&#39;re speaking to an imaginary strawman conglomerate of other comments you&#39;ve read. It&#39;s like you&#39;re on a different planet.</p>\n\n<p>Truly, man. Good luck.</p>\n\n<p>Yikes.</p>\n</div>",
+                                                "created_utc": "2025-01-29 03:29:08",
+                                                "distinguished": null,
+                                                "edited": false,
+                                                "id": "m9r65r7",
+                                                "is_submitter": false,
+                                                "link_id": "t3_1ibwzvt",
+                                                "parent_id": "t1_m9pupn3",
+                                                "score": -1,
+                                                "stickied": false,
+                                                "replies": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "author": "u/BoioDruid",
+                        "body": "https://preview.redd.it/jkxdl3ljatfe1.png?width=800&format=png&auto=webp&s=df9f1bba72db8d24ff6b0459559bd6a123e96951\n\nOnce again, you are a failure",
+                        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/jkxdl3ljatfe1.png?width=800&amp;format=png&amp;auto=webp&amp;s=df9f1bba72db8d24ff6b0459559bd6a123e96951\">https://preview.redd.it/jkxdl3ljatfe1.png?width=800&amp;format=png&amp;auto=webp&amp;s=df9f1bba72db8d24ff6b0459559bd6a123e96951</a></p>\n\n<p>Once again, you are a failure</p>\n</div>",
+                        "created_utc": "2025-01-28 23:34:27",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "m9pxhmb",
+                        "is_submitter": false,
+                        "link_id": "t3_1ibwzvt",
+                        "parent_id": "t1_m9oerep",
+                        "score": 0,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/32parkin",
+            "body": "We don't even need to reach all the way back to 1989. How about 2019? Will DeepSeek tell me anything except CCP talking points about how the Covid-19 pandemic started? Will I be able to do any research about China flouting World Trade Organization rules? Can I learn about China's overfishing and destruction of marine environments caused by building its artificial islands? There are many important topics related to modern China that we should be able to learn about using AI, but we probably can't depend on DeepSeek for help.",
+            "body_html": "<div class=\"md\"><p>We don&#39;t even need to reach all the way back to 1989. How about 2019? Will DeepSeek tell me anything except CCP talking points about how the Covid-19 pandemic started? Will I be able to do any research about China flouting World Trade Organization rules? Can I learn about China&#39;s overfishing and destruction of marine environments caused by building its artificial islands? There are many important topics related to modern China that we should be able to learn about using AI, but we probably can&#39;t depend on DeepSeek for help.</p>\n</div>",
+            "created_utc": "2025-01-28 14:13:20",
+            "distinguished": null,
+            "edited": false,
+            "id": "m9mpeg3",
+            "is_submitter": false,
+            "link_id": "t3_1ibwzvt",
+            "parent_id": "t1_m9mdyk5",
+            "score": -3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1039 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1ifo720/idk_why_people_dont_understand_like_deepseek_is/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Junior_Command_9377",
+      "created_utc": "2025-02-02 04:32:15",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Other",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 69,
+      "permalink": "/r/DeepSeek/comments/1ifo720/idk_why_people_dont_understand_like_deepseek_is/",
+      "score": 1284,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "Idk why people don't understand like deepseek is open source",
+      "upvote_ratio": 0.98
+    },
+    "comments": [
+      {
+        "author": "u/Heybroletsparty",
+        "body": "We will usher ourselves into the new world order.",
+        "body_html": "<div class=\"md\"><p>We will usher ourselves into the new world order.</p>\n</div>",
+        "created_utc": "2025-02-02 04:42:04",
+        "distinguished": null,
+        "edited": false,
+        "id": "mahuikh",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 49,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Temporary-Story-1131",
+            "body": "AI will be the leash that the ruling class tugs us with.",
+            "body_html": "<div class=\"md\"><p>AI will be the leash that the ruling class tugs us with.</p>\n</div>",
+            "created_utc": "2025-02-03 06:54:41",
+            "distinguished": null,
+            "edited": false,
+            "id": "maozpfl",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_mahuikh",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/maxterminatorx",
+        "body": "And improving it",
+        "body_html": "<div class=\"md\"><p>And improving it</p>\n</div>",
+        "created_utc": "2025-02-02 06:14:08",
+        "distinguished": null,
+        "edited": false,
+        "id": "mai8ebv",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 14,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/joethegamer17",
+        "body": "Openai and google on the fair use list is the most ironic thing I've seen.",
+        "body_html": "<div class=\"md\"><p>Openai and google on the fair use list is the most ironic thing I&#39;ve seen.</p>\n</div>",
+        "created_utc": "2025-02-02 13:48:10",
+        "distinguished": null,
+        "edited": false,
+        "id": "majncjs",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 28,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/OswaldTicklebottom",
+            "body": "It's supposed to be taken humorously not seriously",
+            "body_html": "<div class=\"md\"><p>It&#39;s supposed to be taken humorously not seriously</p>\n</div>",
+            "created_utc": "2025-02-02 21:44:10",
+            "distinguished": null,
+            "edited": false,
+            "id": "mam90hs",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_majncjs",
+            "score": 19,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/mutcholokoW",
+        "body": "What's the third one in the stealing data section?",
+        "body_html": "<div class=\"md\"><p>What&#39;s the third one in the stealing data section?</p>\n</div>",
+        "created_utc": "2025-02-02 15:29:52",
+        "distinguished": null,
+        "edited": false,
+        "id": "mak2rr3",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 5,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/thenuka98",
+            "body": "Microsoft copilot I guess!",
+            "body_html": "<div class=\"md\"><p>Microsoft copilot I guess!</p>\n</div>",
+            "created_utc": "2025-02-08 13:39:17",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbnece2",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_mak2rr3",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/acomicbookguy",
+        "body": "What are all those symbols?",
+        "body_html": "<div class=\"md\"><p>What are all those symbols?</p>\n</div>",
+        "created_utc": "2025-02-02 04:48:42",
+        "distinguished": null,
+        "edited": false,
+        "id": "mahvmem",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 9,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/mWo12",
+            "body": "I asked AI (ChatGPT) to identify those logos, and it says:\n\n* Google (G logo) \u2013 Representing Google's AI efforts, such as Gemini.\n* Anthropic (AI text logo) \u2013 Likely referring to Claude AI by Anthropic.\n* OpenAI (interwoven knot logo) \u2013 Representing ChatGPT and OpenAI\u2019s other models.\n* ~~DeepMind (blue dragon-like logo) \u2013 Google's AI research company (known for AlphaFold, AlphaGo, etc.).~~ Should be DeepSeek\n* ~~Meta AI (stylized \"M\" logo) \u2013 Representing Meta's AI initiatives like Llama.~~ Should be Qwen (Alibaba AI)\n* ~~Microsoft (looped Copilot logo) \u2013 Representing AI tools like Microsoft Copilot.~~ kling AI",
+            "body_html": "<div class=\"md\"><p>I asked AI (ChatGPT) to identify those logos, and it says:</p>\n\n<ul>\n<li>Google (G logo) \u2013 Representing Google&#39;s AI efforts, such as Gemini.</li>\n<li>Anthropic (AI text logo) \u2013 Likely referring to Claude AI by Anthropic.</li>\n<li>OpenAI (interwoven knot logo) \u2013 Representing ChatGPT and OpenAI\u2019s other models.</li>\n<li><del>DeepMind (blue dragon-like logo) \u2013 Google&#39;s AI research company (known for AlphaFold, AlphaGo, etc.).</del> Should be DeepSeek</li>\n<li><del>Meta AI (stylized &quot;M&quot; logo) \u2013 Representing Meta&#39;s AI initiatives like Llama.</del> Should be Qwen (Alibaba AI)</li>\n<li><del>Microsoft (looped Copilot logo) \u2013 Representing AI tools like Microsoft Copilot.</del> kling AI</li>\n</ul>\n</div>",
+            "created_utc": "2025-02-02 04:57:37",
+            "distinguished": null,
+            "edited": "2025-02-02 05:59:18",
+            "id": "mahx30c",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_mahvmem",
+            "score": 25,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/djaybe",
+                "body": "Ask DeepSeek.",
+                "body_html": "<div class=\"md\"><p>Ask DeepSeek.</p>\n</div>",
+                "created_utc": "2025-02-02 12:23:32",
+                "distinguished": null,
+                "edited": false,
+                "id": "majdqfn",
+                "is_submitter": false,
+                "link_id": "t3_1ifo720",
+                "parent_id": "t1_mahx30c",
+                "score": 6,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/metal0130",
+                    "body": "This operation cannot be completed at this time.\u00a0",
+                    "body_html": "<div class=\"md\"><p>This operation cannot be completed at this time.\u00a0</p>\n</div>",
+                    "created_utc": "2025-02-02 14:35:56",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "maju1la",
+                    "is_submitter": false,
+                    "link_id": "t3_1ifo720",
+                    "parent_id": "t1_majdqfn",
+                    "score": 10,
+                    "stickied": false,
+                    "replies": []
+                  },
+                  {
+                    "author": "u/mWo12",
+                    "body": "DeepSeek does not support image analyses.",
+                    "body_html": "<div class=\"md\"><p>DeepSeek does not support image analyses.</p>\n</div>",
+                    "created_utc": "2025-02-03 01:11:24",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mandp5m",
+                    "is_submitter": false,
+                    "link_id": "t3_1ifo720",
+                    "parent_id": "t1_majdqfn",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/djaybe",
+                        "body": "It's been working great for me on the app.\n\nhttps://preview.redd.it/zehi32x5htge1.png?width=1080&format=png&auto=webp&s=5081ddfbadf74cd84de9b8858dad4bc3e9d08484",
+                        "body_html": "<div class=\"md\"><p>It&#39;s been working great for me on the app.</p>\n\n<p><a href=\"https://preview.redd.it/zehi32x5htge1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=5081ddfbadf74cd84de9b8858dad4bc3e9d08484\">https://preview.redd.it/zehi32x5htge1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=5081ddfbadf74cd84de9b8858dad4bc3e9d08484</a></p>\n</div>",
+                        "created_utc": "2025-02-03 01:15:31",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "manegtm",
+                        "is_submitter": false,
+                        "link_id": "t3_1ifo720",
+                        "parent_id": "t1_mandp5m",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/mWo12",
+                            "body": "Its only for text extraction, not for image understanding.",
+                            "body_html": "<div class=\"md\"><p>Its only for text extraction, not for image understanding.</p>\n</div>",
+                            "created_utc": "2025-02-03 01:17:48",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "manew39",
+                            "is_submitter": false,
+                            "link_id": "t3_1ifo720",
+                            "parent_id": "t1_manegtm",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/meloPamelo",
+                "body": "thanks. Kling is a racial slur though where I am from.",
+                "body_html": "<div class=\"md\"><p>thanks. Kling is a racial slur though where I am from.</p>\n</div>",
+                "created_utc": "2025-02-02 09:57:25",
+                "distinguished": null,
+                "edited": false,
+                "id": "maiyyf8",
+                "is_submitter": false,
+                "link_id": "t3_1ifo720",
+                "parent_id": "t1_mahx30c",
+                "score": 5,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Uniquewaz",
+                    "body": "Malaysian?",
+                    "body_html": "<div class=\"md\"><p>Malaysian?</p>\n</div>",
+                    "created_utc": "2025-02-02 11:58:01",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "majb3x8",
+                    "is_submitter": false,
+                    "link_id": "t3_1ifo720",
+                    "parent_id": "t1_maiyyf8",
+                    "score": 6,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/No_Gold_4554",
+                        "body": "ew",
+                        "body_html": "<div class=\"md\"><p>ew</p>\n</div>",
+                        "created_utc": "2025-02-03 05:02:49",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "maojlsb",
+                        "is_submitter": false,
+                        "link_id": "t3_1ifo720",
+                        "parent_id": "t1_majb3x8",
+                        "score": 2,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/Wirtschaftsprufer",
+                "body": "The last one is kling AI",
+                "body_html": "<div class=\"md\"><p>The last one is kling AI</p>\n</div>",
+                "created_utc": "2025-02-02 05:11:45",
+                "distinguished": null,
+                "edited": false,
+                "id": "mahzbqs",
+                "is_submitter": false,
+                "link_id": "t3_1ifo720",
+                "parent_id": "t1_mahx30c",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/mWo12",
+                    "body": "> kling AI\n\nThx",
+                    "body_html": "<div class=\"md\"><blockquote>\n<p>kling AI</p>\n</blockquote>\n\n<p>Thx</p>\n</div>",
+                    "created_utc": "2025-02-02 05:58:55",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mai6aha",
+                    "is_submitter": false,
+                    "link_id": "t3_1ifo720",
+                    "parent_id": "t1_mahzbqs",
+                    "score": 0,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Emport1",
+        "body": "I can't tell if you knoe, but the image is a joke",
+        "body_html": "<div class=\"md\"><p>I can&#39;t tell if you knoe, but the image is a joke</p>\n</div>",
+        "created_utc": "2025-02-02 05:16:42",
+        "distinguished": null,
+        "edited": false,
+        "id": "mai03bi",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 4,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/jackydock",
+        "body": "Because deepseek have started battle with nothing in hands with giants.  \nso it will take time until people starts to trust them",
+        "body_html": "<div class=\"md\"><p>Because deepseek have started battle with nothing in hands with giants.<br/>\nso it will take time until people starts to trust them</p>\n</div>",
+        "created_utc": "2025-02-02 10:01:28",
+        "distinguished": null,
+        "edited": false,
+        "id": "maizd24",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/serendipity-DRG",
+            "body": "It is difficult to trust a company that is controlled by the Chinese government.\n\nI don't like the data flow going to China.\n\nHere is a article about America's naivete.\n\n\"DeepSeek's $5 million number is to hurt US companies and there are lot of American idiots who hype it, says Palmer Luckey who sold his company for billions to Facebook\n\nPalmer Luckey, the American entrepreneur who sold his AR/VR hardware company Oculus to Facebook and founded defence technology comany Anduril, is skeptical of the recent hype surrounding Chinese AI startup DeepSeek and its claims about the cost of training its AI models. In a Fox Business interview, Luckey criticized the US media for what he perceives as overhype creating reporting of DeepSeek's claims.\n\nUseful idiots\" in America not challenging DeepSeek claims\n\nLuckey specifically challenged the widely reported figure of $5 million as the training cost for DeepSeek's AI model, which is purportedly competitive with US-developed models costing billions. He pointed out that DeepSeek has not disclosed the full costs associated with developing both of its models, and that significant infrastructure costs remain unknown. He accused DeepSeek of intentionally publicizing the $5 million figure to damage US companies, with the media acting as \"useful idiots\" by repeating the claim without proper scrutiny. He argued that neither China, DeepSeek, nor the media have an incentive to correct the record, even as US companies like Nvidia saw their valuations plummet.\n\nWhile acknowledging DeepSeek's impressive progress and innovations in AI, Luckey cautioned against accepting the company's self-reported figures at face value. He believes there are those who actively want to see US tech companies, and US President Donald Trump fail, and that some of those individuals are located within the United States.\n\nLuckey suggested that the timing and presentation of DeepSeek's news were deliberate, and that the resulting stock market reactions indicate it achieved its intended purpose. He concluded by emphasizing that acknowledging the competitive threat of Chinese AI does not require \"losing our minds\" or falling prey to what he considers to be CCP propaganda.\"",
+            "body_html": "<div class=\"md\"><p>It is difficult to trust a company that is controlled by the Chinese government.</p>\n\n<p>I don&#39;t like the data flow going to China.</p>\n\n<p>Here is a article about America&#39;s naivete.</p>\n\n<p>&quot;DeepSeek&#39;s $5 million number is to hurt US companies and there are lot of American idiots who hype it, says Palmer Luckey who sold his company for billions to Facebook</p>\n\n<p>Palmer Luckey, the American entrepreneur who sold his AR/VR hardware company Oculus to Facebook and founded defence technology comany Anduril, is skeptical of the recent hype surrounding Chinese AI startup DeepSeek and its claims about the cost of training its AI models. In a Fox Business interview, Luckey criticized the US media for what he perceives as overhype creating reporting of DeepSeek&#39;s claims.</p>\n\n<p>Useful idiots&quot; in America not challenging DeepSeek claims</p>\n\n<p>Luckey specifically challenged the widely reported figure of $5 million as the training cost for DeepSeek&#39;s AI model, which is purportedly competitive with US-developed models costing billions. He pointed out that DeepSeek has not disclosed the full costs associated with developing both of its models, and that significant infrastructure costs remain unknown. He accused DeepSeek of intentionally publicizing the $5 million figure to damage US companies, with the media acting as &quot;useful idiots&quot; by repeating the claim without proper scrutiny. He argued that neither China, DeepSeek, nor the media have an incentive to correct the record, even as US companies like Nvidia saw their valuations plummet.</p>\n\n<p>While acknowledging DeepSeek&#39;s impressive progress and innovations in AI, Luckey cautioned against accepting the company&#39;s self-reported figures at face value. He believes there are those who actively want to see US tech companies, and US President Donald Trump fail, and that some of those individuals are located within the United States.</p>\n\n<p>Luckey suggested that the timing and presentation of DeepSeek&#39;s news were deliberate, and that the resulting stock market reactions indicate it achieved its intended purpose. He concluded by emphasizing that acknowledging the competitive threat of Chinese AI does not require &quot;losing our minds&quot; or falling prey to what he considers to be CCP propaganda.&quot;</p>\n</div>",
+            "created_utc": "2025-02-02 19:34:02",
+            "distinguished": null,
+            "edited": false,
+            "id": "malh3n1",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_maizd24",
+            "score": -4,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/KickUpper1817",
+                "body": "Better than giving my data to war machines and FBI",
+                "body_html": "<div class=\"md\"><p>Better than giving my data to war machines and FBI</p>\n</div>",
+                "created_utc": "2025-02-02 19:58:26",
+                "distinguished": null,
+                "edited": false,
+                "id": "malmj03",
+                "is_submitter": false,
+                "link_id": "t3_1ifo720",
+                "parent_id": "t1_malh3n1",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/404NotAFool",
+            "body": "Totally agree",
+            "body_html": "<div class=\"md\"><p>Totally agree</p>\n</div>",
+            "created_utc": "2025-02-02 14:41:24",
+            "distinguished": null,
+            "edited": false,
+            "id": "majuvsl",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_maizd24",
+            "score": -1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/ZetaLvX",
+        "body": "Google .. they that also know when you go to pee, \u00a0they who have been spying on the world for decades and manipulating the internet..",
+        "body_html": "<div class=\"md\"><p>Google .. they that also know when you go to pee, \u00a0they who have been spying on the world for decades and manipulating the internet..</p>\n</div>",
+        "created_utc": "2025-02-02 13:40:41",
+        "distinguished": null,
+        "edited": "2025-02-02 15:06:54",
+        "id": "majmdwl",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/i_am_really_b0red",
+        "body": "It\u2019s open source that\u2019s why they don\u2019t like it, They can\u2019t accuse it of stealing data",
+        "body_html": "<div class=\"md\"><p>It\u2019s open source that\u2019s why they don\u2019t like it, They can\u2019t accuse it of stealing data</p>\n</div>",
+        "created_utc": "2025-02-02 13:46:04",
+        "distinguished": null,
+        "edited": false,
+        "id": "majn2sf",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/TPf0rMyBungh0le",
+            "body": "That's not true. The source code that's available for download can be different than the code that's running on the deepseek website.",
+            "body_html": "<div class=\"md\"><p>That&#39;s not true. The source code that&#39;s available for download can be different than the code that&#39;s running on the deepseek website.</p>\n</div>",
+            "created_utc": "2025-02-03 17:30:02",
+            "distinguished": null,
+            "edited": false,
+            "id": "marc71t",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_majn2sf",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/i_am_really_b0red",
+                "body": "Is it different or it \u201ccan\u201d be different ?",
+                "body_html": "<div class=\"md\"><p>Is it different or it \u201ccan\u201d be different ?</p>\n</div>",
+                "created_utc": "2025-02-03 18:22:48",
+                "distinguished": null,
+                "edited": false,
+                "id": "marnj31",
+                "is_submitter": false,
+                "link_id": "t3_1ifo720",
+                "parent_id": "t1_marc71t",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Silver-Butterfly-301",
+        "body": "Buy in on deepseeks first memecoin: $MPup will 2000x the money you put in",
+        "body_html": "<div class=\"md\"><p>Buy in on deepseeks first memecoin: $MPup will 2000x the money you put in</p>\n</div>",
+        "created_utc": "2025-02-02 15:31:11",
+        "distinguished": null,
+        "edited": false,
+        "id": "mak3006",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Kqyxzoj",
+            "body": ">Buy in on deepseeks first memecoin: $MPup will 2000x the money you put in\n\nIn [totally unrelated](https://www.reddit.com/r/Moonpup/comments/1ibb4gi/comment/magfw6v/) news:\n\n>\n\n>500k now\n\nWell, that was predictable. As are all those other $MoonPumpnDump posts.\n\nAlso, why stop at 2000x? Go for 10000x! At least! 1Mx!!!\n\n[](https://www.reddit.com/r/Moonpup/comments/1ibb4gi/comment/magfw6v/)",
+            "body_html": "<div class=\"md\"><blockquote>\n<p>Buy in on deepseeks first memecoin: $MPup will 2000x the money you put in</p>\n</blockquote>\n\n<p>In <a href=\"https://www.reddit.com/r/Moonpup/comments/1ibb4gi/comment/magfw6v/\">totally unrelated</a> news:</p>\n\n<blockquote>\n<p>500k now</p>\n</blockquote>\n\n<p>Well, that was predictable. As are all those other $MoonPumpnDump posts.</p>\n\n<p>Also, why stop at 2000x? Go for 10000x! At least! 1Mx!!!</p>\n\n<p><a href=\"https://www.reddit.com/r/Moonpup/comments/1ibb4gi/comment/magfw6v/\"></a></p>\n</div>",
+            "created_utc": "2025-02-02 19:08:17",
+            "distinguished": null,
+            "edited": false,
+            "id": "malbbzp",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_mak3006",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Silver-Butterfly-301",
+                "body": "No, chatgpts hit 1b same did another ai\u2019s memecoin",
+                "body_html": "<div class=\"md\"><p>No, chatgpts hit 1b same did another ai\u2019s memecoin</p>\n</div>",
+                "created_utc": "2025-02-02 19:12:29",
+                "distinguished": null,
+                "edited": false,
+                "id": "malc9p8",
+                "is_submitter": false,
+                "link_id": "t3_1ifo720",
+                "parent_id": "t1_malbbzp",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Half_X",
+        "body": "who cares ?",
+        "body_html": "<div class=\"md\"><p>who cares ?</p>\n</div>",
+        "created_utc": "2025-02-02 21:36:24",
+        "distinguished": null,
+        "edited": false,
+        "id": "mam7ewg",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Anticris",
+        "body": "De que empresa IA es el \u00faltimo icono?\u00a0",
+        "body_html": "<div class=\"md\"><p>De que empresa IA es el \u00faltimo icono?\u00a0</p>\n</div>",
+        "created_utc": "2025-02-02 22:34:04",
+        "distinguished": null,
+        "edited": false,
+        "id": "mamj87f",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/leortega7",
+        "body": "what are the another two in \"stealin data?",
+        "body_html": "<div class=\"md\"><p>what are the another two in &quot;stealin data?</p>\n</div>",
+        "created_utc": "2025-02-03 07:38:42",
+        "distinguished": null,
+        "edited": false,
+        "id": "map4w9p",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/ControversialBent",
+        "body": "Pretty simple though? The open source, local version isn\u2019t what most people are using currently.",
+        "body_html": "<div class=\"md\"><p>Pretty simple though? The open source, local version isn\u2019t what most people are using currently.</p>\n</div>",
+        "created_utc": "2025-02-03 18:30:27",
+        "distinguished": null,
+        "edited": false,
+        "id": "marp6pr",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/sacmalamadan",
+        "body": "https://preview.redd.it/vk4ng83td3he1.jpeg?width=1200&format=pjpg&auto=webp&s=4f160c5640a73fb16b83b2dea88e29ea9aa9ba23",
+        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/vk4ng83td3he1.jpeg?width=1200&amp;format=pjpg&amp;auto=webp&amp;s=4f160c5640a73fb16b83b2dea88e29ea9aa9ba23\">https://preview.redd.it/vk4ng83td3he1.jpeg?width=1200&amp;format=pjpg&amp;auto=webp&amp;s=4f160c5640a73fb16b83b2dea88e29ea9aa9ba23</a></p>\n</div>",
+        "created_utc": "2025-02-04 10:34:33",
+        "distinguished": null,
+        "edited": false,
+        "id": "mawalr4",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/SubtleAgar",
+        "body": "It's because the platform uses biased censorship from what I gather.",
+        "body_html": "<div class=\"md\"><p>It&#39;s because the platform uses biased censorship from what I gather.</p>\n</div>",
+        "created_utc": "2025-02-02 16:54:43",
+        "distinguished": null,
+        "edited": false,
+        "id": "makir46",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Donald_Pelosi",
+        "body": "https://preview.redd.it/hpdbuyjvwpge1.png?width=1606&format=png&auto=webp&s=b250de856444e0c77968f8a189e4165f69923557\n\nErmmmm... actually it is a model that stolen from Open Ai. Deepseek just admit it\\~\ud83d\ude2a\ud83d\ude2a\ud83d\ude2a",
+        "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/hpdbuyjvwpge1.png?width=1606&amp;format=png&amp;auto=webp&amp;s=b250de856444e0c77968f8a189e4165f69923557\">https://preview.redd.it/hpdbuyjvwpge1.png?width=1606&amp;format=png&amp;auto=webp&amp;s=b250de856444e0c77968f8a189e4165f69923557</a></p>\n\n<p>Ermmmm... actually it is a model that stolen from Open Ai. Deepseek just admit it~\ud83d\ude2a\ud83d\ude2a\ud83d\ude2a</p>\n</div>",
+        "created_utc": "2025-02-02 13:17:30",
+        "distinguished": null,
+        "edited": false,
+        "id": "majjlff",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": 0,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/KickUpper1817",
+            "body": "Be careful with the word stolen. That\u2019s a huge allegation",
+            "body_html": "<div class=\"md\"><p>Be careful with the word stolen. That\u2019s a huge allegation</p>\n</div>",
+            "created_utc": "2025-02-02 19:57:41",
+            "distinguished": null,
+            "edited": false,
+            "id": "malmd27",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_majjlff",
+            "score": 4,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Dismal_Code_2470",
+            "body": "That is a good thing, openai managed to stack all human acknowledge (as they say) in a ai model , so training a model on their informations is a good thing",
+            "body_html": "<div class=\"md\"><p>That is a good thing, openai managed to stack all human acknowledge (as they say) in a ai model , so training a model on their informations is a good thing</p>\n</div>",
+            "created_utc": "2025-02-02 13:44:49",
+            "distinguished": null,
+            "edited": false,
+            "id": "majmx0g",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_majjlff",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/MouthOfIronOfficial",
+        "body": "What does open source have to do with them stealing data?",
+        "body_html": "<div class=\"md\"><p>What does open source have to do with them stealing data?</p>\n</div>",
+        "created_utc": "2025-02-02 06:44:14",
+        "distinguished": null,
+        "edited": false,
+        "id": "maicqgl",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": -7,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Purple-Phrase-9180",
+            "body": "You can install it locally in your laptop and your data from your prompts won\u2019t be saved in their servers",
+            "body_html": "<div class=\"md\"><p>You can install it locally in your laptop and your data from your prompts won\u2019t be saved in their servers</p>\n</div>",
+            "created_utc": "2025-02-02 08:24:49",
+            "distinguished": null,
+            "edited": false,
+            "id": "maip6pz",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_maicqgl",
+            "score": 10,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/MouthOfIronOfficial",
+                "body": "They already stole the data, that isn't the point lol",
+                "body_html": "<div class=\"md\"><p>They already stole the data, that isn&#39;t the point lol</p>\n</div>",
+                "created_utc": "2025-02-02 08:25:52",
+                "distinguished": null,
+                "edited": false,
+                "id": "maipawr",
+                "is_submitter": false,
+                "link_id": "t3_1ifo720",
+                "parent_id": "t1_maip6pz",
+                "score": -12,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Purple-Phrase-9180",
+                    "body": "They wouldn\u2019t steal new and sensitive data",
+                    "body_html": "<div class=\"md\"><p>They wouldn\u2019t steal new and sensitive data</p>\n</div>",
+                    "created_utc": "2025-02-02 08:27:40",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "maipi6l",
+                    "is_submitter": false,
+                    "link_id": "t3_1ifo720",
+                    "parent_id": "t1_maipawr",
+                    "score": 9,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/MouthOfIronOfficial",
+                        "body": "Besides that not being the point, they absolutely can. What percentage of users are running it locally? How many even have the hardware to do so?\n\nBut this meme is about them stealing data to build the AI, not stealing it from the users\n\nE: you reply to my comments and I'm the one who just wants to argue? Lol thanks for blocking me so I don't have to see your dumbass again\n\n\"For the sake of being right\" lol at least you admit it",
+                        "body_html": "<div class=\"md\"><p>Besides that not being the point, they absolutely can. What percentage of users are running it locally? How many even have the hardware to do so?</p>\n\n<p>But this meme is about them stealing data to build the AI, not stealing it from the users</p>\n\n<p>E: you reply to my comments and I&#39;m the one who just wants to argue? Lol thanks for blocking me so I don&#39;t have to see your dumbass again</p>\n\n<p>&quot;For the sake of being right&quot; lol at least you admit it</p>\n</div>",
+                        "created_utc": "2025-02-02 09:03:52",
+                        "distinguished": null,
+                        "edited": "2025-02-02 09:13:47",
+                        "id": "maitefz",
+                        "is_submitter": false,
+                        "link_id": "t3_1ifo720",
+                        "parent_id": "t1_maipi6l",
+                        "score": -14,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Purple-Phrase-9180",
+                            "body": "You just want to argue for the sake of being right. Whatever",
+                            "body_html": "<div class=\"md\"><p>You just want to argue for the sake of being right. Whatever</p>\n</div>",
+                            "created_utc": "2025-02-02 09:09:44",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "maiu122",
+                            "is_submitter": false,
+                            "link_id": "t3_1ifo720",
+                            "parent_id": "t1_maitefz",
+                            "score": 9,
+                            "stickied": false,
+                            "replies": []
+                          },
+                          {
+                            "author": "u/Zestyclose-Aspect-35",
+                            "body": "All llms are trained on stolen data",
+                            "body_html": "<div class=\"md\"><p>All llms are trained on stolen data</p>\n</div>",
+                            "created_utc": "2025-02-02 13:14:14",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "majj7o6",
+                            "is_submitter": false,
+                            "link_id": "t3_1ifo720",
+                            "parent_id": "t1_maitefz",
+                            "score": 3,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/BomberRURP",
+            "body": "Do you think any American LLM provider paid for the data they used to train their models?\u00a0",
+            "body_html": "<div class=\"md\"><p>Do you think any American LLM provider paid for the data they used to train their models?\u00a0</p>\n</div>",
+            "created_utc": "2025-02-02 15:12:58",
+            "distinguished": null,
+            "edited": false,
+            "id": "majzw2n",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_maicqgl",
+            "score": 4,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/MouthOfIronOfficial",
+                "body": "Yes, they paid for processing power and manpower to make the raw data useful\n\nAnd deepseek stole it\n\nAll caught up now?",
+                "body_html": "<div class=\"md\"><p>Yes, they paid for processing power and manpower to make the raw data useful</p>\n\n<p>And deepseek stole it</p>\n\n<p>All caught up now?</p>\n</div>",
+                "created_utc": "2025-02-02 19:29:07",
+                "distinguished": null,
+                "edited": false,
+                "id": "malg0hc",
+                "is_submitter": false,
+                "link_id": "t3_1ifo720",
+                "parent_id": "t1_majzw2n",
+                "score": -1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/BomberRURP",
+                    "body": "I\u2019m really curious of how you think this benefits you or for that matter the average American.\u00a0\n\nOn the one hand we have private American companies who scraped the Internet, without paying for shit and breaking all sorts of intellectual property laws, and fed it into a system that is only existent thanks for DECADES of publicity funded research that we all collectively paid for. Who then turned around and slapped a login screen and sold it back to the public (who again, funded all the research that led to it), at insane profits.\u00a0\nBut it\u2019s not just the little chat interface, no, they\u2019re trying really hard (I\u2019m doubtful on the success, but they\u2019re trying) to make these models able to replace many peoples jobs so they can get paid by the companies firing people. In essence slurping up potentially millions of American livelihoods. All the while they\u2019re fighting even the most minimal regulation that would make it so the public has a modicum of control over it and maybe gets some tax revenue (again, I stress that WE paid for the research they slapped a UI on top of).\u00a0\n\nOn the other hand we have a AI trading company who got told they can\u2019t do that anymore because it\u2019s too risky for the economy and thus people\u2019s livelihoods (good governance and leadership. Something we see so rarely it\u2019s unrecognizable to people like you). So they said \u201cwell this is pretty cool, let\u2019s give to the world for FREE\u201d. In the process throwing a big wrench in the grift by the American companies that encourage politicians to cut any public service they can but GIFT them billions and billions of dollars, so they can succeed in their project of taking millions of Americans\u2019 livelihoods into their own bank accounts.\u00a0\n\nAnd you\u2019re telling me the American guys are the \u201cgood\u201d guys?!\u00a0\n\nMy man, either you don\u2019t understand the situation at all, or you\u2019re the most cucked person I\u2019ve ever talked to\u00a0\n\nAlso DeepSeek didn\u2019t steal shit, else they wouldn\u2019t be able to do what they did. The whole achievement here (aside from the giving it out for free to help everyone) is that they managed to create a model on par (and better in some ways) to the American ones on worse hardware using better training methodology. In other words, they did it better and cheaper. Neither of which would be possible if they just \u201cstole it\u201d",
+                    "body_html": "<div class=\"md\"><p>I\u2019m really curious of how you think this benefits you or for that matter the average American.\u00a0</p>\n\n<p>On the one hand we have private American companies who scraped the Internet, without paying for shit and breaking all sorts of intellectual property laws, and fed it into a system that is only existent thanks for DECADES of publicity funded research that we all collectively paid for. Who then turned around and slapped a login screen and sold it back to the public (who again, funded all the research that led to it), at insane profits.\u00a0\nBut it\u2019s not just the little chat interface, no, they\u2019re trying really hard (I\u2019m doubtful on the success, but they\u2019re trying) to make these models able to replace many peoples jobs so they can get paid by the companies firing people. In essence slurping up potentially millions of American livelihoods. All the while they\u2019re fighting even the most minimal regulation that would make it so the public has a modicum of control over it and maybe gets some tax revenue (again, I stress that WE paid for the research they slapped a UI on top of).\u00a0</p>\n\n<p>On the other hand we have a AI trading company who got told they can\u2019t do that anymore because it\u2019s too risky for the economy and thus people\u2019s livelihoods (good governance and leadership. Something we see so rarely it\u2019s unrecognizable to people like you). So they said \u201cwell this is pretty cool, let\u2019s give to the world for FREE\u201d. In the process throwing a big wrench in the grift by the American companies that encourage politicians to cut any public service they can but GIFT them billions and billions of dollars, so they can succeed in their project of taking millions of Americans\u2019 livelihoods into their own bank accounts.\u00a0</p>\n\n<p>And you\u2019re telling me the American guys are the \u201cgood\u201d guys?!\u00a0</p>\n\n<p>My man, either you don\u2019t understand the situation at all, or you\u2019re the most cucked person I\u2019ve ever talked to\u00a0</p>\n\n<p>Also DeepSeek didn\u2019t steal shit, else they wouldn\u2019t be able to do what they did. The whole achievement here (aside from the giving it out for free to help everyone) is that they managed to create a model on par (and better in some ways) to the American ones on worse hardware using better training methodology. In other words, they did it better and cheaper. Neither of which would be possible if they just \u201cstole it\u201d</p>\n</div>",
+                    "created_utc": "2025-02-03 01:00:22",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "manbnpn",
+                    "is_submitter": false,
+                    "link_id": "t3_1ifo720",
+                    "parent_id": "t1_malg0hc",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/MouthOfIronOfficial",
+                        "body": "> scraped the Internet, without paying for shit and breaking all sorts of intellectual property laws, and fed it into a system that is only existent thanks for DECADES of publicity funded research that we all collectively paid for. Who then turned around and slapped a login screen and sold it back to the public\n\nIf that's the extent of your knowledge on how data is fed to AI systems then there's nothing I can do to help you. It's a process that requires human supervision and interaction. That's why deepseek is so wrong so often, they skipped that key step and used AI to train AI\n\n> Also DeepSeek didn\u2019t steal shit, else they wouldn\u2019t be able to do what they did.\n\nExcept they absolutely did lol just ask it who developed it \n\n> worse hardware using better training methodology. In other words, they did it better and cheaper. Neither of which would be possible if they just \u201cstole it\u201d\n\nTheir training methodology was using chatGPT and Claude to train it instead of humans. That's far from \"better\", that's just crippling future development for momentary gains \n\n> (aside from the giving it out for free to help everyone)\n\nOh you sweet, sweet summer child",
+                        "body_html": "<div class=\"md\"><blockquote>\n<p>scraped the Internet, without paying for shit and breaking all sorts of intellectual property laws, and fed it into a system that is only existent thanks for DECADES of publicity funded research that we all collectively paid for. Who then turned around and slapped a login screen and sold it back to the public</p>\n</blockquote>\n\n<p>If that&#39;s the extent of your knowledge on how data is fed to AI systems then there&#39;s nothing I can do to help you. It&#39;s a process that requires human supervision and interaction. That&#39;s why deepseek is so wrong so often, they skipped that key step and used AI to train AI</p>\n\n<blockquote>\n<p>Also DeepSeek didn\u2019t steal shit, else they wouldn\u2019t be able to do what they did.</p>\n</blockquote>\n\n<p>Except they absolutely did lol just ask it who developed it </p>\n\n<blockquote>\n<p>worse hardware using better training methodology. In other words, they did it better and cheaper. Neither of which would be possible if they just \u201cstole it\u201d</p>\n</blockquote>\n\n<p>Their training methodology was using chatGPT and Claude to train it instead of humans. That&#39;s far from &quot;better&quot;, that&#39;s just crippling future development for momentary gains </p>\n\n<blockquote>\n<p>(aside from the giving it out for free to help everyone)</p>\n</blockquote>\n\n<p>Oh you sweet, sweet summer child</p>\n</div>",
+                        "created_utc": "2025-02-03 01:46:40",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mank8ru",
+                        "is_submitter": false,
+                        "link_id": "t3_1ifo720",
+                        "parent_id": "t1_manbnpn",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/3DprintRC",
+            "body": "Which \"AI\" isn't based on stolen data?",
+            "body_html": "<div class=\"md\"><p>Which &quot;AI&quot; isn&#39;t based on stolen data?</p>\n</div>",
+            "created_utc": "2025-02-02 15:30:37",
+            "distinguished": null,
+            "edited": false,
+            "id": "mak2wfb",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_maicqgl",
+            "score": 3,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/MouthOfIronOfficial",
+                "body": "I'm talking about the processed training data, not the raw data anyone can scrape from the web",
+                "body_html": "<div class=\"md\"><p>I&#39;m talking about the processed training data, not the raw data anyone can scrape from the web</p>\n</div>",
+                "created_utc": "2025-02-02 19:29:50",
+                "distinguished": null,
+                "edited": false,
+                "id": "malg624",
+                "is_submitter": false,
+                "link_id": "t3_1ifo720",
+                "parent_id": "t1_mak2wfb",
+                "score": 0,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/wabbiskaruu",
+        "body": "Either way it was theft...",
+        "body_html": "<div class=\"md\"><p>Either way it was theft...</p>\n</div>",
+        "created_utc": "2025-02-02 14:04:45",
+        "distinguished": null,
+        "edited": false,
+        "id": "majpl2y",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": -4,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/KickUpper1817",
+            "body": "Ohh, you mean stealing something that OPEN AI doesn\u2019t even published? How great a thief Deepseek is! Kudos to them",
+            "body_html": "<div class=\"md\"><p>Ohh, you mean stealing something that OPEN AI doesn\u2019t even published? How great a thief Deepseek is! Kudos to them</p>\n</div>",
+            "created_utc": "2025-02-02 19:59:54",
+            "distinguished": null,
+            "edited": false,
+            "id": "malmukm",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_majpl2y",
+            "score": 2,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Oquendoteam1968",
+        "body": "The United States is making a completely historic investment in AI. Musk is restructuring the entire country so that it is run by AIs (like Twitter). He already has access to the entire U.S. payment system. Just thinking that American technology will have problems is absurd.",
+        "body_html": "<div class=\"md\"><p>The United States is making a completely historic investment in AI. Musk is restructuring the entire country so that it is run by AIs (like Twitter). He already has access to the entire U.S. payment system. Just thinking that American technology will have problems is absurd.</p>\n</div>",
+        "created_utc": "2025-02-02 06:26:11",
+        "distinguished": null,
+        "edited": false,
+        "id": "maia3me",
+        "is_submitter": false,
+        "link_id": "t3_1ifo720",
+        "parent_id": "t3_1ifo720",
+        "score": -24,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/FriendshipTime1966",
+            "body": "Musk is such a genius that we should leave him on Mars with Frump n Adolf",
+            "body_html": "<div class=\"md\"><p>Musk is such a genius that we should leave him on Mars with Frump n Adolf</p>\n</div>",
+            "created_utc": "2025-02-02 06:54:07",
+            "distinguished": null,
+            "edited": false,
+            "id": "maie4kf",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_maia3me",
+            "score": 18,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/Agreeable_Service407",
+            "body": "Yeah we saw what a success he made out of the twitter acquisition.",
+            "body_html": "<div class=\"md\"><p>Yeah we saw what a success he made out of the twitter acquisition.</p>\n</div>",
+            "created_utc": "2025-02-02 08:30:21",
+            "distinguished": null,
+            "edited": false,
+            "id": "maipsr3",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_maia3me",
+            "score": 9,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/trollsmurf",
+                "body": "Well, Trump won, so manipulation/echochamber-wise a great success.",
+                "body_html": "<div class=\"md\"><p>Well, Trump won, so manipulation/echochamber-wise a great success.</p>\n</div>",
+                "created_utc": "2025-02-03 02:00:22",
+                "distinguished": null,
+                "edited": false,
+                "id": "manmrxo",
+                "is_submitter": false,
+                "link_id": "t3_1ifo720",
+                "parent_id": "t1_maipsr3",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Agreeable_Service407",
+                    "body": "Yeah cause everybody choose who they vote for based on what's spammed the most on twitter",
+                    "body_html": "<div class=\"md\"><p>Yeah cause everybody choose who they vote for based on what&#39;s spammed the most on twitter</p>\n</div>",
+                    "created_utc": "2025-02-03 08:33:50",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mapavsq",
+                    "is_submitter": false,
+                    "link_id": "t3_1ifo720",
+                    "parent_id": "t1_manmrxo",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/trollsmurf",
+                        "body": "You don't need everybody, only enough nudge in the \"right\" direction.",
+                        "body_html": "<div class=\"md\"><p>You don&#39;t need everybody, only enough nudge in the &quot;right&quot; direction.</p>\n</div>",
+                        "created_utc": "2025-02-03 14:46:38",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "maqgzil",
+                        "is_submitter": false,
+                        "link_id": "t3_1ifo720",
+                        "parent_id": "t1_mapavsq",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "author": "u/Oquendoteam1968",
+                "body": "It's done",
+                "body_html": "<div class=\"md\"><p>It&#39;s done</p>\n</div>",
+                "created_utc": "2025-02-02 09:35:47",
+                "distinguished": null,
+                "edited": false,
+                "id": "maiwrdj",
+                "is_submitter": false,
+                "link_id": "t3_1ifo720",
+                "parent_id": "t1_maipsr3",
+                "score": -5,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Agreeable_Service407",
+                    "body": "![gif](giphy|iwmuEXy2cgsTuRue7i)\n\nCongrats",
+                    "body_html": "<div class=\"md\"><p><a href=\"https://giphy.com/gifs/iwmuEXy2cgsTuRue7i\" target=\"_blank\"><img src=\"https://external-preview.redd.it/U8cGS3JZ5ennV2rvFuy0v8ihQSuym24J23RzyM_orQU.gif?width=208&height=200&s=2a1865d248da53a0e375b393412e6079d708e412\" width=\"208\" height=\"200\"></a></p>\n\n<p>Congrats</p>\n</div>",
+                    "created_utc": "2025-02-02 19:08:13",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "malbbh5",
+                    "is_submitter": false,
+                    "link_id": "t3_1ifo720",
+                    "parent_id": "t1_maiwrdj",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/TrvthNvkem",
+            "body": ">Just thinking that American technology will have problems is absurd.\n\n/s.. right?",
+            "body_html": "<div class=\"md\"><blockquote>\n<p>Just thinking that American technology will have problems is absurd.</p>\n</blockquote>\n\n<p>/s.. right?</p>\n</div>",
+            "created_utc": "2025-02-02 08:42:11",
+            "distinguished": null,
+            "edited": false,
+            "id": "mair34m",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_maia3me",
+            "score": 4,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "[deleted]",
+            "body": "https://preview.redd.it/anftvzb3vqge1.jpeg?width=279&format=pjpg&auto=webp&s=12905d5093fb610af7b6a38cc2d3bcba627b5549",
+            "body_html": "<div class=\"md\"><p><a href=\"https://preview.redd.it/anftvzb3vqge1.jpeg?width=279&amp;format=pjpg&amp;auto=webp&amp;s=12905d5093fb610af7b6a38cc2d3bcba627b5549\">https://preview.redd.it/anftvzb3vqge1.jpeg?width=279&amp;format=pjpg&amp;auto=webp&amp;s=12905d5093fb610af7b6a38cc2d3bcba627b5549</a></p>\n</div>",
+            "created_utc": "2025-02-02 16:28:19",
+            "distinguished": null,
+            "edited": false,
+            "id": "makdh1r",
+            "is_submitter": false,
+            "link_id": "t3_1ifo720",
+            "parent_id": "t1_maia3me",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1087 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1iirjbu/oh_google/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/Fabulous_Bluebird931",
+      "created_utc": "2025-02-06 03:05:03",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "Funny",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 68,
+      "permalink": "/r/DeepSeek/comments/1iirjbu/oh_google/",
+      "score": 637,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "Oh Google \ud83d\udc38",
+      "upvote_ratio": 0.97
+    },
+    "comments": [
+      {
+        "author": "u/Next-Business-976",
+        "body": "Deepseek, any day because it is Open source like no other not even so-called OpenAI is...",
+        "body_html": "<div class=\"md\"><p>Deepseek, any day because it is Open source like no other not even so-called OpenAI is...</p>\n</div>",
+        "created_utc": "2025-02-06 05:39:38",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb8olsu",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 46,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/LightFusion",
+            "body": "Just because deepseek is open source doesn't mean the Chinese government doesn't have access to everything it touches by other means. They could package sniffers in the app that isn't included in the deepseek source.",
+            "body_html": "<div class=\"md\"><p>Just because deepseek is open source doesn&#39;t mean the Chinese government doesn&#39;t have access to everything it touches by other means. They could package sniffers in the app that isn&#39;t included in the deepseek source.</p>\n</div>",
+            "created_utc": "2025-02-09 16:12:52",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbuhgm1",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb8olsu",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Next-Business-976",
+                "body": "So do you think that the American government does not have the open ai's data and facebook's and instagram's and tiktok's and google's and apple's and and the list is soooooo biiiiiig???",
+                "body_html": "<div class=\"md\"><p>So do you think that the American government does not have the open ai&#39;s data and facebook&#39;s and instagram&#39;s and tiktok&#39;s and google&#39;s and apple&#39;s and and the list is soooooo biiiiiig???</p>\n</div>",
+                "created_utc": "2025-02-09 18:54:56",
+                "distinguished": null,
+                "edited": false,
+                "id": "mbvf5ii",
+                "is_submitter": false,
+                "link_id": "t3_1iirjbu",
+                "parent_id": "t1_mbuhgm1",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/muhammet484",
+            "body": "it's not open source",
+            "body_html": "<div class=\"md\"><p>it&#39;s not open source</p>\n</div>",
+            "created_utc": "2025-02-07 00:27:28",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbduyhm",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb8olsu",
+            "score": -7,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/hazed-and-dazed",
+                "body": "Artificial Intelligence is no match for your Natural Stupidity",
+                "body_html": "<div class=\"md\"><p>Artificial Intelligence is no match for your Natural Stupidity</p>\n</div>",
+                "created_utc": "2025-02-07 00:55:37",
+                "distinguished": null,
+                "edited": false,
+                "id": "mbe04y8",
+                "is_submitter": false,
+                "link_id": "t3_1iirjbu",
+                "parent_id": "t1_mbduyhm",
+                "score": 8,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/muhammet484",
+                    "body": "You are insulting and calling me stupid? There is a wrong point of view here. Can you describe open source? Can you give a link of the source codes of deepseek ai?",
+                    "body_html": "<div class=\"md\"><p>You are insulting and calling me stupid? There is a wrong point of view here. Can you describe open source? Can you give a link of the source codes of deepseek ai?</p>\n</div>",
+                    "created_utc": "2025-02-07 01:01:41",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mbe19jb",
+                    "is_submitter": false,
+                    "link_id": "t3_1iirjbu",
+                    "parent_id": "t1_mbe04y8",
+                    "score": -5,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/bigshroomer",
+                        "body": "https://github.com/deepseek-ai/DeepSeek-V3",
+                        "body_html": "<div class=\"md\"><p><a href=\"https://github.com/deepseek-ai/DeepSeek-V3\">https://github.com/deepseek-ai/DeepSeek-V3</a></p>\n</div>",
+                        "created_utc": "2025-02-07 02:53:46",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mbelp1f",
+                        "is_submitter": false,
+                        "link_id": "t3_1iirjbu",
+                        "parent_id": "t1_mbe19jb",
+                        "score": 6,
+                        "stickied": false,
+                        "replies": []
+                      },
+                      {
+                        "author": "u/Next-Business-976",
+                        "body": "[https://github.com/deepseek-ai](https://github.com/deepseek-ai) \n\nChoose any version you want.\n\nIntegrate it locally if you want   \n[https://www.youtube.com/watch?v=LUJw9eTUTYQ](https://www.youtube.com/watch?v=LUJw9eTUTYQ)",
+                        "body_html": "<div class=\"md\"><p><a href=\"https://github.com/deepseek-ai\">https://github.com/deepseek-ai</a> </p>\n\n<p>Choose any version you want.</p>\n\n<p>Integrate it locally if you want<br/>\n<a href=\"https://www.youtube.com/watch?v=LUJw9eTUTYQ\">https://www.youtube.com/watch?v=LUJw9eTUTYQ</a></p>\n</div>",
+                        "created_utc": "2025-02-07 04:40:33",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mbf49wz",
+                        "is_submitter": false,
+                        "link_id": "t3_1iirjbu",
+                        "parent_id": "t1_mbe19jb",
+                        "score": 4,
+                        "stickied": false,
+                        "replies": []
+                      },
+                      {
+                        "author": "u/hazed-and-dazed",
+                        "body": "In case you are confused -- R1 (the reasoning model everyone has a hard on for ) does what it does by using a new RL learning technique on top of their existing base mode DeepSeek-V3 (https://github.com/deepseek-ai/DeepSeek-V3). They also released the weights for V3. \n\nThe paper that explains the RL/reward modelling is here \n\nhttps://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf\n\nHF has a project where they are attempting to reproduce the research here :\n\nhttps://github.com/huggingface/open-r1",
+                        "body_html": "<div class=\"md\"><p>In case you are confused -- R1 (the reasoning model everyone has a hard on for ) does what it does by using a new RL learning technique on top of their existing base mode DeepSeek-V3 (<a href=\"https://github.com/deepseek-ai/DeepSeek-V3\">https://github.com/deepseek-ai/DeepSeek-V3</a>). They also released the weights for V3. </p>\n\n<p>The paper that explains the RL/reward modelling is here </p>\n\n<p><a href=\"https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf\">https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf</a></p>\n\n<p>HF has a project where they are attempting to reproduce the research here :</p>\n\n<p><a href=\"https://github.com/huggingface/open-r1\">https://github.com/huggingface/open-r1</a></p>\n</div>",
+                        "created_utc": "2025-02-07 05:05:50",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mbf8hvi",
+                        "is_submitter": false,
+                        "link_id": "t3_1iirjbu",
+                        "parent_id": "t1_mbe19jb",
+                        "score": 2,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/muhammet484",
+                            "body": "The v3 model repo has some codes, it's not the current deepseek r1 model codes. you can't show the \"open source r1 model\" codes.  \nthat pdf doesn't mean it is open source.  \nreproducing doesn't mean that the company released their codes as open source.\n\nLet's continue with your \"logic\":\n\nYou can do reverse engineering and find some logic or codes of windows and reproduce some part of it. Also you can find more pdf about windows than that deepseek pdf. And you can find the open source codes of some parts of windows such as calculator.  \nSo you should call the Microsoft Windows as \"open source\" with your logic.\n\nDeepseek r1 model and their website which users talk through it is not open source.  \nYou just send some pdf and codes about V3 model. They don't include the r1 model. Reproducing can applied to any closed source program.\n\nExplaining some logics doesn't make it open source. We don't still know how the [https://chat.deepseek.com/](https://chat.deepseek.com/) is working. We don't have its codes. We don't even have the source codes of R1 model. You don't know if that V3 model codes are used for the R1 model or not.\n\nWe can call it maybe \"open weights\". But it never fit the open source principles.\n\nPlease do some research for what to call open source. Here are some useful links for you:\n\n[https://opensource.com/open-source-way](https://opensource.com/open-source-way)\n\n[https://opensource.org/osd](https://opensource.org/osd)\n\nAlso I suggest you to not insult when you are struggling to answer \\^\\^. This is the way for discussing gently.",
+                            "body_html": "<div class=\"md\"><p>The v3 model repo has some codes, it&#39;s not the current deepseek r1 model codes. you can&#39;t show the &quot;open source r1 model&quot; codes.<br/>\nthat pdf doesn&#39;t mean it is open source.<br/>\nreproducing doesn&#39;t mean that the company released their codes as open source.</p>\n\n<p>Let&#39;s continue with your &quot;logic&quot;:</p>\n\n<p>You can do reverse engineering and find some logic or codes of windows and reproduce some part of it. Also you can find more pdf about windows than that deepseek pdf. And you can find the open source codes of some parts of windows such as calculator.<br/>\nSo you should call the Microsoft Windows as &quot;open source&quot; with your logic.</p>\n\n<p>Deepseek r1 model and their website which users talk through it is not open source.<br/>\nYou just send some pdf and codes about V3 model. They don&#39;t include the r1 model. Reproducing can applied to any closed source program.</p>\n\n<p>Explaining some logics doesn&#39;t make it open source. We don&#39;t still know how the <a href=\"https://chat.deepseek.com/\">https://chat.deepseek.com/</a> is working. We don&#39;t have its codes. We don&#39;t even have the source codes of R1 model. You don&#39;t know if that V3 model codes are used for the R1 model or not.</p>\n\n<p>We can call it maybe &quot;open weights&quot;. But it never fit the open source principles.</p>\n\n<p>Please do some research for what to call open source. Here are some useful links for you:</p>\n\n<p><a href=\"https://opensource.com/open-source-way\">https://opensource.com/open-source-way</a></p>\n\n<p><a href=\"https://opensource.org/osd\">https://opensource.org/osd</a></p>\n\n<p>Also I suggest you to not insult when you are struggling to answer ^^. This is the way for discussing gently.</p>\n</div>",
+                            "created_utc": "2025-02-07 20:02:32",
+                            "distinguished": null,
+                            "edited": "2025-02-07 20:06:40",
+                            "id": "mbiyb22",
+                            "is_submitter": false,
+                            "link_id": "t3_1iirjbu",
+                            "parent_id": "t1_mbf8hvi",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/KING-of-WSB",
+        "body": "DeepSeek - Good for Everything",
+        "body_html": "<div class=\"md\"><p>DeepSeek - Good for Everything</p>\n</div>",
+        "created_utc": "2025-02-06 03:38:02",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb84kvr",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 107,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Osama_Saba",
+            "body": "Except Hebrew, deep seek makes funny mistakes sometimes with Hebrew text.\n\nNobody speaks Hebrew better than Claude, not even humans.",
+            "body_html": "<div class=\"md\"><p>Except Hebrew, deep seek makes funny mistakes sometimes with Hebrew text.</p>\n\n<p>Nobody speaks Hebrew better than Claude, not even humans.</p>\n</div>",
+            "created_utc": "2025-02-06 05:04:38",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb8j979",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb84kvr",
+            "score": -1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Nitish_nc",
+                "body": "Except you'll hit the limits after sending like 5 texts.",
+                "body_html": "<div class=\"md\"><p>Except you&#39;ll hit the limits after sending like 5 texts.</p>\n</div>",
+                "created_utc": "2025-02-06 05:21:36",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb8lvql",
+                "is_submitter": false,
+                "link_id": "t3_1iirjbu",
+                "parent_id": "t1_mb8j979",
+                "score": 22,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/wad11656",
+                    "body": "Claude is unusable without paid plan",
+                    "body_html": "<div class=\"md\"><p>Claude is unusable without paid plan</p>\n</div>",
+                    "created_utc": "2025-02-06 10:10:00",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb9jlcn",
+                    "is_submitter": false,
+                    "link_id": "t3_1iirjbu",
+                    "parent_id": "t1_mb8lvql",
+                    "score": 11,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/Nitish_nc",
+                        "body": "I've paid plan and I'm referring to that only. If you're fairly active in r/Claude, you'll actually realise that from the last few months, Claude has gone downhill for their paid customers too.",
+                        "body_html": "<div class=\"md\"><p>I&#39;ve paid plan and I&#39;m referring to that only. If you&#39;re fairly active in <a href=\"/r/Claude\">r/Claude</a>, you&#39;ll actually realise that from the last few months, Claude has gone downhill for their paid customers too.</p>\n</div>",
+                        "created_utc": "2025-02-06 10:54:43",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mb9nwjj",
+                        "is_submitter": false,
+                        "link_id": "t3_1iirjbu",
+                        "parent_id": "t1_mb9jlcn",
+                        "score": 7,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/_joos_",
+                            "body": "damn really? it felt like they were gonna lead everyone in with their AIs at some point. I guess they've really let themselves go",
+                            "body_html": "<div class=\"md\"><p>damn really? it felt like they were gonna lead everyone in with their AIs at some point. I guess they&#39;ve really let themselves go</p>\n</div>",
+                            "created_utc": "2025-02-12 19:58:50",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mcevx5g",
+                            "is_submitter": false,
+                            "link_id": "t3_1iirjbu",
+                            "parent_id": "t1_mb9nwjj",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": [
+                              {
+                                "author": "u/Nitish_nc",
+                                "body": "They were actually leading 6 months ago across all practical use cases from coding to writing and data analysis. However, the downfall has been insane, particularly in the last few months, it has become also unusable. Chatgpt and Gemini have caught up and are current providing slightly better performance. DeepSeek R1 is leading by miles.\n\nHowever, their MCP (Model Context Protocol) that they launched back in Oct probsbly is one of its kind, and I think it will remain unrivaled for a long time given how versatile it is.",
+                                "body_html": "<div class=\"md\"><p>They were actually leading 6 months ago across all practical use cases from coding to writing and data analysis. However, the downfall has been insane, particularly in the last few months, it has become also unusable. Chatgpt and Gemini have caught up and are current providing slightly better performance. DeepSeek R1 is leading by miles.</p>\n\n<p>However, their MCP (Model Context Protocol) that they launched back in Oct probsbly is one of its kind, and I think it will remain unrivaled for a long time given how versatile it is.</p>\n</div>",
+                                "created_utc": "2025-02-12 21:37:55",
+                                "distinguished": null,
+                                "edited": false,
+                                "id": "mcfhe0b",
+                                "is_submitter": false,
+                                "link_id": "t3_1iirjbu",
+                                "parent_id": "t1_mcevx5g",
+                                "score": 1,
+                                "stickied": false,
+                                "replies": [
+                                  {
+                                    "author": "u/_joos_",
+                                    "body": "do you know anything about what exactly lead to this fall off?",
+                                    "body_html": "<div class=\"md\"><p>do you know anything about what exactly lead to this fall off?</p>\n</div>",
+                                    "created_utc": "2025-02-12 23:35:49",
+                                    "distinguished": null,
+                                    "edited": false,
+                                    "id": "mcg70jb",
+                                    "is_submitter": false,
+                                    "link_id": "t3_1iirjbu",
+                                    "parent_id": "t1_mcfhe0b",
+                                    "score": 1,
+                                    "stickied": false,
+                                    "replies": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "author": "u/PrawnStirFry",
+                        "body": "I had a paid plan with Claude and after 5 messages my account was locked for 4 days and a virus was sent to my phone to make me think about what I did.\n\nIt\u2019s been a year and $800 in subscription fees, but I\u2019m looking forward to Claude finally completing its sentence it\u2019s been writing all that time around November 2026 at this rate",
+                        "body_html": "<div class=\"md\"><p>I had a paid plan with Claude and after 5 messages my account was locked for 4 days and a virus was sent to my phone to make me think about what I did.</p>\n\n<p>It\u2019s been a year and $800 in subscription fees, but I\u2019m looking forward to Claude finally completing its sentence it\u2019s been writing all that time around November 2026 at this rate</p>\n</div>",
+                        "created_utc": "2025-02-06 19:13:13",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mbbzzlb",
+                        "is_submitter": false,
+                        "link_id": "t3_1iirjbu",
+                        "parent_id": "t1_mb9jlcn",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Nitish_nc",
+                            "body": "Damn \ud83e\udd23",
+                            "body_html": "<div class=\"md\"><p>Damn \ud83e\udd23</p>\n</div>",
+                            "created_utc": "2025-02-07 11:27:44",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mbggbgd",
+                            "is_submitter": false,
+                            "link_id": "t3_1iirjbu",
+                            "parent_id": "t1_mbbzzlb",
+                            "score": 2,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/Street-Custard6498",
+            "body": "Nah, bro  not china's dark history",
+            "body_html": "<div class=\"md\"><p>Nah, bro  not china&#39;s dark history</p>\n</div>",
+            "created_utc": "2025-02-06 06:03:42",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb8s30d",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb84kvr",
+            "score": -18,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/guru2764",
+                "body": "I'm not even part of this subreddit, but as far as I'm aware-\nDeepseek hosted in China will follow China's laws regarding information, same with literally anything hosted in China, including Bing and any non-chinese company that works in China officially\n\nIf it's not hosted in China, it will not behave the same way, and the thing with it being open source is that you can host it yourself\n\nAmerican companies harvest your data and tailor the information you see constantly and we never see the same sort of pushback- yes they don't usually block it entirely like China does but it doesn't matter if most people only end up finding the information corporations and governments want them to, it's effective enough at that point",
+                "body_html": "<div class=\"md\"><p>I&#39;m not even part of this subreddit, but as far as I&#39;m aware-\nDeepseek hosted in China will follow China&#39;s laws regarding information, same with literally anything hosted in China, including Bing and any non-chinese company that works in China officially</p>\n\n<p>If it&#39;s not hosted in China, it will not behave the same way, and the thing with it being open source is that you can host it yourself</p>\n\n<p>American companies harvest your data and tailor the information you see constantly and we never see the same sort of pushback- yes they don&#39;t usually block it entirely like China does but it doesn&#39;t matter if most people only end up finding the information corporations and governments want them to, it&#39;s effective enough at that point</p>\n</div>",
+                "created_utc": "2025-02-06 06:28:51",
+                "distinguished": null,
+                "edited": "2025-02-06 06:32:13",
+                "id": "mb8viek",
+                "is_submitter": false,
+                "link_id": "t3_1iirjbu",
+                "parent_id": "t1_mb8s30d",
+                "score": 12,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/MomentPale4229",
+                "body": "Then use OpenRouter or host a distilled version yourself",
+                "body_html": "<div class=\"md\"><p>Then use OpenRouter or host a distilled version yourself</p>\n</div>",
+                "created_utc": "2025-02-06 08:58:44",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb9cm0o",
+                "is_submitter": false,
+                "link_id": "t3_1iirjbu",
+                "parent_id": "t1_mb8s30d",
+                "score": 3,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/awesam9",
+        "body": "Which one is the 3rd one",
+        "body_html": "<div class=\"md\"><p>Which one is the 3rd one</p>\n</div>",
+        "created_utc": "2025-02-06 06:56:58",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb8z3lq",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 7,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Ordinary_Number59",
+            "body": "Perplexity",
+            "body_html": "<div class=\"md\"><p>Perplexity</p>\n</div>",
+            "created_utc": "2025-02-06 10:06:26",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb9j90e",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb8z3lq",
+            "score": 6,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/MODbanned",
+            "body": "It's under the 2nd one in the pic.",
+            "body_html": "<div class=\"md\"><p>It&#39;s under the 2nd one in the pic.</p>\n</div>",
+            "created_utc": "2025-02-06 09:42:50",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb9gyoz",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb8z3lq",
+            "score": 10,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Sparkfinger",
+        "body": "Gemini is pretty good, but only in AI Studio (or in Poe) where you can tweak temperature. It's good for writing and text analysis.",
+        "body_html": "<div class=\"md\"><p>Gemini is pretty good, but only in AI Studio (or in Poe) where you can tweak temperature. It&#39;s good for writing and text analysis.</p>\n</div>",
+        "created_utc": "2025-02-06 04:12:31",
+        "distinguished": null,
+        "edited": "2025-02-06 04:18:23",
+        "id": "mb8amgz",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 6,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/JungianJester",
+            "body": "You have that same flexibility in Open WebUi too.",
+            "body_html": "<div class=\"md\"><p>You have that same flexibility in Open WebUi too.</p>\n</div>",
+            "created_utc": "2025-02-06 13:43:24",
+            "distinguished": null,
+            "edited": false,
+            "id": "mba72jh",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb8amgz",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/witcherisdamned",
+        "body": "Not any more. Gemini Flash 2.0 is incredible.",
+        "body_html": "<div class=\"md\"><p>Not any more. Gemini Flash 2.0 is incredible.</p>\n</div>",
+        "created_utc": "2025-02-06 20:27:32",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbcg5rw",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 6,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Altruistic-Fig466",
+        "body": "For coding tasks, I used ChatGPT, Claude, Gemini, QWen, and Deepseek. Guess which App I am most impressed with the quality solutions given? It's none other than - Deepseek.",
+        "body_html": "<div class=\"md\"><p>For coding tasks, I used ChatGPT, Claude, Gemini, QWen, and Deepseek. Guess which App I am most impressed with the quality solutions given? It&#39;s none other than - Deepseek.</p>\n</div>",
+        "created_utc": "2025-02-06 08:06:04",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb974jp",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 19,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/geert11111",
+            "body": "If deepseek isnt down its amazing",
+            "body_html": "<div class=\"md\"><p>If deepseek isnt down its amazing</p>\n</div>",
+            "created_utc": "2025-02-06 12:21:40",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb9wsfm",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb974jp",
+            "score": 11,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/taiwbi",
+        "body": "Gemeni 2.0 got really good, actually. I just put all the code base in there and tell it to add some features and copy-paste the result :)",
+        "body_html": "<div class=\"md\"><p>Gemeni 2.0 got really good, actually. I just put all the code base in there and tell it to add some features and copy-paste the result :)</p>\n</div>",
+        "created_utc": "2025-02-06 04:55:31",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb8hsve",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 10,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Fabulous_Bluebird931",
+            "body": "Where can I get it?",
+            "body_html": "<div class=\"md\"><p>Where can I get it?</p>\n</div>",
+            "created_utc": "2025-02-06 04:56:40",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb8hzl9",
+            "is_submitter": true,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb8hsve",
+            "score": 1,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/taiwbi",
+                "body": "https://aistudio.google.com",
+                "body_html": "<div class=\"md\"><p><a href=\"https://aistudio.google.com\">https://aistudio.google.com</a></p>\n</div>",
+                "created_utc": "2025-02-06 04:57:00",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb8i1js",
+                "is_submitter": false,
+                "link_id": "t3_1iirjbu",
+                "parent_id": "t1_mb8hzl9",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/Ordinary_Number59",
+                "body": "[https://gemini.google.com/app](https://gemini.google.com/app)",
+                "body_html": "<div class=\"md\"><p><a href=\"https://gemini.google.com/app\">https://gemini.google.com/app</a></p>\n</div>",
+                "created_utc": "2025-02-06 10:09:36",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb9jjwv",
+                "is_submitter": false,
+                "link_id": "t3_1iirjbu",
+                "parent_id": "t1_mb8hzl9",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Noichiboy",
+        "body": "Gemini keeps getting trashed but it's actually pretty good for the cost. To me, Gemini 1.5 flash performs better than any iteration of ChatGPT when it comes to simple stuff like translation and linguistics",
+        "body_html": "<div class=\"md\"><p>Gemini keeps getting trashed but it&#39;s actually pretty good for the cost. To me, Gemini 1.5 flash performs better than any iteration of ChatGPT when it comes to simple stuff like translation and linguistics</p>\n</div>",
+        "created_utc": "2025-02-06 03:59:37",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb88e4g",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 18,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Kooky_Training_7406",
+            "body": "Yeah. I feel the same. I find it to be snappy and cost effective for simple tasks, and use the other LLMs for the more complex ones. Gemini has its place!",
+            "body_html": "<div class=\"md\"><p>Yeah. I feel the same. I find it to be snappy and cost effective for simple tasks, and use the other LLMs for the more complex ones. Gemini has its place!</p>\n</div>",
+            "created_utc": "2025-02-06 07:02:02",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb8zqa6",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb88e4g",
+            "score": 9,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/PrawnStirFry",
+            "body": "I\u2019ve seen a lot of people say this but no matter how much I try I just can\u2019t replicate it. For literally every conversation I\u2019ve had with AI ChatGPT is so far in front of the responses I get from Gemini it\u2019s untrue. \n\nI don\u2019t know what I\u2019m doing differently to everyone else? \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f",
+            "body_html": "<div class=\"md\"><p>I\u2019ve seen a lot of people say this but no matter how much I try I just can\u2019t replicate it. For literally every conversation I\u2019ve had with AI ChatGPT is so far in front of the responses I get from Gemini it\u2019s untrue. </p>\n\n<p>I don\u2019t know what I\u2019m doing differently to everyone else? \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f</p>\n</div>",
+            "created_utc": "2025-02-06 19:16:08",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbc0l3z",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb88e4g",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Noichiboy",
+                "body": "I have no idea. I use it every day through Poe to help with translation when I feel uninspired. I compared results between Gemini, ChatGPT, Mixtral, Claude and Llama and for my use case, Gemini is the snappiest and the most cost efficient.\n\nI'm daily driving Gemini Flash 1.5 which isn't even the latest version of Gemini Flash but it's good enough already and for one Gemini Flash 2.0 request I can make 2 with 1.5. It even helped me with my taxes and rent refund application haha\n\nBare in mind that everyone have different use cases and might write their prompts differently than you do. It might just not be good at what you need it for.",
+                "body_html": "<div class=\"md\"><p>I have no idea. I use it every day through Poe to help with translation when I feel uninspired. I compared results between Gemini, ChatGPT, Mixtral, Claude and Llama and for my use case, Gemini is the snappiest and the most cost efficient.</p>\n\n<p>I&#39;m daily driving Gemini Flash 1.5 which isn&#39;t even the latest version of Gemini Flash but it&#39;s good enough already and for one Gemini Flash 2.0 request I can make 2 with 1.5. It even helped me with my taxes and rent refund application haha</p>\n\n<p>Bare in mind that everyone have different use cases and might write their prompts differently than you do. It might just not be good at what you need it for.</p>\n</div>",
+                "created_utc": "2025-02-07 03:43:44",
+                "distinguished": null,
+                "edited": false,
+                "id": "mbeuh4v",
+                "is_submitter": false,
+                "link_id": "t3_1iirjbu",
+                "parent_id": "t1_mbc0l3z",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/Fabulous_Bluebird931",
+            "body": "After all, it has the most structured and vat amount of data than any other models, so that explains it",
+            "body_html": "<div class=\"md\"><p>After all, it has the most structured and vat amount of data than any other models, so that explains it</p>\n</div>",
+            "created_utc": "2025-02-06 04:01:37",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb88qmw",
+            "is_submitter": true,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb88e4g",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/MEISNER_OlO",
+        "body": "Actually for those who don't know that is extremely great for TRANSLATION.\nYou guys have no idea what sort of a monster Gemini is when it comes to the translation of extremely advanced LITERATURE texts.\nSince you haven't found the use case that doesn't mean its bad or not useful!",
+        "body_html": "<div class=\"md\"><p>Actually for those who don&#39;t know that is extremely great for TRANSLATION.\nYou guys have no idea what sort of a monster Gemini is when it comes to the translation of extremely advanced LITERATURE texts.\nSince you haven&#39;t found the use case that doesn&#39;t mean its bad or not useful!</p>\n</div>",
+        "created_utc": "2025-02-06 19:08:50",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbbz19s",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 3,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Noichiboy",
+            "body": "THIS. Gemini sped up my work so much. I was using a mix of ChatGPT and Deepl before but it wasn't that great and now that I'm using Gemini, I barely touch either of those.\n\nDeepseek might be better when it comes to Asian languages but the service being often overloaded, it is quite slow (even through OpenRouter) and is not always a pleasant experience",
+            "body_html": "<div class=\"md\"><p>THIS. Gemini sped up my work so much. I was using a mix of ChatGPT and Deepl before but it wasn&#39;t that great and now that I&#39;m using Gemini, I barely touch either of those.</p>\n\n<p>Deepseek might be better when it comes to Asian languages but the service being often overloaded, it is quite slow (even through OpenRouter) and is not always a pleasant experience</p>\n</div>",
+            "created_utc": "2025-02-07 03:52:17",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbevz6t",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mbbz19s",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/MEISNER_OlO",
+                "body": "I have no idea if you've ever tried to use [https://console.groq.com/playground](https://console.groq.com/playground) It has Deepseek R1 But since it's using GroqChip Processor it's way more faster. I hope it solves your issue with the inconsistency that you're experiencing.",
+                "body_html": "<div class=\"md\"><p>I have no idea if you&#39;ve ever tried to use <a href=\"https://console.groq.com/playground\">https://console.groq.com/playground</a> It has Deepseek R1 But since it&#39;s using GroqChip Processor it&#39;s way more faster. I hope it solves your issue with the inconsistency that you&#39;re experiencing.</p>\n</div>",
+                "created_utc": "2025-02-07 06:55:18",
+                "distinguished": null,
+                "edited": false,
+                "id": "mbfo6mv",
+                "is_submitter": false,
+                "link_id": "t3_1iirjbu",
+                "parent_id": "t1_mbevz6t",
+                "score": 2,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Noichiboy",
+                    "body": "Oh, that sounds good, thanks for the rec! I'd love to try but the link you provided gives me an error message.\n\nI will try accessing it later when I'm off work.",
+                    "body_html": "<div class=\"md\"><p>Oh, that sounds good, thanks for the rec! I&#39;d love to try but the link you provided gives me an error message.</p>\n\n<p>I will try accessing it later when I&#39;m off work.</p>\n</div>",
+                    "created_utc": "2025-02-07 10:36:07",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mbgba2y",
+                    "is_submitter": false,
+                    "link_id": "t3_1iirjbu",
+                    "parent_id": "t1_mbfo6mv",
+                    "score": 2,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/MEISNER_OlO",
+                        "body": "Kinda weird!\nMay I ask where you are from?",
+                        "body_html": "<div class=\"md\"><p>Kinda weird!\nMay I ask where you are from?</p>\n</div>",
+                        "created_utc": "2025-02-07 11:40:37",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mbghmg5",
+                        "is_submitter": false,
+                        "link_id": "t3_1iirjbu",
+                        "parent_id": "t1_mbgba2y",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": [
+                          {
+                            "author": "u/Noichiboy",
+                            "body": "I moved to Hong Kong a few months ago. It might not be available here as ChatGPT is also geoblocked (and that's what lead me to unsubscribe). I tried accessing Groq Playground through my phone with my French SIM card and it is working fine.  \nI guess I'll have to rely on VPNs if I want to use it.",
+                            "body_html": "<div class=\"md\"><p>I moved to Hong Kong a few months ago. It might not be available here as ChatGPT is also geoblocked (and that&#39;s what lead me to unsubscribe). I tried accessing Groq Playground through my phone with my French SIM card and it is working fine.<br/>\nI guess I&#39;ll have to rely on VPNs if I want to use it.</p>\n</div>",
+                            "created_utc": "2025-02-10 03:05:43",
+                            "distinguished": null,
+                            "edited": false,
+                            "id": "mby3nz3",
+                            "is_submitter": false,
+                            "link_id": "t3_1iirjbu",
+                            "parent_id": "t1_mbghmg5",
+                            "score": 1,
+                            "stickied": false,
+                            "replies": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "[deleted]",
+        "body": "As a senior programmer, DeepSeek genuinely creates some of the best code. I find it odd how many people say Claude 3.5 Sonnet is good because my experience with it was that it's really bad. I assume most of this belief stems from inexperienced people who lack sufficient knowledge to be able to utilize o1 Pro and DeepSeek properly. (Note: I am not impressed with o1, only o1 Pro). Example, just try to get Claude to create a basic 64-bit x86-64 bootloader and accompanying kernal. This task is often failed by any AI that doesn't \"think\" and even when they do, sometimes make interesting mistakes. DeepSeek seems to have a much better understanding of code structure from what I have seen as well.\n\nAlso, I think a lot of you agree with me, but DeepSeek is far more interesting in it's thought process and wittiness in responses, so I disagree with this meme on the basis that DeepSeek does much of this better altogether, it just has too small of a context window at the moment. In one instance it thought for so long that it produced half a paragraph before cutting off. It took 25.6 minutes for it to think through. I was stunned and impressed in a way no other AI had done.",
+        "body_html": "<div class=\"md\"><p>As a senior programmer, DeepSeek genuinely creates some of the best code. I find it odd how many people say Claude 3.5 Sonnet is good because my experience with it was that it&#39;s really bad. I assume most of this belief stems from inexperienced people who lack sufficient knowledge to be able to utilize o1 Pro and DeepSeek properly. (Note: I am not impressed with o1, only o1 Pro). Example, just try to get Claude to create a basic 64-bit x86-64 bootloader and accompanying kernal. This task is often failed by any AI that doesn&#39;t &quot;think&quot; and even when they do, sometimes make interesting mistakes. DeepSeek seems to have a much better understanding of code structure from what I have seen as well.</p>\n\n<p>Also, I think a lot of you agree with me, but DeepSeek is far more interesting in it&#39;s thought process and wittiness in responses, so I disagree with this meme on the basis that DeepSeek does much of this better altogether, it just has too small of a context window at the moment. In one instance it thought for so long that it produced half a paragraph before cutting off. It took 25.6 minutes for it to think through. I was stunned and impressed in a way no other AI had done.</p>\n</div>",
+        "created_utc": "2025-02-06 08:31:02",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb99r8q",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 7,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/JoyousMadhat",
+        "body": "What's the 2nd one?",
+        "body_html": "<div class=\"md\"><p>What&#39;s the 2nd one?</p>\n</div>",
+        "created_utc": "2025-02-06 05:34:28",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb8ntx3",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/edjsacasa",
+            "body": "It's Anthropic. It's the company that created Claude",
+            "body_html": "<div class=\"md\"><p>It&#39;s Anthropic. It&#39;s the company that created Claude</p>\n</div>",
+            "created_utc": "2025-02-06 06:09:27",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb8svnc",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb8ntx3",
+            "score": 5,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/Heleuka",
+        "body": "What's the third one",
+        "body_html": "<div class=\"md\"><p>What&#39;s the third one</p>\n</div>",
+        "created_utc": "2025-02-06 08:18:40",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb98h4w",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 2,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Ordinary_Number59",
+            "body": "Perplexity",
+            "body_html": "<div class=\"md\"><p>Perplexity</p>\n</div>",
+            "created_utc": "2025-02-06 10:09:02",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb9jhz9",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb98h4w",
+            "score": 3,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/winklemad",
+        "body": "I thought it's \"OK GOOGLE\" \ud83e\uddd0",
+        "body_html": "<div class=\"md\"><p>I thought it&#39;s &quot;OK GOOGLE&quot; \ud83e\uddd0</p>\n</div>",
+        "created_utc": "2025-02-06 10:35:01",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb9lzwl",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Root5566",
+        "body": "What\u2019s the 3rd one??",
+        "body_html": "<div class=\"md\"><p>What\u2019s the 3rd one??</p>\n</div>",
+        "created_utc": "2025-02-06 14:02:54",
+        "distinguished": null,
+        "edited": false,
+        "id": "mba9y9f",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/buzzon",
+        "body": "Oh hey Google",
+        "body_html": "<div class=\"md\"><p>Oh hey Google</p>\n</div>",
+        "created_utc": "2025-02-06 14:12:44",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbabhuh",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/NameTooCool",
+        "body": "In math DeepSeek is unrivaled",
+        "body_html": "<div class=\"md\"><p>In math DeepSeek is unrivaled</p>\n</div>",
+        "created_utc": "2025-02-06 18:35:25",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbbrpb8",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/KumoBolt",
+        "body": "The most accurate one for Gemini lol",
+        "body_html": "<div class=\"md\"><p>The most accurate one for Gemini lol</p>\n</div>",
+        "created_utc": "2025-02-07 00:29:21",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbdvbcl",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/TeacherNo8591",
+        "body": "What is the second one?",
+        "body_html": "<div class=\"md\"><p>What is the second one?</p>\n</div>",
+        "created_utc": "2025-02-07 07:16:24",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbfqriq",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/Aly3na",
+        "body": "What you recommend for research?",
+        "body_html": "<div class=\"md\"><p>What you recommend for research?</p>\n</div>",
+        "created_utc": "2025-02-06 11:24:39",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb9qtsv",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "[deleted]",
+            "body": "[deleted]",
+            "body_html": "<div class=\"md\"><p>[deleted]</p>\n</div>",
+            "created_utc": "2025-02-06 20:47:09",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbckee0",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb9qtsv",
+            "score": 2,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Aly3na",
+                "body": "Have you ever tried Julius or Consensus?",
+                "body_html": "<div class=\"md\"><p>Have you ever tried Julius or Consensus?</p>\n</div>",
+                "created_utc": "2025-02-06 23:07:59",
+                "distinguished": null,
+                "edited": false,
+                "id": "mbdf46i",
+                "is_submitter": false,
+                "link_id": "t3_1iirjbu",
+                "parent_id": "t1_mbckee0",
+                "score": 1,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/Fabulous_Bluebird931",
+            "body": "DeepSeek  I guess is best for writing articles and doing research",
+            "body_html": "<div class=\"md\"><p>DeepSeek  I guess is best for writing articles and doing research</p>\n</div>",
+            "created_utc": "2025-02-06 11:26:55",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb9r1y1",
+            "is_submitter": true,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb9qtsv",
+            "score": -3,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Aly3na",
+                "body": "But this is safe to use? I heard a lot of conspiratorial stories about \ud83d\ude05",
+                "body_html": "<div class=\"md\"><p>But this is safe to use? I heard a lot of conspiratorial stories about \ud83d\ude05</p>\n</div>",
+                "created_utc": "2025-02-06 11:49:15",
+                "distinguished": null,
+                "edited": false,
+                "id": "mb9tb4b",
+                "is_submitter": false,
+                "link_id": "t3_1iirjbu",
+                "parent_id": "t1_mb9r1y1",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/Fabulous_Bluebird931",
+                    "body": "AFAIK it is good for doing research and gathering structured info from the internet. Another best feature of DeepSeek, which I've not been able to find in any other model, is that it analyses a piece of text as a whole rather than word by word, which makes it possibile for writing actually humanised articles! Almost all of my articles are written by Deepseek on my news website at omninews.wuaze.com",
+                    "body_html": "<div class=\"md\"><p>AFAIK it is good for doing research and gathering structured info from the internet. Another best feature of DeepSeek, which I&#39;ve not been able to find in any other model, is that it analyses a piece of text as a whole rather than word by word, which makes it possibile for writing actually humanised articles! Almost all of my articles are written by Deepseek on my news website at omninews.wuaze.com</p>\n</div>",
+                    "created_utc": "2025-02-06 11:52:33",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mb9tngb",
+                    "is_submitter": true,
+                    "link_id": "t3_1iirjbu",
+                    "parent_id": "t1_mb9tb4b",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Sunny_Roy",
+        "body": "Gemini - Good For Nothing",
+        "body_html": "<div class=\"md\"><p>Gemini - Good For Nothing</p>\n</div>",
+        "created_utc": "2025-02-06 03:43:36",
+        "distinguished": null,
+        "edited": false,
+        "id": "mb85kd8",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": -4,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/Fabulous_Bluebird931",
+            "body": "No, actually it does provide content for my memes \ud83e\udd23",
+            "body_html": "<div class=\"md\"><p>No, actually it does provide content for my memes \ud83e\udd23</p>\n</div>",
+            "created_utc": "2025-02-06 03:44:31",
+            "distinguished": null,
+            "edited": false,
+            "id": "mb85qch",
+            "is_submitter": true,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mb85kd8",
+            "score": 6,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/BotomsDntDeservRight",
+                "body": "Outdated meme",
+                "body_html": "<div class=\"md\"><p>Outdated meme</p>\n</div>",
+                "created_utc": "2025-02-07 02:29:46",
+                "distinguished": null,
+                "edited": false,
+                "id": "mbeheo9",
+                "is_submitter": false,
+                "link_id": "t3_1iirjbu",
+                "parent_id": "t1_mb85qch",
+                "score": 2,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Immediate-Fan-8424",
+        "body": "gemimi good for nothing",
+        "body_html": "<div class=\"md\"><p>gemimi good for nothing</p>\n</div>",
+        "created_utc": "2025-02-06 14:04:22",
+        "distinguished": null,
+        "edited": false,
+        "id": "mbaa6d1",
+        "is_submitter": false,
+        "link_id": "t3_1iirjbu",
+        "parent_id": "t3_1iirjbu",
+        "score": -1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/BotomsDntDeservRight",
+            "body": "Nah 2.0 is incredible",
+            "body_html": "<div class=\"md\"><p>Nah 2.0 is incredible</p>\n</div>",
+            "created_utc": "2025-02-07 02:31:24",
+            "distinguished": null,
+            "edited": false,
+            "id": "mbehpel",
+            "is_submitter": false,
+            "link_id": "t3_1iirjbu",
+            "parent_id": "t1_mbaa6d1",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

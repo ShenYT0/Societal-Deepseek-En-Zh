@@ -1,0 +1,402 @@
+{
+  "scrape_settings": {
+    "n_results": "all",
+    "style": "structured",
+    "url": "https://www.reddit.com/r/DeepSeek/comments/1ipfumk/the_official_deepseek_deployment_runs_the_same/"
+  },
+  "data": {
+    "submission_metadata": {
+      "author": "u/McSnoo",
+      "created_utc": "2025-02-14 18:27:02",
+      "distinguished": null,
+      "edited": false,
+      "is_original_content": false,
+      "is_self": false,
+      "link_flair_text": "News",
+      "locked": false,
+      "nsfw": false,
+      "num_comments": 24,
+      "permalink": "/r/DeepSeek/comments/1ipfumk/the_official_deepseek_deployment_runs_the_same/",
+      "score": 337,
+      "selftext": "",
+      "spoiler": false,
+      "stickied": false,
+      "subreddit": "DeepSeek",
+      "title": "The official DeepSeek deployment runs the same model as the open-source version",
+      "upvote_ratio": 0.99
+    },
+    "comments": [
+      {
+        "author": "u/Substantial_Fan_9582",
+        "body": "This is great! I wonder if the R1 hosted on openrouter used this setting.",
+        "body_html": "<div class=\"md\"><p>This is great! I wonder if the R1 hosted on openrouter used this setting.</p>\n</div>",
+        "created_utc": "2025-02-14 20:27:25",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcs4ixl",
+        "is_submitter": false,
+        "link_id": "t3_1ipfumk",
+        "parent_id": "t3_1ipfumk",
+        "score": 22,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/taiwbi",
+            "body": "R1 is not hosted on openrouter\n\nOpenrouter is like a proxy that sends your request to infrastructures that provide these LLMs and return their response to you. \n\nAlso, you can modify these settings yourself within your request",
+            "body_html": "<div class=\"md\"><p>R1 is not hosted on openrouter</p>\n\n<p>Openrouter is like a proxy that sends your request to infrastructures that provide these LLMs and return their response to you. </p>\n\n<p>Also, you can modify these settings yourself within your request</p>\n</div>",
+            "created_utc": "2025-02-15 12:14:53",
+            "distinguished": null,
+            "edited": false,
+            "id": "mcvw2vc",
+            "is_submitter": false,
+            "link_id": "t3_1ipfumk",
+            "parent_id": "t1_mcs4ixl",
+            "score": 3,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/SnooApples6721",
+                "body": "Does this mean I don't need to store it on my computer but I can safely run it through Openrouter instead?",
+                "body_html": "<div class=\"md\"><p>Does this mean I don&#39;t need to store it on my computer but I can safely run it through Openrouter instead?</p>\n</div>",
+                "created_utc": "2025-02-18 03:53:45",
+                "distinguished": null,
+                "edited": false,
+                "id": "mdd6yh8",
+                "is_submitter": false,
+                "link_id": "t3_1ipfumk",
+                "parent_id": "t1_mcvw2vc",
+                "score": 1,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/taiwbi",
+                    "body": "Store what on your computer?",
+                    "body_html": "<div class=\"md\"><p>Store what on your computer?</p>\n</div>",
+                    "created_utc": "2025-02-18 04:26:01",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mddcbqw",
+                    "is_submitter": false,
+                    "link_id": "t3_1ipfumk",
+                    "parent_id": "t1_mdd6yh8",
+                    "score": 1,
+                    "stickied": false,
+                    "replies": [
+                      {
+                        "author": "u/SnooApples6721",
+                        "body": "the LLM. Currently I'm using LM Studios to download different models of Deepseek that I can run offline. That way there's no risk of having my data stored on Chinese servers.",
+                        "body_html": "<div class=\"md\"><p>the LLM. Currently I&#39;m using LM Studios to download different models of Deepseek that I can run offline. That way there&#39;s no risk of having my data stored on Chinese servers.</p>\n</div>",
+                        "created_utc": "2025-02-18 06:05:41",
+                        "distinguished": null,
+                        "edited": false,
+                        "id": "mddr0rb",
+                        "is_submitter": false,
+                        "link_id": "t3_1ipfumk",
+                        "parent_id": "t1_mddcbqw",
+                        "score": 1,
+                        "stickied": false,
+                        "replies": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "author": "u/OAOAlphaChaser",
+            "body": "I think temp is 1.0 by default there, simple edit in sampling parameters though",
+            "body_html": "<div class=\"md\"><p>I think temp is 1.0 by default there, simple edit in sampling parameters though</p>\n</div>",
+            "created_utc": "2025-02-15 21:11:14",
+            "distinguished": null,
+            "edited": false,
+            "id": "mcyf5w2",
+            "is_submitter": false,
+            "link_id": "t3_1ipfumk",
+            "parent_id": "t1_mcs4ixl",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/lonelyroom-eklaghor",
+        "body": "Unfortunately, this post won't trend.",
+        "body_html": "<div class=\"md\"><p>Unfortunately, this post won&#39;t trend.</p>\n</div>",
+        "created_utc": "2025-02-14 18:32:52",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcrh3ls",
+        "is_submitter": false,
+        "link_id": "t3_1ipfumk",
+        "parent_id": "t3_1ipfumk",
+        "score": 28,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/SK5454",
+            "body": "ok",
+            "body_html": "<div class=\"md\"><p>ok</p>\n</div>",
+            "created_utc": "2025-02-14 22:07:38",
+            "distinguished": null,
+            "edited": false,
+            "id": "mcsoubr",
+            "is_submitter": false,
+            "link_id": "t3_1ipfumk",
+            "parent_id": "t1_mcrh3ls",
+            "score": 0,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/pepeperezcanyear",
+        "body": "Ok. Explain it for newbies as myself.",
+        "body_html": "<div class=\"md\"><p>Ok. Explain it for newbies as myself.</p>\n</div>",
+        "created_utc": "2025-02-15 00:45:41",
+        "distinguished": null,
+        "edited": false,
+        "id": "mctie58",
+        "is_submitter": false,
+        "link_id": "t3_1ipfumk",
+        "parent_id": "t3_1ipfumk",
+        "score": 16,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/taiwbi",
+            "body": "There's no difference between what you can run on your computer (if you had 6 nvidia 5090 though) and what deepseek servers run",
+            "body_html": "<div class=\"md\"><p>There&#39;s no difference between what you can run on your computer (if you had 6 nvidia 5090 though) and what deepseek servers run</p>\n</div>",
+            "created_utc": "2025-02-15 04:31:19",
+            "distinguished": null,
+            "edited": false,
+            "id": "mcuicqx",
+            "is_submitter": false,
+            "link_id": "t3_1ipfumk",
+            "parent_id": "t1_mctie58",
+            "score": 25,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/Short_Ad_8841",
+                "body": "You need about 1.4TB of VRAM to run the full model.",
+                "body_html": "<div class=\"md\"><p>You need about 1.4TB of VRAM to run the full model.</p>\n</div>",
+                "created_utc": "2025-02-15 11:24:48",
+                "distinguished": null,
+                "edited": false,
+                "id": "mcvrbjc",
+                "is_submitter": false,
+                "link_id": "t3_1ipfumk",
+                "parent_id": "t1_mcuicqx",
+                "score": 10,
+                "stickied": false,
+                "replies": []
+              },
+              {
+                "author": "u/RoughEscape5623",
+                "body": "I can't even run deepseek distilled 40B...",
+                "body_html": "<div class=\"md\"><p>I can&#39;t even run deepseek distilled 40B...</p>\n</div>",
+                "created_utc": "2025-02-15 10:45:27",
+                "distinguished": null,
+                "edited": false,
+                "id": "mcvnnrl",
+                "is_submitter": false,
+                "link_id": "t3_1ipfumk",
+                "parent_id": "t1_mcuicqx",
+                "score": 5,
+                "stickied": false,
+                "replies": [
+                  {
+                    "author": "u/taiwbi",
+                    "body": "8B barely runs on my laptop",
+                    "body_html": "<div class=\"md\"><p>8B barely runs on my laptop</p>\n</div>",
+                    "created_utc": "2025-02-15 12:16:55",
+                    "distinguished": null,
+                    "edited": false,
+                    "id": "mcvw9vt",
+                    "is_submitter": false,
+                    "link_id": "t3_1ipfumk",
+                    "parent_id": "t1_mcvnnrl",
+                    "score": 3,
+                    "stickied": false,
+                    "replies": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "author": "u/Pm-a-trolley-problem",
+        "body": "Why no system instructions? Out of curiosity. I would imagine it would work well with CoT",
+        "body_html": "<div class=\"md\"><p>Why no system instructions? Out of curiosity. I would imagine it would work well with CoT</p>\n</div>",
+        "created_utc": "2025-02-15 00:25:23",
+        "distinguished": null,
+        "edited": false,
+        "id": "mctexom",
+        "is_submitter": false,
+        "link_id": "t3_1ipfumk",
+        "parent_id": "t3_1ipfumk",
+        "score": 6,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/pane_ca_meusa",
+        "body": "If it is true, this is the real OpenAI. The companies should switch names.",
+        "body_html": "<div class=\"md\"><p>If it is true, this is the real OpenAI. The companies should switch names.</p>\n</div>",
+        "created_utc": "2025-02-16 17:37:06",
+        "distinguished": null,
+        "edited": false,
+        "id": "md3etvd",
+        "is_submitter": false,
+        "link_id": "t3_1ipfumk",
+        "parent_id": "t3_1ipfumk",
+        "score": 3,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/htl5618",
+        "body": "the V3 (deepseek-chat) works quite differently for different providers with the same parameters on openrouter though. Anyone noticed this?",
+        "body_html": "<div class=\"md\"><p>the V3 (deepseek-chat) works quite differently for different providers with the same parameters on openrouter though. Anyone noticed this?</p>\n</div>",
+        "created_utc": "2025-02-15 10:45:05",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcvnmir",
+        "is_submitter": false,
+        "link_id": "t3_1ipfumk",
+        "parent_id": "t3_1ipfumk",
+        "score": 1,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/MarinatedPickachu",
+            "body": "Different quants I guess",
+            "body_html": "<div class=\"md\"><p>Different quants I guess</p>\n</div>",
+            "created_utc": "2025-02-16 05:37:13",
+            "distinguished": null,
+            "edited": false,
+            "id": "md0viac",
+            "is_submitter": false,
+            "link_id": "t3_1ipfumk",
+            "parent_id": "t1_mcvnmir",
+            "score": 1,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "author": "u/MarinatedPickachu",
+        "body": "Which quantization though?",
+        "body_html": "<div class=\"md\"><p>Which quantization though?</p>\n</div>",
+        "created_utc": "2025-02-16 05:34:38",
+        "distinguished": null,
+        "edited": false,
+        "id": "md0v58g",
+        "is_submitter": false,
+        "link_id": "t3_1ipfumk",
+        "parent_id": "t3_1ipfumk",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/vAPIdTygr",
+        "body": "How do I pay a service to run a private instance with the right settings? Is that openrouter?",
+        "body_html": "<div class=\"md\"><p>How do I pay a service to run a private instance with the right settings? Is that openrouter?</p>\n</div>",
+        "created_utc": "2025-02-15 05:45:38",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcusnge",
+        "is_submitter": false,
+        "link_id": "t3_1ipfumk",
+        "parent_id": "t3_1ipfumk",
+        "score": 1,
+        "stickied": false,
+        "replies": []
+      },
+      {
+        "author": "u/serendipity-DRG",
+        "body": "As soon as DeepSeek monetizes it - the supporters will fade away. As they only want a free LLM.\n\nBut Liang Wenfeng is a founder of a Hedge Fund - so he is obviously motivated by money and for that I hope he is successful. But the freeloaders won't pay $20 a month - which means DeepSeek is just a toy to them and they use it as a basic search engine.",
+        "body_html": "<div class=\"md\"><p>As soon as DeepSeek monetizes it - the supporters will fade away. As they only want a free LLM.</p>\n\n<p>But Liang Wenfeng is a founder of a Hedge Fund - so he is obviously motivated by money and for that I hope he is successful. But the freeloaders won&#39;t pay $20 a month - which means DeepSeek is just a toy to them and they use it as a basic search engine.</p>\n</div>",
+        "created_utc": "2025-02-14 22:48:04",
+        "distinguished": null,
+        "edited": false,
+        "id": "mcswwic",
+        "is_submitter": false,
+        "link_id": "t3_1ipfumk",
+        "parent_id": "t3_1ipfumk",
+        "score": -51,
+        "stickied": false,
+        "replies": [
+          {
+            "author": "u/_Saturnalis_",
+            "body": "You're so annoying dude, you go into every thread about DeepSeek that exists on Reddit and just talk trash.\n\nBTW, plenty of people, including ordinary people like myself, pay for the API. It's really cheap, 10 dollars goes a long way. I would gladly pay for an enhanced chat as well.",
+            "body_html": "<div class=\"md\"><p>You&#39;re so annoying dude, you go into every thread about DeepSeek that exists on Reddit and just talk trash.</p>\n\n<p>BTW, plenty of people, including ordinary people like myself, pay for the API. It&#39;s really cheap, 10 dollars goes a long way. I would gladly pay for an enhanced chat as well.</p>\n</div>",
+            "created_utc": "2025-02-14 23:14:38",
+            "distinguished": null,
+            "edited": false,
+            "id": "mct22s3",
+            "is_submitter": false,
+            "link_id": "t3_1ipfumk",
+            "parent_id": "t1_mcswwic",
+            "score": 34,
+            "stickied": false,
+            "replies": [
+              {
+                "author": "u/tempstem5",
+                "body": "it's sam altman",
+                "body_html": "<div class=\"md\"><p>it&#39;s sam altman</p>\n</div>",
+                "created_utc": "2025-02-15 01:32:43",
+                "distinguished": null,
+                "edited": false,
+                "id": "mctqbkt",
+                "is_submitter": false,
+                "link_id": "t3_1ipfumk",
+                "parent_id": "t1_mct22s3",
+                "score": 11,
+                "stickied": false,
+                "replies": []
+              }
+            ]
+          },
+          {
+            "author": "u/Durian881",
+            "body": "Deepseek already monetises it via API and has since inked deals to work with other companies to use its tech (not necessarily using R1 as it is). https://www.cnbc.com/2025/02/11/byd-rolls-out-driver-assist-tech-for-evs-with-deepseeks-ai-help.html",
+            "body_html": "<div class=\"md\"><p>Deepseek already monetises it via API and has since inked deals to work with other companies to use its tech (not necessarily using R1 as it is). <a href=\"https://www.cnbc.com/2025/02/11/byd-rolls-out-driver-assist-tech-for-evs-with-deepseeks-ai-help.html\">https://www.cnbc.com/2025/02/11/byd-rolls-out-driver-assist-tech-for-evs-with-deepseeks-ai-help.html</a></p>\n</div>",
+            "created_utc": "2025-02-14 23:12:17",
+            "distinguished": null,
+            "edited": false,
+            "id": "mct1mjk",
+            "is_submitter": false,
+            "link_id": "t3_1ipfumk",
+            "parent_id": "t1_mcswwic",
+            "score": 12,
+            "stickied": false,
+            "replies": []
+          },
+          {
+            "author": "u/ogapadoga",
+            "body": "DeepSeek makes money by releasing R1 and shorting Nvidia. $20 a month is not reliable.",
+            "body_html": "<div class=\"md\"><p>DeepSeek makes money by releasing R1 and shorting Nvidia. $20 a month is not reliable.</p>\n</div>",
+            "created_utc": "2025-02-15 00:20:50",
+            "distinguished": null,
+            "edited": false,
+            "id": "mcte5gl",
+            "is_submitter": false,
+            "link_id": "t3_1ipfumk",
+            "parent_id": "t1_mcswwic",
+            "score": 6,
+            "stickied": false,
+            "replies": []
+          }
+        ]
+      }
+    ]
+  }
+}

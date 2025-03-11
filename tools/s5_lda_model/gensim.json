@@ -1,0 +1,16 @@
+{
+	"input_file": "../../data/eng_corpus.csv",
+	"model_output_dir": "./model/",
+	"model_infos_dir": "./results/",
+	"spacy_model": "en_core_web_lg",
+	"more_stop": [" ", "euh", "heu", "hein"],
+	"no_below": 4,
+	"no_above": 0.5,
+	"num_topics": 20,
+	"passes": 30,
+	"iterations": 50,
+	"chunksize": 2000,
+	"alpha": "auto",
+	"eta": "auto",
+	"minimum_probability": 0.3
+}
