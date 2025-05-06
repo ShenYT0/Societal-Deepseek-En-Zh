@@ -5,3 +5,5 @@
 data/
 
 !**/.gitkeep
+tools/URS
+last_bertopic.model
