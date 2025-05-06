@@ -14,6 +14,14 @@ def get_replies(comments):
         
     return text
 
+import re
+
+BOT_MESSAGES =[
+    "Your post is getting popular and we just featured it on our Discord! "
+    "[Come check it out!]()You've also been given a special flair for your contribution. "
+    "We appreciate your post!*I am a bot and this action was performed automatically.*"    
+]
+
 for file in os.listdir(folder_path):
     if file.endswith(".json"):
         with open(os.path.join(folder_path, file), 'r') as f:
@@ -22,6 +30,13 @@ for file in os.listdir(folder_path):
             title = data['data']['submission_metadata']['title']
             
             text = get_replies(data['data']['comments']).lstrip().replace("\n", "").replace("\r", "")
+            
+            text = re.sub(r'http[^\s)\]]+', '', text)
+            
+            for msg in BOT_MESSAGES:
+                text = text.replace(msg, "")
+
+            text = re.sub(r'Hey.*?concerns\.\*', '', text, flags=re.DOTALL)
             
             corpus.append({"title" : title, "text" : text})
 
