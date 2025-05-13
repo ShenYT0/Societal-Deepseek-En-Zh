@@ -5,3 +5,4 @@ eng/
 model/
 
 last_bertopic.model
+data/danmaku.csv
